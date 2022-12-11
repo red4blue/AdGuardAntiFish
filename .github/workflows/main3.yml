@@ -1,10 +1,14 @@
 
 
-name: update for measkmask anti fish rule0
+name: main3
 
+# on:
+#   schedule:
+#     - cron: "*/5 * * * *"
 on:
-  schedule:
-    - cron: "*/5 * * * *"
+  create
+  # pull_request_target:
+  #   types: [opened, ready_for_review]
 
 jobs:
   build:
