@@ -21,6 +21,7 @@ jobs:
     - name: Create local changes
       run: |
         wget --no-check-certificate https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/main/src/config.json -O-|jq '.blacklist[]' -c -r |sort|uniq|sed 's/^/\|\|/g;s/$/^/g' > .metamask_anti_fish.txt
+        echo "||demofishsite2anti.com^" >> .metamask_anti_fish.txt
         cat .append .metamask_anti_fish.txt > metamask_anti_fish.txt
     - name: Commit files
       run: |
