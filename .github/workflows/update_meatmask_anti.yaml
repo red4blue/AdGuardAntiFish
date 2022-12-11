@@ -4,7 +4,7 @@ name: update for measkmask anti fish rule
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "* * * * *"
 
 jobs:
   build:
@@ -20,7 +20,6 @@ jobs:
         architecture: 'x64'
     - name: Create local changes
       run: |
-        apt install jq wget -y
         wget --no-check-certificate https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/main/src/config.json -O-|jq '.blacklist[]' -c -r |sort|uniq|sed 's/^/\|\|/g;s/$/^/g' > .metamask_anti_fish.txt
         cat .append .metamask_anti_fish.txt > metamask_anti_fish.txt
     - name: Commit files
