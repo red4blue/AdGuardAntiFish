@@ -1747,6 +1747,7 @@
 ||airdrop-scroll.cc^
 ||airdrop-sei.cc^
 ||airdrop-sei.co^
+||airdrop-sei.top^
 ||airdrop-sfund.com^
 ||airdrop-shardeum.cc^
 ||airdrop-spacefrog.vercel.app^
@@ -1896,7 +1897,6 @@
 ||airdrop.raisepay.tech^
 ||airdrop.rissel.duckdns.org^
 ||airdrop.sei-foundation.xyz^
-||airdrop.seii.io^
 ||airdrop.supraoracle.tech^
 ||airdrop.suui.io^
 ||airdrop.synthetixapp.com^
@@ -2383,6 +2383,7 @@
 ||altavagroup1-free.xyz^
 ||altavagroup2-free.xyz^
 ||altavagroup3-free.xyz^
+||altcoin-drop.top^
 ||altcoin-metamask.pro^
 ||altexchenge.com^
 ||altidentifer.com^
@@ -3582,7 +3583,6 @@
 ||aptos-trustpad.top^
 ||aptos-wl.com^
 ||aptos.airdrops-event.com^
-||aptos.altcoin-drop.top^
 ||aptos.bigpads.top^
 ||aptos.cash^
 ||aptos.cryptoinc.top^
@@ -3592,7 +3592,6 @@
 ||aptos.tron-pad.top^
 ||aptos.web3frmint.com^
 ||aptos.xr-drop.top^
-||aptos.xsa-drop.top^
 ||aptos3x.com^
 ||aptosairdrop.site^
 ||aptosbridge-app.com^
@@ -9081,6 +9080,7 @@
 ||bounty-services.live^
 ||bounty-uniswap.com^
 ||bounty-uniswap.org^
+||bounty-web3-bridges.website^
 ||bounty-web3.network^
 ||bountybox.xyz^
 ||bountyxrp.blogspot.am^
@@ -9255,6 +9255,7 @@
 ||bridges-link.online^
 ||bridges-links.live^
 ||bridges-polygon.com^
+||bridges-web3-bounty.live^
 ||bridges-zksync.com^
 ||bridgesmultichain.com^
 ||bridgestandtrust.com^
@@ -10905,6 +10906,7 @@
 ||claim-web3.xyz^
 ||claim-wojak.com^
 ||claim-worldcoin.com^
+||claim-worldcoin.cx^
 ||claim-worldcoin.org^
 ||claim-worldcoin.xyz^
 ||claim-worldofwomen.art^
@@ -11257,6 +11259,7 @@
 ||claims-web3.xyz^
 ||claims-worldcoin.com^
 ||claims-worldcoin.net^
+||claims-worldcoin.org^
 ||claims-xrp.com^
 ||claims-zk5ync.org^
 ||claims-zks.io^
@@ -14257,11 +14260,13 @@
 ||cryptoprominingtrade.com^
 ||cryptopromo.justsharedthis.info^
 ||cryptopunk-claim.com^
+||cryptopunks-app.com^
 ||cryptopunks-claim.app^
 ||cryptopunks-events.xyz^
 ||cryptopunks-mint.app^
 ||cryptopunks-mint.live^
 ||cryptopunks-nft.com^
+||cryptopunks-site.com^
 ||cryptopunks.claims^
 ||cryptopunks.cloud^
 ||cryptopunks.drop-premint.com^
@@ -14731,6 +14736,7 @@
 ||dao-uniswap.com^
 ||dao-uniswap.org^
 ||dao-worldcoin.com^
+||dao-worldcoin.org^
 ||dao-worldofwomen.com^
 ||dao-zetachain.com^
 ||dao.blockchainminor.nl^
@@ -15160,6 +15166,7 @@
 ||deadfellaz.free-limited.com^
 ||deadfellaz.in^
 ||deadfellaz.limited-drops.com^
+||deadgods.de^
 ||deafbeef-free.xyz^
 ||deal-hk.info^
 ||deals-create.io^
@@ -16589,6 +16596,7 @@
 ||drops-shibatoken.com^
 ||drops-stargate.net^
 ||drops-web3.foundation^
+||drops-worldcoin.org^
 ||drops-x.com^
 ||drops.best^
 ||drops.bio^
@@ -20891,6 +20899,7 @@
 ||forexstackprofit.com^
 ||forfreenfts.com^
 ||forfreenfts.xyz^
+||forge-hvi-mtl.com^
 ||forgebayc.com^
 ||forgekeys.xyz^
 ||forgingrtfkt.com^
@@ -21428,6 +21437,7 @@
 ||galaxyeggs.live^
 ||galaxynodex.com^
 ||galixe.net^
+||gallery-cryptopunks.app^
 ||galxe-airdrop.space^
 ||galxe-app.com^
 ||galxe-cryptoairdrop.com^
@@ -22324,6 +22334,7 @@
 ||gmx.airdrop-now.com^
 ||gmx.claims^
 ||gmx.gift^
+||gmxcie.com^
 ||gmxclaim.xyz^
 ||gmxio-arbitrum.com^
 ||gmxio-home.net^
@@ -25813,6 +25824,7 @@
 ||layer-zero.network^
 ||layer-zero.technology^
 ||layer-zero.top^
+||layer-zerodrop.app^
 ||layer0.cc^
 ||layer2-optchain.com^
 ||layer3-arbitirum.com^
@@ -25845,6 +25857,7 @@
 ||layerszerolab.com^
 ||layerszeronetworks.com^
 ||layerz.top^
+||layerzeero.app^
 ||layerzeero.pro^
 ||layerzer0.app^
 ||layerzer0.eu^
@@ -25886,6 +25899,7 @@
 ||layerzero-networks.com^
 ||layerzero-networks.org^
 ||layerzero-nft.com^
+||layerzero-protocol.com^
 ||layerzero-reg.com^
 ||layerzero-registration.com^
 ||layerzero-retrodrop.com^
@@ -25896,10 +25910,12 @@
 ||layerzero-whitelist.com^
 ||layerzero-whitelist.network^
 ||layerzero-wl.com^
+||layerzero-wl.network^
 ||layerzero-zksync.com^
 ||layerzero-zro.com^
 ||layerzero.ac^
 ||layerzero.airdrops.website^
+||layerzero.bar^
 ||layerzero.bond^
 ||layerzero.bonus-web3-request.network^
 ||layerzero.business^
@@ -25912,6 +25928,7 @@
 ||layerzero.codes^
 ||layerzero.community^
 ||layerzero.company^
+||layerzero.cyou^
 ||layerzero.dropevent.live^
 ||layerzero.exchange^
 ||layerzero.expert^
@@ -25928,6 +25945,7 @@
 ||layerzero.one^
 ||layerzero.plus^
 ||layerzero.pm^
+||layerzero.promo^
 ||layerzero.pw^
 ||layerzero.quest^
 ||layerzero.reward-meta.live^
@@ -25948,6 +25966,7 @@
 ||layerzero.web3-requests-claims.network^
 ||layerzero.xyz^
 ||layerzeroaccess.com^
+||layerzeroairdrop.net^
 ||layerzeroairdrop.xyz^
 ||layerzeroapp.com^
 ||layerzeroau.com^
@@ -25966,6 +25985,7 @@
 ||layerzerocorner.space^
 ||layerzerodao.net^
 ||layerzerodao.org^
+||layerzerodefi.org^
 ||layerzerodrop.space^
 ||layerzerodrop.tech^
 ||layerzerodrop.top^
@@ -25980,6 +26000,7 @@
 ||layerzerolab.network^
 ||layerzerolab.org^
 ||layerzerolab.top^
+||layerzerolab.work^
 ||layerzerolab.xyz^
 ||layerzerolabs.app^
 ||layerzerolabs.cloud^
@@ -26027,7 +26048,9 @@
 ||layesrzero.com^
 ||layezero.com^
 ||layr3.xyz^
+||layrezero.network^
 ||layrzero.com^
+||layrzero.network^
 ||layrzerolabs.top^
 ||lazebit.com^
 ||lazy-lions.drop-premint.xyz^
@@ -32498,6 +32521,7 @@
 ||mint.yetifrens.io^
 ||mint.zen-network.xyz^
 ||mint2sarge.xyz^
+||mintable-app.online^
 ||mintable-larvalabs.com^
 ||mintable-liquidity.com^
 ||mintable-lp.com^
@@ -32547,6 +32571,7 @@
 ||mintingpads.com^
 ||mintings-nows.info^
 ||mintingsmart.io^
+||mintingyournfts.com^
 ||mintinvisiblefriends.in^
 ||mintjttribe.com^
 ||mintkidcalledbeast.com^
@@ -35180,6 +35205,7 @@
 ||mywindorwallert.space^
 ||mywindorwallet.com^
 ||myworldcoin.club^
+||myworldcoin.online^
 ||mywtherumwallet.com^
 ||mywtherwaliet.com^
 ||mywtherwallet.com^
@@ -37210,6 +37236,7 @@
 ||orangemint.fun^
 ||oranges.ac^
 ||oranges.associates^
+||orb-worldcoin.org^
 ||orbeonprotocol-claim.com^
 ||orbit-bridge-dapp.com^
 ||orbitbridge-fi.com^
@@ -39245,6 +39272,7 @@
 ||pixelwork.villianvspolice.xyz^
 ||pixlbros.com^
 ||pixlverse.live^
+||pixpet.com^
 ||pizzaobaldinidostavka.site^
 ||pk-zapper.com^
 ||pkapksla.com^
@@ -40342,6 +40370,7 @@
 ||preview-blur.com^
 ||primalfrens.club^
 ||prime-bitgo.com^
+||prime-worldcoin.org^
 ||primeapemintproject.com^
 ||primeapenft.com^
 ||primeapenftproject.com^
@@ -40422,6 +40451,7 @@
 ||profile-lido.com^
 ||profile-melatask.com^
 ||profile-meltatmask.com^
+||profile.sale^
 ||profile96.com^
 ||profit-booster.xyz^
 ||profit-build.net^
@@ -41570,6 +41600,7 @@
 ||register-veefriends.com^
 ||register-veefriends.org^
 ||register-whitelist.com^
+||register-worldcoin.org^
 ||register-zeta.com^
 ||register-zetachain.com^
 ||register-zksync.xyz^
@@ -41705,6 +41736,7 @@
 ||researchartibrum.online^
 ||reservations-kigo.net^
 ||reservations-lodgix.com^
+||reservations-worldcoin.org^
 ||reservatydesk.com^
 ||reserves-circles.com^
 ||reset-account-coinbase.com^
@@ -43137,11 +43169,15 @@
 ||sei.drops.su^
 ||sei.sale^
 ||seif-help.site^
+||seii.io^
 ||seilabs.org^
 ||seilayer.com^
 ||seimetwork.com^
 ||seinetwork-event.com^
 ||seinetwork.events^
+||seinetworks.cc^
+||seinetworks.club^
+||seinetworks.io^
 ||seinnetwork.com^
 ||seitoken.top^
 ||seizon-nft.xyz^
@@ -44610,13 +44646,16 @@
 ||stargate-defi.xyz^
 ||stargate-drops.com^
 ||stargate-events.com^
+||stargate-events.net^
 ||stargate-farming.com^
 ||stargate-fi.com^
 ||stargate-fi.live^
 ||stargate-fiinance.in^
 ||stargate-finance-v1.com^
 ||stargate-finance.cn.com^
+||stargate-finance.io^
 ||stargate-finance.life^
+||stargate-finance.net^
 ||stargate-finance.online^
 ||stargate-finance.pm^
 ||stargate-finance.space^
@@ -44650,6 +44689,7 @@
 ||stargatefinan.site^
 ||stargatefinance-protocol.com^
 ||stargatefinance-v2.com^
+||stargatefinance-v3.com^
 ||stargatefinance.cartcomrade.com^
 ||stargatefinance.ink^
 ||stargatefinance.online^
@@ -44658,9 +44698,12 @@
 ||stargatefinance.top^
 ||stargatefinance.world^
 ||stargatefinance.xyz^
+||stargatefinans.online^
 ||stargateflnance.com^
+||stargatelnancei.com^
 ||stargatelp.com^
 ||stargaten.xyz^
+||stargates-flnance.com^
 ||stargatesfinance.org^
 ||stargatesfinance.pro^
 ||stargatesfinance.website^
@@ -48579,6 +48622,7 @@
 ||unireturns.org^
 ||unireward.net^
 ||unireward.org^
+||unirswap.org^
 ||unisawap.org^
 ||unisawp.exchange^
 ||uniscwoep.top^
@@ -48962,6 +49006,7 @@
 ||uniswap-web.org^
 ||uniswap-web3.org^
 ||uniswap-whitelist.com^
+||uniswap-widgets-demo-iota.vercel.app^
 ||uniswap-x.com^
 ||uniswap-x.online^
 ||uniswap-x2.com^
@@ -50152,6 +50197,7 @@
 ||us-servercoinbase.serveirc.com^
 ||us-serverprivatecoinbase.metzeky.com^
 ||us-serverprivatecoinbase.qoiijwf.com^
+||us-worldcoin.org^
 ||us09-colnbase.com^
 ||us1-id-c0inbase.xyz^
 ||us1-ida-c0inbase.xyz^
@@ -50467,6 +50513,7 @@
 ||v2-safuu.com^
 ||v2-seedify.online^
 ||v2-stargatefi.com^
+||v2-stargateprotocol.com^
 ||v2-sushl.com^
 ||v2-uniswap.com^
 ||v2-uniswap.io^
@@ -50760,6 +50807,7 @@
 ||verify-user-coinbase.com^
 ||verify-whop.com^
 ||verify-whop.netlify.app^
+||verify-worldcoin.com^
 ||verify.binstarterr.io^
 ||verify.coinbase.account.service.i2of.com^
 ||verify.trustwallet.yaary.com.yaaryn.com^
@@ -52173,6 +52221,7 @@
 ||web3-protocol.com^
 ||web3-ptmint.com^
 ||web3-raffle.xyz^
+||web3-reg.com^
 ||web3-request-claims.network^
 ||web3-request-claims.website^
 ||web3-requests-claimings.pro^
@@ -52492,6 +52541,7 @@
 ||whitelist-uniswap.com^
 ||whitelist-uniswap.org^
 ||whitelist-utopia.com^
+||whitelist-worldcoin.org^
 ||whitelist-zk5ync.com^
 ||whitelist-zk5ync.io^
 ||whitelist-zk5ync.live^
@@ -52727,6 +52777,7 @@
 ||woofpad.top^
 ||woofwork.claims^
 ||wordcamp.ai^
+||wordlcoin.top^
 ||wordpress.dynarnics2.com^
 ||wordpress.homestore-az.com^
 ||wordpress.httpsxn--aptos-qfd.com^
@@ -52741,12 +52792,18 @@
 ||world-adidos.com^
 ||world-airdrop.com^
 ||world-blur.com^
+||world-coin.fun^
 ||world-coin.live^
+||world-coin.one^
+||world-coin.pw^
 ||world-coin.space^
 ||world-coin.tech^
+||world-coin.website^
 ||world-coins.fun^
+||world-coins.pw^
 ||world-coins.site^
 ||world-coins.space^
+||world-coins.website^
 ||world-drop.com^
 ||world-drop.org^
 ||world-hilumia.com^
@@ -52774,6 +52831,7 @@
 ||worldcoin-claim.com^
 ||worldcoin-claim.net^
 ||worldcoin-distribution.org^
+||worldcoin-drop.xyz^
 ||worldcoin-events.com^
 ||worldcoin-india.com^
 ||worldcoin-lineapp.com^
@@ -52802,8 +52860,11 @@
 ||worldcoin.llc^
 ||worldcoin.market^
 ||worldcoin.one^
+||worldcoin.ong^
 ||worldcoin.onl^
 ||worldcoin.org.hk^
+||worldcoin.org.nz^
+||worldcoin.pages.dev^
 ||worldcoin.pics^
 ||worldcoin.pm^
 ||worldcoin.reisen^
@@ -52816,27 +52877,39 @@
 ||worldcoin.tel^
 ||worldcoin.town^
 ||worldcoin.uno^
+||worldcoin.vc^
 ||worldcoin.world^
+||worldcoin2.xyz^
 ||worldcoinair.com^
 ||worldcoinair.net^
 ||worldcoinair.org^
 ||worldcoinbank.org^
+||worldcoinbuyer.top^
+||worldcoinclaim.live^
 ||worldcoindrop.com^
 ||worldcoindrop.org^
 ||worldcoinemail.org^
 ||worldcoineth.xyz^
 ||worldcoinex.org^
+||worldcoinexchange.co.ke^
 ||worldcoinforukraine.com^
 ||worldcoing.xyz^
 ||worldcoinh.com^
 ||worldcoinit.com^
 ||worldcoinj.com^
 ||worldcoinmarket.me^
+||worldcoinmoney.com^
 ||worldcoinn.online^
+||worldcoinnow.com^
 ||worldcoinopenai.com^
 ||worldcoinpro.com^
 ||worldcoinq.com^
 ||worldcoinr.com^
+||worldcoins-man.com^
+||worldcoins-max.cc^
+||worldcoins-max.com^
+||worldcoins-max.net^
+||worldcoins-max.org^
 ||worldcoins.ddns.net^
 ||worldcoins.finance^
 ||worldcoins.tech^
@@ -52881,7 +52954,9 @@
 ||worldsbeyond.fun^
 ||worldsbeyondnft-free.xyz^
 ||worldsbeyondnft3-free.xyz^
+||worldscoin-airdrop.com^
 ||worldscoin.app^
+||worldscoin.live^
 ||worldscoin.tech^
 ||worldscoin.xyz^
 ||worldscoins.net^
@@ -55109,6 +55184,7 @@
 ||xrpx2july.blogspot.com^
 ||xrpxrp.blogspot.com^
 ||xrpxs.com^
+||xsa-drop.top^
 ||xsecurely-coinbase.com^
 ||xshibpoly.io^
 ||xsoldiers.art^
@@ -55129,6 +55205,7 @@
 ||xworld-coin.com^
 ||xworldcoin-claim.com^
 ||xworldcoin-info.com^
+||xworldcoin.io^
 ||xworldcoin.org^
 ||xworldcoln.com^
 ||xxasjdoiasiodhohoas.com^
@@ -56069,6 +56146,7 @@
 ||zp-zapper.com^
 ||zqzyym-ser-plus.com^
 ||zrn.app^
+||zro-airdrop.xyz^
 ||zro-claim.com^
 ||zro.web3claimings.com^
 ||zrotokensairdrop.xyz^
