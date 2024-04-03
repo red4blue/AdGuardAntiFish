@@ -6129,8 +6129,6 @@
 ||allocation.oasisfi.app^
 ||allocation.oasisprocotols.trade^
 ||allocation.pikefinancedao.network^
-||allocation.pikefinancedao.trade^
-||allocation.pikefinancedao.trading^
 ||allocation.renzosprotocol.app^
 ||allocation.ventoryfi.app^
 ||allocation.xrgb.net^
@@ -8885,6 +8883,7 @@
 ||app-tectonic.website^
 ||app-tetu.com^
 ||app-tetuio.com^
+||app-tfhruster.finance^
 ||app-thena.fi^
 ||app-thirdwebs.com^
 ||app-thor.com^
@@ -28769,6 +28768,7 @@
 ||claimpacmoon.xyz^
 ||claimpad.net^
 ||claimpad.top^
+||claimpage-ethena-92v.pages.dev^
 ||claimpage-ethena.io^
 ||claimpage-ethena.pages.dev^
 ||claimpage-wormhole.com^
@@ -41434,6 +41434,7 @@
 ||dragon-airdrop-5l79u.netlify.app^
 ||dragon-airdrop-cduty.netlify.app^
 ||dragon-airdrop-u4970.netlify.app^
+||dragon-airdrop-xra5i.netlify.app^
 ||dragon-monarch.app^
 ||dragonarea.net^
 ||dragonary.club^
@@ -49923,6 +49924,7 @@
 ||fancybearsmetaverse.whitelist-airdrop.com^
 ||fancybearsmetavrse.com^
 ||fancybearsnft.com^
+||fandher.com^
 ||fando-app.com^
 ||fando.finance^
 ||fandomstudio.nft-whitelist.com^
@@ -52501,6 +52503,8 @@
 ||fuelnetworks.net^
 ||fuelnetworks.trade^
 ||fuelnetworks.trading^
+||fuelprotocol.net^
+||fuelprotocol.network^
 ||fuelsnetsworks.claims^
 ||fuelsnetsworks.net^
 ||fuelsnetsworks.network^
@@ -62393,6 +62397,7 @@
 ||jveux.pro^
 ||jvna.pro^
 ||jvnens.com^
+||jwsco.pro^
 ||jwuinj.org^
 ||jxpest.com^
 ||jxrlaeth.net^
@@ -62879,6 +62884,7 @@
 ||kefom.com^
 ||kegum.com^
 ||kehes.com^
+||keilpdao.com^
 ||keipdao.com^
 ||keipdao.net^
 ||keipdao.top^
@@ -68274,6 +68280,7 @@
 ||live-daomaker.com^
 ||live-dop.com^
 ||live-drop.net^
+||live-drops.network^
 ||live-drops.xyz^
 ||live-dropx.com^
 ||live-dymension.network^
@@ -85735,6 +85742,7 @@
 ||mysteryclaims28a.vercel.app^
 ||mysteryclaims36.vercel.app^
 ||mysteryclaims36a.vercel.app^
+||mysteryclaims36d.vercel.app^
 ||mysteryclaims63.onrender.com^
 ||mysteryclaims72.vercel.app^
 ||mysteryclaims7253.vercel.app^
@@ -85771,6 +85779,7 @@
 ||mysteryclicks49.vercel.app^
 ||mysteryclicks58.vercel.app^
 ||mysteryclicks60.vercel.app^
+||mysteryclicks73d.vercel.app^
 ||mysteryclicks81.vercel.app^
 ||mysteryclicks81c.vercel.app^
 ||mysteryclicks85d.vercel.app^
@@ -89970,6 +89979,7 @@
 ||onewaydigitalc.com^
 ||onewordbrick.live^
 ||oneworldnation.winsmint.com^
+||onexdrops.top^
 ||onexius.com^
 ||oneyearbonk.com^
 ||oneylighter.com^
@@ -96604,6 +96614,8 @@
 ||pikefinance.xyz^
 ||pikefinancedao.com^
 ||pikefinancedao.net^
+||pikefinancedao.trade^
+||pikefinancedao.trading^
 ||pikefinances.com^
 ||pikes.exchange^
 ||pikes.finance^
@@ -98555,6 +98567,7 @@
 ||portal-radiant.com^
 ||portal-rewards.net^
 ||portal-rewards.org^
+||portal-smogtoken.tech^
 ||portal-stake-gaming.web.app^
 ||portal-staking-project.web.app^
 ||portal-staking.web.app^
@@ -103132,6 +103145,7 @@
 ||redstonefi.trading^
 ||redstoneoracle.com^
 ||redstoneoracle.net^
+||redstoneoracle.network^
 ||redstones.events^
 ||redstonesdefi.com^
 ||redstonesdefi.net^
@@ -106723,6 +106737,7 @@
 ||rocktpool.click^
 ||rocktpool.link^
 ||rocktpool.online^
+||rockx.homes^
 ||rocld.com^
 ||rococo-gumdrop-4dc22a.netlify.app^
 ||rococo-trifle-c5a91d.netlify.app^
@@ -109392,6 +109407,7 @@
 ||seedifyfunds.tech^
 ||seedifyfundtoken.claims^
 ||seedifyfundtoken.com^
+||seedifyfundtoken.events^
 ||seedifyfundtoken.net^
 ||seedifyfundtoken.network^
 ||seedifyfundtoken.trade^
@@ -109880,6 +109896,7 @@
 ||sf-seedify.com^
 ||sf-stakefish.com^
 ||sf520pk.com^
+||sf8mtu.pro^
 ||sfa-coinbase.com^
 ||sfar.io^
 ||sftprotocol.live^
@@ -113962,6 +113979,7 @@
 ||stakelandfi.com^
 ||stakelandfi.net^
 ||stakelandfi.network^
+||stakelandfi.trade^
 ||stakelands.app^
 ||stakelands.claims^
 ||stakelands.finance^
@@ -119389,6 +119407,7 @@
 ||testnet-v2-pancakeswapclone.pages.dev^
 ||testnet-vm.web.app^
 ||testnet-zksync.online^
+||testnet-zksync.pages.dev^
 ||testnet-zksync.xyz^
 ||testnet.bouncesfinances.com^
 ||testnet.bouncesfinances.trade^
@@ -128695,7 +128714,6 @@
 ||vote.fantomprotcols.network^
 ||vote.friendtechfi.app^
 ||vote.fuelnetwork.events^
-||vote.fuelprotocol.net^
 ||vote.initiafnds.network^
 ||vote.keipdao.events^
 ||vote.keipdao.network^
@@ -139865,7 +139883,6 @@
 ||zk-drop.xyz^
 ||zk-era.co^
 ||zk-eth.claim.events^
-||zk-evm.live-drops.network^
 ||zk-fair.app^
 ||zk-fair.cc^
 ||zk-fair.company^
