@@ -6327,6 +6327,7 @@
 ||allocation.bakeryswapnetwork.net^
 ||allocation.blockgamefi.events^
 ||allocation.bsquaredfi.app^
+||allocation.chainlinkprotocol.events^
 ||allocation.chainlinkprotocol.info^
 ||allocation.chainlinkprotocol.network^
 ||allocation.chainlinkprotocol.trade^
@@ -6378,6 +6379,7 @@
 ||allocation.monadtradefi.events^
 ||allocation.monadtradefi.net^
 ||allocation.monadtradefi.network^
+||allocation.monadtradefi.support^
 ||allocation.monadtradefi.trade^
 ||allocation.monadtradefi.trading^
 ||allocation.monadtrading.trade^
@@ -6393,6 +6395,7 @@
 ||allocation.oasisprotocolcoinfi.app^
 ||allocation.oasisprotocolcoinfi.claims^
 ||allocation.oasisprotocolcoinfi.com^
+||allocation.oasisprotocolcoinfi.events^
 ||allocation.oasisprotocolcoinfi.net^
 ||allocation.oasisprotocolcoinfi.network^
 ||allocation.oasisprotocolcoinfi.trade^
@@ -6408,6 +6411,7 @@
 ||allocation.owltofinance.trading^
 ||allocation.owltoprotocol.com^
 ||allocation.owltoprotocol.net^
+||allocation.owltoprotocol.network^
 ||allocation.pikefinancedao.network^
 ||allocation.pythoracledao.app^
 ||allocation.pythoracledao.com^
@@ -6443,6 +6447,7 @@
 ||allocation.supralab.trading^
 ||allocation.supralabcoin.com^
 ||allocation.supralabcoin.net^
+||allocation.supralabcoin.network^
 ||allocation.ventoryfi.app^
 ||allocation.wormholeapp.link^
 ||allocation.xrgb.app^
@@ -26762,6 +26767,7 @@
 ||check.mewonbase.net^
 ||check.shufflebetting.claims^
 ||check.shufflecryptocoin.com^
+||check.shufflecryptocoin.net^
 ||check.shufflecryptofi.app^
 ||check.shufflecryptofi.claims^
 ||check.shufflecryptofi.com^
@@ -107535,6 +107541,7 @@
 ||register.bitcoincatio.app^
 ||register.bitcoincatio.claims^
 ||register.bitcoincatio.events^
+||register.bitcoincatio.finance^
 ||register.bitcoincatio.info^
 ||register.bitcoincatio.support^
 ||register.bitcoincatio.trading^
@@ -115012,6 +115019,7 @@
 ||signup-roost.gifts^
 ||signup-roost.vip^
 ||signup-roost.xyz^
+||signup-roostcoin.cc^
 ||signup-roostcoin.com^
 ||signup-router.network^
 ||signup-routerprotocol.com^
@@ -118459,6 +118467,7 @@
 ||staking.babyionchains.io^
 ||staking.babylonschain.network^
 ||staking.bitminetrix.com^
+||staking.boroviktoken.app^
 ||staking.boroviktoken.claims^
 ||staking.boroviktoken.com^
 ||staking.boroviktoken.events^
@@ -126256,6 +126265,7 @@
 ||treasury.ethertokendao.claims^
 ||treasury.ethertokendao.events^
 ||treasury.hashaitoken.trading^
+||treasury.infraxdao.claims^
 ||treasury.infraxdao.finance^
 ||treasury.infraxdao.info^
 ||treasury.infraxdao.support^
@@ -126268,6 +126278,7 @@
 ||treasury.sovryndefi.com^
 ||treasury.sovryndefi.net^
 ||treasury.sovryndefi.network^
+||treasury.sovryndefi.trade^
 ||treasury.trias.events^
 ||treasury.wardenprotocol.events^
 ||treasuryfinanceholdings.com^
@@ -133286,6 +133297,7 @@
 ||vote.apeterminals.network^
 ||vote.bitsmileyfi.network^
 ||vote.bitsmileyfinance.app^
+||vote.bitsmileyfinance.claims^
 ||vote.bitsmileyfinance.events^
 ||vote.bitsmileyfinance.info^
 ||vote.bitsmileyfinance.support^
