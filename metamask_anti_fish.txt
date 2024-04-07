@@ -6383,6 +6383,7 @@
 ||allocation.owltofinance.claims^
 ||allocation.owltofinance.events^
 ||allocation.owltofinance.info^
+||allocation.owltofinance.support^
 ||allocation.owltofinance.trade^
 ||allocation.owltofinance.trading^
 ||allocation.pikefinancedao.network^
@@ -26724,6 +26725,7 @@
 ||check.shufflecryptofi.app^
 ||check.shufflecryptofi.claims^
 ||check.shufflecryptofi.com^
+||check.shufflecryptofi.events^
 ||check.shufflecryptofi.info^
 ||check.shufflecryptofi.net^
 ||check.shufflecryptofi.network^
@@ -63732,6 +63734,7 @@
 ||joinquantfamily.com^
 ||joinrenderfamily.com^
 ||joins--getgrass.com^
+||joins-1intro.com^
 ||joins-aevo.xyz^
 ||joins-bera.com^
 ||joins-dymension.com^
@@ -117841,6 +117844,7 @@
 ||stake.defenderbotfi.app^
 ||stake.defenderbotfi.com^
 ||stake.defenderbotfi.net^
+||stake.defenderbotfi.trade^
 ||stake.destra.claims^
 ||stake.destrafi.com^
 ||stake.destrafi.net^
@@ -133225,6 +133229,7 @@
 ||vote.redstonedefi.com^
 ||vote.redstoneoracleio.app^
 ||vote.redstoneoracles.app^
+||vote.redstoneoracles.claims^
 ||vote.redstoneoracles.net^
 ||vote.redstoneoracles.network^
 ||vote.redstoneoracles.trade^
