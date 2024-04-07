@@ -6300,6 +6300,7 @@
 ||allocation.bakeryswapfi.claims^
 ||allocation.bakeryswapfi.events^
 ||allocation.bakeryswapfi.info^
+||allocation.bakeryswapfi.support^
 ||allocation.bakeryswapfi.trading^
 ||allocation.blockgamefi.events^
 ||allocation.bsquaredfi.app^
@@ -6370,6 +6371,7 @@
 ||allocation.pythoracledao.net^
 ||allocation.pythoracledao.network^
 ||allocation.pythoracledao.support^
+||allocation.pythoracledao.trade^
 ||allocation.pythoracledefi.claims^
 ||allocation.pythoracledefi.events^
 ||allocation.pythoracledefi.info^
@@ -26688,6 +26690,8 @@
 ||check.memestakeland.com^
 ||check.mewonbase.net^
 ||check.shufflebetting.claims^
+||check.shufflecryptofi.app^
+||check.shufflecryptofi.claims^
 ||check.shufflecryptofi.com^
 ||check.shufflecryptofi.net^
 ||check.shufflecryptofi.network^
@@ -28853,6 +28857,7 @@
 ||claim.backeryswap.co^
 ||claim.basebase.net^
 ||claim.basechain.app^
+||claim.beckercoindefi.app^
 ||claim.beefyswap.net^
 ||claim.befilabsprotocols.com^
 ||claim.bera-chain.online^
@@ -28957,6 +28962,7 @@
 ||claim.meritcircledefi.info^
 ||claim.meritcircledefi.support^
 ||claim.meritcircledefi.trading^
+||claim.meritcircleio.app^
 ||claim.meritcircleio.com^
 ||claim.meritcircleio.net^
 ||claim.meritcircleio.network^
@@ -45785,6 +45791,7 @@
 ||enlist-altlayer.pages.dev^
 ||enlist-bakeryswap.com^
 ||enlist-blast.io^
+||enlist-catcoin.com^
 ||enlist-concrete.xyz^
 ||enlist-de.fi^
 ||enlist-dymension.pages.dev^
@@ -75740,6 +75747,7 @@
 ||memeland.stakeland.events^
 ||memeland.stakelandcoin.com^
 ||memeland.stakelandcoin.net^
+||memeland.stakelandcoin.network^
 ||memeland.stakelandfi.claims^
 ||memeland.stakelandio.events^
 ||memeland.stakelandio.info^
@@ -102376,6 +102384,7 @@
 ||presale.beckercoin.org^
 ||presale.beckercoindefi.com^
 ||presale.beckercoindefi.net^
+||presale.beckercoindefi.trade^
 ||presale.beckercoineth.cc^
 ||presale.beckercoineth.com^
 ||presale.beckercoineth.net^
@@ -104968,6 +104977,7 @@
 ||quest.puffier.app^
 ||quest.puffrer.fi^
 ||quest.registration-ethena.com^
+||quest.seedifycoin.app^
 ||quest.seedifycoin.finance^
 ||quest.seedifycoin.net^
 ||quest.seedifycoin.network^
@@ -126007,6 +126017,7 @@
 ||treasury-uniswap.org^
 ||treasury.basenjinetwork.com^
 ||treasury.basenjinetwork.net^
+||treasury.basenjinetwork.trade^
 ||treasury.basenjiprotocol.app^
 ||treasury.basenjiprotocol.claims^
 ||treasury.basenjiprotocol.finance^
@@ -133044,6 +133055,7 @@
 ||vote.apeterminals.events^
 ||vote.apeterminals.network^
 ||vote.bitsmileyfi.network^
+||vote.bitsmileyfinance.app^
 ||vote.bitsmileyfinance.events^
 ||vote.bitstabies.network^
 ||vote.blastl2network.net^
@@ -133147,6 +133159,7 @@
 ||vote.swelltoken.com^
 ||vote.swelltoken.net^
 ||vote.swelltoken.network^
+||vote.swelltoken.support^
 ||vote.syncus.claims^
 ||vote.syncus.network^
 ||vote.syncusnetwork.trading^
