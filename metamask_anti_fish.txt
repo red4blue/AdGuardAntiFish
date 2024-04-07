@@ -6382,6 +6382,7 @@
 ||allocation.pythoracledao.network^
 ||allocation.pythoracledao.support^
 ||allocation.pythoracledao.trade^
+||allocation.pythoracledao.trading^
 ||allocation.pythoracledefi.claims^
 ||allocation.pythoracledefi.events^
 ||allocation.pythoracledefi.info^
@@ -6424,6 +6425,7 @@
 ||allocation.xswaplink.trade^
 ||allocation.xswaplink.trading^
 ||allocation.xswaplinks.com^
+||allocation.xswaplinks.net^
 ||allocation.xteriogames.com^
 ||allocation.zircuitl2ai.app^
 ||allocation.zircuitl2ai.info^
@@ -102464,6 +102466,7 @@
 ||presale.elliocoin.com^
 ||presale.gummycoin.trading^
 ||presale.jessecoinz.com^
+||presale.jessepollk.com^
 ||presale.jessepollk.org^
 ||presale.ksicryptocoin.com^
 ||presale.ksicryptocoin.net^
@@ -103622,6 +103625,7 @@
 ||pub-ba36f672f10a453299cdf51946b56287.r2.dev^
 ||pub-bebbb75673624a43b0c4a78477e2672f.r2.dev^
 ||pub-c4c60db32c7c4a4b8c2ca1a55c390dfd.r2.dev^
+||pub-c8df6dfce9d3467cbfb539abf5914d17.r2.dev^
 ||pub-d4b1af0cbeb54303a3898c074826a1a1.r2.dev^
 ||pub-d5cc3e5f9fd54833ba560912535d99c7.r2.dev^
 ||pub-df889d5ac74640d1a03a27b98e64517f.r2.dev^
@@ -133096,6 +133100,7 @@
 ||vote.bitsmileyfi.network^
 ||vote.bitsmileyfinance.app^
 ||vote.bitsmileyfinance.events^
+||vote.bitsmileyfinance.info^
 ||vote.bitstabies.network^
 ||vote.blastl2network.net^
 ||vote.daomakerfi.us^
@@ -133112,6 +133117,7 @@
 ||vote.friendtechdefi.net^
 ||vote.friendtechdefi.network^
 ||vote.friendtechdefi.trade^
+||vote.friendtechdefi.trading^
 ||vote.friendtechfi.app^
 ||vote.fuelnetwork.events^
 ||vote.initiafnds.network^
@@ -133156,6 +133162,7 @@
 ||vote.redstonedao.network^
 ||vote.redstonedefi.com^
 ||vote.redstoneoracleio.app^
+||vote.redstoneoracles.app^
 ||vote.redstoneoracles.net^
 ||vote.redstoneoracles.network^
 ||vote.renzoprotocoi.net^
@@ -133196,6 +133203,7 @@
 ||vote.swellsnetwork.net^
 ||vote.swellsnetworks.net^
 ||vote.swelltoken.app^
+||vote.swelltoken.claims^
 ||vote.swelltoken.com^
 ||vote.swelltoken.net^
 ||vote.swelltoken.network^
