@@ -6342,6 +6342,7 @@
 ||allocation.monadtokenfi.network^
 ||allocation.monadtokenfi.trade^
 ||allocation.monadtokenfi.trading^
+||allocation.monadtradefi.app^
 ||allocation.monadtradefi.com^
 ||allocation.monadtradefi.net^
 ||allocation.monadtrading.trade^
@@ -6358,12 +6359,15 @@
 ||allocation.oasisprotocolcoinfi.net^
 ||allocation.oasisprotocolcoinfi.network^
 ||allocation.owltofinance.claims^
+||allocation.owltofinance.events^
 ||allocation.owltofinance.trade^
+||allocation.owltofinance.trading^
 ||allocation.pikefinancedao.network^
 ||allocation.pythoracledao.app^
 ||allocation.pythoracledao.com^
 ||allocation.pythoracledao.net^
 ||allocation.pythoracledao.network^
+||allocation.pythoracledao.support^
 ||allocation.pythoracledefi.claims^
 ||allocation.pythoracledefi.events^
 ||allocation.pythoracledefi.info^
@@ -6391,6 +6395,7 @@
 ||allocation.supralabcoin.net^
 ||allocation.ventoryfi.app^
 ||allocation.wormholeapp.link^
+||allocation.xrgb.app^
 ||allocation.xrgb.net^
 ||allocation.xswaplink.app^
 ||allocation.xswaplink.com^
@@ -28951,6 +28956,7 @@
 ||claim.meritcircledefi.trading^
 ||claim.meritcircleio.com^
 ||claim.meritcircleio.net^
+||claim.meritcircleio.network^
 ||claim.meritscircels.trading^
 ||claim.metachampionz.xyz^
 ||claim.metisl2.com^
@@ -102365,6 +102371,7 @@
 ||presale.beckercoin.io^
 ||presale.beckercoin.org^
 ||presale.beckercoindefi.com^
+||presale.beckercoindefi.net^
 ||presale.beckercoineth.cc^
 ||presale.beckercoineth.com^
 ||presale.beckercoineth.net^
@@ -104979,6 +104986,7 @@
 ||quest.vanar.finance^
 ||quest.vanars.finance^
 ||quest.zircuitl2dao.com^
+||quest.zircuitl2dao.finance^
 ||quest.zircuitl2dao.net^
 ||quest.zircuitl2dao.network^
 ||quest.zircuitl2io.app^
@@ -107385,6 +107393,7 @@
 ||register.everyworldio.finance^
 ||register.everyworldio.net^
 ||register.everyworldio.network^
+||register.everyworldio.support^
 ||register.everyworldio.trade^
 ||register.fantasytop.co^
 ||register.friendstech.trade^
@@ -107454,10 +107463,12 @@
 ||register.nyans-heroes.com^
 ||register.nyansheroes.cc^
 ||register.nyansheroes.com^
+||register.octaviafinance.claims^
 ||register.octaviafinance.com^
 ||register.octaviafinance.net^
 ||register.octaviafinance.network^
 ||register.octaviafinance.trade^
+||register.octaviafinance.trading^
 ||register.octaviaprotocolio.info^
 ||register.octaviaprotocolio.support^
 ||register.octaviaprotocolio.trade^
@@ -117723,6 +117734,7 @@
 ||stake.destra.claims^
 ||stake.destrafi.com^
 ||stake.destrafi.net^
+||stake.destrafi.network^
 ||stake.dropsnetwork.app^
 ||stake.dropsprotocol.app^
 ||stake.dropsprotocol.claims^
@@ -117778,6 +117790,7 @@
 ||stake.toshithecatai.events^
 ||stake.toshithecatai.network^
 ||stake.toshithecatai.trade^
+||stake.toshithecatdefi.app^
 ||stake.toshithecatdefi.claims^
 ||stake.toshithecatdefi.com^
 ||stake.toshithecatdefi.net^
@@ -118257,6 +118270,7 @@
 ||staking.prismatoken.network^
 ||staking.prismatoken.support^
 ||staking.prismatoken.trade^
+||staking.prismatokenio.com^
 ||staking.pudgypenguins.finance^
 ||staking.pudgypenguins.trade^
 ||staking.pudgypenguins.trading^
