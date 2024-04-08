@@ -2576,11 +2576,13 @@
 ||accept-galxe.com^
 ||accept-galxecom.pages.dev^
 ||accept-jup.app^
+||accept-kamino.finance^
 ||accept-linea.build^
 ||accept-magiceden.io^
 ||accept-metamask.io^
 ||accept-nibiru.com^
 ||accept-nobody.xyz^
+||accept-pandorabuild.com^
 ||accept-portalgaming.com^
 ||accept-satoshivm.io^
 ||accept-wormhole.com^
@@ -6359,6 +6361,7 @@
 ||allocation.juicefinance.org^
 ||allocation.juicenetwork.support^
 ||allocation.juiceprotocol.info^
+||allocation.juiceprotocoldefi.com^
 ||allocation.juicesfinance.com^
 ||allocation.metisl2coin.app^
 ||allocation.metisl2coin.claims^
@@ -6421,6 +6424,7 @@
 ||allocation.owltofinance.trade^
 ||allocation.owltofinance.trading^
 ||allocation.owltoprotocol.com^
+||allocation.owltoprotocol.events^
 ||allocation.owltoprotocol.net^
 ||allocation.owltoprotocol.network^
 ||allocation.owltoprotocol.trade^
@@ -6446,6 +6450,7 @@
 ||allocation.pythoraclenetworkdefi.events^
 ||allocation.pythoraclenetworkdefi.net^
 ||allocation.pythoraclenetworkdefi.support^
+||allocation.pythoraclenetworkdefi.trade^
 ||allocation.pythoraclenetworkio.app^
 ||allocation.pythoraclenetworkio.claims^
 ||allocation.pythoraclenetworkio.com^
@@ -29126,6 +29131,7 @@
 ||claim.onbeamdao.trade^
 ||claim.onbeamdao.xyz^
 ||claim.onbeamdefi.com^
+||claim.onbeamdefi.events^
 ||claim.onbeamdefi.net^
 ||claim.onbeamdefi.network^
 ||claim.onbeamdefi.trade^
@@ -67332,6 +67338,7 @@
 ||launchpad.paaltokendefi.app^
 ||launchpad.paaltokendefi.claims^
 ||launchpad.paaltokendefi.events^
+||launchpad.paaltokendefi.support^
 ||launchpad.pacmoonfi.com^
 ||launchpad.pryzm-zone.com^
 ||launchpad.reg-dop.com^
@@ -75950,6 +75957,7 @@
 ||memeland.stakelandcoin.events^
 ||memeland.stakelandcoin.net^
 ||memeland.stakelandcoin.network^
+||memeland.stakelandcoin.support^
 ||memeland.stakelandcoin.trade^
 ||memeland.stakelandcoin.trading^
 ||memeland.stakelandfi.claims^
@@ -85826,6 +85834,7 @@
 ||multiplier.zerolendfi.com^
 ||multiplier.zerolendfi.net^
 ||multiplier.zerolendfi.network^
+||multiplier.zerolendfi.trade^
 ||multiplier.zerolendprotcol.com^
 ||multiplier.zerolendprotocol.app^
 ||multiplier.zerolendprotocol.claims^
@@ -102771,6 +102780,7 @@
 ||presaletaopad.io^
 ||presaling-blockgames.com^
 ||presals-blockgames.pages.dev^
+||preselling-lnds.com^
 ||present-agix.com^
 ||present-apyeth.net^
 ||present-beam.com^
@@ -105214,6 +105224,7 @@
 ||quest.ordnetworkdao.net^
 ||quest.ordnetworkdao.trade^
 ||quest.ordnetworkdao.trading^
+||quest.ordnetworkdefi.net^
 ||quest.ordnetworkfi.app^
 ||quest.ordnetworkfi.claims^
 ||quest.ordnetworkfi.com^
@@ -107658,6 +107669,7 @@
 ||register.bitcoincatdefi.com^
 ||register.bitcoincatdefi.net^
 ||register.bitcoincatdefi.network^
+||register.bitcoincatdefi.trade^
 ||register.bitcoincatio.app^
 ||register.bitcoincatio.claims^
 ||register.bitcoincatio.events^
@@ -107804,6 +107816,7 @@
 ||register.octaviaprotocolio.trade^
 ||register.octaviaprotocolio.trading^
 ||register.octaviatoken.com^
+||register.octaviatoken.net^
 ||register.omninetwork.trade^
 ||register.opsecclouds.network^
 ||register.opsecsclouds.events^
@@ -118107,6 +118120,7 @@
 ||stake.defenderbotfi.trading^
 ||stake.destra.claims^
 ||stake.destrafi.com^
+||stake.destrafi.info^
 ||stake.destrafi.net^
 ||stake.destrafi.network^
 ||stake.destrafi.support^
@@ -118125,6 +118139,7 @@
 ||stake.mazze.finance^
 ||stake.nakamotogametoken.com^
 ||stake.nakamotogametoken.net^
+||stake.nakamotogametoken.network^
 ||stake.nakmotogamecoin.app^
 ||stake.nakmotogamecoin.claims^
 ||stake.nakmotogamecoin.events^
@@ -126426,8 +126441,10 @@
 ||treasury.ethertokendao.claims^
 ||treasury.ethertokendao.events^
 ||treasury.ethertokendao.support^
+||treasury.hashaitoken.finance^
 ||treasury.hashaitoken.trading^
 ||treasury.infraxcoin.com^
+||treasury.infraxcoin.net^
 ||treasury.infraxdao.app^
 ||treasury.infraxdao.claims^
 ||treasury.infraxdao.events^
@@ -126446,6 +126463,7 @@
 ||treasury.sovryndefi.events^
 ||treasury.sovryndefi.net^
 ||treasury.sovryndefi.network^
+||treasury.sovryndefi.support^
 ||treasury.sovryndefi.trade^
 ||treasury.trias.events^
 ||treasury.wardenprotocol.events^
@@ -133485,6 +133503,7 @@
 ||vote.fantomprotcols.network^
 ||vote.friendtechcoin.com^
 ||vote.friendtechcoin.net^
+||vote.friendtechcoin.network^
 ||vote.friendtechdao.claims^
 ||vote.friendtechdefi.app^
 ||vote.friendtechdefi.claims^
