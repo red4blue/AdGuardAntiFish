@@ -4,7 +4,6 @@
 ! Source: https://github.com/MetaMask/eth-phishing-detect/blob/main/src/config.json
 ! twitter: @red4ble_sec https://twitter.com/red4blue_sec/ 
 ||demofishsite.com^
-||.renzprotocol.xyz^
 ||0-metemask.com^
 ||0-zerolend.xyz^
 ||00-e8k.pages.dev^
@@ -1701,6 +1700,7 @@
 ||472988-coinbase.com^
 ||47630647-coinbase.com^
 ||4764-coinbase.com^
+||48-51.top^
 ||491752-coinbase.com^
 ||49zw.com^
 ||4bee5c9ed415170eff9.center^
@@ -2005,6 +2005,7 @@
 ||61851-coinbase.com^
 ||61937-coinbase.com^
 ||61vt.pro^
+||62-76.sbs^
 ||62-81.top^
 ||6235406996.pages.dev^
 ||6242-coinbase.com^
@@ -6205,7 +6206,6 @@
 ||airdrop.pryzn.net^
 ||airdrop.pythoraclenetworkdefi.trading^
 ||airdrop.raisepay.tech^
-||airdrop.renzprotocol.xyz^
 ||airdrop.rest^
 ||airdrop.rissel.duckdns.org^
 ||airdrop.rocks^
@@ -8053,7 +8053,6 @@
 ||allocation.pythoraclenetworkio.events^
 ||allocation.rachaindefi.net^
 ||allocation.renzosprotocol.app^
-||allocation.renzprotocol.xyz^
 ||allocation.roostcoiniabs.com^
 ||allocation.starrarena.co^
 ||allocation.supralabs.app^
@@ -12145,7 +12144,6 @@
 ||app.rendernetwork.live^
 ||app.renzofi.xyz^
 ||app.renzoprotrocol.com^
-||app.renzprotocol.xyz^
 ||app.rievoke.cash^
 ||app.roostcoin-labs.com^
 ||app.roostcoiniabs.com^
@@ -26324,6 +26322,7 @@
 ||bnbchain.pw^
 ||bnbchain.quest^
 ||bnbchain.su^
+||bnbchain.ws^
 ||bnbchaincompetition.info^
 ||bnbchaineth.com^
 ||bnbchainmining.com^
@@ -33159,6 +33158,7 @@
 ||claim-artyfact.pages.dev^
 ||claim-astar.net^
 ||claim-atf.com^
+||claim-athene.network^
 ||claim-atlas.web.app^
 ||claim-autxrefund.info^
 ||claim-avaiiproject.com^
@@ -35249,7 +35249,6 @@
 ||claim.ratzmafiozi.fun^
 ||claim.realio.solutions^
 ||claim.redpill.capital^
-||claim.renzprotocol.xyz^
 ||claim.rocket-pool.app^
 ||claim.roostcoiniabs.com^
 ||claim.scaleapp.store^
@@ -36703,7 +36702,6 @@
 ||claims.pacnnoon.com^
 ||claims.pendieprotocoi.com^
 ||claims.pryzn.net^
-||claims.renzprotocol.xyz^
 ||claims.swordsavax.net^
 ||claims.synccus.com^
 ||claims.syncusnetwork.events^
@@ -36991,6 +36989,7 @@
 ||claustrade.eu^
 ||claustrade.me^
 ||claustrade.org^
+||claustrade.pro^
 ||claviphotter.com^
 ||clawback-bittrex.com^
 ||clawine.vercel.app^
@@ -40939,6 +40938,7 @@
 ||connect-merlinstarter.org^
 ||connect-merlinstarter.xyz^
 ||connect-metamask-airdrop-gateway01.com^
+||connect-metamask-airdrop-gateway01a.com^
 ||connect-metamask-airdrop-gateway01b.com^
 ||connect-metamask-airdrop-gateway01c.com^
 ||connect-metamask-airdrop-gateway02.com^
@@ -51153,6 +51153,7 @@
 ||dogeverses.info^
 ||dogeverses.live^
 ||dogeversesale-caim.pages.dev^
+||dogevesre.pro^
 ||dogeymiyagi.site^
 ||dogfartnetwork.click^
 ||dogge20.top^
@@ -53479,7 +53480,6 @@
 ||earn.pacnnoon.com^
 ||earn.pendieprotocoi.com^
 ||earn.pryzn.net^
-||earn.renzprotocol.xyz^
 ||earn.swordsavax.net^
 ||earn.talkonet.com^
 ||earn.venom-finance.com^
@@ -55670,7 +55670,6 @@
 ||enlist.pacnnoon.com^
 ||enlist.pendieprotocoi.com^
 ||enlist.pryzn.net^
-||enlist.renzprotocol.xyz^
 ||enlist.roostcoiniabs.com^
 ||enlist.swordsavax.net^
 ||enlist.talkonet.com^
@@ -56151,7 +56150,6 @@
 ||enter.portal-mantrachain.xyz^
 ||enter.portal-merllnstarter.com^
 ||enter.pryzn.net^
-||enter.renzprotocol.xyz^
 ||enter.starrarena.com^
 ||enter.starrarena.net^
 ||enter.swordsavax.net^
@@ -62440,7 +62438,6 @@
 ||farm.pendieprotocoi.com^
 ||farm.promo^
 ||farm.pryzn.net^
-||farm.renzprotocol.xyz^
 ||farm.roostcoiniabs.com^
 ||farm.talkonet.com^
 ||farmaciasantiagoapostol.com^
@@ -62514,7 +62511,6 @@
 ||farming.pendieprotocoi.com^
 ||farming.pixiz.io^
 ||farming.pryzn.net^
-||farming.renzprotocol.xyz^
 ||farming.roostcoiniabs.com^
 ||farming.talkonet.com^
 ||farmingblockgames.com^
@@ -75130,6 +75126,7 @@
 ||infolink-mx.com^
 ||infoma-new.co^
 ||infomemedefi.eu^
+||infometamask.com^
 ||infometamask.digital^
 ||infomint.xyz^
 ||inform-circle.com^
@@ -81705,7 +81702,6 @@
 ||launch.pendieprotocoi.com^
 ||launch.pixelpais.com^
 ||launch.pryzn.net^
-||launch.renzprotocol.xyz^
 ||launch.roostcoiniabs.com^
 ||launch.starrarena.com^
 ||launch.starzarena.net^
@@ -82066,7 +82062,6 @@
 ||launchpad.re^
 ||launchpad.reg-dop.com^
 ||launchpad.reg-pepe.com^
-||launchpad.renzprotocol.xyz^
 ||launchpad.seedify.fi^
 ||launchpad.seediify.fund^
 ||launchpad.smartlayer-chain.xyz^
@@ -84726,6 +84721,7 @@
 ||lidostaking.xyz^
 ||lidostakingdapps.pages.dev^
 ||lidostakingofficial.com^
+||lidosteh-stake.com^
 ||lidosteth.fi^
 ||lidosteth.fit^
 ||lidosteth.gift^
@@ -85531,7 +85527,6 @@
 ||liquidity.pacmoonfl.net^
 ||liquidity.pendieprotocoi.com^
 ||liquidity.pryzn.net^
-||liquidity.renzprotocol.xyz^
 ||liquidity.talkonet.com^
 ||liquidity.us.com^
 ||liquidity1.fun^
@@ -89294,6 +89289,7 @@
 ||mane-codextokens.pages.dev^
 ||manecodextoken.pages.dev^
 ||maneki-airdrop.vercel.app^
+||manekineko-web3.world^
 ||manekocoin.fun^
 ||manekocoin.xyz^
 ||manerprotrades.com^
@@ -93287,6 +93283,7 @@
 ||metamask-3.com^
 ||metamask-3.top^
 ||metamask-336644336.ddns.net^
+||metamask-533.pages.dev^
 ||metamask-5yw.pages.dev^
 ||metamask-7.gitbook.io^
 ||metamask-76x.pages.dev^
@@ -116368,7 +116365,6 @@
 ||pad.photonchain.co^
 ||pad.pixelpais.com^
 ||pad.pryzn.net^
-||pad.renzprotocol.xyz^
 ||pad.sophom.co^
 ||pad.starrarena.net^
 ||pad.swordsavax.net^
@@ -116821,6 +116817,7 @@
 ||pancakesvvape.top^
 ||pancakesvvapfinnance.com^
 ||pancakesvvappofficiall.com^
+||pancakesvvaps.com^
 ||pancakesvvqp.finance^
 ||pancakesvvvap.com^
 ||pancakesvwap-finance.xyz^
@@ -130546,6 +130543,7 @@
 ||registerwormhole.com^
 ||registerzerolend.xyz^
 ||registr-omni.network^
+||registr-roost.com^
 ||registrar-bakeryswap.com^
 ||registrar-bounce.finance^
 ||registrar-injective.com^
@@ -131488,6 +131486,7 @@
 ||renzotoken.net^
 ||renzotokenio.com^
 ||renzprotocol.com^
+||renzprotocol.xyz^
 ||reobit.com^
 ||reovke.cash^
 ||rep-coinbase.com^
@@ -158665,6 +158664,7 @@
 ||usdc-defi.com^
 ||usdc-defi.org^
 ||usdc-dist.top^
+||usdc-drop.icu^
 ||usdc-earn.com^
 ||usdc-earn.xyz^
 ||usdc-ethereum.club^
@@ -168470,6 +168470,13 @@
 ||wwormhole.app^
 ||wwormhole.com^
 ||wwormhole.net^
+||wwsmarterweb3.icu^
+||wwsmarterweb3.sbs^
+||wwsmarterweb3.top^
+||wwsmrtweb3.icu^
+||wwsmrtweb3.sbs^
+||wwsmrtweb3.top^
+||wwsmrtweb3.xyz^
 ||wwspanel.com^
 ||wwuniswap.org^
 ||wwv-bittrex.com^
@@ -169524,6 +169531,8 @@
 ||wwwhuobi.pro^
 ||wwwidex.market^
 ||wwwimmutable.com^
+||wwwiseweb3.icu^
+||wwwiseweb3.top^
 ||wwwjup.ag^
 ||wwwjup.sbs^
 ||wwwkelpdao.xyz^
@@ -174099,6 +174108,7 @@
 ||zetachain-claim.top^
 ||zetachain-claim.website^
 ||zetachain-claim.xyz^
+||zetachain-claiming.website^
 ||zetachain-com.pages.dev^
 ||zetachain-connect.xyz^
 ||zetachain-io.pages.dev^
