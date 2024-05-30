@@ -10066,6 +10066,7 @@
 ||api.ant-mine.online^
 ||api.botskava.xyz^
 ||api.dapp4u.live^
+||api.dlicom-zksync-3e3f02.zeeve.online^
 ||api.global-wallet.org^
 ||api.kava-guardian.me^
 ||api.kavabot.space^
@@ -10084,6 +10085,8 @@
 ||api.nextkava.click^
 ||api.radar-network.com^
 ||api.sahilchain-zksync-308d7f.zeeve.online^
+||api.sahiltest-zksync-b3c5e3.zeeve.online^
+||api.sahilzk-zksync-2ca0a8.zeeve.online^
 ||api.smatp.net^
 ||api.testzksync-zksync-e97b89.zeeve.online^
 ||api.vukcan.xyz^
@@ -22559,6 +22562,7 @@
 ||blastnatives.xyz^
 ||blastnet.io^
 ||blastnetlayer.xyz^
+||blastnetwork.co^
 ||blastnetwork.eu^
 ||blastnetwork.io^
 ||blastnetwork.pro^
@@ -26214,6 +26218,7 @@
 ||braavoswallet-extension.com^
 ||braavoswallet.webflow.io^
 ||bracketfi.com^
+||bracketfi.net^
 ||brad-event.com^
 ||brad-xrp-event.com^
 ||brad-xrp.com^
@@ -26507,6 +26512,7 @@
 ||bridge.arebitrum.com^
 ||bridge.citizkhyperchain-zksync-66a3d4.zeeve.net^
 ||bridge.count-zksync-3c02b7.zeeve.net^
+||bridge.dlicom-zksync-3e3f02.zeeve.online^
 ||bridge.errorsolution.io^
 ||bridge.firstchain-zksync-90ee95.zeeve.net^
 ||bridge.hdlhyperchain-zksync-db63bb.zeeve.net^
@@ -26529,6 +26535,10 @@
 ||bridge.raytest-zksync-e91252.zeeve.net^
 ||bridge.rhinoo.co^
 ||bridge.runesbots.xyz^
+||bridge.sahilchain-zksync-308d7f.zeeve.online^
+||bridge.sahilchain-zksync-dc58b2.zeeve.online^
+||bridge.sahiltest-zksync-b3c5e3.zeeve.online^
+||bridge.sahilzk-zksync-2ca0a8.zeeve.online^
 ||bridge.satoshivm.wb3b.xyz^
 ||bridge.satoshivm.wb3e.xyz^
 ||bridge.silverfoxdevnet-zksync-490baa.zeeve.net^
@@ -52996,6 +53006,7 @@
 ||erismizar.com^
 ||erivan.netlify.app^
 ||erjoikewdsjofjio.pages.dev^
+||ern.homes^
 ||ernc.world^
 ||erneegr.sbs^
 ||ernfi.xyz^
@@ -56683,11 +56694,16 @@
 ||expertsolver.pages.dev^
 ||expertspaceminer.com^
 ||expets.vercel.app^
+||expl2.dlicom-zksync-3e3f02.zeeve.online^
 ||expl2.firstchain-zksync-90ee95.zeeve.net^
 ||expl2.hdlhyperchain-zksync-db63bb.zeeve.net^
 ||expl2.memento-zksync-dea342.zeeve.net^
 ||expl2.mydevnet-zksync-343d20.zeeve.net^
 ||expl2.raytest-zksync-e91252.zeeve.net^
+||expl2.sahilchain-zksync-308d7f.zeeve.online^
+||expl2.sahilchain-zksync-dc58b2.zeeve.online^
+||expl2.sahiltest-zksync-b3c5e3.zeeve.online^
+||expl2.sahilzk-zksync-2ca0a8.zeeve.online^
 ||expl2.silverfoxdevnet-zksync-490baa.zeeve.net^
 ||expl2.testzksync-zksync-e97b89.zeeve.online^
 ||expl2.urbanpulse-zksync-72bcf5.zeeve.net^
@@ -94440,6 +94456,7 @@
 ||muitiplier-lineabuild.app^
 ||muitiplier-lineabuild.com^
 ||muitiplier-lineabuild.net^
+||muitiplier-lineapoints.com^
 ||muitlbit.exchange^
 ||muitmask-login.gitbook.io^
 ||mujeresautistas.com^
@@ -99830,6 +99847,9 @@
 ||nodenet.vercel.app^
 ||nodenetportals.com^
 ||nodenetwork.website^
+||nodeone.sahilchain-zksync-dc58b2.zeeve.online^
+||nodeone.sahiltest-zksync-b3c5e3.zeeve.online^
+||nodeone.sahilzk-zksync-2ca0a8.zeeve.online^
 ||nodeonline.xyz^
 ||nodeoxoagames.pages.dev^
 ||nodepanelauths.pages.dev^
@@ -123655,6 +123675,7 @@
 ||rpc.api-repair.com^
 ||rpc.app-degods.pages.dev^
 ||rpc.issueresolver.org^
+||rpc1.dlicom-zksync-3e3f02.zeeve.online^
 ||rpcautionfix.surge.sh^
 ||rpcautofix.com^
 ||rpcblock.online^
@@ -123676,6 +123697,7 @@
 ||rpcmainnet.pages.dev^
 ||rpcnode.pages.dev^
 ||rpcnode.xyz^
+||rpcnodeone.sahilchain-zksync-308d7f.zeeve.online^
 ||rpcnoderepair.com^
 ||rpcnoderepairer.com^
 ||rpcnodeservicetool.com^
@@ -130032,6 +130054,7 @@
 ||snapshot-layerzero.network^
 ||snapshot-layerzero.pages.dev^
 ||snapshot-lightlink.com^
+||snapshot-lineabuild.com^
 ||snapshot-metis.com^
 ||snapshot-mode.network^
 ||snapshot-monad.com^
@@ -159736,6 +159759,7 @@
 ||zksync-end.com^
 ||zksync-endgame.com^
 ||zksync-era-foundation.site^
+||zksync-era-rpc.landing.enterprise-staging.onerpc.com^
 ||zksync-era-zktv.nfts2.me^
 ||zksync-era.blog^
 ||zksync-era.com^
@@ -159879,6 +159903,7 @@
 ||zksync.cash^
 ||zksync.center^
 ||zksync.cfd^
+||zksync.claimfreedrop.online^
 ||zksync.claims^
 ||zksync.co^
 ||zksync.connectify-web3.com^
