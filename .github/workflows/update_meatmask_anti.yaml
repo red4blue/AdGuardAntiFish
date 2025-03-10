@@ -15,9 +15,9 @@ jobs:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
     - uses: actions/setup-python@v1
-      with:
-        python-version: 3.7
-        architecture: 'x64'
+      #with:
+      #  python-version: 3.7
+      #  architecture: 'x64'
     - name: Create local changes
       run: |
         wget --no-check-certificate https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/main/src/config.json -O-|jq '.blacklist[]' -c -r |sort|uniq|sed 's/^/\|\|/g;s/$/^/g' > .metamask_anti_fish.txt
