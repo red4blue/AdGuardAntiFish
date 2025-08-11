@@ -890,6 +890,7 @@
 ||12985-coinbase.com^
 ||129934-coinbase.com^
 ||12a9fm7q.workers.dev^
+||12e0267f-e278-4188-9197-a2118646953f.team-coinbase.help^
 ||12frvn78.workers.dev^
 ||12zwu4ch.workers.dev^
 ||13-57-181-28.cprapid.com^
@@ -13667,6 +13668,8 @@
 ||app-drops-money.lol^
 ||app-dydx.foundation^
 ||app-dydx.net^
+||app-dydxtrade--cdn.typedream.app^
+||app-dydxtradeapp.typedream.app^
 ||app-dyson.online^
 ||app-earn.com^
 ||app-echelon.com^
@@ -21857,6 +21860,7 @@
 ||bergev.org^
 ||bergex.link^
 ||bernandera.com^
+||bernanders.com^
 ||bernandertg.com^
 ||bernanderz.com^
 ||bernankeyb.com^
@@ -41353,6 +41357,7 @@
 ||com-l3.me^
 ||com-launchapp.world^
 ||com-link.cfd^
+||com-live.co^
 ||com-live.pro^
 ||com-lk.cfd^
 ||com-loyalty.network^
@@ -48421,6 +48426,7 @@
 ||defi-drop.vercel.app^
 ||defi-drop.xyz^
 ||defi-dungeons.live^
+||defi-dydx-trade.typedream.app^
 ||defi-dydx-trade.webflow.io^
 ||defi-energylabs.top^
 ||defi-erc20.vip^
@@ -49474,6 +49480,7 @@
 ||dev-coinbase.com^
 ||dev-dapp.pages.dev^
 ||dev-dapps.pages.dev^
+||dev-dydx-trade.typedream.app^
 ||dev-elopstudio.com^
 ||dev-en-dappradar.pantheonsite.io^
 ||dev-en-drop.pantheonsite.io^
@@ -52065,34 +52072,47 @@
 ||dydx-dex--page.typedream.app^
 ||dydx-dex-docs.typedream.app^
 ||dydx-dex-net.typedream.app^
+||dydx-dex-pro.typedream.app^
 ||dydx-dex.typedream.app^
+||dydx-dextrd.typedream.app^
 ||dydx-eth.com^
 ||dydx-event.net^
 ||dydx-event.web.app^
 ||dydx-events.pages.dev^
 ||dydx-ex--change.typedream.app^
 ||dydx-exchange--view.typedream.app^
+||dydx-exchange-now.typedream.app^
 ||dydx-exchange-www.pages.dev^
 ||dydx-exchange.cc^
 ||dydx-exchange.me^
 ||dydx-exchange.pages.dev^
 ||dydx-exchange.webflow.io^
 ||dydx-exchange.xyz^
+||dydx-exchng--secure.typedream.app^
+||dydx-exchnge-visit.typedream.app^
 ||dydx-foundation.workers.dev^
 ||dydx-get-trade.typedream.app^
 ||dydx-giveaway.com^
 ||dydx-token.com^
+||dydx-trade--exchangec.typedream.app^
 ||dydx-trade-app-en.typedream.app^
+||dydx-trade-app-es.typedream.app^
+||dydx-trade-app-faq.typedream.app^
 ||dydx-trade-app.typedream.app^
 ||dydx-trade-cdn.typedream.app^
 ||dydx-trade-chrome.typedream.app^
 ||dydx-trade-en.typedream.app^
+||dydx-trade-eng-us.typedream.app^
 ||dydx-trade-es.typedream.app^
+||dydx-trade-ex-xyz.typedream.app^
 ||dydx-trade-exch-en.typedream.app^
 ||dydx-trade-exchange-en.typedream.app^
+||dydx-trade-exchange-faq.typedream.app^
 ||dydx-trade-exchange.typedream.app^
 ||dydx-trade-net.typedream.app^
+||dydx-trade-org-us.typedream.app^
 ||dydx-trade-xchange.typedream.app^
+||dydx-trade-xyz.typedream.app^
 ||dydx-trade.net^
 ||dydx-trading-competition-admin-frontend-for-cdcwallet-prod.pages.dev^
 ||dydx-trading-competition-admin-frontend-for-cdcwallet.pages.dev^
@@ -52123,6 +52143,7 @@
 ||dydxfoundation.pages.dev^
 ||dydxnetwork.com^
 ||dydxsecurity.com^
+||dydxtrade-exchange-us.typedream.app^
 ||dydxtrade.site^
 ||dydxtrade.webflow.io^
 ||dydxus.gitbook.io^
@@ -54109,6 +54130,7 @@
 ||en-swap-sushi.network^
 ||en-sync-dapps.pages.dev^
 ||en-timememe.pages.dev^
+||en-trade-dydx.typedream.app^
 ||en-tradingview.ing^
 ||en-trazor.squarespace.com^
 ||en-trezor.cc^
@@ -57396,6 +57418,7 @@
 ||exchangreuniswap.gitbook.io^
 ||exchenge-coinbase.com^
 ||exchengejumpeir.org^
+||exchnge-dydx-visit.typedream.app^
 ||exchnge.pro^
 ||exchngeuniiswp.webflow.io^
 ||exchngeunniswpp.webflow.io^
@@ -58360,6 +58383,7 @@
 ||faq-coinbase.com^
 ||faq-curve-swap.typedream.app^
 ||faq-docs-suiwallet.teachable.com^
+||faq-dydx-trade-xyz.typedream.app^
 ||faq-en-metamask.teachable.com^
 ||faq-en-us-walletconnect.typedream.app^
 ||faq-help-metaamask-en.typedream.app^
@@ -67435,6 +67459,7 @@
 ||helpdocs-ext--coinbasehelp.webflow.io^
 ||helpdocs-ext-coinbase-help.webflow.io^
 ||helpdocs-ext-coinbasehelp.webflow.io^
+||helpdydx-trade.typedream.app^
 ||helped-coinbase.com^
 ||helpeestamaskchrome.gitbook.io^
 ||helpen-coinbasewallet.typedream.app^
@@ -76697,6 +76722,7 @@
 ||learn-metamask-cdn.bravesites.com^
 ||learn-metamask-cdn.dora.run^
 ||learn-metamask-chrome-cdn.teachable.com^
+||learn-metamask-eng.pages.dev^
 ||learn-metamask-extension-sso.typedream.app^
 ||learn-metamask-io.teachable.com^
 ||learn-metamask-s.teachable.com^
@@ -86625,6 +86651,7 @@
 ||metamask_login.godaddysites.com^
 ||metamask_login.teachable.com^
 ||metamask_login_signin_wallet.godaddysites.com^
+||metamask_logins.godaddysites.com^
 ||metamask_logu.godaddysites.com^
 ||metamask_loog_xz.godaddysites.com^
 ||metamask_luugii.godaddysites.com^
@@ -102403,6 +102430,7 @@
 ||onedexlp.com^
 ||onedin.world^
 ||onedrivesharefilz.duckdns.org^
+||onefasthard.com^
 ||onefootball.icu^
 ||onefootballclub.xyz^
 ||onefootballtoken.icu^
@@ -110014,6 +110042,7 @@
 ||platform-aaveapp.link^
 ||platform-arkham-intelligence.com^
 ||platform-coinbase.com^
+||platform-dydx-trade.typedream.app^
 ||platform-metamask.io^
 ||platform-nexosync.com^
 ||platform-pepeunchained.com^
@@ -112896,6 +112925,7 @@
 ||privatekey-encrypted-backup-solution-assets.codeanyapp.com^
 ||privatekey-metamask.io^
 ||privatesync.onrender.com^
+||privatethereum.com^
 ||privcoin.tech^
 ||priveeet.com^
 ||privenote.org^
@@ -122563,6 +122593,7 @@
 ||rubbic.exchange^
 ||rubbyfgwallet.webflow.io^
 ||rubbygwallet.webflow.io^
+||rubbyssdwallet.gitbook.io^
 ||rubbywallertnm.gitbook.io^
 ||rubbywallet.gitbook.io^
 ||rubbywlleti.gitbook.io^
@@ -140762,6 +140793,7 @@
 ||trackonomicstech.net^
 ||tracktxn.com^
 ||trackvalidate.netlify.app^
+||trade--dydxrxchange.typedream.app^
 ||trade-3000-alora.com^
 ||trade-aixbt.com^
 ||trade-app-bridges-v2-wallets-connect.com^
@@ -140779,6 +140811,7 @@
 ||trade-connect-wallet.com^
 ||trade-connectv2-wailet.com^
 ||trade-curve-finance.typedream.app^
+||trade-dydx-exchange.typedream.app^
 ||trade-dydx-exchangee.typedream.app^
 ||trade-ex.xyz^
 ||trade-krakken.top^
@@ -145327,6 +145360,7 @@
 ||usdx.link^
 ||use-corn.xyz^
 ||use-corns.lol^
+||use-dydx-exchange.typedream.app^
 ||use-felix.xyz^
 ||use-fficial-metamask.typedream.app^
 ||use-ledgercom-us-cdn.teachable.com^
@@ -154202,6 +154236,7 @@
 ||worldliberty-financials.com^
 ||worldliberty-financials.online^
 ||worldliberty.cfd^
+||worldliberty.fiancials.com^
 ||worldliberty.finanicial.com^
 ||worldliberty.icu^
 ||worldliberty.quest^
@@ -155187,7 +155222,6 @@
 ||ww25.pudgy.omninetworkfi.support^
 ||ww25.qa-cicd.coinbase-invest.us^
 ||ww25.quest.metisl2protocol.net^
-||ww25.register-jupiterexchange.com^
 ||ww25.register-monad.network^
 ||ww25.register.berachaindaotoken.net^
 ||ww25.register.berachainscoinio.com^
