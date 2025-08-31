@@ -13120,6 +13120,7 @@
 ||api-connect-assets.netlify.app^
 ||api-debank.info^
 ||api-devnetg.magiceden.info^
+||api-dex-dydx-exchange.typedream.app^
 ||api-etherfi.com^
 ||api-fixdapps.pages.dev^
 ||api-kava.web.app^
@@ -51963,6 +51964,7 @@
 ||dwyxcaew.workers.dev^
 ||dwzwij2r.workers.dev^
 ||dx-app.net^
+||dx-dydx-trade.typedream.app^
 ||dx-manacore.eth.limo^
 ||dx53sqtu.workers.dev^
 ||dxaezyan.workers.dev^
@@ -52019,6 +52021,7 @@
 ||dydx-dex-secure.typedream.app^
 ||dydx-dex.typedream.app^
 ||dydx-dextrd.typedream.app^
+||dydx-dexx.typedream.app^
 ||dydx-eth.com^
 ||dydx-event.web.app^
 ||dydx-events.pages.dev^
@@ -52036,6 +52039,7 @@
 ||dydx-exchange.cc^
 ||dydx-exchange.me^
 ||dydx-exchange.pages.dev^
+||dydx-exchange.typedream.app^
 ||dydx-exchange.webflow.io^
 ||dydx-exchange.xyz^
 ||dydx-exchng--secure.typedream.app^
@@ -52043,6 +52047,7 @@
 ||dydx-foundation.workers.dev^
 ||dydx-get-trade.typedream.app^
 ||dydx-giveaway.com^
+||dydx-pro.typedream.app^
 ||dydx-token.com^
 ||dydx-trade--app.typedream.app^
 ||dydx-trade--exchangec.typedream.app^
@@ -52052,21 +52057,26 @@
 ||dydx-trade-app.typedream.app^
 ||dydx-trade-cdn.typedream.app^
 ||dydx-trade-chrome.typedream.app^
+||dydx-trade-defi.typedream.app^
 ||dydx-trade-en.typedream.app^
 ||dydx-trade-eng-us.typedream.app^
 ||dydx-trade-es.typedream.app^
 ||dydx-trade-ex-xyz.typedream.app^
 ||dydx-trade-exch-en.typedream.app^
 ||dydx-trade-exchange-en.typedream.app^
+||dydx-trade-exchange-es.typedream.app^
 ||dydx-trade-exchange-faq.typedream.app^
 ||dydx-trade-exchange.typedream.app^
 ||dydx-trade-net.typedream.app^
 ||dydx-trade-org-us.typedream.app^
+||dydx-trade-pro.typedream.app^
 ||dydx-trade-sso.netlify.app^
 ||dydx-trade-xchange.typedream.app^
 ||dydx-trade-xyz.typedream.app^
 ||dydx-trade.net^
 ||dydx-trade.pages.dev^
+||dydx-trade.typedream.app^
+||dydx-tradee.typedream.app^
 ||dydx-trading-competition-admin-frontend-for-cdcwallet-prod.pages.dev^
 ||dydx-trading-competition-admin-frontend-for-cdcwallet.pages.dev^
 ||dydx-trading-competition-frontend-for-cdcwallet-mobile.pages.dev^
@@ -52091,11 +52101,13 @@
 ||dydx.sbs^
 ||dydx.sk^
 ||dydx.trade-app-v2-bridge-wallets-connect.com^
+||dydx.typedream.app^
 ||dydx.workers.dev^
 ||dydx888.com^
 ||dydxbtc.com^
 ||dydxcap.com^
 ||dydxcrypt.top^
+||dydxdefi-trade.typedream.app^
 ||dydxdefi.cc^
 ||dydxdefi.com^
 ||dydxdex.typedream.app^
@@ -52107,6 +52119,7 @@
 ||dydxexchange.weebly.com^
 ||dydxexchange.wordpress.com^
 ||dydxexchange6.wordpress.com^
+||dydxexchangedex.typedream.app^
 ||dydxexchnge.typedream.app^
 ||dydxfoundation-airdops.pages.dev^
 ||dydxfoundation.pages.dev^
@@ -52115,11 +52128,14 @@
 ||dydxsecurity.com^
 ||dydxtrade--vissit.typedream.app^
 ||dydxtrade-exchange-us.typedream.app^
+||dydxtrade-xyz.typedream.app^
 ||dydxtrade.site^
 ||dydxtrade.webflow.io^
+||dydxtrades-dex.typedream.app^
 ||dydxus.gitbook.io^
 ||dydxuu.com^
 ||dydxvip.io^
+||dydxx-dexx-sso.typedream.app^
 ||dye2sck1.workers.dev^
 ||dyeayyzg.workers.dev^
 ||dyerpjdv.workers.dev^
@@ -53928,6 +53944,7 @@
 ||en-eigenlayer.webflow.io^
 ||en-ekubo.org^
 ||en-es-defillama-app.typedream.app^
+||en-es-rabbitx-cdn.typedream.app^
 ||en-etherfijoin.network^
 ||en-exodus.com^
 ||en-exodus.com.pl^
@@ -61264,6 +61281,7 @@
 ||futcoinbase.memap.de^
 ||futmhgax.workers.dev^
 ||future-dapps.com^
+||future-dydxtrade.typedream.app^
 ||future-lolex.pages.dev^
 ||future-smartwallet.com^
 ||future.futuretrade.in^
@@ -139741,6 +139759,7 @@
 ||tracktxn.com^
 ||trackvalidate.netlify.app^
 ||tractor-supply-backpack-blower.pages.dev^
+||trade--dydx.typedream.app^
 ||trade--dydxrxchange.typedream.app^
 ||trade-3000-alora.com^
 ||trade-aixbt.com^
@@ -139761,6 +139780,7 @@
 ||trade-connect-wallet.com^
 ||trade-connectv2-wailet.com^
 ||trade-curve-finance.typedream.app^
+||trade-ddyx-xyz.typedream.app^
 ||trade-dydx-exchange.typedream.app^
 ||trade-dydx-exchangee.typedream.app^
 ||trade-dydx.typedream.app^
@@ -139825,6 +139845,7 @@
 ||tradecoinsz.pro^
 ||tradecurve.io^
 ||tradedydx.typedream.app^
+||tradedydxxyz.typedream.app^
 ||tradefirm.org^
 ||tradeflex4-gpt.com^
 ||tradehorizon247.com^
@@ -139895,6 +139916,7 @@
 ||tradetrybe.org^
 ||tradevexinvestments.com^
 ||tradewindfx.com^
+||tradewith-dydx.typedream.app^
 ||tradewithsupport.pages.dev^
 ||tradex4u.com^
 ||tradezendai-platform.com^
@@ -145057,6 +145079,7 @@
 ||v3-defituna.com^
 ||v3-dexscreener-portfolio.cc^
 ||v3-dexscreener.com^
+||v3-dydx-dex.typedream.app^
 ||v3-dydx.com^
 ||v3-dydx.net^
 ||v3-dydx.org^
