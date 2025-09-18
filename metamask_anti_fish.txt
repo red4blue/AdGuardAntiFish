@@ -4,16 +4,10 @@
 ! Source: https://github.com/MetaMask/eth-phishing-detect/blob/main/src/config.json
 ! twitter: @red4ble_sec https://twitter.com/red4blue_sec/ 
 ||demofishsite.com^
-||*.137914-coinbase.com^
 ||*.198319-coinbase.com^
-||*.berachain-rewards.net^
-||*.berachain.ltd^
 ||*.berachain.my^
 ||*.chrom-coinbse-extenson.pages.dev^
 ||*.coinbase-563513.com^
-||*.free-berachain.website^
-||*.jupitertokenweb.live^
-||*.phantomstride.com^
 ||0-0.coinbase-com.info^
 ||0-coinbase.com^
 ||0.ai^
@@ -8545,6 +8539,7 @@
 ||aerdrome.finance^
 ||aerdrome.pro^
 ||aereddorme.com^
+||aeredrome.financial^
 ||aerlifi.net^
 ||aerlifi.org^
 ||aerndrome.finance^
@@ -18456,6 +18451,7 @@
 ||auth-matamask-chrome.webflow.io^
 ||auth-matemask-login.gitbook.io^
 ||auth-meindi-finnce.teachable.com^
+||auth-meitamask-login.pages.dev^
 ||auth-metachromeextsion.gitbook.io^
 ||auth-metamack-cdn.webflow.io^
 ||auth-metamask-app.webflow.io^
@@ -25772,7 +25768,6 @@
 ||carv-binance-airdrop.xyz^
 ||carv-cllaim.pages.dev^
 ||carv-dapp.pro^
-||carv-dapp.proc^
 ||carv-en.xyz^
 ||carv-iaunchpad.co^
 ||carv-iaunchpad.xyz^
@@ -41098,7 +41093,6 @@
 ||community-metamask.com^
 ||community-metamask.io^
 ||community-metamask.teachable.com^
-||community-metasupport.vercel.ap^
 ||community-mint-git-main-story-protocol.vercel.app^
 ||community-mitosis.app^
 ||community-mitosis.com^
@@ -45939,7 +45933,6 @@
 ||dashboard-offer.com^
 ||dashboard-opensea-network.app^
 ||dashboard-opensea-offer.io^
-||dashboard-opensea-offer.io;^
 ||dashboard-opensea.finance^
 ||dashboard-opensea.harda-ke.org^
 ||dashboard-opensea.pro^
@@ -56449,6 +56442,7 @@
 ||faq-metamask-walet.typedream.app^
 ||faq-metamaskchromeextensionn.typedream.app^
 ||faq-metamaskklog.dora.run^
+||faq-metamassk-login.pages.dev^
 ||faq-metamsk-wlet-extenion.typedream.app^
 ||faq-metask-chrome-extension.typedream.app^
 ||faq-metmask-public.typedream.app^
@@ -62997,7 +62991,6 @@
 ||hedera.today^
 ||hedera.work^
 ||hedera.xyz^
-||hederaairdrop.up^
 ||hederaclaim.com^
 ||hederacoin.org^
 ||hederadao.biz^
@@ -75864,6 +75857,7 @@
 ||login-kraken-in.webflow.io^
 ||login-meetamaskk.gitbook.io^
 ||login-meetamnaskhg.gitbook.io^
+||login-meta-mask.pages.dev^
 ||login-metaakask.webflow.io^
 ||login-metaasklogin.webflow.io^
 ||login-metamaisk.gitbook.io^
@@ -80438,6 +80432,7 @@
 ||metaamashextensiom.webflow.io^
 ||metaamashjloggin.webflow.io^
 ||metaamask-logg.godaddysites.com^
+||metaamask-login.pages.dev^
 ||metaamask-loginn.webflow.io^
 ||metaamask-loginne.webflow.io^
 ||metaamask-logusin.webflow.io^
@@ -84430,6 +84425,7 @@
 ||metamassk-chrome-extension.typedream.app^
 ||metamassk-crypptosignin.webflow.io^
 ||metamassk-extension.typedream.app^
+||metamassk-login-support.pages.dev^
 ||metamassk-loginn.godaddysites.com^
 ||metamassk-lugiin.gitbook.io^
 ||metamassk-wallet-logi.webflow.io^
@@ -84852,6 +84848,7 @@
 ||metamk-extenichrome.gitbook.io^
 ||metamk-extenon.gitbook.io^
 ||metamk-login.gitbook.io^
+||metamk-login.pages.dev^
 ||metamkbrowser.gitbook.io^
 ||metamkekwvallet.webflow.io^
 ||metamkerloginsn.webflow.io^
@@ -86261,6 +86258,7 @@
 ||metham-asaklosion.webflow.io^
 ||methamammk-lgoin.godaddysites.com^
 ||methamancklogin.gitbook.io^
+||methamask-login-docs-us.pages.dev^
 ||methamask-looguin.godaddysites.com^
 ||methamask-usalognn.godaddysites.com^
 ||methamask_xlognn.godaddysites.com^
@@ -104447,7 +104445,6 @@
 ||polymarket-submissions.com^
 ||polymarket-team.uno^
 ||polymarket-token.com^
-||polymarket-upload.s3.us-east-2^
 ||polymarket-us.com^
 ||polymarket-us.xyz^
 ||polymarket-vote.com^
@@ -104455,11 +104452,9 @@
 ||polymarket-votes.net^
 ||polymarket-walletconnect.pages.dev^
 ||polymarket-xyz.com^
-||polymarket.all^
 ||polymarket.bcserver.xyz^
 ||polymarket.bid^
 ||polymarket.bot^
-||polymarket.casdomsdasd^
 ||polymarket.cash^
 ||polymarket.ch^
 ||polymarket.chungsoonhaw.com^
@@ -104472,8 +104467,6 @@
 ||polymarket.com-poly.net^
 ||polymarket.com-polymarket.id^
 ||polymarket.com-rewards.com^
-||polymarket.com.poly^
-||polymarket.com.polymarket^
 ||polymarket.com.vbvn.top^
 ||polymarket.corn-our-rnenu.online^
 ||polymarket.cryptoisyou.com^
@@ -123247,7 +123240,6 @@
 ||sso--en-coinbasepro--cdn-index.webflow.io^
 ||sso--en-coinbasepro--cdn-o--auth.webflow.io^
 ||sso--en-coinbasepro--cdn-x--auth.webflow.io^
-||sso--en-coinbasepro--cdn-x--auth.webflow.iohttps^
 ||sso--en-coinbasepro--cdn-x-auth.webflow.io^
 ||sso--en-coinbasepro--cdn-x-authh.webflow.io^
 ||sso--en-coinbasepro--cdn.webflow.io^
@@ -127002,6 +126994,7 @@
 ||suiswap.org^
 ||suiswap.vercel.app^
 ||suit-e.dapp-update.com^
+||suit-met-masklogin-us.pages.dev^
 ||suite-access.square.site^
 ||suite-app.square.site^
 ||suite-io.com^
