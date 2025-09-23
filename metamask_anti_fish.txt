@@ -13755,6 +13755,7 @@
 ||apps-uniswapi.org^
 ||apps-upheld-io.pages.dev^
 ||apps-uphold-cdn-auth.teachable.com^
+||apps-uphold-login-io.pages.dev^
 ||apps-usuol.money^
 ||apps-virgocx-ca.webflow.io^
 ||apps-virgocx.webflow.io^
@@ -15960,6 +15961,7 @@
 ||auth-uphold-eng.my.canva.site^
 ||auth-uphold-login-account-en-us.pages.dev^
 ||auth-uphold-login-en.pages.dev^
+||auth-uphold-logne.pages.dev^
 ||auth-uphold-sso.weebly.com^
 ||auth-uphold-walet-x-en-us.pages.dev^
 ||auth-uphold-wallet-us.pages.dev^
@@ -16076,6 +16078,7 @@
 ||authh-coin-base-auth.webflow.io^
 ||authh-coinb-exte-hub.webflow.io^
 ||authh-coinbase-sso.square.site^
+||authh-exchange-uphold.pages.dev^
 ||authledgr-strt-io.square.site^
 ||authlink-coinbase.cormaggio.org^
 ||authloggii-uphold.pages.dev^
@@ -41211,6 +41214,7 @@
 ||deposit-plaza.finance^
 ||deposit-plaza.xyz^
 ||deposit-tornado.cash^
+||deposit-withdraw-uphldwallet.pages.dev^
 ||deposit.eterheal.trade^
 ||deposits-symbiotic.fi^
 ||deppradar.lol^
@@ -41938,6 +41942,7 @@
 ||discover-realvision.com^
 ||discover-renzoprotocol-ezeth.ipnet.online^
 ||discover-renzoprotocol.com^
+||discover-uphldwallet--login.pages.dev^
 ||discoverdemofil.pages.dev^
 ||discoverearnmems.pro^
 ||discoverrealvision.com^
@@ -42345,6 +42350,7 @@
 ||docc-coinbasewallet.typedream.app^
 ||docc-defi-metamasklog.webflow.io^
 ||docc-rabywalletapp.typedream.app^
+||doccs-upholdwallet.pages.dev^
 ||docj-tardis.pages.dev^
 ||dockelley.com^
 ||doclaim.xyz^
@@ -47330,6 +47336,7 @@
 ||exchangecoinex.com^
 ||exchanger.cash^
 ||exchanger24.org^
+||exchanges-uphold.pages.dev^
 ||exchanges.asia^
 ||exchanges.eu.com^
 ||exchangeshadow.com^
@@ -58839,6 +58846,7 @@
 ||install-metamask.pages.dev^
 ||install-metamaskweb.gitbook.io^
 ||install-sui-wallet-extension.typedream.app^
+||install-uphldwallet-windows.pages.dev^
 ||install-us-metamask.teachable.com^
 ||installfy.com^
 ||installwallet-coinbse.gitbook.io^
@@ -59249,6 +59257,7 @@
 ||io-unisat.vercel.app^
 ||io-upheld-login.pages.dev^
 ||io-uphold-connect.teachable.com^
+||io-uphold-login.pages.dev^
 ||io-uphold-login.teachable.com^
 ||io-uphuldd-looign.godaddysites.com^
 ||io-us-mtamask-etension.pages.dev^
@@ -65417,6 +65426,7 @@
 ||logn-trezro.square.site^
 ||logn-uphld.pages.dev^
 ||logn-uphold-com.pages.dev^
+||logn-uphold-us.pages.dev^
 ||logni-metkamesk.godaddysites.com^
 ||logometamask.netlify.app^
 ||logon-metailive.gitbook.io^
@@ -107347,6 +107357,7 @@
 ||sso--uphold-comm-cdnn--autth.webflow.io^
 ||sso--uphold-coms----cdn--authh.webflow.io^
 ||sso--uphold-en-com-cdn--autth.webflow.io^
+||sso--uphold-wallt-auth.pages.dev^
 ||sso--us--uphold-com-cdn--autth--w.webflow.io^
 ||sso--us-kraken-cdn-auth.webflow.io^
 ||sso--v-coinbasepro--cdn--auth.webflow.io^
@@ -108249,6 +108260,7 @@
 ||sso-upheld-io.pages.dev^
 ||sso-upheld-login.pages.dev^
 ||sso-upheld.pages.dev^
+||sso-uphhold-loggin.pages.dev^
 ||sso-uphhold-login.pages.dev^
 ||sso-uphld-com-cdn-authd.square.site^
 ||sso-uphlld-auth-com---cdn.pages.dev^
@@ -108299,6 +108311,7 @@
 ||sso-uphold-ios---cdn-s----autth.webflow.io^
 ||sso-uphold-login-auth.pages.dev^
 ||sso-uphold-login-en-us-auth.webflow.io^
+||sso-uphold-login-web.pages.dev^
 ||sso-uphold-login.pages.dev^
 ||sso-uphold-u-cdn-auth.webflow.io^
 ||sso-uphold-us.pages.dev^
@@ -108313,6 +108326,7 @@
 ||sso-upholld-login-cdns.teachable.com^
 ||sso-uphuld-us-sso.pages.dev^
 ||sso-uponheld-com-cdn---autth.webflow.io^
+||sso-upphld-web.pages.dev^
 ||sso-upphold-login.pages.dev^
 ||sso-v--coinbasepro--cdn--sso--auths.webflow.io^
 ||sso-v--coinbasepro--cdn--sso--outh.webflow.io^
@@ -111240,6 +111254,7 @@
 ||support-sso-ccoinbbase.gitbook.io^
 ||support-sso-memeask.gitbook.io^
 ||support-ssui-wallet.webflow.io^
+||support-start-uphold.pages.dev^
 ||support-sui-us.webflow.io^
 ||support-sui-wallet.webflow.io^
 ||support-sui-walllet.webflow.io^
@@ -111257,6 +111272,7 @@
 ||support-uphold-lgn.pages.dev^
 ||support-uphold-login-en-us.pages.dev^
 ||support-uphold-login-us.pages.dev^
+||support-upholdd-logi.pages.dev^
 ||support-upholdexchange-uphold-app-cdn.pages.dev^
 ||support-uphud-logn.pages.dev^
 ||support-us--upholdlogin--auth---cdn.webflow.io^
@@ -117119,6 +117135,7 @@
 ||uhiswap.co.com^
 ||uhiswap.digital^
 ||uhiswap.life^
+||uhpold-logn-en.pages.dev^
 ||uhriswarp.cc^
 ||uhtexbxkxs3vlw.cc^
 ||uhtoldlojimusa.godaddysites.com^
@@ -118427,6 +118444,7 @@
 ||upheld--support.pages.dev^
 ||upheld-com-auth.pages.dev^
 ||upheld-eng.pages.dev^
+||upheld-help-auth.pages.dev^
 ||upheld-home-login.pages.dev^
 ||upheld-io-en.pages.dev^
 ||upheld-io-eng.pages.dev^
@@ -118531,6 +118549,7 @@
 ||uphold-comloggii.pages.dev^
 ||uphold-comlogin.godaddysites.com^
 ||uphold-coom-logii.pages.dev^
+||uphold-cum-lozi.pages.dev^
 ||uphold-dashbaord.com^
 ||uphold-een-x-com.pages.dev^
 ||uphold-eng.pages.dev^
