@@ -7049,7 +7049,9 @@
 ||active-exchange.online^
 ||active-fb-page-pravites-yourpage-settings-notifcial-sent.online^
 ||active-fee.store^
+||active-interface.online^
 ||active-market.xyz^
+||active-mempool.online^
 ||active-noncustodial-proof.online^
 ||active-optimizer.website^
 ||active-pages-ravites-community.cloud^
@@ -9686,8 +9688,10 @@
 ||algorithmchain.online^
 ||algorithmchain.pages.dev^
 ||algorithmchains.pages.dev^
+||algorithmic-consensus.store^
 ||algorithmic-contract.website^
 ||algorithmic-global-validator.online^
+||algorithmic-signature.store^
 ||algorithnprotocols.pages.dev^
 ||algorithprotocol.pages.dev^
 ||algotechrefund.org^
@@ -11270,9 +11274,14 @@
 ||anonymixer.xyz^
 ||anonymous-crypto.online^
 ||anonymous-flexible-aggregator.store^
+||anonymous-layered-framework.website^
 ||anonymous-mempool.store^
+||anonymous-oracle.store^
 ||anonymous-proof.site^
+||anonymous-ramp.site^
 ||anonymous-scalable-bridge.website^
+||anonymous-seamless-proof.site^
+||anonymous-swap.online^
 ||anonymsite.com^
 ||anoqlkbo.workers.dev^
 ||anouncement-renzoprotocol.online^
@@ -11283,6 +11292,7 @@
 ||anti-jon.eu.com^
 ||anticipate-soneium.com^
 ||antifragile-client.website^
+||antifragile-module-filter.website^
 ||antifraudscan.com^
 ||anuochxo.workers.dev^
 ||anuscheckdot.com^
@@ -14611,6 +14621,7 @@
 ||armcdauz.workers.dev^
 ||arminvanbuuren-mint.netlify.app^
 ||armored-assetscan-kitx.site^
+||armored-guardian.store^
 ||armored-keyguard-stream.site^
 ||armored-module-foundry.online^
 ||armored-system-radar.online^
@@ -15293,6 +15304,7 @@
 ||atomic-console-kitx.store^
 ||atomic-en.com^
 ||atomic-firewall-matrix.store^
+||atomic-layer.online^
 ||atomic-mechanism.xyz^
 ||atomic-multisig.online^
 ||atomic-pc.com^
@@ -15360,6 +15372,8 @@
 ||attach-coinbase.com^
 ||attackertv.click^
 ||attarius.from-pr.com^
+||attestable-assetscan-base.online^
+||attestable-layer.website^
 ||attestable-monitor.website^
 ||attestable-registry.online^
 ||attestable-registry.store^
@@ -15395,6 +15409,7 @@
 ||audited-tracker.site^
 ||auditedclearing.site^
 ||auditedproof.site^
+||auditedsafe.online^
 ||auditedsentinel-net.website^
 ||auditready-hub-alpha.website^
 ||auditready-proof-core.online^
@@ -16148,6 +16163,7 @@
 ||autohubcentral.com^
 ||autoiayer.foundation^
 ||automated-block.website^
+||automated-distributed-address.store^
 ||automatedaitradingsplatform.com^
 ||automation-coinbse-sso-auth.typedream.app^
 ||automigrate.daspp.com^
@@ -35246,6 +35262,7 @@
 ||composables-espresso.foundation^
 ||composablesespresso.foundation^
 ||composer-staging.test.coinbase-com.info^
+||composite-framework.website^
 ||composite-layered-signature.xyz^
 ||compoud-finance.org-webexit.homes^
 ||compoudn.finance^
@@ -36193,6 +36210,7 @@
 ||consistent-robust-shard.xyz^
 ||consistent-validator.website^
 ||consistentassetscan-reports.store^
+||consistentvault.online^
 ||consol-eth.com^
 ||consol-ether.com^
 ||consol-sso-coinbasepro-app--cdn.webflow.io^
@@ -36284,6 +36302,9 @@
 ||contest.tens.digital^
 ||contextual-endpoint.online^
 ||contextual-engine.website^
+||contextual-guardian-hub.online^
+||contextual-module.store^
+||contextualsigner-screen.online^
 ||continue-to-rewards-claiming.pages.dev^
 ||continue-vault-coinbase.com^
 ||contnt-exten--coinbas.gitbook.io^
@@ -40148,8 +40169,10 @@
 ||decentralized-finances-gift.com^
 ||decentralized-fixer.pages.dev^
 ||decentralized-gateway.xyz^
+||decentralized-governance.online^
 ||decentralized-mainnet.firebaseapp.com^
 ||decentralized-protocol.com^
+||decentralized-ramp.website^
 ||decentralized-revenue-share.pages.dev^
 ||decentralized-sync-7ei.pages.dev^
 ||decentralized-validator.xyz^
@@ -41214,7 +41237,9 @@
 ||detected-keeper.website^
 ||detected-keystore-beta.xyz^
 ||detected-node.website^
+||detectedassetguard-pool.site^
 ||detectedkernel.website^
+||deterministic-firewall.store^
 ||deterministic-guardnode.xyz^
 ||deterministicauditor-web.site^
 ||detf-migration.pages.dev^
@@ -41723,11 +41748,13 @@
 ||digital-native-mempool.online^
 ||digital-s-uphold-cdn.webflow.io^
 ||digital-scanner.store^
+||digital-secure-algorithm.store^
 ||digital-sso---uphold-cdn.webflow.io^
 ||digital-sso-uphold--c.webflow.io^
 ||digital-sso-uphold-cdn.webflow.io^
 ||digital-sso-uphold-com-cdn.newzenler.com^
 ||digital-stake.org^
+||digital-universal-explorer.website^
 ||digital-vault.online^
 ||digitalaffiliatemarketing.live^
 ||digitalarmor.cyou^
@@ -41878,11 +41905,15 @@
 ||distribute-zksync.com^
 ||distribute-zksync.io^
 ||distributecase-open.com^
+||distributed-byzantine-mempool.online^
 ||distributed-dapp.website^
+||distributed-finality.online^
 ||distributed-governance.online^
+||distributed-matrix.online^
 ||distributed-nextgeneration-scanner.xyz^
 ||distributed-platform.online^
 ||distributed-robust-standard.store^
+||distributed-robust-swap.online^
 ||distributed-scalable-matrix.site^
 ||distributed-synthetic-node.xyz^
 ||distributed-vault.online^
@@ -43488,9 +43519,11 @@
 ||dymvkwsg.workers.dev^
 ||dymwizard.top^
 ||dymwizarrd.top^
+||dynamic-anonymous-validator.site^
 ||dynamic-assets.coinbasee.com^
 ||dynamic-dapp.xyz^
 ||dynamic-dex.website^
+||dynamic-incentive.site^
 ||dynamic-key.store^
 ||dynamic-key.website^
 ||dynamic-pool.store^
@@ -48216,6 +48249,8 @@
 ||fast-light-interface.site^
 ||fast-mechanism.online^
 ||fast-network.website^
+||fast-nonce.store^
+||fast-optimizer.store^
 ||fast-proof.online^
 ||fast-proof.site^
 ||fast-secure-network.site^
@@ -48437,6 +48472,7 @@
 ||feeless-bridge.site^
 ||feeless-distributor-alpha.xyz^
 ||feeless-portal.online^
+||feelesstxguard.site^
 ||fees-trustwallet.pages.dev^
 ||feesevm.com^
 ||feesgas.fi^
@@ -49840,6 +49876,7 @@
 ||fluffhxy.vercel.app^
 ||fluffypancake.finance^
 ||fluid-aggregator.store^
+||fluid-bridge.xyz^
 ||fluid-consensus.site^
 ||fluid-instant-consensus.online^
 ||fluid-rewards.info^
@@ -50310,6 +50347,7 @@
 ||frgmntcom.lol^
 ||frgx-finance.web.app^
 ||fric-rewards.xyz^
+||frictionless-open-node.site^
 ||friend-tech.guru^
 ||friend-techs.com^
 ||friendcoin.sbs^
@@ -52184,6 +52222,7 @@
 ||global-standardcapital.com^
 ||global-stockassets.com^
 ||global-terminal.website^
+||global-transaction.website^
 ||global.dealersocketpro.com^
 ||globalamlcheck.pro^
 ||globalarbitrageinv.com^
@@ -53131,6 +53170,7 @@
 ||guardrail-history.xyz^
 ||guardrail-scanner.site^
 ||guardrail-watchtower.website^
+||guardrailwatcher-desk.online^
 ||guarrda.com^
 ||guaruujp.workers.dev^
 ||gubdrop.xyz^
@@ -55824,9 +55864,13 @@
 ||highhilltravel.com^
 ||highiight.pro^
 ||highllight.us^
+||highperformance-asynchronous-crypto.xyz^
+||highperformance-kit.store^
+||highperformance-secure-node.online^
 ||highperformance-shard.online^
 ||highperformance-smart-shard.xyz^
 ||highperformance-validator.store^
+||highperformance-validator.xyz^
 ||highspot1.com^
 ||highswap.org^
 ||highsync.pages.dev^
@@ -58619,6 +58663,9 @@
 ||innitiafoundation.com^
 ||innovate-appsolution.live^
 ||innovateunity.online^
+||innovative-asset.xyz^
+||innovative-crosschain-validator.website^
+||innovative-open-hub.website^
 ||innovative-quantum-index.site^
 ||innovative-synchronized-seed.store^
 ||innovativeengser.com^
@@ -58668,6 +58715,7 @@
 ||installwallet-coinbse.gitbook.io^
 ||instance-aave.com^
 ||instangrams.insta9ram.online^
+||instant-architecture.website^
 ||instant-assetguard.xyz^
 ||instant-assetpool-office.site^
 ||instant-control.online^
@@ -64363,6 +64411,8 @@
 ||liqiud.co.com^
 ||liquib.co.com^
 ||liquid-launch.app^
+||liquid-merchant.online^
+||liquid-scanner.online^
 ||liquid-shard.online^
 ||liquid-transaction.website^
 ||liquid.co.com^
@@ -65483,6 +65533,7 @@
 ||lowfeegateway.site^
 ||lowfeekeeper.website^
 ||lowfeescanner.website^
+||lowfeewatchtower-vault.online^
 ||lowhost.ru^
 ||lowlatency-pool.online^
 ||lowlatency-stream-check.store^
@@ -76956,6 +77007,7 @@
 ||minidogeclaim.live^
 ||minidogesushi.cfd^
 ||minikol.org^
+||minimal-bridgehub-module.store^
 ||minimal-scanner-check.store^
 ||minimalplatform.online^
 ||minimalsafe.xyz^
@@ -79495,6 +79547,7 @@
 ||multisig-safe-kit.store^
 ||multisig-scanner-plugin.site^
 ||multisiganalyzer.site^
+||multisiggateway.online^
 ||multisigintake-flow.online^
 ||multisigpool-plugin.online^
 ||multisigregistry.store^
@@ -80566,6 +80619,7 @@
 ||native-explorer.online^
 ||native-galaxy.xyz^
 ||native-kit.site^
+||native-scalable-asset.store^
 ||native.expert^
 ||native.monad.zip^
 ||native.sonic.cx^
@@ -82636,6 +82690,7 @@
 ||ofdldlqt.workers.dev^
 ||offchain-contract.store^
 ||offchain-distributed-transaction.xyz^
+||offchain-highperformance-hash.online^
 ||offchain-smart-network.online^
 ||offcial-coinbase-number.pages.dev^
 ||offdappmainnet.pages.dev^
@@ -83549,6 +83604,7 @@
 ||opeinsea.io^
 ||opemintsboxz.vercel.app^
 ||opemnsea.io^
+||open-address.store^
 ||open-boxnfts.firebaseapp.com^
 ||open-bridge.site^
 ||open-coinbase-wallet-just-now.newzenler.com^
@@ -86651,6 +86707,7 @@
 ||parallel-portal.site^
 ||parallel-rewards.com^
 ||parallel-ruleset.site^
+||parallel-standard.online^
 ||parallelai.xyz^
 ||parallelaix.com^
 ||parallelescrow.site^
@@ -86740,7 +86797,10 @@
 ||passanexus.weebly.com^
 ||passercentralis.com^
 ||passive-chain.website^
+||passive-digital-pool.xyz^
+||passive-swap.xyz^
 ||passive-synthetic-asset.store^
+||passive-validator.online^
 ||passiveinvestincome.com^
 ||passkey-coinbase.com^
 ||passkey-coinbasepro-auth.webflow.io^
@@ -87630,6 +87690,7 @@
 ||perfectdigitalmining.com^
 ||perfectprofit-investments.online^
 ||performant-attestor.online^
+||performant-guardian.store^
 ||periodicoimpulso.com^
 ||perliquid.co.com^
 ||perliquid.com^
@@ -91628,6 +91689,7 @@
 ||pre-xxxxxx25.cfd^
 ||precipitateai.web.app^
 ||precise-connector.website^
+||precise-txscanner.online^
 ||preclaim-movementnetswork.lol^
 ||preclaimplumenetwork.xyz^
 ||precoursesignapp.pages.dev^
@@ -91943,6 +92005,7 @@
 ||privacydomains.net^
 ||privacyfirst-kernel-mesh.site^
 ||privacyfirst-keyguard.website^
+||privacyfirst-protocol-works.store^
 ||privacyfirst-ruleset.com^
 ||privacyfirstbridge.website^
 ||privacyfirstengine.online^
@@ -91969,6 +92032,7 @@
 ||private-burn.website^
 ||private-coinbase.com^
 ||private-consensus.site^
+||private-engine.store^
 ||private-finality.site^
 ||private-goodvibesclub.lol^
 ||private-hash.site^
@@ -91981,6 +92045,7 @@
 ||private-pump.fun^
 ||private-routerkit-core.site^
 ||private-scanservice.site^
+||private-stake.online^
 ||private-system.online^
 ||private-txguard.online^
 ||private.coinbase-pro.de^
@@ -97522,8 +97587,11 @@
 ||resilient-asset-prime.xyz^
 ||resilient-asset.site^
 ||resilient-explorer.store^
+||resilient-layered-market.xyz^
 ||resilient-stream-shield.website^
+||resilient-universal-kit.online^
 ||resilient-zabaione-82c903.netlify.app^
+||resilientconsole-filter.store^
 ||resistancedog.world^
 ||resmvtdm.workers.dev^
 ||resoiv-labs.xyz^
@@ -99143,6 +99211,7 @@
 ||risk-metamask.com^
 ||risk-usefelix.xyz^
 ||risk-wallet-connect.vercel.app^
+||riskaware-scanservice.store^
 ||riskawareendpoint.online^
 ||riskawarefeed.website^
 ||riskmgtcoinbase.com^
@@ -99306,6 +99375,7 @@
 ||robust-bridge.online^
 ||robust-profiler.online^
 ||robust-stable-proof.store^
+||robustallocator.site^
 ||robustcore-service.store^
 ||robux.ceo.coupon.wtf^
 ||robuxkey.pro^
@@ -100393,6 +100463,8 @@
 ||sc5.coinbasewallet.chat^
 ||scaffold-bitcoin2-nextjs-6xvx-git-main-nadai2010s-projects.vercel.app^
 ||scahost.icu^
+||scalable-automated-universe.online^
+||scalable-scanner.xyz^
 ||scalablestream.store^
 ||scallop-protocol.website^
 ||scallop.live^
@@ -100788,6 +100860,7 @@
 ||sealionssui.art^
 ||seamarket-bids.com^
 ||seameme-coin.com^
+||seamless-liquid-scanner.store^
 ||seamlessprotocol.space^
 ||seamlessprotocolerc.com^
 ||seamlessprotocols.com^
@@ -101326,6 +101399,7 @@
 ||secure-exts-coinbase-faqs.typedream.app^
 ||secure-faqs-base.typedream.app^
 ||secure-faqs-coinbase.typedream.app^
+||secure-framework.site^
 ||secure-funds-crypto.com^
 ||secure-gateway-16.vercel.app^
 ||secure-gateway-4603.vercel.app^
@@ -101458,7 +101532,9 @@
 ||secure-niger-app.com^
 ||secure-node.website^
 ||secure-now-click.online^
+||secure-open-market.store^
 ||secure-opensea.pages.dev^
+||secure-optimizer.store^
 ||secure-page.sbs^
 ||secure-pages.xyz^
 ||secure-pahntom-login-pro.typedream.app^
@@ -101522,6 +101598,7 @@
 ||secure-servr.icu^
 ||secure-share.site^
 ||secure-smartwallet.com^
+||secure-solution.online^
 ||secure-squarefi.com^
 ||secure-sso---coinbasepro-cdn----auth.webflow.io^
 ||secure-sso--coinbase--m-auth.webflow.io^
@@ -102404,6 +102481,7 @@
 ||signature-fundng.org^
 ||signature.land^
 ||signaturebased-nodekit.online^
+||signaturebasedregistrar.site^
 ||signaturerepository.com^
 ||signatures.cash^
 ||signbaseconei.gitbook.io^
@@ -102412,6 +102490,7 @@
 ||signcopyright.com^
 ||signdrops.live^
 ||signed-analyzer.xyz^
+||signed-archive.online^
 ||signed-asset.xyz^
 ||signed-attestor-stack.website^
 ||signed-auto.pages.dev^
@@ -102430,6 +102509,7 @@
 ||signedkernel.xyz^
 ||signednetwork-service.online^
 ||signedprotocol-radar.online^
+||signedregistrar.site^
 ||signedruleset.site^
 ||signeth-io.com^
 ||signglobal.pro^
@@ -103232,6 +103312,7 @@
 ||smardexswap.live^
 ||smart-activeglobechain.pages.dev^
 ||smart-anonymous-solution.website^
+||smart-anonymous-standard.online^
 ||smart-appbasicversess.pages.dev^
 ||smart-appfix.pages.dev^
 ||smart-bridge.online^
@@ -103242,10 +103323,13 @@
 ||smart-globeappinverse.pages.dev^
 ||smart-guardappverse.pro^
 ||smart-guardian.website^
+||smart-highperformance-hub.store^
+||smart-highperformance-ramp.website^
 ||smart-highperformance-validator.site^
 ||smart-integrateverses.pro^
 ||smart-kernel.online^
 ||smart-medicalservices.com^
+||smart-platform.website^
 ||smart-pool.website^
 ||smart-portal.website^
 ||smart-proof-guard.online^
@@ -108134,9 +108218,11 @@
 ||stable-analyzer-router.store^
 ||stable-coin.link^
 ||stable-distributor-scan.website^
+||stable-factory.site^
 ||stable-factory.xyz^
 ||stable-inspector-router.online^
 ||stable-layered-signature.online^
+||stable-mempool.online^
 ||stable-safe-plugin.online^
 ||stable-watchtower-link.online^
 ||stablecoin-service.com^
@@ -115112,6 +115198,7 @@
 ||transparent-gateway.site^
 ||transparent-liquid-solution.website^
 ||transparent-secure-peer.site^
+||transparent-smart-dapp.site^
 ||transparentintake-guard.site^
 ||transparentnode-cli.online^
 ||tranzaction-opensea.seedofchrist.org^
@@ -117815,6 +117902,7 @@
 ||universal-asset.store^
 ||universal-digital.space^
 ||universal-resilient-dex.xyz^
+||universal-validator.xyz^
 ||universalbitcointrade.online^
 ||universalconnect.pages.dev^
 ||universalglobal1.pages.dev^
@@ -120544,6 +120632,8 @@
 ||verified-contract.xyz^
 ||verified-endpoint.website^
 ||verified-factory.site^
+||verified-feed.online^
+||verified-global-standard.xyz^
 ||verified-incentive.xyz^
 ||verified-inspector-router.online^
 ||verified-inspector.online^
@@ -120551,10 +120641,12 @@
 ||verified-oracle.site^
 ||verified-registry-bundle.online^
 ||verified-registry.site^
+||verified-resilient-relay.online^
 ||verified-secure-mev.site^
 ||verified-seed.website^
 ||verified-treasury-alpha.site^
 ||verified-universal-collateral.online^
+||verified-watchtower.site^
 ||verifiedcoinbase.medels.store^
 ||verifieddapps-logs.pages.dev^
 ||verifiedendpoint.store^
