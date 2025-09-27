@@ -12768,6 +12768,8 @@
 ||app-uphold-com---cdn--x-auth.webflow.io^
 ||app-uphold-com-auth.pages.dev^
 ||app-uphold-en-us.pages.dev^
+||app-uphold-eng-us.pages.dev^
+||app-uphold-io-us.pages.dev^
 ||app-uphold-login.pages.dev^
 ||app-uphold-on-en.pages.dev^
 ||app-upholde.pages.dev^
@@ -57174,6 +57176,7 @@
 ||home-en-metamask-docs.dora.run^
 ||home-en-metamask.teachable.com^
 ||home-en-uphld.pages.dev^
+||home-en-upholld-wallett.pages.dev^
 ||home-eng-coiinbasehelp-cdn.webflow.io^
 ||home-etherfi.com^
 ||home-exten-memask.pages.dev^
@@ -66062,6 +66065,7 @@
 ||login-access-help-coinbase-en.typedream.app^
 ||login-account-uphold-en-us.pages.dev^
 ||login-account-uphold-eng-us.pages.dev^
+||login-account-uphold-io-us.pages.dev^
 ||login-auth-cdn.netlify.app^
 ||login-authentication.50-6-171-223.cprapid.com^
 ||login-basecoin-co.pages.dev^
@@ -66170,7 +66174,9 @@
 ||login-upheld-start.pages.dev^
 ||login-upheld-support.pages.dev^
 ||login-uphelds-cdn.pages.dev^
+||login-uphld-io-us.pages.dev^
 ||login-uphldaccount-easily.pages.dev^
+||login-uphold-com-io-us.pages.dev^
 ||login-uphold-doc.pages.dev^
 ||login-uphold-docs-1yy.pages.dev^
 ||login-uphold-docs.teachable.com^
@@ -92668,6 +92674,7 @@
 ||portal-trezrlgin.square.site^
 ||portal-uphald.square.site^
 ||portal-upheld-io-eng.square.site^
+||portal-uphld-en-us.pages.dev^
 ||portal-uphold-autth-web.typedream.app^
 ||portal-uphold-cdn-auth.weebly.com^
 ||portal-uphold-cdn.pages.dev^
@@ -120342,6 +120349,7 @@
 ||upholxit-login.gitbook.io^
 ||upholzogin.webflow.io^
 ||uphoold-app-guide.pages.dev^
+||uphoold-login-us.pages.dev^
 ||uphoold-loguijn.godaddysites.com^
 ||uphoold-run-nav.pages.dev^
 ||uphoold_loggin_on.godaddysites.com^
@@ -124538,6 +124546,7 @@
 ||wallet-uphold-eng.pages.dev^
 ||wallet-uphoold-cdn-us.pages.dev^
 ||wallet-uphoold-en-us.pages.dev^
+||wallet-uphoold-io-us.pages.dev^
 ||wallet-us-phantom.weebly.com^
 ||wallet-us-sign-faqs.typedream.app^
 ||wallet-us-sui.weebly.com^
