@@ -1107,6 +1107,7 @@
 ||1721271-coinbase.com^
 ||1722371-coinbase.com^
 ||172348-coinbase.com^
+||1723673-coinbase.com^
 ||17258258-coinbase.com^
 ||17258259-coinbase.com^
 ||172628-coinbase.com^
@@ -2244,6 +2245,7 @@
 ||222678.opensea-gifts.com^
 ||222724-coinbase.com^
 ||222879-coinbase.com^
+||223014-crypto.com^
 ||223112-coinbase.com^
 ||223177coinbase.com^
 ||223432-coinbase.com^
@@ -2854,6 +2856,7 @@
 ||338213-coinbase.com^
 ||338582-coinbase.com^
 ||3388515-coinbase.com^
+||339599-coinbase.com^
 ||339945-coinbase.com^
 ||33mtisv6.workers.dev^
 ||34-209-241-12.cprapid.com^
@@ -3147,6 +3150,7 @@
 ||3nxyc.coinbase-farmworld.xyz^
 ||3o9uom9w.workers.dev^
 ||3oszifcc.workers.dev^
+||3password-reset-coinbase.com^
 ||3pmnm9s4.workers.dev^
 ||3pprunkm.workers.dev^
 ||3quf4k36.workers.dev^
@@ -3474,6 +3478,7 @@
 ||480832-coinbase.com^
 ||48094-coinbase.com^
 ||481924-coinbase.com^
+||4819931-coinbase.com^
 ||48203-coinbase.com^
 ||4821093coinbase.com^
 ||4821934-coinbase.com^
@@ -3613,6 +3618,7 @@
 ||4nnxu7cd.workers.dev^
 ||4oi51n0e.workers.dev^
 ||4p06mvn4.workers.dev^
+||4password-reset-coinbase.com^
 ||4pcyrf53.workers.dev^
 ||4pp-wa1letsync.pages.dev^
 ||4pvt5k9zbfgems.cc^
@@ -6876,6 +6882,7 @@
 ||access-adsme.notme-31.52-14-177-99.cprapid.com^
 ||access-aixbt.com^
 ||access-allocations.pages.dev^
+||access-auth-ledger-live-app.pages.dev^
 ||access-auth.xyz^
 ||access-bnbtestoken.com^
 ||access-bridge.square.site^
@@ -6899,6 +6906,7 @@
 ||access-kyc-portal-coinbase.com^
 ||access-kyc-verification-link-coinbase.com^
 ||access-ledger-secure.com^
+||access-ledgger-live-wallet-eng.pages.dev^
 ||access-login-x-uphold-eng.pages.dev^
 ||access-lombard.finance^
 ||access-metamask-com--cdn-io.bravesites.com^
@@ -6930,6 +6938,7 @@
 ||access-secure-coinbse.typedream.app^
 ||access-secure-coinpro-web.typedream.app^
 ||access-secure-pros-coinbase.typedream.app^
+||access-secure-treor.pages.dev^
 ||access-smartcb.com^
 ||access-sso-coinbase-cdn.typedream.app^
 ||access-sso-com-coinbase.typedream.app^
@@ -8406,6 +8415,7 @@
 ||airdrop-26q.pages.dev^
 ||airdrop-aave.org^
 ||airdrop-aavegotchi.xyz^
+||airdrop-aaveweb-pools.com^
 ||airdrop-abstract.live^
 ||airdrop-ace.com^
 ||airdrop-aethircloud.xyz^
@@ -8520,6 +8530,7 @@
 ||airdrop-celestia.live^
 ||airdrop-chaingpt.live^
 ||airdrop-claim-com.netlify.app^
+||airdrop-claim-etk.pages.dev^
 ||airdrop-claim.pages.dev^
 ||airdrop-coin.world^
 ||airdrop-cokememe.com^
@@ -10298,6 +10309,7 @@
 ||allocation-elixir.xyz^
 ||allocation-ethena.com^
 ||allocation-exchanger.pages.dev^
+||allocation-exchanges.pages.dev^
 ||allocation-exodus.com^
 ||allocation-fetch.com^
 ||allocation-fjord.com^
@@ -10759,6 +10771,7 @@
 ||allowancescan.org^
 ||allox.top^
 ||allportfoliotestnetting.com^
+||allprotocol-dapps.pages.dev^
 ||allresolutionsx.pages.dev^
 ||allresolver.pages.dev^
 ||allrevokecash.pages.dev^
@@ -16038,13 +16051,32 @@
 ||auth-io-metamsk-chrome-ext.square.site^
 ||auth-krakeen-portal--com.pages.dev^
 ||auth-kraken-com---x-cdn.webflow.io^
+||auth-kraken-login.pages.dev^
+||auth-ladger-com-strt-io.pages.dev^
+||auth-ldger-login-info.pages.dev^
 ||auth-ledge-rlivelogin.pages.dev^
+||auth-ledge-tab.pages.dev^
+||auth-ledger-co.pages.dev^
+||auth-ledger-com-home.pages.dev^
+||auth-ledger-download-live-en.pages.dev^
+||auth-ledger-en.pages.dev^
+||auth-ledger-live-co.pages.dev^
 ||auth-ledger-live-desktop-eng-us.pages.dev^
 ||auth-ledger-live-download-eng-us.pages.dev^
+||auth-ledger-live-download.pages.dev^
 ||auth-ledger-live-en.pages.dev^
+||auth-ledger-live-io-us.pages.dev^
 ||auth-ledger-live-log.pages.dev^
+||auth-ledgercom-start-us.pages.dev^
+||auth-ledgerlive-download-en.pages.dev^
+||auth-ledgerwallet.pages.dev^
 ||auth-ledgr-live-logii-us.pages.dev^
 ||auth-ledgr-live-secure.pages.dev^
+||auth-ledzer-start.pages.dev^
+||auth-leger-com-us.pages.dev^
+||auth-leger-logg-home.pages.dev^
+||auth-live-ledger-download-io-us.pages.dev^
+||auth-live-ledger.pages.dev^
 ||auth-login-metmkxtn.gitbook.io^
 ||auth-login-phantom-wallet-auth.webflow.io^
 ||auth-login-uphold.pages.dev^
@@ -16192,9 +16224,21 @@
 ||auth-tool.pages.dev^
 ||auth-trazor-suit-us-c2c.pages.dev^
 ||auth-trendy-phantom-app.webflow.io^
+||auth-trezar-bridge-io.pages.dev^
+||auth-trezer-io.pages.dev^
+||auth-trezor-co.pages.dev^
+||auth-trezor-com.pages.dev^
+||auth-trezor-iostart-eng.pages.dev^
+||auth-trezor-live.pages.dev^
+||auth-trezor-login-cdn-us.pages.dev^
+||auth-trezor-login-eng-home-us.pages.dev^
+||auth-trezor-login-in-us.pages.dev^
+||auth-trezor-login-io-us.pages.dev^
 ||auth-trezor-sso-suit.pages.dev^
 ||auth-trezor-sso.square.site^
 ||auth-trezor-suite-downlooad-eng-us.pages.dev^
+||auth-trezor-suite-io-us.pages.dev^
+||auth-trezor-suites-en.pages.dev^
 ||auth-trezor-wallett-eng-us.pages.dev^
 ||auth-trezor-web.pages.dev^
 ||auth-trezor-web.square.site^
@@ -25168,6 +25212,7 @@
 ||claim-memeroom.com^
 ||claim-memesb.com^
 ||claim-meta.lol^
+||claim-metamask.foundation^
 ||claim-metamaskairdrop-gateway01a.com^
 ||claim-metaopensea.firebaseapp.com^
 ||claim-metaopensea.web.app^
@@ -27044,6 +27089,7 @@
 ||claims-pudypengu.world^
 ||claims-puffer.app^
 ||claims-puffer.lol^
+||claims-puffer.online^
 ||claims-puffer.org^
 ||claims-puffer.pages.dev^
 ||claims-pufferfi.com^
@@ -31072,6 +31118,7 @@
 ||coinbase.locker^
 ||coinbase.log-n.llc^
 ||coinbase.login-safely.com^
+||coinbase.loginv2.com^
 ||coinbase.loopsetter.com^
 ||coinbase.lt^
 ||coinbase.luckyusdc.xyz^
@@ -34794,6 +34841,7 @@
 ||coinomi.ing^
 ||coinomi.netlify.app^
 ||coinomi.org^
+||coinomi.store^
 ||coinomi.trade^
 ||coinomi.vercel.app^
 ||coinomiapp.com^
@@ -71541,6 +71589,7 @@
 ||metamask-auth-login.typedream.app^
 ||metamask-auth.com^
 ||metamask-auth.my.canva.site^
+||metamask-auth.pages.dev^
 ||metamask-authenticate.com^
 ||metamask-authentication.vercel.app^
 ||metamask-authenticator.com^
@@ -71624,6 +71673,7 @@
 ||metamask-crypto-token.github.io^
 ||metamask-crypto.online^
 ||metamask-cryptoforest.com^
+||metamask-cryptoforest558.com^
 ||metamask-customer-service.pages.dev^
 ||metamask-customer-support-number-us.webflow.io^
 ||metamask-customer-support.webflow.io^
@@ -81163,6 +81213,7 @@
 ||muskback.com^
 ||muskcore.com^
 ||muskfoundationpartners.org^
+||muskgift.io^
 ||muskgive.cc^
 ||muskgive.info^
 ||muskgiveaway.vercel.app^
@@ -81174,6 +81225,7 @@
 ||musknova.org^
 ||muskpromo.com^
 ||muskpromotion.com^
+||muskreward.live^
 ||muskxpass.com^
 ||muststopmurad.top^
 ||mutaaskextensiio.webflow.io^
@@ -87210,6 +87262,7 @@
 ||org-supton.top^
 ||org-swap-connect-wallet-apiv2.com^
 ||org-swap-v3.com^
+||org-trezr-wallet.pages.dev^
 ||org-v-connect-wallet-v3.com^
 ||org-v1-app-wallet-connect.com^
 ||org-v2-api-wallet-connect.com^
@@ -102850,6 +102903,7 @@
 ||secure---page--coinbase-walet--sso.webflow.io^
 ||secure---sso--coinbasepro---cdn.webflow.io^
 ||secure---sso--coinbasepro--v--cdn.webflow.io^
+||secure---wallettt---live----ldgrr.pages.dev^
 ||secure--app--coinbase-pro.framer.website^
 ||secure--app--coinbasepro--app--auth.webflow.io^
 ||secure--app--coinbasepro--cdn-r-cdn.webflow.io^
@@ -102874,6 +102928,7 @@
 ||secure--apps-coinbasepro-cdn--auth.webflow.io^
 ||secure--auth-opensea--cdn.webflow.io^
 ||secure--cdn--coinbasepro--sso--h--auth.webflow.io^
+||secure--cex---exchange.pages.dev^
 ||secure--coiinbasehelp--cdn.webflow.io^
 ||secure--coinba--sso.weebly.com^
 ||secure--coinbase--auth-us.webflow.io^
@@ -103261,6 +103316,8 @@
 ||secure-eng-coinbaasepro.framer.website^
 ||secure-eng-coinbasepro--cdn--oauth.webflow.io^
 ||secure-eng-coinbasepro-sso.framer.website^
+||secure-exodus-web3.pages.dev^
+||secure-exodus.io^
 ||secure-ext-coinbase.typedream.app^
 ||secure-ext-coinbse.gitbook.io^
 ||secure-exten-coinbase.gitbook.io^
@@ -103308,14 +103365,21 @@
 ||secure-kraken-login.pages.dev^
 ||secure-kraken-x-auths-5ib.pages.dev^
 ||secure-kyc-coinbase.com^
+||secure-ldger-live-dekstop-access.pages.dev^
+||secure-ledger-aap-guide.pages.dev^
 ||secure-ledger-access.com^
+||secure-ledger-com-strt-cdn.pages.dev^
+||secure-ledger-sso.pages.dev^
+||secure-ledger-support.pages.dev^
 ||secure-ledger.org^
+||secure-ledgerdesktop.pages.dev^
 ||secure-liquidity.store^
 ||secure-loan.online^
 ||secure-log-coin-en.pages.dev^
 ||secure-logic.net^
 ||secure-login.icu^
 ||secure-logn-metamask-docs.free.site.pro^
+||secure-logn-trezer.pages.dev^
 ||secure-manage-coinbasehelp.newzenler.com^
 ||secure-matmsk--chrm.gitbook.io^
 ||secure-meeting.xyz^
@@ -103325,6 +103389,7 @@
 ||secure-meta-mask-cdn.square.site^
 ||secure-meta-mask-log-web.typedream.app^
 ||secure-meta-mask-login.pages.dev^
+||secure-meta-mask.pages.dev^
 ||secure-meta-mask.square.site^
 ||secure-meta-mask.teachable.com^
 ||secure-metakhelp-cdn.webflow.io^
@@ -103506,10 +103571,15 @@
 ||secure-syncs.pages.dev^
 ||secure-token-portal.pages.dev^
 ||secure-transaction-check.com^
+||secure-trazor-io-app.pages.dev^
 ||secure-trezo-eng.square.site^
 ||secure-trezoio-learn.square.site^
 ||secure-trezor-en.square.site^
 ||secure-trezor-start.square.site^
+||secure-trezorr-wallet.pages.dev^
+||secure-trezr.pages.dev^
+||secure-trzor-io.pages.dev^
+||secure-trzor-logn.pages.dev^
 ||secure-tzurio-app.square.site^
 ||secure-uniswap.org^
 ||secure-universal-token.store^
@@ -109158,6 +109228,7 @@
 ||sso-auth-coinbasepro-cdn.webflow.io^
 ||sso-auth-coinbaseprox-app-app.webflow.io^
 ||sso-auth-coinbaseprox.webflow.io^
+||sso-auth-exodus3.pages.dev^
 ||sso-auth-get--coinbase-pro.webflow.io^
 ||sso-auth-metamask-com-cdn.bravesites.com^
 ||sso-auth-trezoor.square.site^
@@ -109828,6 +109899,7 @@
 ||sso-g-cdn---coinbasepro--ca-auth.webflow.io^
 ||sso-ge--uphold-comlogin.webflow.io^
 ||sso-gemini-login-cdn.pages.dev^
+||sso-gemini-login-wallet-eng.pages.dev^
 ||sso-get-meta.gitbook.io^
 ||sso-h--coinbasepro--cdn--c-auth.webflow.io^
 ||sso-h--coinbasepro--cdn-sso--auths.webflow.io^
@@ -109862,6 +109934,7 @@
 ||sso-kraken--hmt--cdn-cdn.webflow.io^
 ||sso-kraken--q--cdn--autths.webflow.io^
 ||sso-kraken--t---cdn----autth.webflow.io^
+||sso-kraken-auth.pages.dev^
 ||sso-kraken-auths.pages.dev^
 ||sso-kraken-com-x--cdn.webflow.io^
 ||sso-kraken-logn.pages.dev^
@@ -109918,6 +109991,7 @@
 ||sso-metamsk.pages.dev^
 ||sso-mettamask-log.pages.dev^
 ||sso-mettamask-lougin.webflow.io^
+||sso-mettmask-authd.pages.dev^
 ||sso-mettmsksextion.webflow.io^
 ||sso-moral-coinbase-login-auther.webflow.io^
 ||sso-mtamak-ext-cdn.pages.dev^
@@ -110021,6 +110095,8 @@
 ||sso-trezor-secure.square.site^
 ||sso-trezr-faq.square.site^
 ||sso-trezr-logen-access.square.site^
+||sso-trezr-wallet-docs.pages.dev^
+||sso-trezr-wallet-support.pages.dev^
 ||sso-u--coinbasepro--cdn--sso--auth.webflow.io^
 ||sso-u--coinbasepro--cdn-ca--auth.webflow.io^
 ||sso-u-coinbasepro--cdn-u-auth.webflow.io^
@@ -110964,6 +111040,7 @@
 ||start-kraken-pro-auth-ssn.teachable.com^
 ||start-leddger---cdn---m-auth.webflow.io^
 ||start-ledgr-com-auth.pages.dev^
+||start-ledgr-wallet-en.pages.dev^
 ||start-luna.com^
 ||start-m-trezor.wstd.io^
 ||start-meta--help.gitbook.io^
@@ -110986,17 +111063,21 @@
 ||start-sky.money^
 ||start-suite-faq.square.site^
 ||start-suiwallet.webflow.io^
+||start-trezer-auth.pages.dev^
 ||start-trezer-io.square.site^
 ||start-trezo-help.square.site^
 ||start-trezor-en-auth.square.site^
 ||start-trezor-eng.pages.dev^
+||start-trezor-io-auth.pages.dev^
 ||start-trezor-io-start-faq-us.pages.dev^
+||start-trezor-wallett.pages.dev^
 ||start-trezor.square.site^
 ||start-trezorio-en.square.site^
 ||start-trezr-app.square.site^
 ||start-trezr-iio.square.site^
 ||start-trezr-io-start.square.site^
 ||start-trezr-io.square.site^
+||start-trezr-wallet-7py.pages.dev^
 ||start-trezr.square.site^
 ||start-trezro-io.square.site^
 ||start-trezzr-io.square.site^
@@ -115506,6 +115587,7 @@
 ||tfdyhfhw.workers.dev^
 ||tfeayumc.workers.dev^
 ||tfezor-sulte.com^
+||tfezor.in^
 ||tffjkkmu.workers.dev^
 ||tfh4bmzx.workers.dev^
 ||tfh692.it^
@@ -121135,7 +121217,9 @@
 ||us-ledger.live^
 ||us-ledger.to^
 ||us-ledgerlive-wallet-en.pages.dev^
+||us-ledgerwallet.pages.dev^
 ||us-ledgr-com-auths.pages.dev^
+||us-live-ledger-auth.pages.dev^
 ||us-liveledger.com^
 ||us-manta-network.at^
 ||us-meetamusklogi.webflow.io^
@@ -121190,6 +121274,7 @@
 ||us-thruster-flnance.cc^
 ||us-traderjoexyz.at^
 ||us-tradingview.com^
+||us-trezer-wallet.pages.dev^
 ||us-trezor-en.pages.dev^
 ||us-trezor-login-learn.pages.dev^
 ||us-trezor-wallett.pages.dev^
@@ -121203,6 +121288,7 @@
 ||us-usdt.top^
 ||us-user-coinbase.com^
 ||us-uuphold-logzzz.webflow.io^
+||us-wallet-trezor-auth.pages.dev^
 ||us-welcome-coinbase-com.square.site^
 ||us-welcome-coinbase-eng.pages.dev^
 ||us-welcome-metamsk-cdn.square.site^
@@ -121268,6 +121354,7 @@
 ||usa-official-coinbase-helpcenter.typedream.app^
 ||usa-phantom-app-auth.webflow.io^
 ||usa-sso-uphold-com---auth.webflow.io^
+||usa-trezor-login-auth.pages.dev^
 ||usa-trezor.com^
 ||usa-trumpjoin.com^
 ||usa.coinbasedefi.com^
@@ -122367,6 +122454,7 @@
 ||v2defillama.net^
 ||v2dexrsceener.finance^
 ||v2drake.finance^
+||v2exchange.bond^
 ||v2falcon.finance^
 ||v2flux.finance^
 ||v2jumper.live^
