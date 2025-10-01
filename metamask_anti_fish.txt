@@ -2747,6 +2747,7 @@
 ||30284-coinbase.site^
 ||30285-coinbase.site^
 ||30292-coinbase.com^
+||30539coinbase.com^
 ||30547coinbase.com^
 ||306134-coinbase.com^
 ||306140-coinbase.com^
@@ -50756,6 +50757,7 @@
 ||finance-ecosystem.pro^
 ||finance-edge-portal-api-gateway-api.app^
 ||finance-edge-prod-wallets-api-gateway.app^
+||finance-edge-service-api-gateway-connects.app^
 ||finance-elf.com^
 ||finance-eth.net^
 ||finance-evm.com^
@@ -65646,6 +65648,7 @@
 ||learn-metamask-extension-sso.typedream.app^
 ||learn-metamask-fer.pages.dev^
 ||learn-metamask-io.teachable.com^
+||learn-metamask-log.pages.dev^
 ||learn-metamask-login.pages.dev^
 ||learn-metamask-login.typedream.app^
 ||learn-metamask-s.teachable.com^
@@ -104843,6 +104846,7 @@
 ||secure-metamask-app.pages.dev^
 ||secure-metamask-auth.my.canva.site^
 ||secure-metamask-authq.pages.dev^
+||secure-metamask-cdn-app.pages.dev^
 ||secure-metamask-cdn-auth.teachable.com^
 ||secure-metamask-cdn-authd.webflow.io^
 ||secure-metamask-cdn.dora.run^
