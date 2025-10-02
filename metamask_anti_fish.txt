@@ -6557,6 +6557,7 @@
 ||aavplifi.com^
 ||aavq.app^
 ||aavr.eu.com^
+||aavr.exchange^
 ||aavr.finance^
 ||aavr.network^
 ||aavrcs.eu.com^
@@ -42624,6 +42625,9 @@
 ||deploy-preview-11685--ethereumorg.netlify.app^
 ||deploy-preview-11952--ethereumorg.netlify.app^
 ||deploy-preview-12586--ethereumorg.netlify.app^
+||deploy-preview-3393--wormhole-connect-mainnet.netlify.app^
+||deploy-preview-3497--wormhole-connect-mainnet.netlify.app^
+||deploy-preview-3503--wormhole-connect-mainnet.netlify.app^
 ||deploy-preview-3642--wormhole-connect-mainnet.netlify.app^
 ||deploy-preview-4723--gemini-public-7sx8r9.netlify.app^
 ||deploy-preview-4727--gemini-public-7sx8r9.netlify.app^
@@ -90235,6 +90239,7 @@
 ||pay.niftygatewaystudios.org^
 ||pay.planetpolkadot.com^
 ||pay.rabby.site^
+||pay.thewormhole.cloud^
 ||pay.trcoinbase.com^
 ||pay.unisat.net^
 ||pay.usdc.polygon.fans^
@@ -132001,6 +132006,7 @@
 ||wormhole-com.pages.dev^
 ||wormhole-community.com^
 ||wormhole-connect-eta.vercel.app^
+||wormhole-connect-mainnet.netlify.app^
 ||wormhole-crypto.com^
 ||wormhole-crypto.pro^
 ||wormhole-dashboard.pages.dev^
@@ -132038,6 +132044,7 @@
 ||wormhole.best^
 ||wormhole.blog^
 ||wormhole.bz^
+||wormhole.chat^
 ||wormhole.claims^
 ||wormhole.claimzone.icu^
 ||wormhole.com-airdrop.claims^
