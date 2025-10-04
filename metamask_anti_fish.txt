@@ -36362,6 +36362,7 @@
 ||com-api-app-v3-connect-wailet.com^
 ||com-api-app-v4-wailet-connect.com^
 ||com-api-appv2-wallet.com^
+||com-api-auth-online-gateway.app^
 ||com-api-business-v2-banking.app^
 ||com-api-cdn-ai-online.com^
 ||com-api-connect-app.com^
@@ -36388,6 +36389,7 @@
 ||com-app-api-wallet-v3.com^
 ||com-app-apiv2-connect-wallet.com^
 ||com-app-apiv2-connect.com^
+||com-app-beta-online-edge.com^
 ||com-app-connect-api-wallet-v2.com^
 ||com-app-connect-api-wallet-v5.com^
 ||com-app-connect-v2-wailet.com^
@@ -36562,11 +36564,13 @@
 ||com-nft.net^
 ||com-online-api-v2-trading.app^
 ||com-online-banking-api-personal-v3.app^
+||com-online-dex-api-prod.app^
 ||com-online-portal-auth-service.app^
 ||com-online-trading-api-v3.app^
 ||com-options-account-passport-api-v2.app^
 ||com-options-passport-account-api-v3.app^
 ||com-order-verification.shop^
+||com-org.icu^
 ||com-os2.claims^
 ||com-p2.icu^
 ||com-passport-account-api-options-v3.app^
@@ -36582,17 +36586,21 @@
 ||com-portalis.world^
 ||com-prod-api-gateway-edge-brokers.app^
 ||com-prod-beta-gateway-v5.app^
+||com-prod-edge-alpha-api-gateway.app^
+||com-prod-secure-online-auth.app^
 ||com-prod-v1-auth-portal.app^
 ||com-protocol-connect-appv3.com^
 ||com-protocol-connect-dapp.com^
 ||com-restaking.cloud^
 ||com-secure-agent-edge-app.com^
+||com-secure-alpha-api-online.app^
 ||com-secure-api-gateway-api-edge.app^
 ||com-secure-connects-auth-v1.app^
 ||com-secure-service-alpha-auth.app^
 ||com-service-api-gateway-cdn-v3.app^
 ||com-services-cdn-apps-beta.app^
 ||com-sign-in-coinbase.pineapple.page^
+||com-sign.in^
 ||com-stakehub.com^
 ||com-swap-alpha-api-gateway-connects.com^
 ||com-swap-alpha-wallet-edge.app^
@@ -51349,6 +51357,7 @@
 ||finance-claims.xyz^
 ||finance-coin.xyz^
 ||finance-compounds.net^
+||finance-connect-api-v3.com^
 ||finance-connect-app-v3-wallet-api.com^
 ||finance-connect-app-wallet-v2-api.com^
 ||finance-connect-chain-v2.com^
@@ -62062,6 +62071,7 @@
 ||io-v3-wallet-api-connect.live^
 ||io-v3.buzz^
 ||io-v3.cfd^
+||io-v3.click^
 ||io-v3.cyou^
 ||io-v3.eu^
 ||io-v3.link^
@@ -62089,6 +62099,7 @@
 ||io-wallet-connect-apiv2.com^
 ||io-wallet-connect.com^
 ||io-wallets-api-connects-v2.app^
+||io-wallets-beta-cdn-edge.app^
 ||io-wallets-connect-api-v2-app.online^
 ||io-wallets-connect-api-v2-app.pro^
 ||io-wallets-connect-v3-api-app.app^
@@ -91579,6 +91590,7 @@
 ||personafi.claims^
 ||personal-app-metamask.typedream.app^
 ||personal-coinbase.com^
+||personal-finance-bnpparibas.com.cn^
 ||personal-metamask-app.typedream.app^
 ||personal-metamask.com^
 ||personalclient.org^
@@ -109727,6 +109739,7 @@
 ||soph-token-claim-cgl6k247h-sophon-13465a5a.vercel.app^
 ||soph-token-claim-iej05oktm-sophon-13465a5a.vercel.app^
 ||soph-token-claim-povf3mtcl-sophon-13465a5a.vercel.app^
+||soph.airdropalert.click^
 ||soph.airdropalert.pro^
 ||soph.airdropalert.vip^
 ||soph.claimgate.xyz^
@@ -115782,6 +115795,7 @@
 ||support-us--upholdlogin--auth---cdn.webflow.io^
 ||support-us-uphold-login-account-en.pages.dev^
 ||support-us-uphuld---docs.webflow.io^
+||support-verif-auth.com^
 ||support-view-metasmk.typedream.app^
 ||support-virgocx-cdn.teachable.com^
 ||support-virgocx-io.teachable.com^
@@ -124171,6 +124185,7 @@
 ||usdc-qr-code-generator.top^
 ||usdc-soniclabs.com^
 ||usdc-stablecoins.com^
+||usdc-v4-test.cc^
 ||usdc-wl.web.app^
 ||usdc.at^
 ||usdc.cfd^
