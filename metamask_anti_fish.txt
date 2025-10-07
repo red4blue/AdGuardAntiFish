@@ -7035,9 +7035,11 @@
 ||access-krken-lgn-auth.pages.dev^
 ||access-kyc-portal-coinbase.com^
 ||access-kyc-verification-link-coinbase.com^
+||access-learn-compro-auth.pages.dev^
 ||access-ledger-secure.com^
 ||access-ledgger-live-wallet-eng.pages.dev^
 ||access-login-account-robinhood-en-us.pages.dev^
+||access-login-upheld.pages.dev^
 ||access-login-x-uphold-eng.pages.dev^
 ||access-lombard.finance^
 ||access-metamask-com--cdn-io.bravesites.com^
@@ -12257,6 +12259,7 @@
 ||app-1inch.io-v3.cc^
 ||app-1inch.market^
 ||app-1inch.mrtest.pages.dev^
+||app-1inch.pro^
 ||app-1inch.tech^
 ||app-1inckh.net^
 ||app-1inclh.pro^
@@ -47843,6 +47846,7 @@
 ||en-uphold-us.pages.dev^
 ||en-uphold-wallet.pages.dev^
 ||en-upholdapp-auth.pages.dev^
+||en-upholdcom-us.pages.dev^
 ||en-upholdd-walet.pages.dev^
 ||en-upholdd.webflow.io^
 ||en-upholdlog.github.io^
@@ -51127,6 +51131,7 @@
 ||faqs-coinbaseoextension.typedream.app^
 ||faqs-coinbasewallet.typedream.app^
 ||faqs-en-coinn-base.pages.dev^
+||faqs-eng-coinbasepro-cdn.pages.dev^
 ||faqs-eng-krakon-cdn.pages.dev^
 ||faqs-geminn-io.webflow.io^
 ||faqs-in-en-secure.typedream.app^
@@ -66127,6 +66132,7 @@
 ||krzrconw.workers.dev^
 ||krzvcm.cc^
 ||ks0v9.coinbase-farmers.top^
+||ksh-portal-uphold.pages.dev^
 ||kshkshks.cfd^
 ||ksinnovations.site^
 ||ksiypptw.workers.dev^
@@ -68560,6 +68566,7 @@
 ||live-ledger-wallet-en-us.pages.dev^
 ||live-ledger-wallett-io-us.pages.dev^
 ||live-ledgr-login-en-us.pages.dev^
+||live-ledgr-wallet-en-us.pages.dev^
 ||live-legderwallet.azurewebsites.net^
 ||live-m-meta-mask-logi-en.godaddysites.com^
 ||live-meta-aa-ma-ask-logg-iin.godaddysites.com^
@@ -124752,6 +124759,7 @@
 ||uphold-logn-io.pages.dev^
 ||uphold-logn.pages.dev^
 ||uphold-logn.webflow.io^
+||uphold-logun.pages.dev^
 ||uphold-lugin-portal.pages.dev^
 ||uphold-org.webflow.io^
 ||uphold-phone.pages.dev^
@@ -124789,6 +124797,7 @@
 ||uphold-wallett-in.pages.dev^
 ||uphold-wallettt-in.pages.dev^
 ||uphold-wallettt.pages.dev^
+||uphold-walt-co.pages.dev^
 ||uphold-walt-web.pages.dev^
 ||uphold-walt-web3.pages.dev^
 ||uphold-walts-web3.pages.dev^
