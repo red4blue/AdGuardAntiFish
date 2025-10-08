@@ -5229,6 +5229,7 @@
 ||836917-crypto.com^
 ||837024-coinbase.com^
 ||8371-coinbase.com^
+||837143kraken.com^
 ||837204-coinbase.com^
 ||837232-coinbase.com^
 ||837241-coinbase.com^
@@ -13235,6 +13236,7 @@
 ||app-uimlsvvap.services^
 ||app-uni-infos.com^
 ||app-uni-sw-v6.com^
+||app-uni-swap-v2.com^
 ||app-uni.swap-dashboard-v3.app^
 ||app-unicorn-v4-exchange.org^
 ||app-unis-wap.com^
@@ -18827,6 +18829,7 @@
 ||beefy.requests-web3-claims.live^
 ||beefy.services-web3-claim.vip^
 ||beefy.sushi.onl^
+||beefy.v2-dashboard.homes^
 ||beefy.v2-dashboard.info^
 ||beefy.v2-dashboard.top^
 ||beefy.v2mult.icu^
@@ -30090,6 +30093,7 @@
 ||coinbas-contant-extension.gitbook.io^
 ||coinbas-customer-support-number.pages.dev^
 ||coinbas-e-wallet-extension.pages.dev^
+||coinbas-en--extension-pro.pages.dev^
 ||coinbas-en-extension-pro.pages.dev^
 ||coinbas-en-help-extension.typedream.app^
 ||coinbas-eng-sso.square.site^
@@ -32144,6 +32148,7 @@
 ||coinbase-walletd.webflow.io^
 ||coinbase-wallete.webflow.io^
 ||coinbase-walletextensin.gitbook.io^
+||coinbase-walleth-extnn.pages.dev^
 ||coinbase-walleti.webflow.io^
 ||coinbase-walletid.com^
 ||coinbase-walletloggins.gitbook.io^
@@ -44952,6 +44957,7 @@
 ||docs--coinbasepro--cdn-z--auths.webflow.io^
 ||docs--coinbasepro-cdnn--en-auth.webflow.io^
 ||docs--coinbasepro-cdnn-en-auth.webflow.io^
+||docs--coinnbase-extnsion.pages.dev^
 ||docs--en-connectt.gitbook.io^
 ||docs--en-walletconnectt.gitbook.io^
 ||docs--extensioe-coinbase.webflow.io^
@@ -48061,6 +48067,7 @@
 ||en-uphold-logn.pages.dev^
 ||en-uphold-portal.pages.dev^
 ||en-uphold-us.pages.dev^
+||en-uphold-usa.pages.dev^
 ||en-uphold-wallet.pages.dev^
 ||en-upholdapp-auth.pages.dev^
 ||en-upholdcom-us.pages.dev^
@@ -58874,6 +58881,7 @@
 ||help-upholdcom-eng.pineapple.page^
 ||help-upholds-com-en.pages.dev^
 ||help-uphuld-log.pages.dev^
+||help-uphuld.pages.dev^
 ||help-us-en-metamaskwallet.teachable.com^
 ||help-us-metamask.teachable.com^
 ||help-us-metask.gitbook.io^
@@ -68782,6 +68790,7 @@
 ||listings-nillion.com^
 ||listopen-sea.com^
 ||lit-uphold-login.pages.dev^
+||lite-dex.world^
 ||lite-nuxt-git-f-veda-vault-instadapp-eng.vercel.app^
 ||lite-phantom-org.webflow.io^
 ||lite.v2curve.finance^
@@ -84774,6 +84783,7 @@
 ||my-uphold-u-auth.pages.dev^
 ||my-upholds.com^
 ||my-uphrld-cdn.pages.dev^
+||my-uphuld-en.pages.dev^
 ||my-walletconnect.pages.dev^
 ||my-zerolend.xyz^
 ||my.aixoninvestment.com^
@@ -105825,6 +105835,7 @@
 ||safecontrol.website^
 ||safedapp.io^
 ||safedappsnet.com^
+||safeearn.app^
 ||safeengine.online^
 ||safefixpal.com^
 ||safefor.xyz^
@@ -114253,6 +114264,7 @@
 ||sso-uphold-log-docs-chw.pages.dev^
 ||sso-uphold-login-auth.pages.dev^
 ||sso-uphold-login-auths.pages.dev^
+||sso-uphold-login-com.pages.dev^
 ||sso-uphold-login-en-us-auth.webflow.io^
 ||sso-uphold-login-guide-us.pages.dev^
 ||sso-uphold-login-secure.pages.dev^
@@ -124683,6 +124695,7 @@
 ||unitbonad.com^
 ||unite-token.onrender.com^
 ||uniteairdrop.top^
+||uniteaiswap.com^
 ||unitechcapital.net^
 ||unitedairlinesjune3.pages.dev^
 ||unitedairtime.com^
@@ -124758,6 +124771,7 @@
 ||uniy.top^
 ||uniybon.com^
 ||uniyswapxchanngr.webflow.io^
+||uniytboned.com^
 ||unizen-bridge.com^
 ||unjiereisap.com^
 ||unjsowpc.cc^
@@ -125136,6 +125150,7 @@
 ||uphld-loginn.pages.dev^
 ||uphld-logn-auth-en.pages.dev^
 ||uphld-logn-info.pages.dev^
+||uphld-walets.pages.dev^
 ||uphld-wallet.hidde-689.workers.dev^
 ||uphld-wlt.pages.dev^
 ||uphld-york-wasng.webflow.io^
@@ -125317,6 +125332,7 @@
 ||uphold-support-cdn.pages.dev^
 ||uphold-support-tips-login.netlify.app^
 ||uphold-t-login.webflow.io^
+||uphold-us-en-cdn.pages.dev^
 ||uphold-us.pages.dev^
 ||uphold-usalogin.godaddysites.com^
 ||uphold-vault-assist-tool.pages.dev^
@@ -129691,6 +129707,7 @@
 ||wallet-accessldg.com^
 ||wallet-aioz-network.pages.dev^
 ||wallet-app.com^
+||wallet-app.org^
 ||wallet-assist-desk.app^
 ||wallet-auth-phantom.webflow.io^
 ||wallet-authenticate-devicetoken.vercel.app^
@@ -131365,6 +131382,7 @@
 ||web--sso--coinbasepro--cdn--oauth.webflow.io^
 ||web--sso-coinbase--oauth.webflow.io^
 ||web--suii-page.weebly.com^
+||web--uphol-com.pages.dev^
 ||web-1inch.com^
 ||web-1inch.to^
 ||web-3-gold.com^
