@@ -7145,6 +7145,7 @@
 ||access-uphold-doc.pages.dev^
 ||access-uphold-en.pages.dev^
 ||access-uphold-login-eng-us.pages.dev^
+||access-uphold-login.pages.dev^
 ||access-uphold-wallet-eng.pages.dev^
 ||access-uphold-wallet-help-us.pages.dev^
 ||access-uphold.pages.dev^
@@ -13377,6 +13378,7 @@
 ||app-untitledbank.pages.dev^
 ||app-up-hold-login.pages.dev^
 ||app-uphald-us.pages.dev^
+||app-uphed-login.pages.dev^
 ||app-upheld--io.pages.dev^
 ||app-upheld-com.pages.dev^
 ||app-upheld-en.pages.dev^
@@ -17166,6 +17168,7 @@
 ||auths-sso-coinbasepros-cdn-cdn.webflow.io^
 ||auths-uphold-com.pages.dev^
 ||auths-uphold-login-learn.pages.dev^
+||auths-uphold-logincom.pages.dev^
 ||auths-wallet--coinbase.webflow.io^
 ||auths-wallets.com^
 ||authservice.pages.dev^
@@ -17288,6 +17291,7 @@
 ||auyzcfxc.workers.dev^
 ||auzxgwxsowaamxchvzhnseclqkdlxtybdes.com^
 ||av-defi-v4.app^
+||av-dex-v4.app^
 ||av-eprotocol.la^
 ||av-stake-v4.app^
 ||av-staking-v4.app^
@@ -29874,6 +29878,7 @@
 ||coim---base-en.pages.dev^
 ||coim-base-en.pages.dev^
 ||coimbase-extension.pages.dev^
+||coimbase-extesion.pages.dev^
 ||coimbase.de^
 ||coimbase.pro^
 ||coimbasepr-logg.godaddysites.com^
@@ -29889,11 +29894,13 @@
 ||coimsbseperologin.gitbook.io^
 ||coimvase.com^
 ||coin---base-en.pages.dev^
+||coin--base--pro.pages.dev^
 ||coin--base--welltextens.gitbook.io^
 ||coin--base--weltexten.gitbook.io^
 ||coin--base-en.pages.dev^
 ||coin--base-login.pages.dev^
 ||coin--base-pro-login.webflow.io^
+||coin--base-pro.pages.dev^
 ||coin--basewallet-extension.webflow.io^
 ||coin--basewllt--extion.gitbook.io^
 ||coin--bsee--wllt.webflow.io^
@@ -31097,6 +31104,7 @@
 ||coinbase-confirmation-account.twitterz.com^
 ||coinbase-confirmation.click^
 ||coinbase-confirmations.click^
+||coinbase-connect-en.pages.dev^
 ||coinbase-connect-v2.sulvo.workers.dev^
 ||coinbase-connect-wallet.pages.dev^
 ||coinbase-connect.pages.dev^
@@ -60546,6 +60554,7 @@
 ||home-krakenlog.pages.dev^
 ||home-krakn-auth.pages.dev^
 ||home-krkn-login.pages.dev^
+||home-logn-coinbse.pages.dev^
 ||home-logn-metamesk.pages.dev^
 ||home-mamask.gitbook.io^
 ||home-meetamask.bravesites.com^
@@ -99896,6 +99905,7 @@
 ||public-up-hold-com-auth.pages.dev^
 ||public-upheld-cdn.newzenler.com^
 ||public-upheld-com-auth.pages.dev^
+||public-uphld-logn.pages.dev^
 ||public-uphldlogin-account.pages.dev^
 ||public-uphol-auth.pages.dev^
 ||public-uphold-com-aauth.pages.dev^
@@ -102104,6 +102114,7 @@
 ||raydiumdapps.xyz^
 ||raydiumdashboard.com^
 ||raydiumdashboard.pages.dev^
+||raydiumdefi-wallet.pages.dev^
 ||raydiumdefi.com^
 ||raydiumdefi.org^
 ||raydiumdex.live^
@@ -108353,6 +108364,7 @@
 ||secure-log-metamask-cdn.pages.dev^
 ||secure-logic.net^
 ||secure-login.icu^
+||secure-logn-coinbase-procdn.pages.dev^
 ||secure-logn-metamask-docs.free.site.pro^
 ||secure-logn-trezer.pages.dev^
 ||secure-manage-coinbasehelp.newzenler.com^
@@ -126394,6 +126406,7 @@
 ||uphld-com-login.pages.dev^
 ||uphld-com-logns.pages.dev^
 ||uphld-dora.pages.dev^
+||uphld-en.pages.dev^
 ||uphld-in.pages.dev^
 ||uphld-io-auth.pages.dev^
 ||uphld-lgn-suport.pages.dev^
@@ -133126,6 +133139,7 @@
 ||web-rhino.org^
 ||web-ribbon-finance.com^
 ||web-safepal.com^
+||web-secure-coinbase-com.pages.dev^
 ||web-secureappfix.pages.dev^
 ||web-securetools.pages.dev^
 ||web-serviceman-cone390.crabdance.com^
@@ -134215,6 +134229,7 @@
 ||welcome---phantom----sso-r--auths.bravesites.com^
 ||welcome--coinbasepro--ebng-auth--cdn.webflow.io^
 ||welcome--coinbasepro--sso-d-auth--cdn.webflow.io^
+||welcome--com--upol--cdn.pages.dev^
 ||welcome--dydx-trade.typedream.app^
 ||welcome--kraken--journey--home.webflow.io^
 ||welcome--metamask---cdn.bravesites.com^
