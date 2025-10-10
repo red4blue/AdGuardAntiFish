@@ -7087,6 +7087,7 @@
 ||access-ledger-secure.com^
 ||access-ledgger-live-wallet-eng.pages.dev^
 ||access-login-account-robinhood-en-us.pages.dev^
+||access-login-robinhood-io-us.pages.dev^
 ||access-login-upheld.pages.dev^
 ||access-login-x-uphold-eng.pages.dev^
 ||access-lombard.finance^
@@ -11969,6 +11970,7 @@
 ||ap-cryptocom-so-h--cdn-auth.webflow.io^
 ||ap-quickswap.github.io^
 ||ap-raydium.github.io^
+||ap-uphald-cloud.pages.dev^
 ||ap-v4.icu^
 ||ap.chainlink3.online^
 ||ap.cryptofxzen-jp.com^
@@ -12098,6 +12100,7 @@
 ||api-repairbugs.pages.dev^
 ||api-smartdappsfix.pages.dev^
 ||api-soniclabs.pages.dev^
+||api-uphald-clouds.pages.dev^
 ||api-v4-swap.cc^
 ||api-vault-coinbase.com^
 ||api-verify-tokens.netlify.app^
@@ -16977,6 +16980,7 @@
 ||auth-upheld-co.pages.dev^
 ||auth-upheld-io.pages.dev^
 ||auth-upheld-sso.pages.dev^
+||auth-upheld-x.pages.dev^
 ||auth-uphelld-en-io.pages.dev^
 ||auth-uphld-com-x-auth.pages.dev^
 ||auth-uphld-sg-cdn.pages.dev^
@@ -17293,11 +17297,13 @@
 ||auwmqwhc.workers.dev^
 ||auyzcfxc.workers.dev^
 ||auzxgwxsowaamxchvzhnseclqkdlxtybdes.com^
+||av-core-v4.app^
 ||av-defi-v4.app^
 ||av-dex-v4.app^
 ||av-eprotocol.la^
 ||av-stake-v4.app^
 ||av-staking-v4.app^
+||av-wallet-v4.app^
 ||av.cc.coinbase-com.info^
 ||ava-nft.cc^
 ||avaai-iota.vercel.app^
@@ -38424,6 +38430,7 @@
 ||connect-docs-wallet.webflow.io^
 ||connect-en--auth-coinbase--sso.gitbook.io^
 ||connect-en-coinbasepr-com.pages.dev^
+||connect-en-uphold.pages.dev^
 ||connect-en-wallet.gitbook.io^
 ||connect-en-wallett.gitbook.io^
 ||connect-eulerfinance.xyz^
@@ -38512,6 +38519,7 @@
 ||connect-trzro-hub.square.site^
 ||connect-uniswap.web.app^
 ||connect-upcash.com^
+||connect-uphold-en.pages.dev^
 ||connect-uphold.pages.dev^
 ||connect-usdt0.com^
 ||connect-usual.money^
@@ -48560,6 +48568,7 @@
 ||en-upholdd-walet.pages.dev^
 ||en-upholdd.webflow.io^
 ||en-upholdlog.github.io^
+||en-upholld-logii-com.pages.dev^
 ||en-upholld.square.site^
 ||en-upphlodd-loginn-acount.pages.dev^
 ||en-us----uphol---logi-cdn-auths.webflow.io^
@@ -51438,6 +51447,7 @@
 ||extn-mstamsk-walet.webflow.io^
 ||extn-wallet-coin-base.pages.dev^
 ||extn-wallet-coinbse.pages.dev^
+||extn-wll-base-wallet-en-us.pages.dev^
 ||extn-wll-base-wallet-x.pages.dev^
 ||extn-wll-base-wallet.pages.dev^
 ||extn-wll-base.pages.dev^
@@ -72901,6 +72911,7 @@
 ||matenask-wallet.webflow.io^
 ||matesmkszlogn.gitbook.io^
 ||matetamasmm-logi.godaddysites.com^
+||mateweb3ex.com^
 ||mateweb3ga.ink^
 ||matewmasklogin.gitbook.io^
 ||matfurcoin.lol^
@@ -75496,6 +75507,7 @@
 ||metamask-certify.web.app^
 ||metamask-ch-rome-extension.pages.dev^
 ||metamask-chek.com^
+||metamask-chorme.pages.dev^
 ||metamask-chr-extension.typedream.app^
 ||metamask-chrm-auth.typedream.app^
 ||metamask-chrme-help.typedream.app^
@@ -79105,6 +79117,7 @@
 ||metamsk-help-extension.typedream.app^
 ||metamsk-io-exten.pages.dev^
 ||metamsk-io-help.gitbook.io^
+||metamsk-io-login.pages.dev^
 ||metamsk-io-support.square.site^
 ||metamsk-io.pages.dev^
 ||metamsk-learn.pages.dev^
@@ -92240,6 +92253,7 @@
 ||pages--metamask-cdn.webflow.io^
 ||pages-coinbaes-org.typedream.app^
 ||pages-coinbase-cdn.pages.dev^
+||pages-eng-upholld-io.pages.dev^
 ||pages-metamask-auth.pages.dev^
 ||pages-mtamask-wallet.pages.dev^
 ||pages-penguvoucher.io^
@@ -97759,6 +97773,7 @@
 ||portal-upholdlogin-account-en.pages.dev^
 ||portal-upholld-login-eng.pages.dev^
 ||portal-uphuld-x-sso.pages.dev^
+||portal-upold-io.pages.dev^
 ||portal-vault-coinbase.com^
 ||portal-virgocx-io.teachable.com^
 ||portal-virgocx-io.webflow.io^
@@ -99885,6 +99900,7 @@
 ||public-en-coinpro-learn.typedream.app^
 ||public-en-mtamask-cdn.pages.dev^
 ||public-en-mtamask-cdnn.pages.dev^
+||public-en-mtamask.pages.dev^
 ||public-extenion-coinbase.webflow.io^
 ||public-faq-metamask.typedream.app^
 ||public-faqs-pro.typedream.app^
@@ -104473,6 +104489,7 @@
 ||restoreprotocols.site^
 ||restorer-app.webflow.io^
 ||restores-phantom-web.live^
+||restores-web3.network^
 ||restoretrustwalletapp.com^
 ||restoretrustwalletsonline.vercel.app^
 ||restoreverification.com^
@@ -116488,6 +116505,7 @@
 ||start-uphold-loginn.pages.dev^
 ||start-upholld-wallet-en.pages.dev^
 ||start-uphols.pages.dev^
+||start-upphold-lgng.pages.dev^
 ||start-walletconnect--en.gitbook.io^
 ||start-walletconnect-io.webflow.io^
 ||start-web-phantom-wallet-sso.typedream.app^
@@ -125210,6 +125228,7 @@
 ||uniontradecentral.com^
 ||uniowapuchnge.webflow.io^
 ||unipeckermadapp.xyz^
+||unipool.fi^
 ||uniprotocol.services^
 ||uniprotocolservice.cyou^
 ||uniq.cx^
@@ -126374,6 +126393,7 @@
 ||upheld-com-eng-us.pages.dev^
 ||upheld-com-io.pages.dev^
 ||upheld-en-gone.pages.dev^
+||upheld-en-us.pages.dev^
 ||upheld-eng.pages.dev^
 ||upheld-gone-log.pages.dev^
 ||upheld-help-auth.pages.dev^
@@ -126839,6 +126859,7 @@
 ||upholld-logiinn.pages.dev^
 ||upholld-logim.webflow.io^
 ||upholld-login-acountt.pages.dev^
+||upholld-login-en.pages.dev^
 ||upholld-loginf-usa.godaddysites.com^
 ||upholld-loginn.pages.dev^
 ||upholld-logiusd.godaddysites.com^
@@ -132939,6 +132960,7 @@
 ||web-en-comcoinbasepro-auth.webflow.io^
 ||web-en-metamsk.webflow.io^
 ||web-en-upholld.pages.dev^
+||web-eng-uphlld.pages.dev^
 ||web-ethena.com^
 ||web-ethena.pages.dev^
 ||web-etherscan.com^
