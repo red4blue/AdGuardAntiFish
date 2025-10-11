@@ -12120,6 +12120,7 @@
 ||api-repairbugs.pages.dev^
 ||api-smartdappsfix.pages.dev^
 ||api-soniclabs.pages.dev^
+||api-uphald-cloud-logoo.pages.dev^
 ||api-uphald-clouds.pages.dev^
 ||api-v4-swap.cc^
 ||api-vault-coinbase.com^
@@ -17201,6 +17202,7 @@
 ||auths-coinbase.com^
 ||auths-com-metamsk.pages.dev^
 ||auths-com-uphold.pages.dev^
+||auths-docs-sso-hld.pages.dev^
 ||auths-eng-coinpro.pages.dev^
 ||auths-matamaske.pages.dev^
 ||auths-metamask-login.pages.dev^
@@ -40977,6 +40979,7 @@
 ||curve.global-connect.net^
 ||curve.global-connect.org^
 ||curve.in^
+||curve.lite-dex.team^
 ||curve.meta-invite.services^
 ||curve.net^
 ||curve.net-b.click^
@@ -46750,6 +46753,7 @@
 ||dydx.ink^
 ||dydx.ltd^
 ||dydx.netlify.app^
+||dydx.portfolio-overview.ink^
 ||dydx.portfolio-overview.net^
 ||dydx.portfolio-overview.pro^
 ||dydx.ru^
@@ -46985,6 +46989,7 @@
 ||early-opensea.com^
 ||early-prometheansaga.pages.dev^
 ||early-suidaos.com^
+||early-upholl-en.pages.dev^
 ||early.symbiotiic.live^
 ||earlyaccess-base.app^
 ||earlyadopter-opensea.com^
@@ -50380,6 +50385,7 @@
 ||eu-coinbasewallet.com^
 ||eu-industrysonic.pages.dev^
 ||eu-pancakeswap.dysnix.org^
+||eu-phold.pages.dev^
 ||eu-trezor-suite-info.pages.dev^
 ||eu-web3systems.com^
 ||eu-web3systems.online^
@@ -68497,6 +68503,7 @@
 ||learn-trezrsuite.square.site^
 ||learn-trzo-suite.square.site^
 ||learn-tzrsuite-pages-dev.square.site^
+||learn-upheld-logi.pages.dev^
 ||learn-uphold-com-auth.pages.dev^
 ||learn-uphold-log-en.pages.dev^
 ||learn-uphold-logi.pages.dev^
@@ -68516,6 +68523,7 @@
 ||learncoinbase.gitbook.io^
 ||learns-ex-coinbase-ex.pages.dev^
 ||learns-ex-coinbase.pages.dev^
+||learns-upholld.pages.dev^
 ||learnz-ext-coinbse.gitbook.io^
 ||learnz-tzrsuite-pages.square.site^
 ||learrn-browser-coinbase.gitbook.io^
@@ -80772,6 +80780,7 @@
 ||metis-sushi.network^
 ||metis-sushi.pro^
 ||metis-sushi.xyz^
+||metis.airdropalert.click^
 ||metis.icu^
 ||metis.live^
 ||metis2020.com^
@@ -81978,6 +81987,7 @@
 ||metueansioens.gitbook.io^
 ||metuemeklogir.webflow.io^
 ||metuemsikalogin.webflow.io^
+||metuimask-logg.godaddysites.com^
 ||metuimaski_logi.godaddysites.com^
 ||metuimasklogin.webflow.io^
 ||metuimseklogin.webflow.io^
@@ -83774,6 +83784,7 @@
 ||mnutugrr.workers.dev^
 ||mnvzyrax.pages.dev^
 ||mnxsgkqw.workers.dev^
+||mo-uphuld-en.pages.dev^
 ||mo51g3.com^
 ||moatmaskloginss.webflow.io^
 ||mobad.xyz^
@@ -85936,8 +85947,11 @@
 ||my-upholds.com^
 ||my-uphrld-cdn.pages.dev^
 ||my-uphuld--en.pages.dev^
+||my-uphuld-en-aay.pages.dev^
 ||my-uphuld-en.pages.dev^
 ||my-uphuld-enn.pages.dev^
+||my-uphuld-oi.pages.dev^
+||my-uphuld-on.pages.dev^
 ||my-walletconnect.pages.dev^
 ||my-zerolend.xyz^
 ||my.aixoninvestment.com^
@@ -113422,6 +113436,7 @@
 ||spoooky.fi^
 ||spoooky.top^
 ||spoort-metamaskk.gitbook.io^
+||sport-defillmma-airdrop.pages.dev^
 ||sportsbook.coinbase-double.com^
 ||sportsdefi.io^
 ||spot-asterdex.com^
@@ -116879,6 +116894,7 @@
 ||start-uphold-login-com.pages.dev^
 ||start-uphold-login.pages.dev^
 ||start-uphold-loginn.pages.dev^
+||start-upholds.pages.dev^
 ||start-upholld-wallet-en.pages.dev^
 ||start-uphols.pages.dev^
 ||start-upphold-lgng.pages.dev^
@@ -117095,6 +117111,7 @@
 ||stellarpix.fr^
 ||stellarplex.info^
 ||stellarquant.top^
+||stellarsandbox.dev^
 ||stellarselm.com^
 ||stellarsteel.org^
 ||stellarsystem.io^
@@ -122067,6 +122084,7 @@
 ||thxs.in^
 ||thyg2teq.workers.dev^
 ||thyorigins.com^
+||tia.airdropalert.click^
 ||tia.eventdrops.com^
 ||tiagynfl.workers.dev^
 ||tianjin666.com^
@@ -126774,6 +126792,7 @@
 ||uphaldlmgin.godaddysites.com^
 ||uphaldlngen.godaddysites.com^
 ||uphdldlogui.godaddysites.com^
+||upheld--log.pages.dev^
 ||upheld--support.pages.dev^
 ||upheld--wallet.pages.dev^
 ||upheld-access-logos.pages.dev^
@@ -126801,6 +126820,8 @@
 ||upheld-lagin.pages.dev^
 ||upheld-liogin.netlify.app^
 ||upheld-liosin.netlify.app^
+||upheld-log-net.pages.dev^
+||upheld-logged.pages.dev^
 ||upheld-loggers-auth.pages.dev^
 ||upheld-loggin-acount-cdn.pages.dev^
 ||upheld-logiin.netlify.app^
@@ -133093,6 +133114,7 @@
 ||wct-season.pages.dev^
 ||wct-token.network^
 ||wct-token.website^
+||wct.airdropalert.click^
 ||wct.network^
 ||wctallocationsclaim.uno^
 ||wctclaim.netlify.app^
