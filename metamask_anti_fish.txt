@@ -7097,7 +7097,9 @@
 ||access-coinbasepro.pages.dev^
 ||access-collab.xyz^
 ||access-defillama-eng-us.pages.dev^
+||access-dydx-dex.pages.dev^
 ||access-dydx-trade-en-us.pages.dev^
+||access-dydxedex-en.pages.dev^
 ||access-en-coinbase-ex-ai.typedream.app^
 ||access-en-coinbasext.typedream.app^
 ||access-extensionn-coinbse--wallet.webflow.io^
@@ -46793,6 +46795,7 @@
 ||dydex-tradde-us.pages.dev^
 ||dydex-trade-net.typedream.app^
 ||dydex.trade^
+||dydexx-exchangee-portal.pages.dev^
 ||dydix-trade.webflow.io^
 ||dydix.trading^
 ||dydx-airdops.pages.dev^
@@ -46827,6 +46830,7 @@
 ||dydx-ex-trade.webflow.io^
 ||dydx-exchang.pages.dev^
 ||dydx-exchange--view.typedream.app^
+||dydx-exchange-cdn-us.pages.dev^
 ||dydx-exchange-com.pages.dev^
 ||dydx-exchange-dx.typedream.app^
 ||dydx-exchange-dxex.typedream.app^
@@ -46930,6 +46934,7 @@
 ||dydx.ink^
 ||dydx.ltd^
 ||dydx.netlify.app^
+||dydx.portfolio-overview.info^
 ||dydx.portfolio-overview.ink^
 ||dydx.portfolio-overview.net^
 ||dydx.portfolio-overview.pro^
@@ -48635,6 +48640,7 @@
 ||en-defillama.typedream.app^
 ||en-doxx-mett.gitbook.io^
 ||en-dydx-exchange.typedream.app^
+||en-dyydx-eschange.pages.dev^
 ||en-ekubo.org^
 ||en-es-coinbase-walet.pages.dev^
 ||en-es-defillama-app.typedream.app^
@@ -48664,6 +48670,7 @@
 ||en-helpp-metamask-cdn.teachable.com^
 ||en-home-io-coinbase.pages.dev^
 ||en-input--secure-coinbase-com.typedream.app^
+||en-io-dyd-dex.pages.dev^
 ||en-io-metamsk-support.webflow.io^
 ||en-io-trezro.square.site^
 ||en-iophantmwallet.pages.dev^
@@ -48914,6 +48921,7 @@
 ||en-us-coinbasehelp-cdn.teachable.com^
 ||en-us-coinpro-learn.typedream.app^
 ||en-us-docs-walletconnect.typedream.app^
+||en-us-dydx-trade-web.pages.dev^
 ||en-us-exten-mtamask.typedream.app^
 ||en-us-ledger-com-auths.pages.dev^
 ||en-us-metamask--login.webflow.io^
@@ -55868,6 +55876,7 @@
 ||get-eth.pages.dev^
 ||get-eth50.pages.dev^
 ||get-ethbonus.pages.dev^
+||get-exchanged-with-dydx.pages.dev^
 ||get-extension-rabby-wallet.pages.dev^
 ||get-extnsion-coinbase.gitbook.io^
 ||get-fartless.com^
@@ -56014,6 +56023,7 @@
 ||get-trzer-eng.square.site^
 ||get-uninetwork.com^
 ||get-updated-rabby-wallet.pages.dev^
+||get-updated-with-dydxdex.pages.dev^
 ||get-upheld-io.pages.dev^
 ||get-upheld-us.pages.dev^
 ||get-uphhold-lgn-io.pages.dev^
@@ -98206,6 +98216,7 @@
 ||portal-astar.xyz^
 ||portal-aster.com^
 ||portal-auth-coinbase.netlify.app^
+||portal-auth-dydx-exchnge.pages.dev^
 ||portal-auth-phantom-io.weebly.com^
 ||portal-bitcoin.icu^
 ||portal-bridge-trezor-io.square.site^
