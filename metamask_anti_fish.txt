@@ -24997,6 +24997,7 @@
 ||cetus.airdropalerts.bond^
 ||cetus.airdropalerts.icu^
 ||cetus.beefy.bar^
+||cetus.beefyapp.bond^
 ||cetus.beefyapp.sbs^
 ||cetus.cam^
 ||cetus.cfd^
@@ -25236,6 +25237,7 @@
 ||chaingpt.airdropalerts.icu^
 ||chaingpt.art^
 ||chaingpt.beefy.bar^
+||chaingpt.beefyapp.bond^
 ||chaingpt.beefyapp.lol^
 ||chaingpt.beefyapp.sbs^
 ||chaingpt.charity^
@@ -39359,6 +39361,8 @@
 ||compound.airdropalerts.sbs^
 ||compound.authereum.org^
 ||compound.beefy.bar^
+||compound.beefyapp.bond^
+||compound.beefyapp.cfd^
 ||compound.beefyapp.lol^
 ||compound.beefyapp.sbs^
 ||compound.cx^
@@ -55782,6 +55786,8 @@
 ||flow.airdropalerts.icu^
 ||flow.airdropsalert.icu^
 ||flow.beefy.bar^
+||flow.beefyapp.bond^
+||flow.beefyapp.cfd^
 ||flow.beefyapp.lol^
 ||flow.entry-cryptolist.app^
 ||flow.wedflow.in^
@@ -59176,6 +59182,7 @@
 ||graph.airdropalerts.sbs^
 ||graph.beefy.bar^
 ||graph.beefyapp.bond^
+||graph.beefyapp.cfd^
 ||graph.beefyapp.lol^
 ||graph.beefyapp.sbs^
 ||graphitesprotocol.com^
@@ -63820,6 +63827,8 @@
 ||hydration.airdropalerts.bond^
 ||hydration.airdropalerts.icu^
 ||hydration.beefy.bar^
+||hydration.beefyapp.bond^
+||hydration.beefyapp.cfd^
 ||hydration.beefyapp.lol^
 ||hydratlons.org^
 ||hydroprotocolfinance.pages.dev^
@@ -86786,6 +86795,7 @@
 ||mole.airdropalerts.bond^
 ||mole.airdropalerts.icu^
 ||mole.beefy.bar^
+||mole.beefyapp.bond^
 ||mole.beefyapp.lol^
 ||mole.beefyapp.sbs^
 ||mole.net^
@@ -86813,6 +86823,8 @@
 ||momentum.airdropalerts.icu^
 ||momentum.airdropalerts.sbs^
 ||momentum.beefy.bar^
+||momentum.beefyapp.bond^
+||momentum.beefyapp.cfd^
 ||momentum.beefyapp.lol^
 ||momentum.beefyapp.sbs^
 ||momentum.legal^
@@ -130818,6 +130830,7 @@
 ||update-smartwallet.com^
 ||update-suite-online.com^
 ||update-trezor.com^
+||update.coinbase.cbupdateshistory.online^
 ||update.ton-app.buzz^
 ||updatecoinbase.com^
 ||updatehelpcoinbases.com^
@@ -132487,6 +132500,7 @@
 ||usual.airdropalerts.bond^
 ||usual.airdropalerts.icu^
 ||usual.beefy.bar^
+||usual.beefyapp.bond^
 ||usual.beefyapp.sbs^
 ||usual.fi^
 ||usual.fund^
@@ -139920,6 +139934,8 @@
 ||wlfi.airdropalerts.life^
 ||wlfi.airdropalerts.sbs^
 ||wlfi.beefy.bar^
+||wlfi.beefyapp.bond^
+||wlfi.beefyapp.cfd^
 ||wlfi.beefyapp.lol^
 ||wlfi.club^
 ||wlfi.co.com^
@@ -145078,6 +145094,8 @@
 ||zeebu.airdropalerts.sbs^
 ||zeebu.airdropsalert.icu^
 ||zeebu.beefy.bar^
+||zeebu.beefyapp.bond^
+||zeebu.beefyapp.cfd^
 ||zeebu.beefyapp.lol^
 ||zeebu.beefyapp.sbs^
 ||zeebu.cn^
