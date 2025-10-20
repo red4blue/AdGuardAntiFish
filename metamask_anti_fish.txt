@@ -8348,6 +8348,7 @@
 ||ag-beta-secure-connects-dex.app^
 ||ag-beta-wallet-edge-v5.app^
 ||ag-chain-secure.com^
+||ag-claim.site^
 ||ag-connect-api-walletv3.com^
 ||ag-connect-dappv3.com^
 ||ag-connect-v4-wallet.com^
@@ -8368,6 +8369,7 @@
 ||ag-online-v3-secure-prod.cloud^
 ||ag-pools.com^
 ||ag-portal-auth-wallets-swap.cloud^
+||ag-secure-app-wallets-api.cloud^
 ||ag-secure-online-auth-swap.com^
 ||ag-service-auth-cdn-connect.app^
 ||ag-services-beta-wallet-cdn.cloud^
@@ -9161,11 +9163,13 @@
 ||airdrop-gion.com^
 ||airdrop-goatcoin.com^
 ||airdrop-goatcoin.space^
+||airdrop-goldcoin.fun^
 ||airdrop-gomble.site^
 ||airdrop-gorbana.live^
 ||airdrop-gork.org^
 ||airdrop-gra.fun^
 ||airdrop-graphtoken.com^
+||airdrop-grass.io^
 ||airdrop-griffain.com^
 ||airdrop-grvt.com^
 ||airdrop-gunbygunz.com^
@@ -9433,6 +9437,7 @@
 ||airdrop-sign.com^
 ||airdrop-sign.org^
 ||airdrop-skyai.com^
+||airdrop-smapocke.xyz^
 ||airdrop-sns.icu^
 ||airdrop-sns.in^
 ||airdrop-sns.top^
@@ -9540,6 +9545,7 @@
 ||airdrop-trc20.com^
 ||airdrop-trololol.com^
 ||airdrop-trololol.io^
+||airdrop-tron.info^
 ||airdrop-truezeuscoin.com^
 ||airdrop-trump.com^
 ||airdrop-trump.net^
@@ -11213,6 +11219,8 @@
 ||allocation-scrotl.net^
 ||allocation-shib.net^
 ||allocation-shib.org^
+||allocation-slerf.fun^
+||allocation-slerf.lol^
 ||allocation-soinclabs.com^
 ||allocation-soinclabs.net^
 ||allocation-soinclabs.xyz^
@@ -38670,6 +38678,7 @@
 ||com-api-secure-online-alpha.cloud^
 ||com-api-secure-portal-prod.app^
 ||com-api-swap-v3.cloud^
+||com-api-trading-secure-app.cloud^
 ||com-api-v2-app-wallet.com^
 ||com-api-v2-swap.cloud^
 ||com-api-v2-wallet-app.com^
@@ -38751,6 +38760,7 @@
 ||com-auth-id-78723468.com^
 ||com-auth-id-9851384.com^
 ||com-auth-one-account.com^
+||com-auth-online-swap-dex.cloud^
 ||com-auth-realms-customer.com^
 ||com-auth-supportcenter.online^
 ||com-authorize.app^
@@ -38858,6 +38868,7 @@
 ||com-gateway-edge-online-v5.app^
 ||com-gateway-invest-api-gateway-trade.app^
 ||com-gateway-trading-services-v2.com^
+||com-gateway-wallets-api-cdn.cloud^
 ||com-global4a3yg-ah4873x374a8hnai34.site^
 ||com-globalacs948tmfw9823-abnafg3847.space^
 ||com-he2.asia^
@@ -54813,6 +54824,7 @@
 ||finance-connect-chain-v2.com^
 ||finance-connect-fast.com^
 ||finance-connect-secure.com^
+||finance-connect-services-portal-wallet.cloud^
 ||finance-connect-v3-api-gateway-swap.cloud^
 ||finance-connect-v3-apps-wallet.com^
 ||finance-connect-v3-wallet-apps.com^
@@ -54851,7 +54863,9 @@
 ||finance-edge-prod-wallets-api-gateway.app^
 ||finance-edge-service-api-gateway-connects.app^
 ||finance-edge-service-cdn-beta.com^
+||finance-edge-swap-app-auth.cloud^
 ||finance-elf.com^
+||finance-en-main.app^
 ||finance-etf-zjni6m.live^
 ||finance-eth.net^
 ||finance-evm.com^
@@ -65986,6 +66000,7 @@
 ||io-fc.asia^
 ||io-foundation.com^
 ||io-gateway-api-beta-change.cloud^
+||io-gateway-api-service-online.cloud^
 ||io-gateway-cdn-dex-edge.app^
 ||io-hardware-wallets-api-v2.com^
 ||io-holders-rewards.com^
