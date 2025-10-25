@@ -13424,6 +13424,7 @@
 ||app-koinbase-login.pages.dev^
 ||app-kraken-login.pages.dev^
 ||app-kraken.com^
+||app-krrakein-login.pages.dev^
 ||app-krrekein-login.pages.dev^
 ||app-kyberswap.com^
 ||app-kyberswap.net^
@@ -14010,6 +14011,7 @@
 ||app-uphold-login.pages.dev^
 ||app-uphold-on-en.pages.dev^
 ||app-upholde.pages.dev^
+||app-uphuld-login-io.pages.dev^
 ||app-uppheld-en-cdn.pages.dev^
 ||app-upshift.finance^
 ||app-urisvvap.net^
@@ -17819,6 +17821,7 @@
 ||auth-uphold-cdn-com.webflow.io^
 ||auth-uphold-cdn-login.webflow.io^
 ||auth-uphold-com-eng.pages.dev^
+||auth-uphold-com-x-auth.pages.dev^
 ||auth-uphold-eng.my.canva.site^
 ||auth-uphold-login-account-en-us.pages.dev^
 ||auth-uphold-login-en.pages.dev^
@@ -30157,6 +30160,7 @@
 ||claims.campnetwork.us^
 ||claims.campnetwors.zone^
 ||claims.campxyz.network^
+||claims.deepbook.me^
 ||claims.deepbooks.cat^
 ||claims.deomaker-project.world^
 ||claims.eciipse.run^
@@ -58900,6 +58904,7 @@
 ||get-upholddlogin.pages.dev^
 ||get-upholdwallet-eng.pages.dev^
 ||get-uphould-lggo-us.pages.dev^
+||get-uphuld-login-en.pages.dev^
 ||get-uppholld-login.pages.dev^
 ||get-usd-free.netlify.app^
 ||get-usdc.web.app^
@@ -62175,6 +62180,7 @@
 ||help-en-metamask-usa-sso.webflow.io^
 ||help-en-metamask-usa.webflow.io^
 ||help-en-metamask-usi.webflow.io^
+||help-en-metamask-x.pages.dev^
 ||help-en-metamask.webflow.io^
 ||help-en-metamasks.teachable.com^
 ||help-en-metamsk-exten.typedream.app^
@@ -96202,6 +96208,7 @@
 ||opensee-en-help.pages.dev^
 ||opensee-en-support.pages.dev^
 ||opensee-en-us.pages.dev^
+||opensee-io-cloud.pages.dev^
 ||opensee-io-en.pages.dev^
 ||opensee-io-logn.pages.dev^
 ||opensee-io-us.pages.dev^
@@ -97596,12 +97603,14 @@
 ||page-metamasks-io.pages.dev^
 ||page-metammask-en.typedream.app^
 ||page-notica-confignotif-unlocks.com^
+||page-opensea-io.pages.dev^
 ||page-opensea-log.pages.dev^
 ||page-opensea-signup.pages.dev^
 ||page-profile.netlify.app^
 ||page-rabbywallet-safe.teachable.com^
 ||page-secure-pro-coinbase.typedream.app^
 ||page-sso--coinbaases.gitbook.io^
+||page-sso-uphold.pages.dev^
 ||page-trezor-io.pages.dev^
 ||page-trezor-starst.square.site^
 ||page-uphld.pages.dev^
@@ -121970,6 +121979,7 @@
 ||sso-uphold-com-cdn--y--oauth.webflow.io^
 ||sso-uphold-com-cdn-m---auth.webflow.io^
 ||sso-uphold-com-cdn-s---auth.webflow.io^
+||sso-uphold-com-cdn-x-auth.pages.dev^
 ||sso-uphold-com-cdn.squarespace.com^
 ||sso-uphold-com-cdnn-auth-en-usa.webflow.io^
 ||sso-uphold-com-s-auth.pages.dev^
@@ -133721,6 +133731,7 @@
 ||uphold-logged-in.pages.dev^
 ||uphold-loggin-s.pages.dev^
 ||uphold-loggin-suport-en.pages.dev^
+||uphold-logi-auth.pages.dev^
 ||uphold-logi-io.pages.dev^
 ||uphold-logi-ion.pages.dev^
 ||uphold-logi.pages.dev^
@@ -133765,6 +133776,7 @@
 ||uphold-login-u.pages.dev^
 ||uphold-login-ui.godaddysites.com^
 ||uphold-login-us-en.pages.dev^
+||uphold-login-us-usa.pages.dev^
 ||uphold-login-usa.netlify.app^
 ||uphold-login-uss.godaddysites.com^
 ||uphold-login-usss.godaddysites.com^
