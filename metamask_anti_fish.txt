@@ -55306,6 +55306,8 @@
 ||faq-log-coinbase.pages.dev^
 ||faq-login-trezor-en-us.pages.dev^
 ||faq-login-trezor-eng-us.pages.dev^
+||faq-login-uphold.pages.dev^
+||faq-logo-uphold.pages.dev^
 ||faq-matamask-wallet-en.typedream.app^
 ||faq-meta-loginmask.pages.dev^
 ||faq-meta-mask-login.pages.dev^
@@ -105319,6 +105321,7 @@
 ||pro-sso-kraken-cdn-w---oauth.webflow.io^
 ||pro-support-coin-log-doc.pages.dev^
 ||pro-tradingmasteryfx.com^
+||pro-upholdlogin.pages.dev^
 ||pro-vault-coinbase.com^
 ||pro-web-coinbase-auth-h-aoth.webflow.io^
 ||pro-x-coin--base-en-us-auth.webflow.io^
