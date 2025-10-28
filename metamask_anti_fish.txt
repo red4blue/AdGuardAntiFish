@@ -7410,6 +7410,7 @@
 ||access-uphold-ens-lgn.pages.dev^
 ||access-uphold-login-eng-us.pages.dev^
 ||access-uphold-login.pages.dev^
+||access-uphold-secure-login.pages.dev^
 ||access-uphold-wallet-eng.pages.dev^
 ||access-uphold-wallet-help-us.pages.dev^
 ||access-uphold.pages.dev^
@@ -7419,6 +7420,7 @@
 ||access-virtuals.app^
 ||access-wallet-uphld-en-us.pages.dev^
 ||access-wallet-uphold-eng.pages.dev^
+||access-wallets-uphelded-gets.pages.dev^
 ||access-web-coinbase-pro.webflow.io^
 ||access-welcome-coinbase.pineapple.page^
 ||access-whiterock.lol^
@@ -17943,6 +17945,7 @@
 ||auth-uphld-com-h-cdn.pages.dev^
 ||auth-uphld-com-x-auth.pages.dev^
 ||auth-uphld-sg-cdn.pages.dev^
+||auth-uphld-us.pages.dev^
 ||auth-uphld.webflow.io^
 ||auth-uphold--com-cdn-autth.webflow.io^
 ||auth-uphold--sso---cdn.webflow.io^
@@ -20777,6 +20780,7 @@
 ||beta.flow.myeglu.in^
 ||beta.flowcardano.org^
 ||beta.get-wallet-coinbase.com^
+||beta.loginsecurecoinbaseid.com^
 ||beta.nft-coinbase.com^
 ||beta.orca.sc^
 ||beta.portal-bridge.com^
@@ -33613,6 +33617,7 @@
 ||coinbase-mail.online^
 ||coinbase-mail.org^
 ||coinbase-mailbox.com^
+||coinbase-mailbox.support^
 ||coinbase-mailer.site^
 ||coinbase-mailing.com^
 ||coinbase-mails.com^
@@ -36834,6 +36839,7 @@
 ||coinbasesn.top^
 ||coinbasesocial.com^
 ||coinbasesolution.org^
+||coinbasesolutions.com^
 ||coinbasesolve.pages.dev^
 ||coinbasesoporte.com^
 ||coinbasesp.com^
@@ -39186,6 +39192,7 @@
 ||coinspace---sui-wallet.webflow.io^
 ||coinspace--sui-wallet.webflow.io^
 ||coinspro-login.pages.dev^
+||coinssbase.com^
 ||coinssbseprrologin.gitbook.io^
 ||coinsspusd.cc^
 ||coinstals.xyz^
@@ -52025,6 +52032,7 @@
 ||eng-us-phantom.pages.dev^
 ||eng-us-uphold.pages.dev^
 ||eng-walletcnect.gitbook.io^
+||eng-wallett-upphold.pages.dev^
 ||eng-web-metamask-chrome.teachable.com^
 ||eng-welcome-metamask.teachable.com^
 ||eng-x-upheldd-eng-sso.pages.dev^
@@ -59433,6 +59441,7 @@
 ||get-web-coinbase--extsion.webflow.io^
 ||get-web-coinbase.webflow.io^
 ||get-webwalltconect.gitbook.io^
+||get-welcome-walletup-hold.pages.dev^
 ||get-wld.org^
 ||get-wlfi.com^
 ||get-wlfi.info^
@@ -59627,6 +59636,7 @@
 ||gets-plumenetworks.live^
 ||gets-sonic.live^
 ||gets-spx6900.com^
+||gets-uphold-lgns-started-ens.pages.dev^
 ||gets-vaderai.com^
 ||getsbeastmemes.com^
 ||getsbeckermemcoins.com^
@@ -93014,6 +93024,7 @@
 ||nexoswap.vercel.app^
 ||nexshain.website^
 ||nexsu.xyz^
+||nexswap.limited^
 ||next-coinbase-crome.typedream.app^
 ||next-coins-on-coinbase-are-hiding-in.bentobookshop.com^
 ||next-defi2.vercel.app^
@@ -122928,6 +122939,7 @@
 ||sso-uphld-com-cdn-authd.square.site^
 ||sso-uphlld-auth-com---cdn.pages.dev^
 ||sso-uphlld-auth-com.pages.dev^
+||sso-uphlld-logn-io.pages.dev^
 ||sso-uphlld-web-us.pages.dev^
 ||sso-uphlp-nw.pages.dev^
 ||sso-uphold----com---cdn--x--auth.weebly.com^
@@ -126439,6 +126451,7 @@
 ||support-upholdd.pages.dev^
 ||support-upholdexchange-uphold-app-cdn.pages.dev^
 ||support-uphud-logn.pages.dev^
+||support-upphold.pages.dev^
 ||support-us--upholdlogin--auth---cdn.webflow.io^
 ||support-us-meta-mask.pages.dev^
 ||support-us-uphold-login-account-en.pages.dev^
@@ -134791,6 +134804,7 @@
 ||uphold-en-net.pages.dev^
 ||uphold-en-reset.pages.dev^
 ||uphold-en-us-help.pages.dev^
+||uphold-eng-auths.pages.dev^
 ||uphold-eng-login.pages.dev^
 ||uphold-eng-loginaccount.pages.dev^
 ||uphold-eng.pages.dev^
