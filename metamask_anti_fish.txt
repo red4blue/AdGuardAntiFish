@@ -6435,6 +6435,7 @@
 ||989113-coinbase.com^
 ||989273-coinbase.com^
 ||989308t-coinbase.com^
+||989usdc.com^
 ||98bsapz8.workers.dev^
 ||98meplt1.com^
 ||99-bitcoins.com^
@@ -18296,6 +18297,7 @@
 ||auth-uphold--sso---cdn.webflow.io^
 ||auth-uphold-auth-io.pages.dev^
 ||auth-uphold-cdn-auth.pages.dev^
+||auth-uphold-cdn-com.pages.dev^
 ||auth-uphold-cdn-com.webflow.io^
 ||auth-uphold-cdn-login.webflow.io^
 ||auth-uphold-com-eng.pages.dev^
@@ -74744,6 +74746,7 @@
 ||learn-uphlod-login.pages.dev^
 ||learn-uphlod.pages.dev^
 ||learn-uphold-com-auth.pages.dev^
+||learn-uphold-docs.pages.dev^
 ||learn-uphold-log-en.pages.dev^
 ||learn-uphold-log.pages.dev^
 ||learn-uphold-logi.pages.dev^
@@ -118507,6 +118510,7 @@
 ||secure-wallet-cnbs.hosie05.workers.dev^
 ||secure-wallet-coinbase-auth.webflow.io^
 ||secure-wallet-coinbase.com^
+||secure-wallet-uphold.pages.dev^
 ||secure-wallet.online^
 ||secure-walletconnect.xyz^
 ||secure-wallets-trans.live^
@@ -120002,6 +120006,8 @@
 ||site-manager.eu^
 ||site-opensea-auth.webflow.io^
 ||site-r-coinbase.webflow.io^
+||site-uphold-auth-com.pages.dev^
+||site-uphold-com-auth.pages.dev^
 ||site.am.coinbase.site^
 ||site.verify-coinbase-id.com^
 ||sitemap-public.1948272-coinbase.com^
@@ -137945,6 +137951,7 @@
 ||uphold-en-hellp.pages.dev^
 ||uphold-en-help.pages.dev^
 ||uphold-en-log-in.pages.dev^
+||uphold-en-logins.pages.dev^
 ||uphold-en-logn.pages.dev^
 ||uphold-en-logo.pages.dev^
 ||uphold-en-net.pages.dev^
