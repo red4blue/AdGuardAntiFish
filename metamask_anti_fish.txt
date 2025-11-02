@@ -3249,6 +3249,7 @@
 ||386491-coinbase.com^
 ||386812-coinbase.com^
 ||387136-coinbase.com^
+||387229coinbase.com^
 ||3872verification-account-loggin-coinbase-com.crabdance.com^
 ||387459-coinbase.com^
 ||387582-coinbase.com^
@@ -5808,6 +5809,7 @@
 ||892124-coinbase.com^
 ||892130-coinbase.com^
 ||89214-coinbase.com^
+||89232-kraken.com^
 ||892346-coinbase.com^
 ||892367-coinspot.com^
 ||892371t-coinbase.com^
@@ -9504,6 +9506,7 @@
 ||airdrop-humafinance.com^
 ||airdrop-hunterz.fun^
 ||airdrop-hype.com^
+||airdrop-hype.fun^
 ||airdrop-hyperiiquid.xyz^
 ||airdrop-hyperion.com^
 ||airdrop-hyperlane.xyz^
@@ -9695,6 +9698,7 @@
 ||airdrop-payai.network^
 ||airdrop-peipei.xyz^
 ||airdrop-peipeicoin.xyz^
+||airdrop-pendle.xyz^
 ||airdrop-pengu.com^
 ||airdrop-pepe.cfd^
 ||airdrop-pepecoin.xyz^
@@ -9835,6 +9839,7 @@
 ||airdrop-spaceandtime.live^
 ||airdrop-spaceandtime.xyz^
 ||airdrop-spark.com^
+||airdrop-sprite.com^
 ||airdrop-spx.com^
 ||airdrop-stake.org^
 ||airdrop-stake.vercel.app^
@@ -9896,6 +9901,7 @@
 ||airdrop-trustwallet.com^
 ||airdrop-trustwallet.io^
 ||airdrop-trustwallet.org^
+||airdrop-trustwallet.xyz^
 ||airdrop-turtle.fun^
 ||airdrop-turtle.xyz^
 ||airdrop-tutorialtoken.com^
@@ -14262,6 +14268,7 @@
 ||app-trustpads.net^
 ||app-trustpads.org^
 ||app-trustpads.pw^
+||app-trustwallet.help^
 ||app-trustwallet.pages.dev^
 ||app-turbos.github.io^
 ||app-turbos.typedream.app^
@@ -16894,6 +16901,7 @@
 ||assetcrafters.org^
 ||assetguardianhub-app.onrender.com^
 ||assethelp-coinbase.com^
+||assetloss-coinbase.com^
 ||assetprotection-coinbase.com^
 ||assetrecoverytool.com^
 ||assetrectify.pages.dev^
@@ -17081,6 +17089,7 @@
 ||assetsafety-coinbase.com^
 ||assetsdapps.netlify.app^
 ||assetsdex.netlify.app^
+||assetsecurity-coinbase.com^
 ||assetsite.com^
 ||assetspacifics.ltd^
 ||assetsrecovercoinbasede.com^
@@ -17514,6 +17523,7 @@
 ||attach-coinbase.com^
 ||attackertv.click^
 ||attarius.from-pr.com^
+||attempt-coinbase.com^
 ||attestable-assetscan-base.online^
 ||attestable-layer.website^
 ||attestable-monitor.website^
@@ -18291,6 +18301,7 @@
 ||auth-verify-8753.vercel.app^
 ||auth-verify-9490.vercel.app^
 ||auth-verify-9551.vercel.app^
+||auth-verify-service.com^
 ||auth-vertex-protocol-en-us.pages.dev^
 ||auth-view-coinbas--m.webflow.io^
 ||auth-wallconnect.gitbook.io^
@@ -34019,6 +34030,7 @@
 ||coinbase-help.support^
 ||coinbase-help.typedream.app^
 ||coinbase-helpcare.pages.dev^
+||coinbase-helpcenter.com^
 ||coinbase-helpcenter.pages.dev^
 ||coinbase-helpcentre.com^
 ||coinbase-helpdesk-base.com^
@@ -34649,6 +34661,7 @@
 ||coinbase-security.net^
 ||coinbase-security.netlify.app^
 ||coinbase-security.pro^
+||coinbase-securitysupport.com^
 ||coinbase-seedphrase.netlify.app^
 ||coinbase-selfhelp.com^
 ||coinbase-seo.pages.dev^
@@ -40348,6 +40361,7 @@
 ||com-api-gateway-prod-auth-edge.cloud^
 ||com-api-gateway-swap-connect-cdn.cloud^
 ||com-api-gateway-v2-online-apps.com^
+||com-api-gateway-wallets-v1-edge.cloud^
 ||com-api-online-secure-dex.cloud^
 ||com-api-online-v1-auth.app^
 ||com-api-portal-service-cdn.com^
@@ -40396,6 +40410,7 @@
 ||com-app-v2-waliets-connect.com^
 ||com-app-v3-connect-api-wailet.com^
 ||com-app-v3-wallet-connect.com^
+||com-app-v4-wallet-connect.com^
 ||com-app-v5-wallet-connect.com^
 ||com-app-wailets-connects-v2.com^
 ||com-app-wallet-api-v3-connect.com^
@@ -40452,6 +40467,7 @@
 ||com-authorize.app^
 ||com-auths-uphold-login.pages.dev^
 ||com-award.cc^
+||com-bank-api-v3.cloud^
 ||com-banking-personal-api-v2-online.app^
 ||com-beta-api-secure-services.cloud^
 ||com-beta-auth-alpha-dex.cloud^
@@ -40634,6 +40650,7 @@
 ||com-prod-beta-alpha-api.cloud^
 ||com-prod-beta-gateway-v5.app^
 ||com-prod-edge-alpha-api-gateway.app^
+||com-prod-gateway-auth-secure.cloud^
 ||com-prod-secure-online-auth.app^
 ||com-prod-swap-online-v2.cloud^
 ||com-prod-trade-api-gateway-edge.cloud^
@@ -40649,6 +40666,7 @@
 ||com-secure-alpha-api-online.app^
 ||com-secure-api-gateway-api-edge.app^
 ||com-secure-api-gateway-dex-swap.cloud^
+||com-secure-app-edge-alpha.cloud^
 ||com-secure-auth.com^
 ||com-secure-beta-edge-alpha.cloud^
 ||com-secure-connects-auth-v1.app^
@@ -40661,7 +40679,9 @@
 ||com-service-api-gateway-cdn-v3.app^
 ||com-service-api-gateway-gateway-auth.cloud^
 ||com-service-api-trade-secure.cloud^
+||com-service-app-cluster-api-gateway.cloud^
 ||com-service-auth-secure-trading.cloud^
+||com-service-online.cloud^
 ||com-service-portal-gateway-api.cloud^
 ||com-services-api-apps-gateway.com^
 ||com-services-cdn-apps-beta.app^
@@ -40699,6 +40719,7 @@
 ||com-trading-api-gateway-gateway-cdn.cloud^
 ||com-trading-api-online-v3.app^
 ||com-trading-auth-api-secure.com^
+||com-trading-invest-api-v2.cloud^
 ||com-trading-secure-online-gateway.cloud^
 ||com-tron.app^
 ||com-tron.cat^
@@ -40789,6 +40810,7 @@
 ||com-wallet-app-v3-api.com^
 ||com-wallet-block-defi.com^
 ||com-wallet-connect-v2-app.info^
+||com-wallet-connect-v4-app.com^
 ||com-wallet-connect-v4.com^
 ||com-wallet-defi-v3-api.com^
 ||com-wallet-dex-v3-service.cloud^
@@ -45184,6 +45206,7 @@
 ||dappcore.com^
 ||dappcreativefix.pages.dev^
 ||dappcrypto-connect.pages.dev^
+||dappcrypto-dapp.space^
 ||dappcryptted.pages.dev^
 ||dappdao.pages.dev^
 ||dappdappradar.com^
@@ -45392,6 +45415,7 @@
 ||dapps-migration.web.app^
 ||dapps-modify.pages.dev^
 ||dapps-multichain.pages.dev^
+||dapps-node.com^
 ||dapps-onchain.xyz^
 ||dapps-presale.pages.dev^
 ||dapps-protocol.pages.dev^
@@ -57180,7 +57204,9 @@
 ||fi-p2.icu^
 ||fi-personal-connect-v3-wallet.com^
 ||fi-personal-wallet-connectv3.com^
+||fi-pool.com^
 ||fi-pools.app^
+||fi-portal-apps-cdn-beta.cloud^
 ||fi-portal.app^
 ||fi-prod-online-portal-edge.cloud^
 ||fi-rewards.info^
@@ -57205,6 +57231,7 @@
 ||fi-treasury-pools.app^
 ||fi-treasury.com^
 ||fi-treasurypool.com^
+||fi-treasurypools.com^
 ||fi-v1.com^
 ||fi-v1.digital^
 ||fi-v1.icu^
@@ -57430,6 +57457,7 @@
 ||finance-app-v3-waliet.com^
 ||finance-app-v3-wallet-connect.com^
 ||finance-app-v3-wallet.com^
+||finance-app-v4-wallet-connect.com^
 ||finance-app-v5-wallet-connect.com^
 ||finance-app-v6-connect-waliet.com^
 ||finance-app-waliet-v2.com^
@@ -57466,6 +57494,7 @@
 ||finance-cdn-wallets-api-gateway-api.cloud^
 ||finance-chain-web3-swap.com^
 ||finance-chaln.link^
+||finance-check-eligibilit.cyou^
 ||finance-claims.xyz^
 ||finance-coin.xyz^
 ||finance-coinbase.info^
@@ -57576,6 +57605,7 @@
 ||finance-s1.com^
 ||finance-s4.com^
 ||finance-secure-api-auth-edge.com^
+||finance-secure-apps-api-prod.cloud^
 ||finance-service-api-auth-secure.com^
 ||finance-services-swap-cdn-prod.cloud^
 ||finance-solvbtc.site^
@@ -72783,6 +72813,8 @@
 ||kra42c.com^
 ||kra42cc-c.ru^
 ||kra43--cc.ru^
+||kra43-cc-kraken.online^
+||kra43cc-kraken.online^
 ||kra43cc-kraken.ru^
 ||kra44--cc.cc^
 ||kraaikenluogin.webflow.io^
@@ -72872,6 +72904,7 @@
 ||kraken-darknets.com^
 ||kraken-de.com^
 ||kraken-de.org^
+||kraken-defi.live^
 ||kraken-discuss.com^
 ||kraken-en-log.pages.dev^
 ||kraken-en-us-portal.pages.dev^
@@ -74004,6 +74037,7 @@
 ||layer2s.net^
 ||layer3-foundation.xyz^
 ||layer3-marketplace.net^
+||layer3-polygon.xyz^
 ||layer3-webapp.com^
 ||layer3.dapp-web3.net^
 ||layer3.life^
@@ -77634,6 +77668,7 @@
 ||lsvoqvycubwfc.cc^
 ||lswwysqb.workers.dev^
 ||lszbrsbx.workers.dev^
+||lt-edge-online-v2-api-gateway.cloud^
 ||lt-v5-beta-api-gateway-login.cloud^
 ||ltajxbin.workers.dev^
 ||ltc-mixer.to^
@@ -99761,6 +99796,7 @@
 ||org-app-v3-wallet-connect.com^
 ||org-app-v3-wallet.com^
 ||org-app-v3.cc^
+||org-app-v4-wallet-connect.com^
 ||org-app-v5-wallet-connect.com^
 ||org-app-wallet-apiv2.com^
 ||org-app-wallet-connect-v4.com^
@@ -99877,6 +99913,7 @@
 ||org-olx.qpon^
 ||org-olz.cc^
 ||org-olz.qpon^
+||org-online-api-gateway-swap-api.cloud^
 ||org-opd.bond^
 ||org-ope.icu^
 ||org-ope.qpon^
@@ -100702,6 +100739,7 @@
 ||pan-connect-v3.app^
 ||pan-connect-v4.app^
 ||pan-dex-v4.app^
+||pan-exchange.pro^
 ||pan-swap-v3.app^
 ||pan-swap-v4.app^
 ||pan-swap.org^
@@ -109261,6 +109299,7 @@
 ||pump-eligible.com^
 ||pump-foundation.xyz^
 ||pump-fun-airdrop.online^
+||pump-fun-airdrop.xyz^
 ||pump-fun.buzz^
 ||pump-fun.cfd^
 ||pump-fun.digital^
@@ -110385,6 +110424,7 @@
 ||qwapexchanger.eu.com^
 ||qwaq1.com^
 ||qwe.hjtvwfksrc.my^
+||qwe.rizwstkeyd.my^
 ||qwe.zfxriwrtqr.my^
 ||qwe1.ac^
 ||qwedftr.xyz^
@@ -113576,6 +113616,7 @@
 ||resol.finance^
 ||resollv.space^
 ||resolute-integration.icu^
+||resolutionfixdapps.site^
 ||resolutionfixserver.pages.dev^
 ||resolutionhera.online^
 ||resolutionmainnnett.vercel.app^
@@ -113808,6 +113849,7 @@
 ||retropenguin.net^
 ||retsync.pages.dev^
 ||returnprofit247.com^
+||rev-o-ke.cash^
 ||rev-octrevoptumrevvard.pages.dev^
 ||rev-sebinumiokare.pages.dev^
 ||rev0ke.live^
@@ -114688,6 +114730,7 @@
 ||rewards-merchant.network^
 ||rewards-metamask.app^
 ||rewards-metamask.io^
+||rewards-metamask.xyz^
 ||rewards-meteora.app^
 ||rewards-meth.com^
 ||rewards-meth.net^
@@ -118376,6 +118419,7 @@
 ||secureaccount-coinbase.com^
 ||secureappfast.com^
 ||securease-trezor.com^
+||secureassets-coinbase.com^
 ||secureauthlogin.com^
 ||secureauthnode.vercel.app^
 ||securebasepriming.pages.dev^
@@ -118475,6 +118519,7 @@
 ||securesupportscoinbase.com^
 ||securetd.pages.dev^
 ||secureticket-coinbase.com^
+||securetickets-coinbase.com^
 ||securetokenchecker.com^
 ||securetool.org^
 ||securetools.xyz^
@@ -134862,6 +134907,7 @@
 ||trust-walletadv.com^
 ||trust-walletaml.com^
 ||trust-wallets.sbs^
+||trust-walletsupport.help^
 ||trust-web3.cn^
 ||trust-web3.com^
 ||trust.dapp3-tools.com^
@@ -138653,6 +138699,7 @@
 ||us05web-zoom.chat^
 ||us05web-zoom.click^
 ||us05web-zoom.cloud^
+||us05web-zoom.com^
 ||us05web-zoom.forum^
 ||us05web-zoom.fun^
 ||us05web-zoom.guru^
@@ -139812,6 +139859,7 @@
 ||v0tm37ch.workers.dev^
 ||v0xwyly8.workers.dev^
 ||v0yg4hwp.workers.dev^
+||v1-api-paymenthighway.sbs^
 ||v1-basebridge.app^
 ||v1-beefy.com^
 ||v1-blast.xyz^
@@ -145755,6 +145803,7 @@
 ||web3decentralizedgateway.pages.dev^
 ||web3degen.pages.dev^
 ||web3developement.biz^
+||web3digitalwallet.online^
 ||web3distribution.xyz^
 ||web3duck.com^
 ||web3ep.com^
@@ -151084,6 +151133,7 @@
 ||xn--pncakeswap-3gb.com^
 ||xn--pncakeswap-3gb.finance^
 ||xn--pncakeswap-s4a.finance^
+||xn--polygonsca-29a.com^
 ||xn--polymrket-u1a.com^
 ||xn--portfolo-metamask-jvb.org^
 ||xn--privnte-p0a.com^
@@ -151577,6 +151627,7 @@
 ||xyz-apiv2-wallet-connect-web.com^
 ||xyz-apiv3-connect.com^
 ||xyz-app-v3-wallet-connect.com^
+||xyz-app-v4-wallet-connect.com^
 ||xyz-app-v5-wallet-connect.com^
 ||xyz-app-wailet-connect.com^
 ||xyz-appv2-wailet-connect.com^
@@ -151959,6 +152010,7 @@
 ||yield-iista.xyz^
 ||yield-lista.xyz^
 ||yield-plasma.to^
+||yield-stack-finance.live^
 ||yield-yak.net^
 ||yield.airdrpsalert.lol^
 ||yield.beefyhubs.club^
