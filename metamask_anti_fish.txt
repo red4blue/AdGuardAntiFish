@@ -14358,6 +14358,8 @@
 ||app-uphold-apps-auth.pages.dev^
 ||app-uphold-com---cdn--x-auth.webflow.io^
 ||app-uphold-com-auth.pages.dev^
+||app-uphold-com-x-auth.pages.dev^
+||app-uphold-com.pages.dev^
 ||app-uphold-en-us.pages.dev^
 ||app-uphold-eng-us.pages.dev^
 ||app-uphold-eng.pages.dev^
@@ -31396,6 +31398,7 @@
 ||cloud-uphold-access-logn.pages.dev^
 ||cloud-uphold-eng.pages.dev^
 ||cloud-uphold-login.pages.dev^
+||cloud-uphold-us.pages.dev^
 ||cloud-uphold-wallet-en.pages.dev^
 ||cloud-upold-login.pages.dev^
 ||cloud-webs-coenbas.pages.dev^
@@ -41731,6 +41734,7 @@
 ||connect-cnbs.red20.workers.dev^
 ||connect-cnbs.walrus112.workers.dev^
 ||connect-coen--en.pineapple.page^
+||connect-coimbase-extension-cdn.pages.dev^
 ||connect-coinbas-extensio-en-us.pages.dev^
 ||connect-coinbas-extensio.pages.dev^
 ||connect-coinbas-extension-wallet.pages.dev^
@@ -52494,6 +52498,8 @@
 ||en-help-extension.typedream.app^
 ||en-help-metamask-auth.teachable.com^
 ||en-help-metamask.teachable.com^
+||en-help-uphold-cdn-auth.pages.dev^
+||en-help-uphold-cdn.pages.dev^
 ||en-helpp-metamask-cdn.teachable.com^
 ||en-home-io-coinbase.pages.dev^
 ||en-home-uphold-com.pages.dev^
@@ -52806,6 +52812,7 @@
 ||en-uphold-com-logn.pages.dev^
 ||en-uphold-com.pages.dev^
 ||en-uphold-coms-cdn-view--auth.webflow.io^
+||en-uphold-help-centre.pages.dev^
 ||en-uphold-help.pages.dev^
 ||en-uphold-io.pages.dev^
 ||en-uphold-login-us-bh3.pages.dev^
@@ -52903,6 +52910,7 @@
 ||en-v2debank.com^
 ||en-view-bridge.pages.dev^
 ||en-wallet-rabby--cdn.teachable.com^
+||en-wallet-uphold-com.pages.dev^
 ||en-walletconect.gitbook.io^
 ||en-walletcont.gitbook.io^
 ||en-wallstreetpepe.pages.dev^
@@ -56497,6 +56505,7 @@
 ||faq-ledger-live-wallet-us.pages.dev^
 ||faq-ledger-live-wallett-eng-us.pages.dev^
 ||faq-log-coinbase.pages.dev^
+||faq-log-uphold.pages.dev^
 ||faq-login-trezor-en-us.pages.dev^
 ||faq-login-trezor-eng-us.pages.dev^
 ||faq-login-uphold.pages.dev^
@@ -56599,6 +56608,7 @@
 ||faq.1785726-coinbase.com^
 ||faq.coinbase-pro.de^
 ||faq_metamask.typedream.app^
+||faqg-login-uphold.pages.dev^
 ||faqs-bridge--en.square.site^
 ||faqs-bridge-cdn.square.site^
 ||faqs-bridge-trezor.pages.dev^
@@ -60351,6 +60361,7 @@
 ||gemsvip-astranova-presale.4key.cc^
 ||gemtoolkit.com^
 ||gemujki.com^
+||gen-uphold-logn.pages.dev^
 ||gen5starsevm.pages.dev^
 ||general-chain.link^
 ||general-dappsfix.web.app^
@@ -66275,6 +66286,7 @@
 ||home-uphld.pages.dev^
 ||home-uphlod.pages.dev^
 ||home-uphodl-w.pages.dev^
+||home-uphold-com-auth-dfh.pages.dev^
 ||home-uphold-com-authd.pages.dev^
 ||home-uphold-en-homes.pages.dev^
 ||home-uphold-en.pages.dev^
@@ -67423,6 +67435,7 @@
 ||hyperliquid.com-alpha-app-wallets-dex.cloud^
 ||hyperliquid.com-api-alpha-auth-secure.cloud^
 ||hyperliquid.com-api-auth-online-gateway.app^
+||hyperliquid.com-api-gateway-v1-dex-online.cloud^
 ||hyperliquid.com-auth-online-swap-dex.cloud^
 ||hyperliquid.com-beta-auth-alpha-dex.cloud^
 ||hyperliquid.com-beta-prod-online-portal.cloud^
@@ -100706,6 +100719,7 @@
 ||pages-trezor-start-x-us.pages.dev^
 ||pages-trezr-star.square.site^
 ||pages-uphlld-com-eng.pages.dev^
+||pages-uphold-com-auth.pages.dev^
 ||pages-uphold-walt.pages.dev^
 ||pages-uphuld.pages.dev^
 ||pages-wormhole.com^
@@ -118385,6 +118399,7 @@
 ||secure-uphold-com.pages.dev^
 ||secure-uphold-eng.pages.dev^
 ||secure-uphold-ios.webflow.io^
+||secure-uphold-logn-io.pages.dev^
 ||secure-uphold-logn.pages.dev^
 ||secure-uphold-portal.pages.dev^
 ||secure-uphold-sso.pages.dev^
@@ -129218,6 +129233,7 @@
 ||support-uphold-2wd.pages.dev^
 ||support-uphold-auth.pages.dev^
 ||support-uphold-cdn-app.pages.dev^
+||support-uphold-com-auth.pages.dev^
 ||support-uphold-com-en.pages.dev^
 ||support-uphold-com-io.pages.dev^
 ||support-uphold-en-cdn.webflow.io^
@@ -129228,6 +129244,7 @@
 ||support-uphold-login-us.pages.dev^
 ||support-uphold-loginn-eng-us.pages.dev^
 ||support-uphold-logo.pages.dev^
+||support-uphold-x-com.pages.dev^
 ||support-upholdd--x--sso.pages.dev^
 ||support-upholdd-logi.pages.dev^
 ||support-upholdd-web.square.site^
@@ -137799,16 +137816,22 @@
 ||uphold-app-us.pages.dev^
 ||uphold-apps-info.pages.dev^
 ||uphold-apps.pages.dev^
+||uphold-auth-x-auth.pages.dev^
+||uphold-authx-com.pages.dev^
 ||uphold-automatic.ru^
 ||uphold-aws.pages.dev^
 ||uphold-begin.pages.dev^
 ||uphold-cdn-auth.pages.dev^
+||uphold-cdn-com.pages.dev^
+||uphold-cdn.pages.dev^
 ||uphold-cloud-cdn.typedream.app^
 ||uphold-cloud-logins.pages.dev^
 ||uphold-cm-lognt.pages.dev^
 ||uphold-cndn.pages.dev^
 ||uphold-com--cdnn---auth-en-us.webflow.io^
+||uphold-com-auth-cdn.pages.dev^
 ||uphold-com-auths.pages.dev^
+||uphold-com-authx-io.pages.dev^
 ||uphold-com-cdn--x--authh.webflow.io^
 ||uphold-com-eng-us.pages.dev^
 ||uphold-com-in.pages.dev^
@@ -137867,6 +137890,7 @@
 ||uphold-in8.com^
 ||uphold-inter-login1.godaddysites.com^
 ||uphold-io--login.pages.dev^
+||uphold-io-authx.pages.dev^
 ||uphold-io-en.pages.dev^
 ||uphold-io-guide.pages.dev^
 ||uphold-io-log.pages.dev^
@@ -138008,6 +138032,7 @@
 ||uphold-walet-us.pages.dev^
 ||uphold-walets.pages.dev^
 ||uphold-walleett.pages.dev^
+||uphold-wallet--eng.pages.dev^
 ||uphold-wallet-cdn-en.pages.dev^
 ||uphold-wallet-cdn-support.pages.dev^
 ||uphold-wallet-en-us.pages.dev^
@@ -138018,6 +138043,7 @@
 ||uphold-wallet-in.pages.dev^
 ||uphold-wallet-portal.pages.dev^
 ||uphold-wallet-sso.pages.dev^
+||uphold-wallet-us.pages.dev^
 ||uphold-wallett-in.pages.dev^
 ||uphold-wallettt-in.pages.dev^
 ||uphold-wallettt.pages.dev^
@@ -145463,6 +145489,7 @@
 ||web-uphold-logiz.pages.dev^
 ||web-uphold-logn.pages.dev^
 ||web-uphold-logo.pages.dev^
+||web-uphold-logon.pages.dev^
 ||web-uphold-us-ksh.pages.dev^
 ||web-uphold-wallet--eng.pages.dev^
 ||web-uphold.pages.dev^
