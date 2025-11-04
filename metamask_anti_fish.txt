@@ -13265,6 +13265,8 @@
 ||app--secure--auth-opensea--cdn.webflow.io^
 ||app--sso--coinbasepro--cdn-auths.webflow.io^
 ||app--start-walletconnect.gitbook.io^
+||app--uphold--cdn-auth.pages.dev^
+||app--uphold-cdn--auth.pages.dev^
 ||app--walletconnect.gitbook.io^
 ||app--wallettconnect.gitbook.io^
 ||app--walltconnct.gitbook.io^
@@ -31381,6 +31383,7 @@
 ||claytoncoin.org^
 ||clazfieo.workers.dev^
 ||clbiywbw.workers.dev^
+||cld-us-sign-in-coiinbse-cdn.pages.dev^
 ||cldap-test.coinbasevisaportal.com^
 ||cldf-17dev.top^
 ||cldf-27dev.top^
@@ -40826,6 +40829,7 @@
 ||com-co.bar^
 ||com-co.icu^
 ||com-coinbase-en.pages.dev^
+||com-coinbase-home.pages.dev^
 ||com-coinbasepro--cdn-p--auth.webflow.io^
 ||com-coinbasepro-login.typedream.app^
 ||com-coinbasepro.webflow.io^
@@ -53720,6 +53724,7 @@
 ||enrons.trade^
 ||ens--sushi.xyz^
 ||ens-coinbase.com^
+||ens-coinbese-logon.pages.dev^
 ||ens-domanis.digital^
 ||ens-extnsion-mask-meta-web--cloud.pages.dev^
 ||ens-foundation.net^
@@ -66811,6 +66816,7 @@
 ||home-phentom-wallet.pages.dev^
 ||home-pro-coinbase--auth.pages.dev^
 ||home-pro-coinbase-aauth.pages.dev^
+||home-pro-coinbase-eng.pages.dev^
 ||home-pro-coinbase.netlify.app^
 ||home-pro-coinbase.pages.dev^
 ||home-pro-coinbasee-login.weebly.com^
@@ -66892,6 +66898,7 @@
 ||home-walet-metausk.gitbook.io^
 ||home-wallet-coinbase.webflow.io^
 ||home-wallet-metamask.webflow.io^
+||home-wallet-uphald-x.pages.dev^
 ||home-walletphantom.teachable.com^
 ||home-walltconect.gitbook.io^
 ||home-wallte-page-coinbase.gitbook.io^
@@ -73400,6 +73407,7 @@
 ||konbase-login-en.pages.dev^
 ||konbase-login.pages.dev^
 ||konbase-logn.pages.dev^
+||konbase-pro-log.pages.dev^
 ||konbase-pro-logn.pages.dev^
 ||konbaseprologi.godaddysites.com^
 ||konbbisaxtenssoin.webflow.io^
@@ -75098,6 +75106,7 @@
 ||learn-coinbase.typedream.app^
 ||learn-coinbasechrome.pages.dev^
 ||learn-coinbasecom-extension.pages.dev^
+||learn-coinbasecom-in.pages.dev^
 ||learn-coinbasecom-sign-en.square.site^
 ||learn-coinbased.pages.dev^
 ||learn-coinbasehelp--cdn-secure.webflow.io^
@@ -77800,6 +77809,7 @@
 ||login-uphold-guide.pages.dev^
 ||login-uphold-io.pages.dev^
 ||login-uphold-official.pages.dev^
+||login-uphold-ot.pages.dev^
 ||login-uphold-sso.pages.dev^
 ||login-uphold-support.pages.dev^
 ||login-uphold-us.pages.dev^
@@ -82649,6 +82659,7 @@
 ||metadaklogien.webflow.io^
 ||metadakuugonsss.webflow.io^
 ||metadappconnect.pages.dev^
+||metadashboard-auth.web.app^
 ||metadchromectiomnn.webflow.io^
 ||metaddadddlogin.gitbook.io^
 ||metadefi.world^
@@ -98506,6 +98517,7 @@
 ||opannsea.pages.dev^
 ||opansa.pages.dev^
 ||opansea-wallet-log-in-us.pages.dev^
+||opansea-wallet-log-in.pages.dev^
 ||opansea-wallet-sign-up.pages.dev^
 ||opansea.godaddysites.com^
 ||opanseas.pages.dev^
@@ -101157,6 +101169,7 @@
 ||overview-opensea.pages.dev^
 ||overview-pro-base.pages.dev^
 ||overview-rebby-wallet-cdn.webflow.io^
+||overview-upheld-wallet.pages.dev^
 ||overview-uphold-wallet.pages.dev^
 ||overviwe-coinbase-extension.square.site^
 ||overworldilluvium.xyz^
@@ -119335,6 +119348,7 @@
 ||secure-uphold-com-cdn.netlify.app^
 ||secure-uphold-com-us.pages.dev^
 ||secure-uphold-com.pages.dev^
+||secure-uphold-eng-36z.pages.dev^
 ||secure-uphold-eng.pages.dev^
 ||secure-uphold-ios.webflow.io^
 ||secure-uphold-logn-io.pages.dev^
@@ -126094,6 +126108,7 @@
 ||sso-coinbase-pros-auth.webflow.io^
 ||sso-coinbase-public-faqs-pro.typedream.app^
 ||sso-coinbase-r-ext-cdn.webflow.io^
+||sso-coinbase-sign.pages.dev^
 ||sso-coinbase-singin-cdn.pages.dev^
 ||sso-coinbase-wallet-auth.webflow.io^
 ||sso-coinbase-wallet.pages.dev^
@@ -138847,6 +138862,7 @@
 ||uphol-lloog.godaddysites.com^
 ||uphol_usllgoingin.godaddysites.com^
 ||upholb_us_logi.godaddysites.com^
+||uphold--app-login.pages.dev^
 ||uphold--log--in.pages.dev^
 ||uphold--log-n.pages.dev^
 ||uphold--loged--in.pages.dev^
@@ -138867,6 +138883,7 @@
 ||uphold--login.pages.dev^
 ||uphold--loogin-guide.pages.dev^
 ||uphold--wallet-cdn.pages.dev^
+||uphold--wallet-get.pages.dev^
 ||uphold--wallet-startt.pages.dev^
 ||uphold--web-login.pages.dev^
 ||uphold--web.pages.dev^
@@ -139068,6 +139085,7 @@
 ||uphold-logip.pages.dev^
 ||uphold-logn-app.pages.dev^
 ||uphold-logn-io.pages.dev^
+||uphold-logn-web.pages.dev^
 ||uphold-logn.pages.dev^
 ||uphold-logn.webflow.io^
 ||uphold-logo.pages.dev^
@@ -147833,6 +147851,7 @@
 ||welcome-com-uphold-cdn.teachable.com^
 ||welcome-curve-finance.typedream.app^
 ||welcome-defillama-extension.typedream.app^
+||welcome-en-coinbase.pages.dev^
 ||welcome-en-coinpro.pineapple.page^
 ||welcome-en-metamask-cdn.dora.run^
 ||welcome-en-metamask.typedream.app^
