@@ -14470,6 +14470,7 @@
 ||app-uphold-cdn-authd.pages.dev^
 ||app-uphold-cdn-auths.pages.dev^
 ||app-uphold-cdn-oauth.pages.dev^
+||app-uphold-cloud.pages.dev^
 ||app-uphold-com---cdn--x-auth.webflow.io^
 ||app-uphold-com-auth.pages.dev^
 ||app-uphold-com-x-auth.pages.dev^
@@ -15742,6 +15743,7 @@
 ||apps-uphold-cdn-auth.pages.dev^
 ||apps-uphold-cdn-auth.teachable.com^
 ||apps-uphold-cdn-autth.pages.dev^
+||apps-uphold-com-auth-io.pages.dev^
 ||apps-uphold-com-authx.pages.dev^
 ||apps-uphold-en-us.pages.dev^
 ||apps-uphold-info.pages.dev^
@@ -20214,7 +20216,6 @@
 ||battletested-register-flow.cfd^
 ||bawms1p0.workers.dev^
 ||baxecomginkoin.gitbook.io^
-||baxus.co^
 ||baycpark.org^
 ||baycsol.com^
 ||bayholder.pages.dev^
@@ -51945,6 +51946,7 @@
 ||ehxlgmzv.workers.dev^
 ||ehys3sks.workers.dev^
 ||ei-coinbase.com^
+||ei-phantom-us.pages.dev^
 ||ei-phantom.pages.dev^
 ||ei.coinbasek.ws^
 ||ei61co0o.workers.dev^
@@ -73188,6 +73190,7 @@
 ||kite.airdriphq.xyz^
 ||kite.claimdock.xyz^
 ||kite.claims^
+||kite.clalmpanel.xyz^
 ||kite.dropcore.cc^
 ||kite.dropgate.app^
 ||kiteai.foundation^
@@ -107713,6 +107716,7 @@
 ||portal-uphold-enus.pages.dev^
 ||portal-uphold-login-eng-us.pages.dev^
 ||portal-uphold-login-sso.pages.dev^
+||portal-uphold-us-auth.pages.dev^
 ||portal-uphold-wallet-x-us.pages.dev^
 ||portal-uphold-y-auth.pages.dev^
 ||portal-uphold.pages.dev^
@@ -129546,6 +129550,7 @@
 ||suiwallat.org^
 ||suiwallct.com^
 ||suiwalleat-en.pages.dev^
+||suiwalleat.pages.dev^
 ||suiwallet--cc.teachable.com^
 ||suiwallet--cc.webflow.io^
 ||suiwallet--cdn.webflow.io^
@@ -138761,6 +138766,7 @@
 ||up-holdlogin-auth.pages.dev^
 ||up-holdlogin.pages.dev^
 ||up-holds-eng-auths.pages.dev^
+||up-holds-wallet.pages.dev^
 ||up-holld-help-authd.pages.dev^
 ||up-login-hold-xyz.gitbook.io^
 ||up-login-holding.gitbook.io^
@@ -139276,6 +139282,7 @@
 ||uphold-login-io-us.pages.dev^
 ||uphold-login-llwa.b12sites.com^
 ||uphold-login-my-account.webflow.io^
+||uphold-login-now.pages.dev^
 ||uphold-login-officials.pages.dev^
 ||uphold-login-pdf.pages.dev^
 ||uphold-login-people.pages.dev^
@@ -139375,6 +139382,7 @@
 ||uphold-welcome.pages.dev^
 ||uphold-welllet-io-x-cdn.pages.dev^
 ||uphold-wev.pages.dev^
+||uphold-wllt.pages.dev^
 ||uphold-x-auths.pages.dev^
 ||uphold-x-walet-en.pages.dev^
 ||uphold.bio^
@@ -144840,6 +144848,7 @@
 ||wallet-uniswap.org^
 ||wallet-up-held-io-support.pages.dev^
 ||wallet-upgrade.live^
+||wallet-uphald-us.pages.dev^
 ||wallet-upheld-io.pages.dev^
 ||wallet-uphld-io-us.pages.dev^
 ||wallet-uphld-secure.pages.dev^
