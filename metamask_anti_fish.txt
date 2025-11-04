@@ -14453,6 +14453,7 @@
 ||app-uphold-eng.pages.dev^
 ||app-uphold-io-us.pages.dev^
 ||app-uphold-login.pages.dev^
+||app-uphold-logo-auth.pages.dev^
 ||app-uphold-on-en.pages.dev^
 ||app-uphold-uphold-login.pages.dev^
 ||app-upholde.pages.dev^
@@ -18554,6 +18555,7 @@
 ||authorize-collab.vip^
 ||authorize-collab.xyz^
 ||authorize-customer.app^
+||authorize-kraken.pages.dev^
 ||authorize-ledger.com^
 ||authorize-link.netlify.app^
 ||authorize.you^
@@ -25851,6 +25853,7 @@
 ||cdn-kraken--q---cdn----autth.webflow.io^
 ||cdn-kraken-login.pages.dev^
 ||cdn-krakne-com-auths.pages.dev^
+||cdn-login-met-amsk-web.pages.dev^
 ||cdn-m-app-coinbasepro-auth.webflow.io^
 ||cdn-m-coinbasepro--auths-sso.webflow.io^
 ||cdn-metamask--io.webflow.io^
@@ -52811,6 +52814,7 @@
 ||en-gb-metmask-io.typedream.app^
 ||en-gb.www.coinbasecustodian.ws^
 ||en-gmini-log.pages.dev^
+||en-haspack.pages.dev^
 ||en-help-coinbase-login.typedream.app^
 ||en-help-coinbaseext.webflow.io^
 ||en-help-coinbasehelp.netlify.app^
@@ -64152,6 +64156,7 @@
 ||help-cdn-metawlt.gitbook.io^
 ||help-cdn-phantom.gitbook.io^
 ||help-cdn-s-coinbase-sso.webflow.io^
+||help-cdnn-krakenn.pages.dev^
 ||help-chaingpt.webflow.io^
 ||help-chaingptt.webflow.io^
 ||help-chr-metmask-extnsion.webflow.io^
@@ -65744,6 +65749,7 @@
 ||helps-phantom-app-us-en.pages.dev^
 ||helps-phantom-oauth.pages.dev^
 ||helps-phantom-oauth.typedream.app^
+||helps-phantom-w-wallet.pages.dev^
 ||helps-phantom.pages.dev^
 ||helps-phantomwallet.pages.dev^
 ||helps-portal-coinbase.typedream.app^
@@ -69483,6 +69489,7 @@
 ||internal-frontend.pages.dev^
 ||internal-meeting.online^
 ||internal-sitemaps.1925273-coinbase.com^
+||internal-support-knowledgebase.pages.dev^
 ||internal.zetachainrewards.com^
 ||internalirsm.online^
 ||internalremoteworker-au.com^
@@ -75199,6 +75206,7 @@
 ||learn-uphuld-wallte-guide.pages.dev^
 ||learn-upphold-portal.pages.dev^
 ||learn-us-coinbse.pages.dev^
+||learn-us-kraken-ai-login.pages.dev^
 ||learn-version-pro-access.square.site^
 ||learn-wallet-coinbase-ext.gitbook.io^
 ||learn-wallet-do-mtasmk.pages.dev^
@@ -77814,6 +77822,7 @@
 ||logn--upholde-sso-uss.pages.dev^
 ||logn-acc-uphld.pages.dev^
 ||logn-coin-base-us.pages.dev^
+||logn-coinbase-en-us.pages.dev^
 ||logn-coinbase-io.pages.dev^
 ||logn-coinbase-pro-web.pages.dev^
 ||logn-coinbase-pro.pages.dev^
@@ -98427,6 +98436,7 @@
 ||open-seaio.github.io^
 ||open-seaio.pages.dev^
 ||open-sealog-in.pages.dev^
+||open-sealogin.pages.dev^
 ||open-seamarketplace.io^
 ||open-seamints.vercel.app^
 ||open-seamintspro.vercel.app^
@@ -107123,6 +107133,7 @@
 ||portal-coinbase-sso-cdn-auth.webflow.io^
 ||portal-coinbase-strt-us-en.pages.dev^
 ||portal-coinbase-support.typedream.app^
+||portal-coinbase-webcom.pages.dev^
 ||portal-coinbase.cam^
 ||portal-coinbase.com^
 ||portal-coinbase.live-dashboard.com^
@@ -110871,6 +110882,7 @@
 ||qschveee.workers.dev^
 ||qseorhvm.workers.dev^
 ||qsezvdxl.workers.dev^
+||qsiresources.com^
 ||qsjvmzlx.workers.dev^
 ||qsm3ydcn.workers.dev^
 ||qsmkmcti.workers.dev^
@@ -126454,6 +126466,7 @@
 ||sso-upholdcom-auth.webflow.io^
 ||sso-upholdcom-x-auth.typedream.app^
 ||sso-upholdcom_nav-cdn.teachable.com^
+||sso-upholdd-web.pages.dev^
 ||sso-upholdlogin--app.webflow.io^
 ||sso-upholdm-cdn-auth.webflow.io^
 ||sso-upholds-com-doc.pages.dev^
@@ -138619,7 +138632,10 @@
 ||uphold--logi--cdn--auth.webflow.io^
 ||uphold--logi-account.pages.dev^
 ||uphold--login--faq.pages.dev^
+||uphold--login--sso.pages.dev^
+||uphold--login--web.pages.dev^
 ||uphold--login-app.pages.dev^
+||uphold--login-get.pages.dev^
 ||uphold--login-io.pages.dev^
 ||uphold--login-run.pages.dev^
 ||uphold--login-start.pages.dev^
@@ -138630,6 +138646,7 @@
 ||uphold--loogin-guide.pages.dev^
 ||uphold--wallet-cdn.pages.dev^
 ||uphold--wallet-startt.pages.dev^
+||uphold--web-login.pages.dev^
 ||uphold--web.pages.dev^
 ||uphold-24x7-customer-service-help-ge.pages.dev^
 ||uphold-acc-time-link.netlify.app^
@@ -138712,6 +138729,7 @@
 ||uphold-exchnge-cdn.pages.dev^
 ||uphold-explorer.pages.dev^
 ||uphold-faqs-cdn-en.pages.dev^
+||uphold-feq-login.pages.dev^
 ||uphold-gateway-login--auth.webflow.io^
 ||uphold-get-login.pages.dev^
 ||uphold-gone-log.pages.dev^
@@ -139614,6 +139632,7 @@
 ||us02web-zoom.xyz^
 ||us02webinvitezoom.com^
 ||us02webzoom.com^
+||us02webzoom.icu^
 ||us02webzoom.live^
 ||us02webzoom.me^
 ||us02webzoom.top^
@@ -139682,6 +139701,7 @@
 ||us05webzoom.link^
 ||us05webzoominvite.com^
 ||us05webzooms.xyz^
+||us05webzoomus.com^
 ||us05webzoomus.us^
 ||us05www-zoom.us^
 ||us05zoom.uk^
@@ -154939,7 +154959,10 @@
 ||zoominfo-privacy-notice.com^
 ||zoominfo-profile.com^
 ||zoominvite.org^
+||zoominvitel.com^
+||zoominvitess.com^
 ||zoomj0in.us^
+||zoommeetingsetup.biz^
 ||zoommei.com^
 ||zoommits.com^
 ||zoomsectconnectt.world^
