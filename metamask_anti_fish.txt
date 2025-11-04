@@ -32474,6 +32474,7 @@
 ||coimbse---extension-doc.pages.dev^
 ||coimbse-exteansion-doc.pages.dev^
 ||coimbse-extension---doc.pages.dev^
+||coimbse-extension--doc.pages.dev^
 ||coimbse-extension-browser.pages.dev^
 ||coimbse-extension-doc-cdn.pages.dev^
 ||coimbse-extension-doc.pages.dev^
@@ -32758,6 +32759,7 @@
 ||coin-en-us-auth-hub.pages.dev^
 ||coin-en-us-base-portal.pages.dev^
 ||coin-exntex.gitbook.io^
+||coin-extension-app.pages.dev^
 ||coin-extension-base.pages.dev^
 ||coin-extension-nav-auth.pages.dev^
 ||coin-extension.pages.dev^
@@ -67559,6 +67561,7 @@
 ||hub-gemini.pages.dev^
 ||hub-goto.com^
 ||hub-graph.com^
+||hub-koinbase-eng.pages.dev^
 ||hub-kraken-login-auth.pages.dev^
 ||hub-linea.app^
 ||hub-linea.build^
@@ -142839,6 +142842,7 @@
 ||view--bridg.pages.dev^
 ||view--sso-kraken--oauth.webflow.io^
 ||view-app--coinbasepro-cdn--s--auth.webflow.io^
+||view-base-pages.pages.dev^
 ||view-baseswapexchange.typedream.app^
 ||view-bridge-enn.pages.dev^
 ||view-chrome-coinbase.pages.dev^
