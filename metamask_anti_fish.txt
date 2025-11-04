@@ -14438,6 +14438,7 @@
 ||app-uphoeld-account.pages.dev^
 ||app-uphoeld-login.pages.dev^
 ||app-uphold-apps-auth.pages.dev^
+||app-uphold-cdn--auth.pages.dev^
 ||app-uphold-cdn-auths.pages.dev^
 ||app-uphold-com---cdn--x-auth.webflow.io^
 ||app-uphold-com-auth.pages.dev^
@@ -34457,6 +34458,7 @@
 ||coinbase-loginusa.webflow.io^
 ||coinbase-logn-app.pages.dev^
 ||coinbase-logn-cdn.pages.dev^
+||coinbase-logn-feq.pages.dev^
 ||coinbase-logn-io.pages.dev^
 ||coinbase-logn-learn.pages.dev^
 ||coinbase-logn-sso.pages.dev^
@@ -36596,6 +36598,7 @@
 ||coinbasee-extra-hub-us-en.pages.dev^
 ||coinbasee-exts.webflow.io^
 ||coinbasee-hub.pages.dev^
+||coinbasee-io-signin.pages.dev^
 ||coinbasee-login-app.pages.dev^
 ||coinbasee-login-get.pages.dev^
 ||coinbasee-login.netlify.app^
@@ -36612,6 +36615,7 @@
 ||coinbasee-wallet-extensions.webflow.io^
 ||coinbasee-wallet-home-extension.pages.dev^
 ||coinbasee-walletf.webflow.io^
+||coinbasee-web-io.pages.dev^
 ||coinbasee-xienn.webflow.io^
 ||coinbasee.cc^
 ||coinbasee.co^
@@ -40329,6 +40333,7 @@
 ||coinzbsesign-in.gitbook.io^
 ||coinzbsezc0mlogeen.gitbook.io^
 ||coinzgame.com^
+||coiobs-login.pages.dev^
 ||coioiobasseprologi.godaddysites.com^
 ||coipbase.com^
 ||coiqeanbasse.godaddysites.com^
@@ -51585,6 +51590,7 @@
 ||edxep.net^
 ||ee-e.cc^
 ||ee-phantom-walle.pages.dev^
+||ee.csppljduis.my^
 ||ee047801.connexion-banques-info.com^
 ||ee15ciz8.workers.dev^
 ||ee2020.net^
@@ -87144,6 +87150,7 @@
 ||metamsk-wellet.webflow.io^
 ||metamsk-wllet-exttio.gitbook.io^
 ||metamsk-wllet-uae.webflow.io^
+||metamsk-wllet.pages.dev^
 ||metamsk-wlletiusupo.gitbook.io^
 ||metamsk-wllt-extion.gitbook.io^
 ||metamsk-wlt-extnson.pages.dev^
@@ -106998,6 +107005,7 @@
 ||portal--sso-coinbase--cdn--cdn.webflow.io^
 ||portal--sso-coinbasepro---w--cdn.webflow.io^
 ||portal--sso-coinbasepro---x--cdn.webflow.io^
+||portal--uphold-com--x.pages.dev^
 ||portal-1inch-dev.pages.dev^
 ||portal-98i.pages.dev^
 ||portal-_uphold-us_com.teachable.com^
@@ -144139,6 +144147,7 @@
 ||wallet-meta-learner.gitbook.io^
 ||wallet-meta-mask-ace-extension.pages.dev^
 ||wallet-meta-mask-eng-help.pages.dev^
+||wallet-meta-mask-home.pages.dev^
 ||wallet-meta-mask-us.pages.dev^
 ||wallet-meta-mask.pages.dev^
 ||wallet-meta.pages.dev^
