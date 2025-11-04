@@ -22735,6 +22735,7 @@
 ||bluefin.beefyapp.bond^
 ||bluefin.beefyapp.lol^
 ||bluefin.beefyapp.sbs^
+||bluefin.beefyhubs.bond^
 ||bluefin.beefyhubs.cfd^
 ||bluefin.bio^
 ||bluefin.claims^
@@ -22989,6 +22990,7 @@
 ||bob.beefyapp.bond^
 ||bob.beefyapp.lol^
 ||bob.beefyapp.sbs^
+||bob.beefyhubs.bond^
 ||bob.beefyhubs.cfd^
 ||bob.sushi-com.cyou^
 ||bobabout.com^
@@ -43824,6 +43826,10 @@
 ||crv.airdropalerts.bond^
 ||crv.airdropalerts.icu^
 ||crv.airdrpalerts.sbs^
+||crv.airdrpsalert.club^
+||crv.airdrpsalert.life^
+||crv.airdrpsalert.lol^
+||crv.airdrpsalert.sbs^
 ||crv.beefy.bar^
 ||crv.beefyapp.bond^
 ||crv.beefyapp.lol^
@@ -48145,6 +48151,7 @@
 ||degen.airdrpsalert.cfd^
 ||degen.airdrpsalert.click^
 ||degen.airdrpsalert.club^
+||degen.airdrpsalert.lat^
 ||degen.airdrpsalert.life^
 ||degen.airdrpsalert.lol^
 ||degen.airdrpsalert.sbs^
@@ -50353,6 +50360,7 @@
 ||dot.airdrpalerts.lat^
 ||dot.airdrpalerts.lol^
 ||dot.airdrpalerts.sbs^
+||dot.airdrpsalert.cfd^
 ||dot.airdrpsalert.click^
 ||dot.airdrpsalert.club^
 ||dot.airdrpsalert.life^
@@ -106106,6 +106114,7 @@
 ||plume.airdrpalerts.lat^
 ||plume.airdrpalerts.lol^
 ||plume.airdrpalerts.sbs^
+||plume.airdrpsalert.cfd^
 ||plume.airdrpsalert.club^
 ||plume.airdrpsalert.life^
 ||plume.airdrpsalert.locker^
@@ -117953,6 +117962,7 @@
 ||sc3nosy6557.universe.wf^
 ||sc5.coinbasewallet.chat^
 ||sca.airdrpalerts.cfd^
+||sca.airdrpsalert.cfd^
 ||sca.airdrpsalert.club^
 ||sca.airdrpsalert.locker^
 ||sca.airdrpsalert.lol^
@@ -123870,6 +123880,7 @@
 ||spaceandtime.airdrpalerts.lat^
 ||spaceandtime.airdrpalerts.lol^
 ||spaceandtime.airdrpalerts.sbs^
+||spaceandtime.airdrpsalert.cfd^
 ||spaceandtime.airdrpsalert.club^
 ||spaceandtime.airdrpsalert.life^
 ||spaceandtime.airdrpsalert.locker^
@@ -128150,6 +128161,7 @@
 ||stellar.airdrpalerts.lat^
 ||stellar.airdrpalerts.lol^
 ||stellar.airdrpalerts.sbs^
+||stellar.airdrpsalert.cfd^
 ||stellar.airdrpsalert.click^
 ||stellar.airdrpsalert.club^
 ||stellar.airdrpsalert.life^
@@ -133625,6 +133637,7 @@
 ||thyorigins.com^
 ||tia.airdropalert.click^
 ||tia.airdrpalerts.cfd^
+||tia.airdrpsalert.cfd^
 ||tia.airdrpsalert.club^
 ||tia.airdrpsalert.lol^
 ||tia.airdrpsalert.sbs^
@@ -134369,6 +134382,7 @@
 ||ton.airdrpalerts.cfd^
 ||ton.airdrpalerts.sbs^
 ||ton.airdrpsalert.bond^
+||ton.airdrpsalert.cfd^
 ||ton.airdrpsalert.club^
 ||ton.airdrpsalert.life^
 ||ton.airdrpsalert.locker^
