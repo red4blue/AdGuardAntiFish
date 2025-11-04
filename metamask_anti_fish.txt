@@ -7547,6 +7547,7 @@
 ||access-trezor-suite-en-us.pages.dev^
 ||access-trezor-suite-eng-us.pages.dev^
 ||access-trezor-wallet-logiin-eng-us.pages.dev^
+||access-un-us-coinbase.pages.dev^
 ||access-uphald-logoo.pages.dev^
 ||access-uphald-ui.pages.dev^
 ||access-uphald-walle.pages.dev^
@@ -14438,9 +14439,11 @@
 ||app-uphld.webflow.io^
 ||app-uphoeld-account.pages.dev^
 ||app-uphoeld-login.pages.dev^
+||app-uphold--oauth.pages.dev^
 ||app-uphold-apps-auth.pages.dev^
 ||app-uphold-cdn--auth.pages.dev^
 ||app-uphold-cdn-auths.pages.dev^
+||app-uphold-cdn-oauth.pages.dev^
 ||app-uphold-com---cdn--x-auth.webflow.io^
 ||app-uphold-com-auth.pages.dev^
 ||app-uphold-com-x-auth.pages.dev^
@@ -14454,6 +14457,7 @@
 ||app-uphold-uphold-login.pages.dev^
 ||app-upholde.pages.dev^
 ||app-upholds-cdn.pages.dev^
+||app-upholld-login.pages.dev^
 ||app-uphuld-login-io.pages.dev^
 ||app-uppheld-en-cdn.pages.dev^
 ||app-upshift.finance^
@@ -32522,6 +32526,7 @@
 ||coin-base-pro-lggin.pages.dev^
 ||coin-base-pro-log-iin.pages.dev^
 ||coin-base-pro-log-in.pages.dev^
+||coin-base-pro-login-us.pages.dev^
 ||coin-base-pro-login.uteach.io^
 ||coin-base-pro-logins.pages.dev^
 ||coin-base-pro-sso.pages.dev^
@@ -32593,6 +32598,7 @@
 ||coin-baseinfo.net^
 ||coin-baseint.co^
 ||coin-baselgin.webflow.io^
+||coin-baselog-in.pages.dev^
 ||coin-baselogin.pages.dev^
 ||coin-basemainnet.pages.dev^
 ||coin-basemaintenance.com^
@@ -35474,6 +35480,7 @@
 ||coinbase-wllet-supports.gitbook.io^
 ||coinbase-wllt-help.webflow.io^
 ||coinbase-wwllet-uae.webflow.io^
+||coinbase-x-exchange.pages.dev^
 ||coinbase-x-extension.pages.dev^
 ||coinbase-x-login---c-auth.webflow.io^
 ||coinbase-x-login.pages.dev^
@@ -38052,6 +38059,7 @@
 ||coinbasewallertextensiun.webflow.io^
 ||coinbasewallertextenson.webflow.io^
 ||coinbasewallest-sso.webflow.io^
+||coinbasewallet---extension.pages.dev^
 ||coinbasewallet--edge.typedream.app^
 ||coinbasewallet--extensuion.webflow.io^
 ||coinbasewallet--logun-view.pages.dev^
@@ -41592,6 +41600,7 @@
 ||conbase-logen.pages.dev^
 ||conbase-login-pro.pages.dev^
 ||conbase-login.pages.dev^
+||conbase-loginn.pages.dev^
 ||conbase-logn-sso.pages.dev^
 ||conbase-logy.godaddysites.com^
 ||conbase-pro-auth.webflow.io^
@@ -52716,6 +52725,7 @@
 ||en-coinbase-io.pages.dev^
 ||en-coinbase-log-web.pages.dev^
 ||en-coinbase-log.pages.dev^
+||en-coinbase-login.pages.dev^
 ||en-coinbase-logn.pages.dev^
 ||en-coinbase-pro-logn.pages.dev^
 ||en-coinbase-pro-pag.pages.dev^
@@ -55048,6 +55058,7 @@
 ||etyen.top^
 ||eu-central-8stagecomboweb8.aws.inst.coinbase-com.info^
 ||eu-coinbase--com.pages.dev^
+||eu-coinbase-login.pages.dev^
 ||eu-coinbasewallet.com^
 ||eu-gemini-login.pages.dev^
 ||eu-industrysonic.pages.dev^
@@ -55056,6 +55067,8 @@
 ||eu-phold.pages.dev^
 ||eu-trezor-suite-info.pages.dev^
 ||eu-trustwallet.com^
+||eu-uphuld-loginn.pages.dev^
+||eu-uphuldlogin.pages.dev^
 ||eu-web3systems.com^
 ||eu-web3systems.online^
 ||eu.dcoinbase.ws^
@@ -56421,6 +56434,7 @@
 ||extio---help--coinbse.webflow.io^
 ||extio-control-coinbse.pages.dev^
 ||extio-help--coeninbbse.gitbook.io^
+||extion-coinbase--walit.pages.dev^
 ||extion-help-coinbase.gitbook.io^
 ||extioncoinbacoic.webflow.io^
 ||extioncominbuse.webflow.io^
@@ -61736,6 +61750,7 @@
 ||giuepfkj.workers.dev^
 ||givcodes.org^
 ||give-metamask-wallet.typedream.app^
+||give-opensealogin.pages.dev^
 ||give-pump.fun^
 ||give-ripple.com^
 ||giveairton.top^
@@ -67223,6 +67238,7 @@
 ||hub-coinbas-en-log-page.pages.dev^
 ||hub-coinbase-com-extion.pages.dev^
 ||hub-coinbase-pro-login.pages.dev^
+||hub-coinbase-prologs.pages.dev^
 ||hub-coinbasecom-chrome-en.pages.dev^
 ||hub-coinbasecom-chrome.pages.dev^
 ||hub-coinbasecom-extion.pages.dev^
@@ -74852,6 +74868,7 @@
 ||learn-base-us-extension.pages.dev^
 ||learn-browser--coinbse.gitbook.io^
 ||learn-cdn--coinbasepro--m-auth.webflow.io^
+||learn-cdn-coinbase.pages.dev^
 ||learn-chrome--coinbase.pages.dev^
 ||learn-chrome--metamsk.pages.dev^
 ||learn-chrome-ext-metamsk.pages.dev^
@@ -90694,6 +90711,7 @@
 ||minerswiss.com^
 ||mini-event-scedeuler.firebaseapp.com^
 ||mini-externalpoint.pages.dev^
+||mini-k-meetamask.pages.dev^
 ||mini-pusat838.online^
 ||mini-web.pro^
 ||mini.apple-feeling-freedom-sunset.pro^
@@ -100614,6 +100632,7 @@
 ||org-swap-v3.com^
 ||org-trade-crypto-defi.com^
 ||org-trezr-wallet.pages.dev^
+||org-uphulld-com-x-nav-auth.pages.dev^
 ||org-v-connect-wallet-v3.com^
 ||org-v1-app-wallet-connect.com^
 ||org-v2-api-trade.cloud^
@@ -103423,6 +103442,8 @@
 ||phantmallwalletn.gitbook.io^
 ||phantmaxdrop.pages.dev^
 ||phantmextension.mobirisesite.com^
+||phantmget-wallet.pages.dev^
+||phantmgetwallet.pages.dev^
 ||phantmm-wallett.webflow.io^
 ||phantmm-walllt.webflow.io^
 ||phantmm-wallst.webflow.io^
@@ -112625,6 +112646,7 @@
 ||rectifywebnodechain.xyz^
 ||rectiwrap.pages.dev^
 ||rectwalletdapp.web.app^
+||recuperaresoldipersineltrading.com^
 ||red-sushi.cfd^
 ||red-sushi.top^
 ||red-sushi.xyz^
@@ -118771,6 +118793,7 @@
 ||secure-login-page-coinbsehelp.typedream.app^
 ||secure-login.icu^
 ||secure-login2tdbnk.com^
+||secure-logn-cnbase-learn.pages.dev^
 ||secure-logn-cnbasepro.pages.dev^
 ||secure-logn-coinbase-procdn.pages.dev^
 ||secure-logn-metamask-docs.free.site.pro^
@@ -125839,6 +125862,7 @@
 ||sso-coinbase-pro-lgn.pages.dev^
 ||sso-coinbase-pro-login-guide.pages.dev^
 ||sso-coinbase-pro-login-us.pages.dev^
+||sso-coinbase-pro-login.pages.dev^
 ||sso-coinbase-pro-s-sso.webflow.io^
 ||sso-coinbase-pro-x-auth.typedream.app^
 ||sso-coinbase-pros-auth.webflow.io^
@@ -139123,6 +139147,7 @@
 ||uphuld-logi-cdn-auths.webflow.io^
 ||uphuld-logi-home.pages.dev^
 ||uphuld-login-get.pages.dev^
+||uphuld-loginn.pages.dev^
 ||uphuld-logn-acc.pages.dev^
 ||uphuld-logn-web.pages.dev^
 ||uphuld-logoo-us.pages.dev^
