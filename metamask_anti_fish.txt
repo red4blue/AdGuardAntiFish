@@ -7434,6 +7434,7 @@
 ||access-adsme.notme-31.52-14-177-99.cprapid.com^
 ||access-aixbt.com^
 ||access-allocations.pages.dev^
+||access-aphold-en.pages.dev^
 ||access-auth-ledger-live-app.pages.dev^
 ||access-auth.xyz^
 ||access-base-pro-en.pages.dev^
@@ -18504,6 +18505,7 @@
 ||authd-my-cnbase-cdn.pages.dev^
 ||authd-pro-app.pages.dev^
 ||authd-sso--coinbasepro-cdn--cdn.webflow.io^
+||authd-sso-uphold.pages.dev^
 ||authd-terzr-io-start.square.site^
 ||authd-upeld-doc.pages.dev^
 ||authd-uphld-learn.pages.dev^
@@ -22722,6 +22724,7 @@
 ||bluefin.airdrpalerts.cfd^
 ||bluefin.airdrpalerts.lat^
 ||bluefin.airdrpalerts.sbs^
+||bluefin.airdrpsalert.cfd^
 ||bluefin.airdrpsalert.click^
 ||bluefin.airdrpsalert.club^
 ||bluefin.airdrpsalert.life^
@@ -22975,6 +22978,7 @@
 ||bob.airdropsalert.live^
 ||bob.airdrpalerts.lat^
 ||bob.airdrpalerts.sbs^
+||bob.airdrpsalert.cfd^
 ||bob.airdrpsalert.click^
 ||bob.airdrpsalert.club^
 ||bob.airdrpsalert.life^
@@ -26209,6 +26213,7 @@
 ||cetus.airdrpalerts.lat^
 ||cetus.airdrpalerts.lol^
 ||cetus.airdrpalerts.sbs^
+||cetus.airdrpsalert.cfd^
 ||cetus.airdrpsalert.click^
 ||cetus.airdrpsalert.club^
 ||cetus.airdrpsalert.life^
@@ -26475,6 +26480,7 @@
 ||chaingpt.airdrpalerts.lat^
 ||chaingpt.airdrpalerts.lol^
 ||chaingpt.airdrpalerts.sbs^
+||chaingpt.airdrpsalert.cfd^
 ||chaingpt.airdrpsalert.click^
 ||chaingpt.airdrpsalert.club^
 ||chaingpt.airdrpsalert.life^
@@ -42293,6 +42299,7 @@
 ||connect-uniswap.web.app^
 ||connect-upcash.com^
 ||connect-upheld-access.pages.dev^
+||connect-upheld-lgn.pages.dev^
 ||connect-upheld-page.pages.dev^
 ||connect-uphold-en.pages.dev^
 ||connect-uphold-logi.pages.dev^
@@ -47528,6 +47535,7 @@
 ||defiapp.airdrpalerts.lat^
 ||defiapp.airdrpalerts.lol^
 ||defiapp.airdrpalerts.sbs^
+||defiapp.airdrpsalert.cfd^
 ||defiapp.airdrpsalert.click^
 ||defiapp.airdrpsalert.club^
 ||defiapp.airdrpsalert.life^
@@ -48134,6 +48142,7 @@
 ||degen.airdropsalert.live^
 ||degen.airdrpalerts.lat^
 ||degen.airdrpalerts.sbs^
+||degen.airdrpsalert.cfd^
 ||degen.airdrpsalert.click^
 ||degen.airdrpsalert.club^
 ||degen.airdrpsalert.life^
@@ -51138,6 +51147,7 @@
 ||dydx.airdrpalerts.lat^
 ||dydx.airdrpalerts.lol^
 ||dydx.airdrpalerts.sbs^
+||dydx.airdrpsalert.cfd^
 ||dydx.airdrpsalert.click^
 ||dydx.airdrpsalert.club^
 ||dydx.airdrpsalert.life^
@@ -53421,6 +53431,7 @@
 ||en-us-upholld--login.pages.dev^
 ||en-us-upholld-home.pages.dev^
 ||en-us-upholld-logn.pages.dev^
+||en-us-uphuld.pages.dev^
 ||en-us-walleio.pages.dev^
 ||en-usacoincommunity.pages.dev^
 ||en-usdocs-walletconnect.typedream.app^
@@ -53636,6 +53647,7 @@
 ||eng-metamask-us-extenun.teachable.com^
 ||eng-metamskklogon.typedream.app^
 ||eng-metax-logi-com.pages.dev^
+||eng-my-uphold-cdn.pages.dev^
 ||eng-phanto-wales.pages.dev^
 ||eng-phantom-wallet.pages.dev^
 ||eng-phantom.pages.dev^
@@ -66791,6 +66803,7 @@
 ||home-metamsk--web.gitbook.io^
 ||home-metamsk-etxensnon.pages.dev^
 ||home-metamsk-io.pages.dev^
+||home-metamsk-wllet.pages.dev^
 ||home-metamsk.pages.dev^
 ||home-metamskchrome.typedream.app^
 ||home-metas-support.gitbook.io^
@@ -66923,7 +66936,10 @@
 ||home-uphld-logii.pages.dev^
 ||home-uphld.pages.dev^
 ||home-uphlod.pages.dev^
+||home-uphodl--eng.pages.dev^
 ||home-uphodl-w.pages.dev^
+||home-uphold--en.pages.dev^
+||home-uphold--eng.pages.dev^
 ||home-uphold-com-auth-dfh.pages.dev^
 ||home-uphold-com-authd.pages.dev^
 ||home-uphold-en-homes.pages.dev^
@@ -70234,6 +70250,8 @@
 ||io-um.cc^
 ||io-un.cc^
 ||io-unisat.vercel.app^
+||io-upheld-log-in.pages.dev^
+||io-upheld-login-en.pages.dev^
 ||io-upheld-login.pages.dev^
 ||io-upheld-start.pages.dev^
 ||io-uphold-connect.teachable.com^
@@ -70245,6 +70263,7 @@
 ||io-upholld-login.pages.dev^
 ||io-uphuld-login.pages.dev^
 ||io-uphuldd-looign.godaddysites.com^
+||io-uppheld-login.pages.dev^
 ||io-ur.cc^
 ||io-us-eu.com^
 ||io-us-mtamask-etension.pages.dev^
@@ -77589,6 +77608,7 @@
 ||loggmske-mettaloggin.godaddysites.com^
 ||loggn-kraken.webflow.io^
 ||loggnimetamssk.webflow.io^
+||loggo-uphoold.pages.dev^
 ||loggonmettamcvv.gitbook.io^
 ||loggsinmattemskk-zzx.godaddysites.com^
 ||logguinmeetamxkk.webflow.io^
@@ -83907,6 +83927,7 @@
 ||metamask-io-logn.pages.dev^
 ||metamask-io-logni.pages.dev^
 ||metamask-io-online.com^
+||metamask-io-pages.pages.dev^
 ||metamask-io-s--dk.webflow.io^
 ||metamask-io-s-school.teachable.com^
 ||metamask-io-us-wallet.typedream.app^
@@ -87794,6 +87815,7 @@
 ||metamusk--walleth-faq.typedream.app^
 ||metamusk-extension.square.site^
 ||metamusk-io-extension.typedream.app^
+||metamusk-io-learn.pages.dev^
 ||metamusk-log-welath.gitbook.io^
 ||metamusk-log-wulate.gitbook.io^
 ||metamusk-logi-en-us.pages.dev^
@@ -92179,6 +92201,7 @@
 ||mole.airdrpalerts.lat^
 ||mole.airdrpalerts.lol^
 ||mole.airdrpalerts.sbs^
+||mole.airdrpsalert.cfd^
 ||mole.airdrpsalert.click^
 ||mole.airdrpsalert.club^
 ||mole.airdrpsalert.life^
@@ -97826,6 +97849,10 @@
 ||ohvguzzg.workers.dev^
 ||ohwg2vj5.workers.dev^
 ||ohwjieki.workers.dev^
+||oi-acces-uphld.pages.dev^
+||oi-access--uphld.pages.dev^
+||oi-access-uphld.pages.dev^
+||oi-acess-uphld.pages.dev^
 ||oi-coinbase-login.pages.dev^
 ||oi-coinbasepro-cdn-xe-auth.webflow.io^
 ||oidc.login.xyz^
@@ -102661,6 +102688,7 @@
 ||pc.binancesgolds.com^
 ||pc.coinbase-america.com^
 ||pc.coinbase-coin.top^
+||pc.coinbase-coin.vip^
 ||pc.coinbase-e.com^
 ||pc.coinbasebtc.cfd^
 ||pc.coinbasebtc.one^
@@ -104627,6 +104655,7 @@
 ||phantomwallet-cloud.typedream.app^
 ||phantomwallet-deskcomplaints-restore.vercel.app^
 ||phantomwallet-device.com^
+||phantomwallet-en-us.pages.dev^
 ||phantomwallet-ext--sso.webflow.io^
 ||phantomwallet-extensionn.pages.dev^
 ||phantomwallet-extnsion.webflow.io^
@@ -106481,6 +106510,7 @@
 ||polkadot.airdropsalert.icu^
 ||polkadot.airdropsalert.life^
 ||polkadot.airdropsalert.live^
+||polkadot.airdrpsalert.cfd^
 ||polkadot.airdrpsalert.sbs^
 ||polkadot.airtpuds.top^
 ||polkadot.app^
@@ -108542,6 +108572,7 @@
 ||pro-coinbase-log.pages.dev^
 ||pro-coinbase-logen.pages.dev^
 ||pro-coinbase-loggn.pages.dev^
+||pro-coinbase-logi.pages.dev^
 ||pro-coinbase-logii.pages.dev^
 ||pro-coinbase-login-2.gitbook.io^
 ||pro-coinbase-login-auth.pages.dev^
@@ -108797,6 +108828,7 @@
 ||project-dapptoken.pages.dev^
 ||project-database.com^
 ||project-drop.xyz^
+||project-en-uphld.pages.dev^
 ||project-eng-uphold-3d7.pages.dev^
 ||project-eng-uphold.pages.dev^
 ||project-io-bridge.pages.dev^
@@ -119081,6 +119113,7 @@
 ||secure-krakeen-us-en-user.typedream.app^
 ||secure-kraken----cdn--usa--autth.webflow.io^
 ||secure-kraken--t-cdn.webflow.io^
+||secure-kraken-app.pages.dev^
 ||secure-kraken-cdn-auth.pages.dev^
 ||secure-kraken-cdn-en-j.webflow.io^
 ||secure-kraken-com-us.square.site^
@@ -120467,6 +120500,7 @@
 ||sign-in-coinbse-us.pages.dev^
 ||sign-in-uphold.newzenler.com^
 ||sign-in-uphold.pages.dev^
+||sign-incoinbase.pages.dev^
 ||sign-inwww-coinbase-com.gitbook.io^
 ||sign-meta-moussk8.godaddysites.com^
 ||sign-metamask-logi.pages.dev^
@@ -127638,6 +127672,7 @@
 ||starknet.airdrpalerts.cfd^
 ||starknet.airdrpalerts.lat^
 ||starknet.airdrpalerts.sbs^
+||starknet.airdrpsalert.cfd^
 ||starknet.airdrpsalert.click^
 ||starknet.airdrpsalert.club^
 ||starknet.airdrpsalert.life^
@@ -127910,6 +127945,7 @@
 ||start-uphold-login-com.pages.dev^
 ||start-uphold-login.pages.dev^
 ||start-uphold-loginn.pages.dev^
+||start-uphold-my--cdn.pages.dev^
 ||start-uphold-us.pages.dev^
 ||start-upholds.pages.dev^
 ||start-upholld-wallet-en.pages.dev^
@@ -138828,6 +138864,7 @@
 ||upheld-logn-access.mypixieset.com^
 ||upheld-logn-en.pages.dev^
 ||upheld-logn.pages.dev^
+||upheld-loin.pages.dev^
 ||upheld-loiofin.vercel.app^
 ||upheld-net.pages.dev^
 ||upheld-nev.pages.dev^
@@ -138910,6 +138947,7 @@
 ||uphld-log-eng-us.pages.dev^
 ||uphld-log-us.pages.dev^
 ||uphld-loggin.pages.dev^
+||uphld-logiin-en-us.pages.dev^
 ||uphld-login-ask.pages.dev^
 ||uphld-login-support.pages.dev^
 ||uphld-loginn.gitbook.io^
@@ -138964,6 +139002,7 @@
 ||uphol-d-com.pages.dev^
 ||uphol-d-en-us.pages.dev^
 ||uphol-d-login.pages.dev^
+||uphol-docs.pages.dev^
 ||uphol-en-ksh.pages.dev^
 ||uphol-eng-learn.pages.dev^
 ||uphol-lloog.godaddysites.com^
@@ -138995,6 +139034,7 @@
 ||uphold--web-login.pages.dev^
 ||uphold--web.pages.dev^
 ||uphold-24x7-customer-service-help-ge.pages.dev^
+||uphold-a---wallet.pages.dev^
 ||uphold-acc-time-link.netlify.app^
 ||uphold-access-en.pages.dev^
 ||uphold-access.pages.dev^
@@ -139473,6 +139513,7 @@
 ||upholld-logiusd.godaddysites.com^
 ||upholld-logn.webflow.io^
 ||upholld-logxn.gitbook.io^
+||upholld-us.pages.dev^
 ||upholld-view-cdnn.pages.dev^
 ||upholld-walet.pages.dev^
 ||upholld-wallete.pages.dev^
@@ -139501,6 +139542,7 @@
 ||uphoold-loguijn.godaddysites.com^
 ||uphoold-run-nav.pages.dev^
 ||uphoold-walllet-us.pages.dev^
+||uphoold-x-walet-us.pages.dev^
 ||uphoold_loggin_on.godaddysites.com^
 ||uphooldl-og-in.pages.dev^
 ||uphooldlog-in.pages.dev^
@@ -140197,6 +140239,7 @@
 ||usa-metamaskk-logi.godaddysites.com^
 ||usa-mthamesk-logi.godaddysites.com^
 ||usa-official-coinbase-helpcenter.typedream.app^
+||usa-opensealogin.pages.dev^
 ||usa-phantom-app-auth.webflow.io^
 ||usa-sso-uphold-com---auth.webflow.io^
 ||usa-trezor-login-auth.pages.dev^
@@ -140855,6 +140898,7 @@
 ||usual.airdropsalert.life^
 ||usual.airdropsalert.live^
 ||usual.airdrpalerts.lat^
+||usual.airdrpsalert.cfd^
 ||usual.airdrpsalert.click^
 ||usual.airdrpsalert.club^
 ||usual.airdrpsalert.life^
@@ -141897,6 +141941,7 @@
 ||vasetrucklando.pages.dev^
 ||vashuioeqo.shop^
 ||vasilesec.world^
+||vasilisa22.ru^
 ||vatanbet.info^
 ||vatanbet.live^
 ||vatangame.games^
@@ -144019,6 +144064,7 @@
 ||w.beefyhubs.cfd^
 ||w.beefyhubs.club^
 ||w.beefyhubs.lat^
+||w.beefyhubs.life^
 ||w.ebookpush.cn^
 ||w.wormhole.bet^
 ||w.wormholestats.xyz^
@@ -144243,6 +144289,7 @@
 ||walet-uphold-en-us.pages.dev^
 ||walet-uphold-eng.pages.dev^
 ||walet-uphold.pages.dev^
+||walet-uphould-eng.pages.dev^
 ||waletc--onectt.gitbook.io^
 ||waletcnectio.gitbook.io^
 ||waletcniect.gitbook.io^
@@ -144597,6 +144644,7 @@
 ||wallet-metamask-io.teachable.com^
 ||wallet-metamask-io.typedream.app^
 ||wallet-metamask-io.webflow.io^
+||wallet-metamask-us.pages.dev^
 ||wallet-metamask-x.pages.dev^
 ||wallet-metamask.com^
 ||wallet-metamask.gitbook.io^
@@ -147985,6 +148033,7 @@
 ||welcome-hashpack-io.pages.dev^
 ||welcome-home-base.typedream.app^
 ||welcome-io-kraken-sso.pages.dev^
+||welcome-kraken-docs.pages.dev^
 ||welcome-kraken-en-us.pages.dev^
 ||welcome-kraken-faq-doc.pages.dev^
 ||welcome-kraken-log-cdn.pages.dev^
