@@ -34430,6 +34430,7 @@
 ||coinbase-locked.com^
 ||coinbase-log--in.pages.dev^
 ||coinbase-log-app.pages.dev^
+||coinbase-log-auth.pages.dev^
 ||coinbase-log-com.pages.dev^
 ||coinbase-log-en.pages.dev^
 ||coinbase-log-home.pages.dev^
@@ -58510,6 +58511,7 @@
 ||firmwareinterface.pages.dev^
 ||firmwareledger-live.com^
 ||firmwarenode.pages.dev^
+||firmwareupdate-ledgerlive.com^
 ||first-defillama-eng-us.pages.dev^
 ||first-login-trezor-eng-us.pages.dev^
 ||first-ticketsapp.pages.dev^
@@ -63221,6 +63223,7 @@
 ||guide--coinbase.pages.dev^
 ||guide--extnson-coinbes.square.site^
 ||guide--trezo--suites.pages.dev^
+||guide-auth-krakeen.pages.dev^
 ||guide-bankless.com^
 ||guide-ccoinbase-lngn.pages.dev^
 ||guide-coimbse-extension-help.pages.dev^
@@ -73765,6 +73768,7 @@
 ||kraken-logn.pages.dev^
 ||kraken-loug.webflow.io^
 ||kraken-mining.primecapitalltd.com^
+||kraken-n-login.pages.dev^
 ||kraken-ol.com^
 ||kraken-portal.vercel.app^
 ||kraken-pro-en.pages.dev^
@@ -73777,6 +73781,7 @@
 ||kraken-rippleairdrop.com^
 ||kraken-secure-webs-io.webflow.io^
 ||kraken-sign-in.mecxglobal.com^
+||kraken-squre-login.pages.dev^
 ||kraken-staking.com^
 ||kraken-stat-logn.pages.dev^
 ||kraken-trade.net^
@@ -119572,6 +119577,7 @@
 ||secure-wallletconnect.autoextension.lol^
 ||secure-wdyb0.icu^
 ||secure-web-coinbasehelp.typedream.app^
+||secure-web-krakeen.pages.dev^
 ||secure-web3-assets.com^
 ||secure-web3-experience.com^
 ||secure-web3.vercel.app^
@@ -143245,6 +143251,7 @@
 ||vote-arciumhq.trade^
 ||vote-arciumhq.xyz^
 ||vote-arkham.com^
+||vote-asterdex.app^
 ||vote-asters.com^
 ||vote-asters.net^
 ||vote-avail.com^
