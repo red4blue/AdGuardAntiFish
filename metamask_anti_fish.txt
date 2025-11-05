@@ -7321,6 +7321,8 @@
 ||abstract.icu^
 ||abstract.portal-drops.icu^
 ||abstract.portal-drops.sbs^
+||abstract.portal-hubs.lat^
+||abstract.portal-hubs.sbs^
 ||abstractairdrop.live^
 ||abstractairdrop.xyz^
 ||abstractairdrops.xyz^
@@ -50730,6 +50732,7 @@
 ||dot.airdrpsalert.lol^
 ||dot.airdrpsalert.sbs^
 ||dot.airdrpsalerts.cfd^
+||dot.airdrpsalerts.info^
 ||dot.beefyapp.bond^
 ||dot.beefyapp.cfd^
 ||dot.beefyapp.lol^
@@ -63319,6 +63322,7 @@
 ||graph.airdropsalert.pro^
 ||graph.airdrpalerts.sbs^
 ||graph.airdrpsalert.bond^
+||graph.airdrpsalert.click^
 ||graph.airdrpsalert.club^
 ||graph.airdrpsalert.life^
 ||graph.airdrpsalert.locker^
@@ -80021,6 +80025,7 @@
 ||magma.airdrpsalert.lol^
 ||magma.airdrpsalert.sbs^
 ||magma.airdrpsalerts.cfd^
+||magma.airdrpsalerts.click^
 ||magma.airdrpsalerts.lat^
 ||magma.beefyapp.cfd^
 ||magma.beefyhubs.bond^
@@ -80031,6 +80036,7 @@
 ||magma.beefyhubs.life^
 ||magma.beefyhubs.lol^
 ||magma.beefyhubs.sbs^
+||magma.portal-hubs.lat^
 ||magmastaking.events^
 ||magmastaking.io^
 ||magmemecoin.com^
@@ -134642,6 +134648,8 @@
 ||threshold.live^
 ||threshold.nyc^
 ||threshold.portal-drops.sbs^
+||threshold.portal-hubs.lat^
+||threshold.portal-hubs.sbs^
 ||threshold.sushiswap.tech^
 ||thresholdannoucement.blog^
 ||thresholdd.network^
