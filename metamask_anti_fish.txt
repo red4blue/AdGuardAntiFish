@@ -128681,6 +128681,7 @@
 ||sso-upholld-en-us.pages.dev^
 ||sso-upholld-eng.pages.dev^
 ||sso-upholld-login-cdns.teachable.com^
+||sso-upholld-x-sso.pages.dev^
 ||sso-uphuld-login-en.pages.dev^
 ||sso-uphuld-us-sso.pages.dev^
 ||sso-uplodk-com.pages.dev^
@@ -141312,6 +141313,7 @@
 ||uphold-wallet-cdn-en.pages.dev^
 ||uphold-wallet-cdn-support.pages.dev^
 ||uphold-wallet-co.pages.dev^
+||uphold-wallet-docs.pages.dev^
 ||uphold-wallet-en-us.pages.dev^
 ||uphold-wallet-en.pages.dev^
 ||uphold-wallet-eng-us.pages.dev^
@@ -157199,15 +157201,20 @@
 ||zksync-blog-git-design-touchups-matter-labs-651a8986.vercel.app^
 ||zksync-blog-git-ent-2-updates-matter-labs-651a8986.vercel.app^
 ||zksync-blog-git-enteprise-2-more-updates-matter-labs-651a8986.vercel.app^
+||zksync-blog-git-enterprise-2-matter-labs-651a8986.vercel.app^
 ||zksync-blog-git-enterprise-static-matter-labs-651a8986.vercel.app^
 ||zksync-blog-git-fixups-matter-labs-651a8986.vercel.app^
 ||zksync-blog-git-papers-please-matter-labs-651a8986.vercel.app^
+||zksync-blog-git-sanity-blog-matter-labs-651a8986.vercel.app^
 ||zksync-blog-git-video-update-matter-labs-651a8986.vercel.app^
 ||zksync-blog-h8kay0cx1-matter-labs-651a8986.vercel.app^
 ||zksync-blog-iao4jt9nx-matter-labs-651a8986.vercel.app^
 ||zksync-blog-k0vv08khr-matter-labs-651a8986.vercel.app^
+||zksync-blog-lr1k4s2w1-matter-labs-651a8986.vercel.app^
 ||zksync-blog-lydxr2e6m-matter-labs-651a8986.vercel.app^
 ||zksync-blog-nls4poqa5-matter-labs-651a8986.vercel.app^
+||zksync-blog-preview-git-sanity-blog-matter-labs-651a8986.vercel.app^
+||zksync-blog-preview-pihhhc4jx-matter-labs-651a8986.vercel.app^
 ||zksync-bridge-site.github.io^
 ||zksync-bridge.netlify.app^
 ||zksync-chain.pages.dev^
