@@ -7319,6 +7319,9 @@
 ||abstract.beefyapp.bond^
 ||abstract.beefyapp.cfd^
 ||abstract.beefyapp.lol^
+||abstract.beefyhub.cfd^
+||abstract.beefyhub.club^
+||abstract.beefyhub.sbs^
 ||abstract.beefyhubs.bond^
 ||abstract.beefyhubs.cfd^
 ||abstract.beefyhubs.click^
@@ -43837,6 +43840,9 @@
 ||cow.airsdropsalert.lol^
 ||cow.beefyapp.bond^
 ||cow.beefyapp.lol^
+||cow.beefyhub.cfd^
+||cow.beefyhub.club^
+||cow.beefyhub.sbs^
 ||cow.beefyhubs.bond^
 ||cow.beefyhubs.click^
 ||cow.beefyhubs.club^
@@ -56140,7 +56146,10 @@
 ||euler.airsdropsalert.lol^
 ||euler.beefyapp.bond^
 ||euler.beefyapp.lol^
+||euler.beefyhub.cfd^
+||euler.beefyhub.club^
 ||euler.beefyhub.lol^
+||euler.beefyhub.sbs^
 ||euler.beefyhubs.bond^
 ||euler.beefyhubs.cfd^
 ||euler.beefyhubs.click^
@@ -90197,7 +90206,10 @@
 ||metis.beefyapp.cfd^
 ||metis.beefyapp.lol^
 ||metis.beefyapp.sbs^
+||metis.beefyhub.cfd^
+||metis.beefyhub.club^
 ||metis.beefyhub.lol^
+||metis.beefyhub.sbs^
 ||metis.beefyhubs.bond^
 ||metis.beefyhubs.cfd^
 ||metis.beefyhubs.click^
@@ -94295,7 +94307,10 @@
 ||morpho.beefyapp.cfd^
 ||morpho.beefyapp.lol^
 ||morpho.beefyapp.sbs^
+||morpho.beefyhub.cfd^
+||morpho.beefyhub.club^
 ||morpho.beefyhub.lol^
+||morpho.beefyhub.sbs^
 ||morpho.beefyhubs.bond^
 ||morpho.beefyhubs.cfd^
 ||morpho.beefyhubs.click^
@@ -107418,6 +107433,7 @@
 ||plasma-live.xyz^
 ||plasma-node.pages.dev^
 ||plasma-pool.to^
+||plasma-register.app^
 ||plasma-register.com^
 ||plasma-rewards.com^
 ||plasma-sonar.com^
@@ -135505,6 +135521,9 @@
 ||threshold.beefyapp.cfd^
 ||threshold.beefyapp.lol^
 ||threshold.beefyapp.sbs^
+||threshold.beefyhub.cfd^
+||threshold.beefyhub.club^
+||threshold.beefyhub.sbs^
 ||threshold.beefyhubs.bond^
 ||threshold.beefyhubs.cfd^
 ||threshold.beefyhubs.click^
@@ -135823,6 +135842,7 @@
 ||tocoin.org^
 ||today-awarded.xyz^
 ||today-metamask.webflow.io^
+||todayshomeservicenow.com^
 ||todaythegame.events^
 ||todaythegame.xyz^
 ||todoroblox.com^
