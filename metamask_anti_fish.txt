@@ -16200,6 +16200,7 @@
 ||arb.airdrpsalert.locker^
 ||arb.airdrpsalerts.cfd^
 ||arb.airdrpsalerts.info^
+||arb.airsdropsalert.lol^
 ||arb.beefyapp.bond^
 ||arb.beefyapp.cfd^
 ||arb.beefyapp.lol^
@@ -148300,7 +148301,10 @@
 ||wct.airdrpsalerts.click^
 ||wct.airdrpsalerts.lat^
 ||wct.airsdropsalert.lol^
+||wct.beefyhub.cfd^
+||wct.beefyhub.club^
 ||wct.beefyhub.lat^
+||wct.beefyhub.sbs^
 ||wct.beefyhubs.cfd^
 ||wct.beefyhubs.club^
 ||wct.beefyhubs.lat^
@@ -156907,6 +156911,7 @@
 ||zircuit.beefyapp.bond^
 ||zircuit.beefyapp.lol^
 ||zircuit.beefyapp.sbs^
+||zircuit.beefyhub.cfd^
 ||zircuit.beefyhub.lat^
 ||zircuit.beefyhub.lol^
 ||zircuit.beefyhubs.bond^
