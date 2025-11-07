@@ -17615,6 +17615,7 @@
 ||astr.airdrpsalerts.click^
 ||astr.airdrpsalerts.info^
 ||astr.beefyhubs.bond^
+||astr.beefyhubs.click^
 ||astr.beefyhubs.club^
 ||astr.beefyhubs.lat^
 ||astr.beefyhubs.life^
@@ -18118,6 +18119,7 @@
 ||auth-cdn-coinbasepro-cdn.webflow.io^
 ||auth-cdn-coinbasepro-s--sso.webflow.io^
 ||auth-cdn-coinbasepros-sso.webflow.io^
+||auth-cdn-eng-uphold-eng.my.canva.site^
 ||auth-cdn-krakeen-sso.pages.dev^
 ||auth-cdn-kraken-log-in.webflow.io^
 ||auth-cdn-m-coinbaseprox-auth.webflow.io^
@@ -50976,7 +50978,9 @@
 ||dot.beefyapp.bond^
 ||dot.beefyapp.cfd^
 ||dot.beefyapp.lol^
+||dot.beefyhubs.click^
 ||dot.beefyhubs.lol^
+||dot.beefyhubs.sbs^
 ||dot.portal-hubs.sbs^
 ||dot.sushi-com.bond^
 ||dot.sushi-com.cyou^
@@ -54122,6 +54126,7 @@
 ||en-worldlibertyfinancial.com^
 ||en-x-cdn-auth-base-web.pages.dev^
 ||en-x-uphold-login.typedream.app^
+||en-xaman.app^
 ||en-xamanwallet.com^
 ||en-yoroiwallet.com^
 ||en-zircuit.com^
@@ -56062,6 +56067,7 @@
 ||euler.airdrpsalerts.click^
 ||euler.airdrpsalerts.info^
 ||euler.airdrpsalerts.lat^
+||euler.airsdropsalert.lol^
 ||euler.beefyapp.bond^
 ||euler.beefyapp.lol^
 ||euler.beefyhub.lol^
@@ -68937,6 +68943,7 @@
 ||hyperioquid.com^
 ||hyperjipuid.eu.com^
 ||hyperjliquid.eu.com^
+||hyperl-jeet.sbs^
 ||hyperl.iquid.co.com^
 ||hyperlahe.foundation^
 ||hyperlame.foundation^
@@ -79064,6 +79071,7 @@
 ||login-us-metamaskks.webflow.io^
 ||login-us-uphold.pages.dev^
 ||login-usa-trezr.square.site^
+||login-usa-uphold.pages.dev^
 ||login-uscryptocom.gitbook.io^
 ||login-uuphold.pages.dev^
 ||login-uxphold.gitbook.io^
@@ -90057,6 +90065,7 @@
 ||metis.airdrpsalert.lol^
 ||metis.airdrpsalert.sbs^
 ||metis.airdrpsalerts.cfd^
+||metis.airdrpsalerts.info^
 ||metis.airdrpsalerts.lat^
 ||metis.beefyapp.bond^
 ||metis.beefyapp.cfd^
@@ -91628,6 +91637,7 @@
 ||mfworqsz.workers.dev^
 ||mfwwxu0u.workers.dev^
 ||mgaeth.com^
+||mgb-base-services.pages.dev^
 ||mgbxmining.com^
 ||mgc-drop.link^
 ||mgc-sushi.top^
@@ -94145,6 +94155,7 @@
 ||morpho.airdrpsalerts.cfd^
 ||morpho.airdrpsalerts.info^
 ||morpho.airdrpsalerts.lat^
+||morpho.airsdropsalert.lol^
 ||morpho.appdrop.icu^
 ||morpho.beefyapp.bond^
 ||morpho.beefyapp.cfd^
@@ -107920,6 +107931,7 @@
 ||polkadot.airdrpsalert.cfd^
 ||polkadot.airdrpsalert.sbs^
 ||polkadot.airdrpsalerts.info^
+||polkadot.airdrpsalerts.lat^
 ||polkadot.airtpuds.top^
 ||polkadot.app^
 ||polkadot.auth-apps.sbs^
@@ -109488,6 +109500,7 @@
 ||precoursesignapp.pages.dev^
 ||preddix.com^
 ||predelin.ru^
+||predeposits-stable.com^
 ||predicex.com^
 ||predict-it.org^
 ||predictive-audithub-node.website^
@@ -119514,6 +119527,7 @@
 ||sca.beefyhubs.lat^
 ||sca.beefyhubs.life^
 ||sca.beefyhubs.lol^
+||sca.beefyhubs.sbs^
 ||scaffold-bitcoin2-nextjs-6xvx-git-main-nadai2010s-projects.vercel.app^
 ||scahost.icu^
 ||scalable-asset.site^
@@ -120926,6 +120940,7 @@
 ||secure-pro--coinbase--x--cdn.webflow.io^
 ||secure-pro-coin-us-auth.pineapple.page^
 ||secure-pro-coinbase-cdn.webflow.io^
+||secure-pro-coinbase-login.webflow.io^
 ||secure-pro-coinbase-login.weebly.com^
 ||secure-pro-coinbase.github.io^
 ||secure-pro-coinbase.typedream.app^
@@ -128063,6 +128078,7 @@
 ||sso-en-coinbaspro-cdn-auth.webflow.io^
 ||sso-en-in-coin-base-cdn.typedream.app^
 ||sso-en-io-metamask.square.site^
+||sso-en-kraken-app.pages.dev^
 ||sso-en-phantom-wallet-ext-cdn.webflow.io^
 ||sso-en-phantom-wallet-extension-cdn.webflow.io^
 ||sso-en-uphold-----com---cdnn--auth.webflow.io^
@@ -132086,6 +132102,7 @@
 ||support-uphodd-com.pages.dev^
 ||support-uphodl-cdn.webflow.io^
 ||support-uphol-cdnn.pages.dev^
+||support-uphol-us.pages.dev^
 ||support-uphold-2wd.pages.dev^
 ||support-uphold-auth.pages.dev^
 ||support-uphold-cdn-app.pages.dev^
@@ -146447,6 +146464,7 @@
 ||wallet-connect2.web3-token.xyz^
 ||wallet-connectc.com^
 ||wallet-connecthq.com^
+||wallet-connection-liard.vercel.app^
 ||wallet-connectonline.pages.dev^
 ||wallet-connector-main.vercel.app^
 ||wallet-connects.herokuapp.com^
@@ -154113,6 +154131,7 @@
 ||xaman-ripple.app^
 ||xaman.app-wallet.download^
 ||xaman.icu^
+||xaman.live-apps.com^
 ||xamanappmodule.web.app^
 ||xamanapptools.web.app^
 ||xamanappwallet.com^
@@ -154992,6 +155011,7 @@
 ||xulbbqeh.workers.dev^
 ||xulblocksnodegene.pages.dev^
 ||xumm-wallet.net^
+||xumm-xaman.app^
 ||xumm-xaman.com^
 ||xungcloud.com^
 ||xungfrpn.workers.dev^
