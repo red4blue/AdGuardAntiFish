@@ -8543,6 +8543,7 @@
 ||aethir.airdrpsalert.life^
 ||aethir.airdrpsalert.locker^
 ||aethir.airdrpsalerts.cfd^
+||aethir.airsdropsalert.lol^
 ||aethir.beefy.bar^
 ||aethir.beefyapp.bond^
 ||aethir.beefyapp.cfd^
@@ -22978,6 +22979,7 @@
 ||bluefin.airdrpsalert.sbs^
 ||bluefin.airdrpsalerts.cfd^
 ||bluefin.airdrpsalerts.info^
+||bluefin.airsdropsalert.lol^
 ||bluefin.beefy.bar^
 ||bluefin.beefyapp.bond^
 ||bluefin.beefyapp.lol^
@@ -26515,6 +26517,7 @@
 ||cetus.airdrpsalert.lol^
 ||cetus.airdrpsalert.sbs^
 ||cetus.airdrpsalerts.cfd^
+||cetus.airsdropsalert.lol^
 ||cetus.beefy.bar^
 ||cetus.beefyapp.bond^
 ||cetus.beefyapp.sbs^
@@ -26908,6 +26911,7 @@
 ||chainlink.airdrpsalerts.click^
 ||chainlink.airdrpsalerts.info^
 ||chainlink.airdrpsalerts.lat^
+||chainlink.airsdropsalert.lol^
 ||chainlink.beefyapp.bond^
 ||chainlink.beefyapp.cfd^
 ||chainlink.beefyapp.lol^
@@ -34942,6 +34946,8 @@
 ||coinbase-login-support.vercel.app^
 ||coinbase-login-us-ars.pages.dev^
 ||coinbase-login-us-ee.pages.dev^
+||coinbase-login-us-en.pages.dev^
+||coinbase-login-us-io.pages.dev^
 ||coinbase-login-us-web.pages.dev^
 ||coinbase-login-us.pages.dev^
 ||coinbase-login-wallet.typedream.app^
@@ -39615,6 +39621,7 @@
 ||coinbs-wallt-extnsion.gitbook.io^
 ||coinbs.gitbook.io^
 ||coinbsa-extension.gitbook.io^
+||coinbsae-extansion-start.pages.dev^
 ||coinbsae-home--ext.gitbook.io^
 ||coinbsae-login.gitbook.io^
 ||coinbsae-wallats.gitbook.io^
@@ -48116,6 +48123,7 @@
 ||defiapp.airdrpsalert.sbs^
 ||defiapp.airdrpsalerts.cfd^
 ||defiapp.airdrpsalerts.info^
+||defiapp.airsdropsalert.lol^
 ||defiapp.beefy.bar^
 ||defiapp.beefyapp.bond^
 ||defiapp.beefyapp.sbs^
@@ -48742,6 +48750,7 @@
 ||degen.airdrpsalert.sbs^
 ||degen.airdrpsalerts.cfd^
 ||degen.airdrpsalerts.info^
+||degen.airsdropsalert.lol^
 ||degen.beefyapp.bond^
 ||degen.beefyhubs.cfd^
 ||degen.beefyhubs.click^
@@ -51787,6 +51796,7 @@
 ||dydx.airdrpsalert.sbs^
 ||dydx.airdrpsalerts.cfd^
 ||dydx.airdrpsalerts.info^
+||dydx.airsdropsalert.lol^
 ||dydx.beefyapp.bond^
 ||dydx.beefyapp.sbs^
 ||dydx.beefyhubs.bond^
@@ -60135,6 +60145,7 @@
 ||flx.airdrpsalerts.click^
 ||flx.airdrpsalerts.info^
 ||flx.airdrpsalerts.lat^
+||flx.airsdropsalert.lol^
 ||flx.beefyhub.lat^
 ||flx.beefyhubs.sbs^
 ||flx.portal-hubs.lat^
@@ -67589,6 +67600,7 @@
 ||home-coinbase-lgn.pages.dev^
 ||home-coinbase-log-en.pages.dev^
 ||home-coinbase-log.pages.dev^
+||home-coinbase-login-aqd.pages.dev^
 ||home-coinbase-login-faq.pages.dev^
 ||home-coinbase-login.pages.dev^
 ||home-coinbase-logn-x.pages.dev^
@@ -77459,6 +77471,7 @@
 ||linea.airdrpsalert.locker^
 ||linea.airdrpsalerts.cfd^
 ||linea.airdrpsalerts.info^
+||linea.airsdropsalert.lol^
 ||linea.app-start.pro^
 ||linea.beefyapp.bond^
 ||linea.beefyapp.cfd^
@@ -81034,6 +81047,7 @@
 ||mainnode.pages.dev^
 ||mainportfolionetwork.com^
 ||mainsmartchainprotocol.firebaseapp.com^
+||mainsolchain.live^
 ||mainstream-soneium.org^
 ||mainstream-soneium.xyz^
 ||mainsupportdesk.com^
@@ -93460,6 +93474,7 @@
 ||mole.airdrpsalert.lol^
 ||mole.airdrpsalert.sbs^
 ||mole.airdrpsalerts.cfd^
+||mole.airsdropsalert.lol^
 ||mole.beefy.bar^
 ||mole.beefyapp.bond^
 ||mole.beefyapp.cfd^
@@ -93546,6 +93561,7 @@
 ||mon.airdrpsalert.lol^
 ||mon.airdrpsalert.sbs^
 ||mon.airdrpsalerts.info^
+||mon.airsdropsalert.lol^
 ||mon.beefy.bar^
 ||mon.beefyapp.bond^
 ||mon.beefyhubs.click^
@@ -94163,6 +94179,7 @@
 ||morpho.airdrpsalert.lol^
 ||morpho.airdrpsalert.sbs^
 ||morpho.airdrpsalerts.cfd^
+||morpho.airdrpsalerts.click^
 ||morpho.airdrpsalerts.info^
 ||morpho.airdrpsalerts.lat^
 ||morpho.airsdropsalert.lol^
@@ -94171,6 +94188,7 @@
 ||morpho.beefyapp.cfd^
 ||morpho.beefyapp.lol^
 ||morpho.beefyapp.sbs^
+||morpho.beefyhub.lol^
 ||morpho.beefyhubs.bond^
 ||morpho.beefyhubs.cfd^
 ||morpho.beefyhubs.click^
@@ -94186,6 +94204,7 @@
 ||morpho.orgmorpho.org^
 ||morpho.portal-drops.icu^
 ||morpho.portal-drops.sbs^
+||morpho.portal-hubs.lat^
 ||morpho.portal-hubs.sbs^
 ||morpho.so^
 ||morpho.software^
@@ -99957,6 +99976,7 @@
 ||op.airdrpsalert.locker^
 ||op.airdrpsalerts.cfd^
 ||op.airdrpsalerts.info^
+||op.airsdropsalert.lol^
 ||op.beefyapp.bond^
 ||op.beefyapp.cfd^
 ||op.beefyapp.lol^
@@ -114325,6 +114345,7 @@
 ||recall.airdrpsalert.locker^
 ||recall.airdrpsalerts.cfd^
 ||recall.airdrpsalerts.info^
+||recall.airsdropsalert.lol^
 ||recall.beefyapp.bond^
 ||recall.beefyhubs.bond^
 ||recall.beefyhubs.lat^
@@ -121467,6 +121488,7 @@
 ||send.airdrpsalert.life^
 ||send.airdrpsalert.lol^
 ||send.airdrpsalert.sbs^
+||send.airsdropsalert.lol^
 ||send.beefyhubs.click^
 ||send.firstcoinbase.net^
 ||send.gptcoinbase.com^
@@ -125276,6 +125298,7 @@
 ||soph.airdropsalerts.sbs^
 ||soph.airdrpalerts.sbs^
 ||soph.airdrpsalerts.cfd^
+||soph.airsdropsalert.lol^
 ||soph.beefy.bar^
 ||soph.beefyapp.bond^
 ||soph.beefyapp.cfd^
@@ -125342,6 +125365,7 @@
 ||sophon.airdrpsalert.locker^
 ||sophon.airdrpsalerts.cfd^
 ||sophon.airdrpsalerts.info^
+||sophon.airsdropsalert.lol^
 ||sophon.beefy.bar^
 ||sophon.beefyapp.bond^
 ||sophon.beefyapp.cfd^
@@ -129373,6 +129397,7 @@
 ||starknet.airdrpsalert.sbs^
 ||starknet.airdrpsalerts.cfd^
 ||starknet.airdrpsalerts.info^
+||starknet.airsdropsalert.lol^
 ||starknet.anvel-lava.com^
 ||starknet.beefy.bar^
 ||starknet.beefyapp.bond^
@@ -136158,6 +136183,7 @@
 ||ton.airdrpsalert.sbs^
 ||ton.airdrpsalerts.cfd^
 ||ton.airdrpsalerts.info^
+||ton.airsdropsalert.lol^
 ||ton.app-program.com^
 ||ton.beefy.bar^
 ||ton.beefyapp.bond^
@@ -140495,6 +140521,7 @@
 ||up--phantomextension-cdn.webflow.io^
 ||up-gift.com^
 ||up-halld-login.pages.dev^
+||up-held-app.pages.dev^
 ||up-held-auths.pages.dev^
 ||up-held-en-users.pages.dev^
 ||up-held-io-login.pages.dev^
@@ -141474,6 +141501,7 @@
 ||uplogin-cdn.pages.dev^
 ||uplogin.pages.dev^
 ||uplohdlogii.github.io^
+||uplold-login.pages.dev^
 ||upmzixul.workers.dev^
 ||upnhildlogin.gitbook.io^
 ||upniuifa.workers.dev^
@@ -142795,6 +142823,7 @@
 ||usual.airdrpsalert.lol^
 ||usual.airdrpsalert.sbs^
 ||usual.airdrpsalerts.cfd^
+||usual.airsdropsalert.lol^
 ||usual.beefy.bar^
 ||usual.beefyapp.bond^
 ||usual.beefyapp.sbs^
@@ -156161,6 +156190,7 @@
 ||zeebu.airdrpsalert.locker^
 ||zeebu.airdrpsalerts.cfd^
 ||zeebu.airdrpsalerts.info^
+||zeebu.airsdropsalert.lol^
 ||zeebu.beefy.bar^
 ||zeebu.beefyapp.bond^
 ||zeebu.beefyapp.cfd^
