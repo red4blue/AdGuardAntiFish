@@ -17697,6 +17697,8 @@
 ||astr.airdrpsalerts.click^
 ||astr.airdrpsalerts.info^
 ||astr.airdrpsalerts.lat^
+||astr.airsdropsalert.cfd^
+||astr.airsdropsalert.click^
 ||astr.beefyhub.cfd^
 ||astr.beefyhub.lol^
 ||astr.beefyhubs.bond^
@@ -20854,6 +20856,7 @@
 ||beefy.airdrpsalerts.cfd^
 ||beefy.airdrpsalerts.info^
 ||beefy.airdrpsalerts.lat^
+||beefy.airsdropsalert.click^
 ||beefy.airsdropsalert.lol^
 ||beefy.app-swap.io^
 ||beefy.app-v1.icu^
@@ -26066,10 +26069,12 @@
 ||ccip-f7m2ujzen-chainlinklabs.vercel.app^
 ||ccip-f99865d4p-chainlinklabs.vercel.app^
 ||ccip-fbg5qxicj-chainlinklabs.vercel.app^
+||ccip-feat-front-4741-ccip-success-s-chainlinklabs.vercel.app^
 ||ccip-fjgi3pyai-chainlinklabs.vercel.app^
 ||ccip-fkf4gw9pb-chainlinklabs.vercel.app^
 ||ccip-fpbsdxa4p-chainlinklabs.vercel.app^
 ||ccip-fr78e41p6-chainlinklabs.vercel.app^
+||ccip-front-5198-design-system-remov-chainlinklabs.vercel.app^
 ||ccip-fupgpz8yg-chainlinklabs.vercel.app^
 ||ccip-fzlmjnd0h-chainlinklabs.vercel.app^
 ||ccip-g829da6pf-chainlinklabs.vercel.app^
@@ -26118,6 +26123,9 @@
 ||ccip-snmbieovy-chainlinklabs.vercel.app^
 ||ccip-ui-chore-dapp-7188-make-e2e-test--cll.vercel.app^
 ||ccip-ui-dapp-7206-blocks-modal-styling-cll.vercel.app^
+||ccip-ui-feature-branch-platform-naviga-cll.vercel.app^
+||ccip-ui-platform-navigatin-redesign-cll.vercel.app^
+||ccip-ui-revert-6965-front-6671-vertica-cll.vercel.app^
 ||ccip-ui-tm-2-21-cll.vercel.app^
 ||ccip-ui.vercel.app^
 ||ccirchgo.workers.dev^
@@ -43409,6 +43417,7 @@
 ||consol-eth.com^
 ||consol-ether.com^
 ||consol-sso-coinbasepro-app--cdn.webflow.io^
+||console-chore-shellify-apps-chainlinklabs.vercel.app^
 ||console-coinbase.com^
 ||console-eth.com^
 ||console-ether.com^
@@ -47128,6 +47137,7 @@
 ||data-digital-operative.com^
 ||data-metamask.com^
 ||data-rectification.vercel.app^
+||data-search-feeds-test-fix-chainlinklabs.vercel.app^
 ||data-upheld-com-cdn.pages.dev^
 ||data.198239-coinbase.com^
 ||data.198240-coinbase.com^
@@ -146575,6 +146585,7 @@
 ||vrcxmyuu.workers.dev^
 ||vreify-coinbase.com^
 ||vrf-feature-liayoo-custom-rpc-wall-chainlinklabs.vercel.app^
+||vrf-spike-drizzle-chainlinklabs.vercel.app^
 ||vrf-ui-feature-branch-platform-naviga-cll.vercel.app^
 ||vrf-ui.vercel.app^
 ||vrf-vrfv25-chainlinklabs.vercel.app^
