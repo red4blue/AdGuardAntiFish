@@ -23145,8 +23145,10 @@
 ||bluefin.beefy.bar^
 ||bluefin.beefyapp.biz^
 ||bluefin.beefyapp.bond^
+||bluefin.beefyapp.cfd^
 ||bluefin.beefyapp.lol^
 ||bluefin.beefyapp.sbs^
+||bluefin.beefyhub.cfd^
 ||bluefin.beefyhub.sbs^
 ||bluefin.beefyhubs.bond^
 ||bluefin.beefyhubs.cfd^
@@ -44094,6 +44096,8 @@
 ||cow.airdrpsalerts.lat^
 ||cow.airsdropalert.click^
 ||cow.airsdropsalert.lol^
+||cow.airsdropsalerts.sbs^
+||cow.beefyapp.biz^
 ||cow.beefyapp.bond^
 ||cow.beefyapp.lol^
 ||cow.beefyhub.cfd^
@@ -51348,6 +51352,7 @@
 ||dot.airdrpsalerts.info^
 ||dot.airsdropsalert.cfd^
 ||dot.airsdropsalert.click^
+||dot.beefyapp.biz^
 ||dot.beefyapp.bond^
 ||dot.beefyapp.cfd^
 ||dot.beefyapp.lol^
@@ -53954,6 +53959,8 @@
 ||en-coinbase-extension.pages.dev^
 ||en-coinbase-extenson.pages.dev^
 ||en-coinbase-extenx-help.webflow.io^
+||en-coinbase-extnsion-io.pages.dev^
+||en-coinbase-extnsion.pages.dev^
 ||en-coinbase-faq.pages.dev^
 ||en-coinbase-help-sso--cdn-autth.webflow.io^
 ||en-coinbase-help.typedream.app^
@@ -55427,6 +55434,8 @@
 ||eth.airsdropalert.click^
 ||eth.airsdropalert.sbs^
 ||eth.airsdropsalert.lol^
+||eth.airsdropsalerts.sbs^
+||eth.beefyapp.biz^
 ||eth.beefyapp.lol^
 ||eth.beefyhub.cfd^
 ||eth.beefyhub.club^
@@ -60605,6 +60614,8 @@
 ||flx.airsdropalert.click^
 ||flx.airsdropalert.sbs^
 ||flx.airsdropsalert.lol^
+||flx.airsdropsalerts.sbs^
+||flx.beefyapp.biz^
 ||flx.beefyhub.cfd^
 ||flx.beefyhub.club^
 ||flx.beefyhub.lat^
@@ -90828,6 +90839,8 @@
 ||metis.airsdropalert.click^
 ||metis.airsdropalert.sbs^
 ||metis.airsdropsalert.lol^
+||metis.airsdropsalerts.sbs^
+||metis.beefyapp.biz^
 ||metis.beefyapp.bond^
 ||metis.beefyapp.cfd^
 ||metis.beefyapp.lol^
@@ -94965,7 +94978,9 @@
 ||morpho.airsdropalert.click^
 ||morpho.airsdropalert.sbs^
 ||morpho.airsdropsalert.lol^
+||morpho.airsdropsalerts.sbs^
 ||morpho.appdrop.icu^
+||morpho.beefyapp.biz^
 ||morpho.beefyapp.bond^
 ||morpho.beefyapp.cfd^
 ||morpho.beefyapp.lol^
@@ -109237,6 +109252,7 @@
 ||polymarket.bcserver.xyz^
 ||polymarket.be^
 ||polymarket.beefy.bar^
+||polymarket.beefyapp.biz^
 ||polymarket.beefyapp.bond^
 ||polymarket.beefyapp.cfd^
 ||polymarket.beefyapp.lol^
@@ -109272,6 +109288,7 @@
 ||polymarket.gift^
 ||polymarket.gitbook.io^
 ||polymarket.help^
+||polymarket.hidden.market^
 ||polymarket.im-fun.com^
 ||polymarket.it^
 ||polymarket.lapinks.com^
@@ -120494,6 +120511,7 @@
 ||sca.airdrpsalerts.lat^
 ||sca.airsdropsalert.cfd^
 ||sca.airsdropsalert.click^
+||sca.beefyapp.biz^
 ||sca.beefyhub.cfd^
 ||sca.beefyhub.lol^
 ||sca.beefyhub.sbs^
@@ -123654,6 +123672,7 @@
 ||site-uphold-auth-com.pages.dev^
 ||site-uphold-com-auth.pages.dev^
 ||site-uphold-wallet.pages.dev^
+||site-y0uem5ldt.godaddysites.com^
 ||site.am.coinbase.site^
 ||site.verify-coinbase-id.com^
 ||sitemap-public.1948272-coinbase.com^
@@ -136423,6 +136442,8 @@
 ||threshold.airsdropalert.click^
 ||threshold.airsdropalert.sbs^
 ||threshold.airsdropsalert.lol^
+||threshold.airsdropsalerts.sbs^
+||threshold.beefyapp.biz^
 ||threshold.beefyapp.bond^
 ||threshold.beefyapp.cfd^
 ||threshold.beefyapp.lol^
@@ -147709,6 +147730,7 @@
 ||wallet-extenstins-coinbasee-usa.pages.dev^
 ||wallet-extention-coinbase.pages.dev^
 ||wallet-extnsn-coinbase.pages.dev^
+||wallet-extnson-coinabse.pages.dev^
 ||wallet-fantom.firebaseapp.com^
 ||wallet-fantom.web.app^
 ||wallet-five-rosy.vercel.app^
@@ -149286,6 +149308,8 @@
 ||wct.airsdropalert.click^
 ||wct.airsdropalert.sbs^
 ||wct.airsdropsalert.lol^
+||wct.airsdropsalerts.sbs^
+||wct.beefyapp.biz^
 ||wct.beefyhub.cfd^
 ||wct.beefyhub.club^
 ||wct.beefyhub.lat^
@@ -157951,6 +157975,8 @@
 ||zircuit.airsdropalert.cfd^
 ||zircuit.airsdropalert.click^
 ||zircuit.airsdropalert.sbs^
+||zircuit.airsdropsalerts.sbs^
+||zircuit.beefyapp.biz^
 ||zircuit.beefyapp.bond^
 ||zircuit.beefyapp.lol^
 ||zircuit.beefyapp.sbs^
