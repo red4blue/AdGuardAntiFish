@@ -44686,7 +44686,9 @@
 ||crv.airdrpsalerts.info^
 ||crv.beefy.bar^
 ||crv.beefyapp.bond^
+||crv.beefyapp.cfd^
 ||crv.beefyapp.lol^
+||crv.beefyapp.sbs^
 ||crv.beefyhub.lol^
 ||crv.beefyhub.sbs^
 ||crv.beefyhubs.click^
@@ -49102,6 +49104,8 @@
 ||degen.airsdropsalert.lol^
 ||degen.beefyapp.biz^
 ||degen.beefyapp.bond^
+||degen.beefyapp.cfd^
+||degen.beefyapp.sbs^
 ||degen.beefyhub.cfd^
 ||degen.beefyhub.sbs^
 ||degen.beefyhubs.cfd^
@@ -81214,6 +81218,8 @@
 ||magma.airsdropalert.click^
 ||magma.airsdropalert.sbs^
 ||magma.airsdropsalert.lol^
+||magma.airsdropsalerts.sbs^
+||magma.beefyapp.biz^
 ||magma.beefyapp.cfd^
 ||magma.beefyhubs.bond^
 ||magma.beefyhubs.cfd^
@@ -109304,6 +109310,7 @@
 ||polymarket.pics^
 ||polymarket.portal-drops.icu^
 ||polymarket.portal-hubs.cfd^
+||polymarket.portal-hubs.sbs^
 ||polymarket.press^
 ||polymarket.priceplay.com^
 ||polymarket.pw^
