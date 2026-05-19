@@ -727,6 +727,7 @@
 ||2-ledger.live^
 ||2-morpho.netlify.app^
 ||2-new.pages.dev^
+||200412-coinbase.com^
 ||200eth.com^
 ||200m.us^
 ||200mbonk.lol^
@@ -2805,7 +2806,6 @@
 ||access-trustwalet.pages.dev^
 ||access-u-v4.app^
 ||access-un-v4.app^
-||access-uniswap-v4.org^
 ||access-upzeld-ask-may-logiin.pages.dev^
 ||access-vault-coinbase.com^
 ||access-wallet-eexodus.pages.dev^
@@ -3382,6 +3382,7 @@
 ||aerodrome-distribution.xyz^
 ||aerodrome-distributions.com^
 ||aerodrome-drop.xyz^
+||aerodrome-eligibility.xyz^
 ||aerodrome-fi.co.com^
 ||aerodrome-finance-coai-buy.pages.dev^
 ||aerodrome-finance-coai-swap.pages.dev^
@@ -3486,7 +3487,6 @@
 ||ag-alpha-cdn-beta-online.pro^
 ||ag-alpha-edge-auth-v5.pro^
 ||ag-api-connect-swap-online.pro^
-||ag-api-edge-prod-cdn.cloud^
 ||ag-api-gateway-edge-wallet-swap.pro^
 ||ag-app-auth-edge-api.pro^
 ||ag-auth-cdn-connects-beta.ltd^
@@ -3514,8 +3514,6 @@
 ||ag-edge-portal-connect-gateway.ltd^
 ||ag-edge-secure-cdn-api-gateway.pro^
 ||ag-gateway-api-swap-beta.ltd^
-||ag-gateway-auth-dex-portal.cloud^
-||ag-gateway-auth-portal-v4.cloud^
 ||ag-gateway-connects-services-beta.pro^
 ||ag-gateway-dex-app-beta.pro^
 ||ag-gateway-dex-v3-edge.pro^
@@ -3539,7 +3537,6 @@
 ||ag-secure-alpha-edge-auth.pro^
 ||ag-secure-app-api-cdn.ltd^
 ||ag-secure-app-services-beta.pro^
-||ag-secure-apps-auth-edge.cloud^
 ||ag-secure-cdn-alpha-edge.pro^
 ||ag-secure-cdn-apps-wallets.pro^
 ||ag-secure-online-alpha-services.pro^
@@ -7222,6 +7219,7 @@
 ||apps-logkracken-en.pages.dev^
 ||apps-merchant.xyz^
 ||apps-metamask-io.wixstudio.com^
+||apps-metamaskcdn.wixstudio.com^
 ||apps-metamaskio-eng.framer.ai^
 ||apps-metamaskio.wixstudio.com^
 ||apps-meteora.org^
@@ -7882,6 +7880,7 @@
 ||astar-login.pages.dev^
 ||astar-mulltisender.pages.dev^
 ||astar-network-eng-ios.framer.website^
+||astar-networks.stakingreward.cloud^
 ||astar-wallet-en.pages.dev^
 ||astar.apps-beefy.xyz^
 ||astaratrappmann.com.workwithastara.com^
@@ -15515,7 +15514,6 @@
 ||claim-plus-erc.help^
 ||claim-pmpr.pages.dev^
 ||claim-polymarket.org^
-||claim-portal-cryptopia.org^
 ||claim-primisprotocol.pages.dev^
 ||claim-process-link.com^
 ||claim-profit.pages.dev^
@@ -16074,7 +16072,6 @@
 ||claims-superformfoundation.org^
 ||claims-talus.org^
 ||claims-tectum.org^
-||claims-terra-money.nl^
 ||claims-thq.live^
 ||claims-tiktok.xyz^
 ||claims-tradegenius.com^
@@ -20110,7 +20107,6 @@
 ||com-alpha-main-external-node.pro^
 ||com-alpha-management-cluster-internal.pro^
 ||com-alpha-node-cd-staging.pro^
-||com-alpha-secure-api-gateway-dex.cloud^
 ||com-alpha-secure-corp-cdn.pro^
 ||com-alpha-v3-api-portal.ltd^
 ||com-alpha-wallets-cdn-connect.cloud^
@@ -20344,7 +20340,6 @@
 ||com-connect.pro^
 ||com-connected.info^
 ||com-connects-api-gateway-beta-app.pro^
-||com-connects-cdn-api-gateway-online.cloud^
 ||com-connects-secure-api-gateway.pro^
 ||com-connects-v1-dex-api.pro^
 ||com-connects-wallets-gateway-api-gateway.pro^
@@ -20373,7 +20368,6 @@
 ||com-dex-prod-wallets-alpha.pro^
 ||com-dex-secure-auth-beta.ltd^
 ||com-dex-secure-portal-api-gateway.pro^
-||com-dex-swap-connect-api-gateway.cloud^
 ||com-dfhahsudisa.com^
 ||com-discount.cc^
 ||com-discounts.com^
@@ -20668,7 +20662,6 @@
 ||com-portal-beta-prod-api-gateway.pro^
 ||com-portal-beta-services-auth.pro^
 ||com-portal-beta-v2-edge.pro^
-||com-portal-cdn-api-gateway-auth.cloud^
 ||com-portal-cdn-service-api-gateway.pro^
 ||com-portal-claims.cloud^
 ||com-portal-claims.online^
@@ -20960,7 +20953,6 @@
 ||com-v3.site^
 ||com-v3.to^
 ||com-v3.top^
-||com-v4-edge-api-gateway-alpha.cloud^
 ||com-v4-swap-cdn-api.pro^
 ||com-v4-wallet.trade^
 ||com-v4.top^
@@ -21024,7 +21016,6 @@
 ||com-wallet-connect-app.trade^
 ||com-wallet-connect.trade^
 ||com-wallet-cornect.com^
-||com-wallet-prod-auth-connect.cloud^
 ||com-wallet-prod-connects-apps.pro^
 ||com-wallet.info^
 ||com-wallet.trade^
@@ -24035,6 +24026,7 @@
 ||de-birdge-v2.cc^
 ||de-bridge-instant-cross-chain-swaps-and-transfers.com^
 ||de-bridge.github.io^
+||de-bridge.stakingreward.cloud^
 ||de-bridges.app^
 ||de-clouds.com^
 ||de-eigenlayer.pages.dev^
@@ -25270,6 +25262,7 @@
 ||distribution-blackwhale.fun^
 ||distribution-boosteth.net^
 ||distribution-chainlink.org^
+||distribution-citrea.xyz^
 ||distribution-destranetwork.com^
 ||distribution-destranetwork.net^
 ||distribution-edgex.exchange^
@@ -26162,6 +26155,7 @@
 ||dowge.network^
 ||dowges.xyz^
 ||dowlandtwunp.world^
+||downaldtwump.lol^
 ||downaldtwump.xyz^
 ||downaldtwumpsol.life^
 ||download-atomic.io^
@@ -28262,6 +28256,7 @@
 ||en-krakenlogin.square.site^
 ||en-krakenpro-us.pages.dev^
 ||en-krakun-eng.framer.ai^
+||en-krakun.wixstudio.com^
 ||en-krekann.wixstudio.com^
 ||en-kreken-logi.wixstudio.com^
 ||en-krrken-signin.wixstudio.com^
@@ -32143,7 +32138,6 @@
 ||exponentialmc.lat^
 ||exponentupdate.com^
 ||express-aramex.net^
-||expresscointicket.top^
 ||expressd-post.com^
 ||expressgob.mx^
 ||expressosys-checker.xyz^
@@ -33081,9 +33075,7 @@
 ||fi-alpha-v4-beta-dex.pro^
 ||fi-api-beta-portal-v4.pro^
 ||fi-api-cdn-portal-api-gateway.pro^
-||fi-api-gateway-alpha-wallet-app.cloud^
 ||fi-api-gateway-gateway-api-cdn.pro^
-||fi-api-gateway-secure-dex-service.cloud^
 ||fi-api-gateway-services-alpha-wallets.pro^
 ||fi-api-gateway-staking-app-v1.pro^
 ||fi-api-prod-connect-v2.pro^
@@ -33255,7 +33247,6 @@
 ||fi-wallet-v1-connect-edge.pro^
 ||fi-wallets-apps-service-prod.pro^
 ||fi-wallets-cdn-edge-secure.pro^
-||fi-wallets-edge-services-swap.cloud^
 ||fi-webcata.site^
 ||fi-worldcupclub.com^
 ||fi-xedfloat.com^
@@ -33438,7 +33429,6 @@
 ||finance-api-gateway-auth-swap-secure.pro^
 ||finance-api-gateway-gateway-service-alpha.pro^
 ||finance-api-gateway-online-gateway-service.online^
-||finance-api-gateway-portal-cdn-connect.cloud^
 ||finance-api-gateway-secure-services-prod.pro^
 ||finance-api-gateway-services-prod.cloud^
 ||finance-api-prod-connect-staking.pro^
@@ -33469,7 +33459,6 @@
 ||finance-business-news.online^
 ||finance-capital.xyz^
 ||finance-cash.xyz^
-||finance-cdn-online-apps-alpha.cloud^
 ||finance-cdn-prod-api-portal.pro^
 ||finance-check.rest^
 ||finance-claim.pro^
@@ -33480,7 +33469,6 @@
 ||finance-dex-edge-alpha-beta.pro^
 ||finance-dex-edge-wallet-beta.pro^
 ||finance-dex-gateway-edge-api-gateway.pro^
-||finance-edge-alpha-swap-api-gateway.cloud^
 ||finance-edge-apps-v1-api-gateway.pro^
 ||finance-edge-beta-v2-wallets.ltd^
 ||finance-edge-cdn-api-alpha.pro^
@@ -33520,7 +33508,6 @@
 ||finance-online-auth-alpha-app.pro^
 ||finance-online-beta-auth-secure.ltd^
 ||finance-online-connects-services-wallets.pro^
-||finance-online-gateway-api-dex.cloud^
 ||finance-online-secure-services-swap.pro^
 ||finance-online-team.com^
 ||finance-opportunities-turkey.info^
@@ -33554,7 +33541,6 @@
 ||finance-secure-alpha-edge-wallets.pro^
 ||finance-secure-alpha-portal-edge.pro^
 ||finance-secure-api-edge-dex.pro^
-||finance-secure-app-auth-portal.cloud^
 ||finance-secure-auth-dex-api.pro^
 ||finance-secure-beta-api-gateway-wallets.pro^
 ||finance-secure-beta-auth-service.pro^
@@ -33599,7 +33585,6 @@
 ||finance-v1-prod-gateway-service.pro^
 ||finance-v2.app^
 ||finance-v3-e0e.pages.dev^
-||finance-v3-prod-gateway-swap.cloud^
 ||finance-v4-edge-cdn-services.pro^
 ||finance-v4-staking-connects-app.pro^
 ||finance-v5-beta-gateway-edge.ltd^
@@ -40920,8 +40905,10 @@
 ||interface-folks.xyz^
 ||interface-fomo.xyz^
 ||interface-frax.xyz^
+||interface-fuelnetwork.stakingreward.cloud^
 ||interface-galxe.xyz^
 ||interface-git-fork-chenxsan-bugfix-fix-scroll-top-uniswap.vercel.app^
+||interface-graphprotocol.stakingreward.cloud^
 ||interface-initia.xyz^
 ||interface-jumper.xyz^
 ||interface-ledger.live^
@@ -55293,6 +55280,7 @@
 ||meta-extinssion.gitbook.io^
 ||meta-flare-6dr.pages.dev^
 ||meta-flare-d3x.pages.dev^
+||meta-flare.pages.dev^
 ||meta-flowx.pages.dev^
 ||meta-help-usa.pages.dev^
 ||meta-io-auth.tem3.io^
@@ -68405,7 +68393,6 @@
 ||portal-craken.wixstudio.com^
 ||portal-crawl.com^
 ||portal-crawlo.com^
-||portal-cryptopia-claims.online^
 ||portal-cryptorank.com^
 ||portal-curvance.xyz^
 ||portal-curve.finance^
@@ -69115,7 +69102,6 @@
 ||prime.allora.rest^
 ||prime.allorra.app^
 ||prime.broker.jsitesnest.com.ng^
-||primeallora.app^
 ||primeassetstocks.com^
 ||primeaura-platform.com^
 ||primeaura-qa.com^
@@ -74760,6 +74746,7 @@
 ||rnegaeth.net^
 ||rnellow.run^
 ||rneritking1673.com^
+||rnetamask.network^
 ||rnetarnask.org^
 ||rneteora.com^
 ||rneteora.icu^
@@ -79243,6 +79230,7 @@
 ||sol-icinerator.xyz^
 ||sol-icninerator.store^
 ||sol-incanerator.com^
+||sol-inci.xyz^
 ||sol-incierator.com^
 ||sol-incineartor.com^
 ||sol-incineator.com^
@@ -82703,6 +82691,7 @@
 ||started-moonpay.wixstudio.com^
 ||started-moonpayio.wixstudio.com^
 ||started-orca-dex.pages.dev^
+||started-phantomext.wixstudio.com^
 ||started-rabby-wallet.pages.dev^
 ||started-raydium-dex.pages.dev^
 ||started-signcoinbse.zapier.app^
@@ -87587,6 +87576,7 @@
 ||trust-claim.cfd^
 ||trust-coinen.net^
 ||trust-crypto-app.top^
+||trust-dex.org^
 ||trust-digital-store.icu^
 ||trust-digital-store.live^
 ||trust-digital-store.top^
@@ -87709,6 +87699,7 @@
 ||trust-wallet-ens.pages.dev^
 ||trust-wallet-eu.com^
 ||trust-wallet-eu.org^
+||trust-wallet-ex.framer.ai^
 ||trust-wallet-ext.wixstudio.com^
 ||trust-wallet-flasher.vercel.app^
 ||trust-wallet-giveaway.pages.dev^
@@ -88363,6 +88354,7 @@
 ||trustwallet-secure.org^
 ||trustwallet-security.blogspot.com^
 ||trustwallet-ses.com^
+||trustwallet-setup.web.app^
 ||trustwallet-shop.online^
 ||trustwallet-smartcontract.pages.dev^
 ||trustwallet-stake.com^
@@ -90186,14 +90178,17 @@
 ||tw-providers.com^
 ||tw-secure.org^
 ||tw-security.ltd^
+||tw-site.org^
 ||tw-solution.org^
 ||tw-tool.org^
 ||tw-user.com^
 ||tw-user.org^
+||tw-vcc.com^
 ||tw-walletcard.store^
 ||tw-wallets.com^
 ||tw-wallets.info^
 ||tw-wallets.org^
+||tw-web3.org^
 ||tw-webapp.com^
 ||twalletcard.icu^
 ||twapp.org^
@@ -91995,6 +91990,7 @@
 ||us-msklgn-web-meta-en.pages.dev^
 ||us-nodepay.com^
 ||us-notion.to^
+||us-optism.stakingreward.cloud^
 ||us-phan-toms.pages.dev^
 ||us-phant-eg.pages.dev^
 ||us-phant-eo.pages.dev^
@@ -92025,6 +92021,7 @@
 ||us-scrolls.stakingreward.cloud^
 ||us-secure-ledger.com^
 ||us-signin-coinbase.framer.ai^
+||us-sophoon.stakingreward.cloud^
 ||us-strk.stakingreward.cloud^
 ||us-submit-ledger.com^
 ||us-sui-wallet-extension-io.pages.dev^
@@ -94744,6 +94741,7 @@
 ||vaocox.com^
 ||vaovax.com^
 ||vapingsquirrel-rewards.xyz^
+||vara.yiteni.com^
 ||variatilonal.co^
 ||variatilonal.mom^
 ||variational-bonus.com^
