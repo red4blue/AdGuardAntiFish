@@ -1354,6 +1354,7 @@
 ||4289054-coinbase.com^
 ||428945-coinbase.com^
 ||42934912-coinbase.com^
+||429532-coinbase.com^
 ||429535-coinbase.com^
 ||43065-cbvault.com^
 ||4312-coinbase.com^
@@ -3767,7 +3768,6 @@
 ||ag-v1.com^
 ||ag-wallet-prod-v3-app.pro^
 ||ag-wallets-connect-alpha-service.ltd^
-||ag-wallets-v3-api-gateway-swap.pro^
 ||ag-wet.sale^
 ||ag-x.vip^
 ||ag.meteora.gifts^
@@ -4412,7 +4412,6 @@
 ||akaudalorioai.com^
 ||akdukl.pages.dev^
 ||aker-v1.info^
-||aker-v2.buzz^
 ||aker-v2.digital^
 ||aker-v2.icu^
 ||aker-v2.run^
@@ -10943,7 +10942,6 @@
 ||bitcohub.com^
 ||bitcoin-2x.today^
 ||bitcoin-accelerator.com^
-||bitcoin-ai-v2.cyou^
 ||bitcoin-ai-v3.cyou^
 ||bitcoin-airdrop.com^
 ||bitcoin-backed-loans.framer.website^
@@ -15878,7 +15876,6 @@
 ||claim.kaminostake.xyz^
 ||claim.lombardhub.xyz^
 ||claim.midnights.digital^
-||claim.monad.xxx^
 ||claim.monsbirbs.com^
 ||claim.moonbinds.com^
 ||claim.moonbirbes.xyz^
@@ -19968,7 +19965,6 @@
 ||com-api-gateway-broker-auth-prod.pro^
 ||com-api-gateway-broker-edge.pro^
 ||com-api-gateway-cdn-alpha-beta.pro^
-||com-api-gateway-edge-prod-portal.pro^
 ||com-api-gateway-edge-swap-apps.pro^
 ||com-api-gateway-external-management-auth.pro^
 ||com-api-gateway-frontend-client-dev.pro^
@@ -19979,7 +19975,6 @@
 ||com-api-gateway-secure-invests-auth.pro^
 ||com-api-gateway-secure-v3-service.pro^
 ||com-api-gateway-v5-corp-cdn.pro^
-||com-api-gateway-v5-gateway-beta.pro^
 ||com-api-partner-main-gateway.pro^
 ||com-api-platform-internal-server.pro^
 ||com-api-portal-app-services.pro^
@@ -20159,7 +20154,6 @@
 ||com-connect.live^
 ||com-connect.pro^
 ||com-connected.info^
-||com-connects-api-gateway-beta-app.pro^
 ||com-connects-v1-dex-api.pro^
 ||com-connects-wallets-gateway-api-gateway.pro^
 ||com-continuityplan.info^
@@ -20606,7 +20600,6 @@
 ||com-server-management-main-alpha.pro^
 ||com-service-alpha-auth-app.pro^
 ||com-service-api-api-gateway-broker.pro^
-||com-service-api-gateway-dex-online.pro^
 ||com-service-api-gateway-secure-alpha.pro^
 ||com-service-check.my.id^
 ||com-service-dev-client-stage.pro^
@@ -22544,7 +22537,6 @@
 ||crypto-to-fiat-onramp-services-abm.cyou^
 ||crypto-to-fiat-onramp-services-bod.cyou^
 ||crypto-to-fiat-onramp-services-bza.cyou^
-||crypto-to-fiat-onramp-services-zzz.sbs^
 ||crypto-uu.com^
 ||crypto-vault-one.vercel.app^
 ||crypto-verifier.com^
@@ -22759,7 +22751,6 @@
 ||cryptotechfx.live^
 ||cryptotechfxt.live^
 ||cryptotittiez.com^
-||cryptoto-fiat-onramp-services-xyz.sbs^
 ||cryptotokentest.help^
 ||cryptotools.to^
 ||cryptotradeassetplc.com^
@@ -33084,7 +33075,6 @@
 ||fi-app.credit^
 ||fi-app.vip^
 ||fi-auth-alpha-apps-swap.pro^
-||fi-auth-alpha-portal-swap.pro^
 ||fi-auth-cdn-api-gateway-gateway.pro^
 ||fi-auth-edge-beta-v1.pro^
 ||fi-auth-portal-dex-connect.pro^
@@ -33158,7 +33148,6 @@
 ||fi-nexus.com^
 ||fi-official-dex.com^
 ||fi-online-api-gateway-portal-secure.pro^
-||fi-online-cdn-api-v2.pro^
 ||fi-online-gateway-beta-alpha.pro^
 ||fi-online-staking-api-dex.pro^
 ||fi-online-swap-api-gateway-auth.pro^
@@ -33196,7 +33185,6 @@
 ||fi-staking-beta-secure-edge.pro^
 ||fi-stats.click^
 ||fi-studio.ch^
-||fi-swap-auth-staking-connects.pro^
 ||fi-swap-portal-app-api.pro^
 ||fi-swap-secure-staking-beta.pro^
 ||fi-swap-wallets-v3-services.ltd^
@@ -33406,13 +33394,11 @@
 ||finance-apps-gateway-swap-portal.pro^
 ||finance-auth-dex-staking-connect.pro^
 ||finance-auth-dex-staking-secure.pro^
-||finance-auth-edge-swap-apps.pro^
 ||finance-auth-prod-alpha-connects.pro^
 ||finance-auth-swap-gateway-cdn.pro^
 ||finance-banking-circle.com^
 ||finance-beta-service-alpha-online.pro^
 ||finance-beta-service-wallets-api-gateway.pro^
-||finance-beta-v3-api-gateway-prod.pro^
 ||finance-beta-v3-online-dex.ltd^
 ||finance-block.xyz^
 ||finance-bnb.ink^
@@ -33492,8 +33478,6 @@
 ||finance-prod-app-portal-api-gateway.pro^
 ||finance-prod-edge-app-swap.pro^
 ||finance-prod-online-portal-edge.pro^
-||finance-secure-alpha-edge-wallets.pro^
-||finance-secure-api-edge-dex.pro^
 ||finance-secure-beta-api-gateway-wallets.pro^
 ||finance-secure-beta-auth-service.pro^
 ||finance-secure-dex-wallet-portal.pro^
@@ -33505,7 +33489,6 @@
 ||finance-services-swap-secure-wallet.pro^
 ||finance-solutions-info.info^
 ||finance-stablecoin.xyz^
-||finance-staking-cdn-edge-v3.pro^
 ||finance-staking-connect-secure-api-gateway.pro^
 ||finance-staking-swap-portal-v3.pro^
 ||finance-startup-pgiz4i.live^
@@ -37852,7 +37835,6 @@
 ||help-coinbase-com-sign.daftpage.com^
 ||help-coinbase-com.tem3.io^
 ||help-coinbase-docs.framer.ai^
-||help-coinbase-docs.framer.website^
 ||help-coinbase-en.tem3.io^
 ||help-coinbase-eu.com^
 ||help-coinbase-exten.tem3.io^
@@ -43916,7 +43898,6 @@
 ||kissan-migrate.xyz^
 ||kit-base.com^
 ||kite-counter-dapp.vercel.app^
-||kite-foundation.pro^
 ||kite-foundation.xyz^
 ||kite-foundations.vercel.app^
 ||kite-webapp.pages.dev^
@@ -44206,8 +44187,6 @@
 ||klima.app-beefy.lol^
 ||klima.app-beefy.sbs^
 ||klima.hub-airdrpsalert.sbs^
-||klima.hubs-beefy.lol^
-||klima.hubs-beefy.sbs^
 ||klima.hubs-beefy.xyz^
 ||klima.portal-drops.app^
 ||klimadao-3rkq7ymia-klimadao.vercel.app^
@@ -58688,7 +58667,6 @@
 ||my-atomic.co.com^
 ||my-atomic.com^
 ||my-atomic.gr.com^
-||my-bitcoinwallet.com^
 ||my-bluewallet.com^
 ||my-changelly.gr.com^
 ||my-coinbase-clone-01.netlify.app^
@@ -62781,7 +62759,6 @@
 ||openseasweeper-frontend.pages.dev^
 ||openseatdemo.pages.dev^
 ||openseavics.vercel.app^
-||openseavlogin.wordpress.com^
 ||openseavxr.vercel.app^
 ||opensec-weltl.pages.dev^
 ||opensecmm.io^
@@ -65092,7 +65069,6 @@
 ||phanton-wallet.webflow.io^
 ||phanton.d2.app.br^
 ||phanton.pages.dev^
-||phanton.pro^
 ||phantonn.web3-tools.co.com^
 ||phantonwalletio.webflow.io^
 ||phantonxwallett.created.app^
@@ -65815,6 +65791,7 @@
 ||points-variational.app^
 ||points-variational.com^
 ||points-variational.net^
+||points-variational.org^
 ||points.solsticefinances.com^
 ||points.solsticesfinance.app^
 ||pointscalculatorhibachi.fun^
@@ -66450,7 +66427,6 @@
 ||polymgloss.help^
 ||polymgloss.net^
 ||polymk.com^
-||polymocket.vercel.app^
 ||polymrket.github.io^
 ||polynewsmark.et-place.com^
 ||polynomial.icu^
@@ -67085,6 +67061,7 @@
 ||portal-en-us-cnbase.tem3.io^
 ||portal-en-us-kraken.square.site^
 ||portal-eng-coinbase-base.pages.dev^
+||portal-enterprise-uphold-com.created.app^
 ||portal-equium.xyz^
 ||portal-espressosys.xyz^
 ||portal-esspresso.network^
@@ -73353,9 +73330,7 @@
 ||rls.airdropsalerts.onl^
 ||rls.app-beefy.sbs^
 ||rls.beefyhubs.sbs^
-||rls.hubs-beefy.lat^
 ||rls.hubs-beefy.lol^
-||rls.hubs-beefy.sbs^
 ||rls.hubs-beefy.xyz^
 ||rls.portal-drops.app^
 ||rls.stakingreward.cloud^
@@ -74731,7 +74706,6 @@
 ||sail.app-beefy.sbs^
 ||sail.beefyhubs.bond^
 ||sail.beefyhubs.sbs^
-||sail.hubs-beefy.cfd^
 ||sail.portal-drops.app^
 ||sail.stakingreward.life^
 ||sail.stakingreward.one^
@@ -89852,6 +89826,7 @@
 ||uph0ldsupportnumber.godaddysites.com^
 ||uphaeval.fi^
 ||uphaeval.finance^
+||uphald-app-ai.created.app^
 ||uphald-app.created.app^
 ||uphald-en-doc.created.app^
 ||uphald-lgn-hom.created.app^
@@ -89866,6 +89841,7 @@
 ||upheaval.finance^
 ||uphel-d-support.pages.dev^
 ||upheld-ai.created.app^
+||upheld-log-in.created.app^
 ||upheld-login.meku.app^
 ||upheld-login.wasmer.app^
 ||upheld-po.dream.space^
@@ -89947,6 +89923,7 @@
 ||uphold-log-enus.created.app^
 ||uphold-log-in.created.app^
 ||uphold-log-setup.created.app^
+||uphold-log-us.created.app^
 ||uphold-loges.created.app^
 ||uphold-logi-enus.meku.app^
 ||uphold-logi.created.app^
@@ -90099,6 +90076,7 @@
 ||uphold-loginaccount.blogspot.sg^
 ||uphold-loginaccount.blogspot.sk^
 ||uphold-loginaccount.blogspot.tw^
+||uphold-loginese.created.app^
 ||uphold-loginn.created.app^
 ||uphold-loginre.created.app^
 ||uphold-logins.blogspot.co.nz^
@@ -98039,7 +98017,6 @@
 ||webmail.90289coinbase.com^
 ||webmail.981009coinbase.com^
 ||webmail.apps-metamask.io^
-||webmail.coinbase-di.com^
 ||webmail.coinbase-oauth-service.rnx.xka.mybluehost.me^
 ||webmail.coinbase-wallet-es.com^
 ||webmail.coinbase.rxo.de^
