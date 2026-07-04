@@ -1455,7 +1455,6 @@
 ||451327-coinbase.com^
 ||451584-voyager.com^
 ||451746-bittrex.com^
-||452300coinbase.com^
 ||452616-coinbase.com^
 ||453241-coinbase.com^
 ||453621-coinbase.com^
@@ -1896,7 +1895,6 @@
 ||629134-voyager.com^
 ||631752-celsius.com^
 ||631845-apple.com^
-||632495coinbase.com^
 ||632631-crypto.com^
 ||632743-crypto.com^
 ||633828coinbase.com^
@@ -19331,10 +19329,7 @@
 ||com-anchor-io.pro^
 ||com-apex.info^
 ||com-api-gateway-apps-api-secure.pro^
-||com-api-gateway-edge-swap-apps.pro^
-||com-api-secure-gateway-services.pro^
 ||com-api.icu^
-||com-app-api-beta-online.pro^
 ||com-app-beta-wallets-gateway.pro^
 ||com-app-connect-safe.com^
 ||com-app-connect-safe.trade^
@@ -19379,7 +19374,6 @@
 ||com-b9fi5d.top^
 ||com-backend-api-gateway-dev-corp.pro^
 ||com-base.digital^
-||com-beta-invest-prod-api.pro^
 ||com-billing.online^
 ||com-billings.online^
 ||com-blast-hub.pro^
@@ -19405,8 +19399,6 @@
 ||com-careportal.com^
 ||com-case1.help^
 ||com-caseid26980.shop^
-||com-cd-edge-alpha-server.pro^
-||com-cdn-prod-swap-secure.pro^
 ||com-check.my.id^
 ||com-checking.pro^
 ||com-checkout.sbs^
@@ -19678,7 +19670,6 @@
 ||com-live.download^
 ||com-live.exchange^
 ||com-live.page^
-||com-liveapp.org^
 ||com-liveapp.site^
 ||com-livepanelweb.com^
 ||com-lives.download^
@@ -19840,7 +19831,6 @@
 ||com-restrict.page^
 ||com-restrictedlogin.com^
 ||com-revocacion.com^
-||com-rewards.live^
 ||com-rewardscentre.club^
 ||com-rewardscentre.shop^
 ||com-riodejaneiro.com^
@@ -19945,7 +19935,6 @@
 ||com-sync-hub.pro^
 ||com-sync-io.pro^
 ||com-tax.top^
-||com-tech.shop^
 ||com-tech.site^
 ||com-terms.direct^
 ||com-ticket.us^
@@ -20291,7 +20280,6 @@
 ||compensation-kerneldao.com^
 ||compensation-layerzero.app^
 ||compensation-lido.com^
-||compensation-trustwallet.com^
 ||compensationaave.cam^
 ||compensationaave.xyz^
 ||compensatione-apyx.finance^
@@ -24579,6 +24567,7 @@
 ||docs--sui.webflow.io^
 ||docs-alphagrowth.io^
 ||docs-celestia-media-net.pages.dev^
+||docs-coinbase---prologin.gitbook.io^
 ||docs-coinbase-login.pages.dev^
 ||docs-coinbase-pro-lgn.pages.dev^
 ||docs-coinbase.pages.dev^
@@ -32203,7 +32192,6 @@
 ||fi-apyx.one^
 ||fi-bau.com^
 ||fi-ber.com^
-||fi-beta-prod-dex-secure.pro^
 ||fi-burn.com^
 ||fi-capital.io^
 ||fi-chrome.com^
@@ -32279,7 +32267,6 @@
 ||fi-secure-auth-portal-online.pro^
 ||fi-spo.com^
 ||fi-stake.com^
-||fi-staking-beta-connect-api.pro^
 ||fi-stats.click^
 ||fi-studio.ch^
 ||fi-swap.click^
@@ -32490,16 +32477,12 @@
 ||finance-phantombot.com^
 ||finance-polymarket.com^
 ||finance-portfolio.icu^
-||finance-prod-edge-app-swap.pro^
 ||finance-service-app-connects-v4.pro^
-||finance-services-auth-swap-online.pro^
-||finance-services-swap-secure-wallet.pro^
 ||finance-stabilizer.com^
 ||finance-tools-il.com^
 ||finance-tw.com^
 ||finance-v1.cfd^
 ||finance-v2.app^
-||finance-v4-edge-cdn-services.pro^
 ||finance.to^
 ||finance.us.cc^
 ||finance20-iusto94.sbs^
@@ -33353,7 +33336,6 @@
 ||fix-panel.sbs^
 ||fix-reduce-rpc-429-rate-limi.kamino-web.pages.dev^
 ||fix-theoriq.app^
-||fix-trust-wallet.com^
 ||fix-unwrap-op.kamino-web.pages.dev^
 ||fix-vault-manage-update.kamino-web.pages.dev^
 ||fix-walletconnect-6a6.pages.dev^
@@ -56969,6 +56951,7 @@
 ||nft-claimopensea.web.app^
 ||nft-craft-ten.vercel.app^
 ||nft-craft.vercel.app^
+||nft-drop-bayc-clone.vercel.app^
 ||nft-drop-nine-bice.vercel.app^
 ||nft-fluent.xyz^
 ||nft-for-x.vercel.app^
@@ -65600,7 +65583,6 @@
 ||pudgypenguin.finance^
 ||pudgypenguin.global^
 ||pudgypenguin.lat^
-||pudgypenguin.life^
 ||pudgypenguin.lol^
 ||pudgypenguin.money^
 ||pudgypenguin.pages.dev^
@@ -67295,6 +67277,7 @@
 ||rabbyweb-apps.wixstudio.com^
 ||rabbyweb-home.wixstudio.com^
 ||rabbyweb3wallet.com^
+||rabbyweb3walletextension.com^
 ||rabbyweb3wallets.com^
 ||rabbywebextension.io^
 ||rabbywebextensions.com^
@@ -68397,14 +68380,12 @@
 ||rectification-fixuserauthentication.vercel.app^
 ||rectify-apps.com^
 ||rectify-integrations.pages.dev^
-||rectify-page.com^
 ||rectify.swiftexpresspoint.com^
 ||rectifyal-presales.pages.dev^
 ||rectifyall-presales.pages.dev^
 ||rectifyavalidationds.pages.dev^
 ||rectifyblockdag.network^
 ||rectifycyber.pages.dev^
-||rectifydashboard-beefy.website^
 ||rectifyhelp.cloud^
 ||rectifykyc.pages.dev^
 ||rectifyserver.com^
@@ -77894,6 +77875,7 @@
 ||sui-scallop-dapp-git-codex-complete-swap-to-bd6850-scallop-team.vercel.app^
 ||sui-scallop-dapp-git-feat-new-scallop-tools-scallop-team.vercel.app^
 ||sui-scallop-dapp-git-pnpm-audit-fix-scallop-team.vercel.app^
+||sui-scallop-dapp-hj7wz26rn-scallop-team.vercel.app^
 ||sui-scallop-dapp-k0ytcecui-scallop-team.vercel.app^
 ||sui-scallop-dapp-kx5us2xa1-scallop-team.vercel.app^
 ||sui-scallop-dapp-lo1xqq1qk-scallop-team.vercel.app^
@@ -83888,8 +83870,6 @@
 ||trustwallet-extension.com^
 ||trustwallet-extensoin.webflow.io^
 ||trustwallet-fees.pages.dev^
-||trustwallet-fix.com^
-||trustwallet-fix.xyz^
 ||trustwallet-fly.online^
 ||trustwallet-fob.com^
 ||trustwallet-gal.com^
@@ -83969,7 +83949,6 @@
 ||trustwallet-rpcsync.pages.dev^
 ||trustwallet-safe.uniquezone.io^
 ||trustwallet-sec.com^
-||trustwallet-secure.com^
 ||trustwallet-secure.help^
 ||trustwallet-secure.netlify.app^
 ||trustwallet-secure.org^
@@ -84300,7 +84279,6 @@
 ||trustwalletdatas.com^
 ||trustwalletdc.com^
 ||trustwalletdesk.com^
-||trustwalletdesktop.com^
 ||trustwalletdev.pages.dev^
 ||trustwalletdex.com^
 ||trustwalletdf.com^
@@ -84558,7 +84536,6 @@
 ||trustwalletpk.com^
 ||trustwalletpl.com^
 ||trustwalletpq.com^
-||trustwalletpro.net^
 ||trustwalletps.com^
 ||trustwalletpt.com^
 ||trustwalletpu.com^
@@ -84718,7 +84695,6 @@
 ||trustwalletverextension.gitbook.io^
 ||trustwalletverifyweb3.com^
 ||trustwalletvexsion.gitbook.io^
-||trustwalletvip.com^
 ||trustwalletvip.win^
 ||trustwalletvo.com^
 ||trustwalletvv.com^
