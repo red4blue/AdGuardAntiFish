@@ -5906,8 +5906,10 @@
 ||app----auth----exoduswallet-sso.webflow.io^
 ||app----auth-exoduswallet--sso.webflow.io^
 ||app----exoduswallet--autth.webflow.io^
+||app----exoduswallet-auths.webflow.io^
 ||app----exoduswallet-autth.webflow.io^
 ||app----home-trust.webflow.io^
+||app---auth-exoduswallet---sso-index.webflow.io^
 ||app---auth-exoduswallet-auth.webflow.io^
 ||app---auth-exoduswallet-sso---index.webflow.io^
 ||app---auth-exoduswallet-sso.webflow.io^
@@ -7088,7 +7090,6 @@
 ||app.wormhole.cam^
 ||app.www-gokite.sbs^
 ||app.xeliionllimited.com^
-||app.xenfly.com^
 ||app.xn--uiswap-wwa.org^
 ||app.yniswap.org^
 ||app.z-i-r.cfd^
@@ -7371,6 +7372,7 @@
 ||apps-auth---exoduswallet---sso.webflow.io^
 ||apps-auth---exoduswallett--sso.webflow.io^
 ||apps-auth-coinbase.webflow.io^
+||apps-auth-exoduswallet--sso.webflow.io^
 ||apps-backpack.xyz^
 ||apps-bancor.xyz^
 ||apps-base-extension.wixstudio.com^
@@ -7416,6 +7418,7 @@
 ||apps-exodues.wixstudio.com^
 ||apps-exodus-wallet-help.webflow.io^
 ||apps-exodus.wixstudio.com^
+||apps-exoduswallet---autth.webflow.io^
 ||apps-extension.wixstudio.com^
 ||apps-firelight.xyz^
 ||apps-flare.xyz^
@@ -8728,6 +8731,7 @@
 ||auth-exodus-web3.wixstudio.com^
 ||auth-exodust.pages.dev^
 ||auth-exoduswallet-app.webflow.io^
+||auth-exoduswallet-extension.gitbook.io^
 ||auth-exoduswallet-sso-index.webflow.io^
 ||auth-exodusweb3-io.pages.dev^
 ||auth-freedom-accountverify.net^
@@ -23744,7 +23748,6 @@
 ||devmontannasuniswap-clone.vercel.app^
 ||devpiler.com^
 ||devpulsestarternod.pages.dev^
-||devscrap.best^
 ||devshub.online^
 ||dewomlexpro.net^
 ||dex-account-rayyidum.pages.dev^
@@ -23998,6 +24001,7 @@
 ||digital-cc.digital^
 ||digital-coinbase.online^
 ||digital-coinbaspro-login.pages.dev^
+||digital-exoduswallet.webflow.io^
 ||digital-flare.xyz^
 ||digital-joinzoom.us^
 ||digital-krakne-cdn.framer.ai^
@@ -30488,6 +30492,7 @@
 ||exodus-wallet-asian.pages.dev^
 ||exodus-wallet-auth.github.io^
 ||exodus-wallet-auth.pages.dev^
+||exodus-wallet-autth.webflow.io^
 ||exodus-wallet-bun.pages.dev^
 ||exodus-wallet-cc.pages.dev^
 ||exodus-wallet-cdn.vercel.app^
@@ -30528,9 +30533,11 @@
 ||exodus-wallet-exo.pages.dev^
 ||exodus-wallet-explor.pages.dev^
 ||exodus-wallet-extension-328e58.webflow.io^
+||exodus-wallet-extensionn.webflow.io^
 ||exodus-wallet-extensn.pages.dev^
 ||exodus-wallet-extns.youware.app^
 ||exodus-wallet-exts.vercel.app^
+||exodus-wallet-fgdder.webflow.io^
 ||exodus-wallet-gaslimit.vercel.app^
 ||exodus-wallet-guide.pages.dev^
 ||exodus-wallet-help.pages.dev^
@@ -30783,6 +30790,7 @@
 ||exodus_wallet-u.godaddysites.com^
 ||exodusa-logi-t.godaddysites.com^
 ||exodusapp-en.wixstudio.com^
+||exodusawalleta.webflow.io^
 ||exodusbase.org^
 ||exodusbest.pages.dev^
 ||exodusbit.com^
@@ -30840,6 +30848,7 @@
 ||exoduslogin.webflow.io^
 ||exodusloginacbd.webflow.io^
 ||exodusloginaf.webflow.io^
+||exodusloginbc.webflow.io^
 ||exoduslogindf.webflow.io^
 ||exoduslogindh.webflow.io^
 ||exodusloginfr.webflow.io^
@@ -30848,6 +30857,7 @@
 ||exodusloginh.webflow.io^
 ||exodusloginn.godaddysites.com^
 ||exodusloginsg.webflow.io^
+||exodusloginvg.webflow.io^
 ||exodusloginy.webflow.io^
 ||exodusmarket.io^
 ||exodusmarkettrade.com^
@@ -30975,9 +30985,11 @@
 ||exoduswalletd.webflow.io^
 ||exoduswalleted.gitbook.io^
 ||exoduswalleted.webflow.io^
+||exoduswalletextensionn.webflow.io^
 ||exoduswalletextensions.webflow.io^
 ||exoduswalletez.webflow.io^
 ||exoduswalletf.webflow.io^
+||exoduswalletfghlogin.webflow.io^
 ||exoduswalletflogin.webflow.io^
 ||exoduswallethelp.com^
 ||exoduswalleti.webflow.io^
@@ -31007,13 +31019,18 @@
 ||exoduswallett.pages.dev^
 ||exoduswallettflogin.webflow.io^
 ||exoduswallettllo.webflow.io^
+||exoduswallettlloeceb.webflow.io^
 ||exoduswallettlogin.webflow.io^
+||exoduswalletts.webflow.io^
 ||exoduswallettte.webflow.io^
 ||exoduswallettu.webflow.io^
+||exoduswalletungin.webflow.io^
 ||exoduswalletus.wordpress.com^
 ||exoduswalletusua.webflow.io^
 ||exoduswalletverificationweb3.com^
+||exoduswalletvf.webflow.io^
 ||exoduswalletweb3.webflow.io^
+||exoduswalletweb3gf.webflow.io^
 ||exoduswalletx.webflow.io^
 ||exoduswalletx.wordpress.com^
 ||exoduswalletxlogin.webflow.io^
@@ -35272,7 +35289,6 @@
 ||get-mstr.net^
 ||get-nexi.org^
 ||get-ofc.org^
-||get-okx-listings.com^
 ||get-okx.com.cn^
 ||get-ondo.xyz^
 ||get-opened-raydium-wallet.pages.dev^
@@ -36802,6 +36818,7 @@
 ||grovestay.com^
 ||grow-cloudflare.de^
 ||grow-right.ltd^
+||grow3.pages.dev^
 ||growarb.com^
 ||growclaudeai.com^
 ||growclaudeai.fun^
@@ -38275,6 +38292,7 @@
 ||home-eigenlayerb.gitbook.io^
 ||home-eigenlayerr.gitbook.io^
 ||home-eignlayyer.gitbook.io^
+||home-en---exodus-app.webflow.io^
 ||home-en--suite-trezor.pages.dev^
 ||home-en-bridge-trzor.pages.dev^
 ||home-en-coinbase-start-login.pages.dev^
@@ -42804,6 +42822,7 @@
 ||juppredict.top^
 ||jupprotocol.world^
 ||jupr.pro^
+||jupreward.fun^
 ||juprewards.io^
 ||juprewards.net^
 ||juprewards.org^
@@ -45046,6 +45065,7 @@
 ||krakrenlogins.webflow.io^
 ||krakrenulogin.webflow.io^
 ||krakryp.com^
+||kraksite-cc.pages.dev^
 ||krakssylka.cc^
 ||kraksupport-cc.pages.dev^
 ||kraksupport.cc^
@@ -55571,6 +55591,7 @@
 ||my---coinbasepro-w--cdn--auth.webflow.io^
 ||my---web-moonpay-login.webflow.io^
 ||my--exodus-co.pages.dev^
+||my--exoduswallet--web.webflow.io^
 ||my--sso--coinbasepro--cdn--auth.webflow.io^
 ||my--sso--exoduswallet-cdn-auth.webflow.io^
 ||my--sso--kraken--cdn-auth.webflow.io^
@@ -60457,7 +60478,6 @@
 ||page-verification-completed.top^
 ||page-verify.bond^
 ||page-xsoduss-web.pages.dev^
-||page.ct.ws^
 ||pageairdrop-wormhole.pages.dev^
 ||pageblue-verify.click^
 ||pageblue-verify.help^
@@ -65937,7 +65957,6 @@
 ||pumpfun-info.live^
 ||pumpfun-swap.click^
 ||pumpfun-swap.com^
-||pumpfun-treasure.info^
 ||pumpfun-treasure.org^
 ||pumpfun.digital^
 ||pumpfun.gr.com^
@@ -73475,6 +73494,7 @@
 ||sister.night.com.de^
 ||sisvida.com^
 ||site------exodus------us---cdn.mystrikingly.com^
+||site-----exoduswallet-----us---cdn.webflow.io^
 ||site---coinbasepro---ff-sso.webflow.io^
 ||site---coinbasepro-ss-sso.webflow.io^
 ||site---uphold-sso-cd.typedream.app^
@@ -76306,6 +76326,7 @@
 ||sso--eng--coinbasepro---cdn--n--auth.webflow.io^
 ||sso--eng-coin-base--x-cdnx.typedream.app^
 ||sso--exodus--com-x-nav-auth.pages.dev^
+||sso--exodusweb3-wollet.webflow.io^
 ||sso--feq--coinbasepro--cdn---b--auth.webflow.io^
 ||sso--feq--coinbasepro--cdn---h--auth.webflow.io^
 ||sso--hold-uphold-so.weebly.com^
