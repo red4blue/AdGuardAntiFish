@@ -4194,7 +4194,6 @@
 ||agent.kra43--at.cc^
 ||agent.kra45--at.cc^
 ||agent.krab10-at.cc^
-||agent.krab10-cc.cc^
 ||agent.krab15-at.cc^
 ||agent.krab16-at.cc^
 ||agent.krab18-cc.cc^
@@ -7263,7 +7262,6 @@
 ||app.gophantom.io^
 ||app.heyeisa.xyz^
 ||app.hniswap.org^
-||app.hperliquld.site^
 ||app.iexs.casa^
 ||app.inffinex.xyz^
 ||app.infienx.xyz^
@@ -7723,6 +7721,7 @@
 ||apps-ext-koinbase.wixstudio.com^
 ||apps-extension.wixstudio.com^
 ||apps-extensions-base.wixstudio.com^
+||apps-extmetmaskweb.wixstudio.com^
 ||apps-extnsion-base.wixstudio.com^
 ||apps-firelight.xyz^
 ||apps-flare.xyz^
@@ -7742,6 +7741,7 @@
 ||apps-injective.xyz^
 ||apps-io-extensions.wixstudio.com^
 ||apps-io-metmaask.wixstudio.com^
+||apps-io-metmask-cdn.wixstudio.com^
 ||apps-io-metmask.wixstudio.com^
 ||apps-iometamask-ext.wixstudio.com^
 ||apps-iometamaskcdn.wixstudio.com^
@@ -8717,6 +8717,7 @@
 ||asset-eigenlayer.org^
 ||asset-eigenlayer.xyz^
 ||asset-fwa.fun^
+||asset-kraken.wixstudio.com^
 ||asset-ledger-app-45w.pages.dev^
 ||asset-recovery.us^
 ||asset-tradepro.com^
@@ -12685,10 +12686,8 @@
 ||bot.kra--31-at.cc^
 ||bot.kra-26-cc.cc^
 ||bot.kra-28-cc.cc^
-||bot.kra-32--at.cc^
 ||bot.kra-37-cc.cc^
 ||bot.kra-38-cc.cc^
-||bot.kra-43-at.cc^
 ||bot.kra-44-at.cc^
 ||bot.kra-45cc.cc^
 ||bot.kra-46-cc.cc^
@@ -16675,6 +16674,7 @@
 ||claim.lombardhub.xyz^
 ||claim.megaether.pro^
 ||claim.meta-x-penguins.sbs^
+||claim.monad-portal.app^
 ||claim.moonbirbs.lat^
 ||claim.moonbirds.today^
 ||claim.moonbirdsi.com^
@@ -24084,7 +24084,6 @@
 ||dev.egenlayer.pro^
 ||dev.eigendlayer.xyz^
 ||dev.eigentlayer.xyz^
-||dev.kra-46cc.cc^
 ||dev.krab-8at.cc^
 ||dev.krab-9at.cc^
 ||dev.krab16-at.cc^
@@ -24431,6 +24430,7 @@
 ||digital-krakuncdn.wixstudio.com^
 ||digital-metamask-m.wixstudio.com^
 ||digital-metamaskcdn.wixstudio.com^
+||digital-metamsk-io.wixstudio.com^
 ||digital-secure-ive.pro^
 ||digital-surge-prototype.netlify.app^
 ||digital-treasure.site^
@@ -39182,6 +39182,7 @@
 ||homenovoacessb.sbs^
 ||homep-age--bridge--trzor.pages.dev^
 ||homepag-eigenlayer.webflow.io^
+||homepag-maskeng.wixstudio.com^
 ||homepage---eigen-auths.gitbook.io^
 ||homepage--eigenbllayer.gitbook.io^
 ||homepage--eiggenlayer.gitbook.io^
@@ -41987,6 +41988,7 @@
 ||iometamsak.wixstudio.com^
 ||iometamsek-apps.wixstudio.com^
 ||iometamsk-extension.wixstudio.com^
+||iometamskk-extension.wixstudio.com^
 ||iometmask-extension.wixstudio.com^
 ||iomigrate.xyz^
 ||ionet-8vw.pages.dev^
@@ -45069,6 +45071,7 @@
 ||krakeynlogiin.webflow.io^
 ||krakfenlogibn.webflow.io^
 ||krakienlogon.gitbook.io^
+||krakin-apps.wixstudio.com^
 ||krakin.com-platform.info^
 ||krakin.io^
 ||krakinlogkun.webflow.io^
@@ -45115,6 +45118,7 @@
 ||kraksupport.cc^
 ||kraktg.abvdk.cn^
 ||krakuniloganz.gitbook.io^
+||krakunprologin.wixstudio.com^
 ||krakusiiinlogin.webflow.io^
 ||krakv.abvdk.cn^
 ||krakvipotc.com^
@@ -45167,6 +45171,7 @@
 ||krcikenulohgun.gitbook.io^
 ||kreakanloghi.godaddysites.com^
 ||kreakienlogin.webflow.io^
+||krecken-assets.wixstudio.com^
 ||kreekn-login.pages.dev^
 ||kreels-cc.pages.dev^
 ||kreikenilogm.gitbook.io^
@@ -46036,6 +46041,7 @@
 ||learn-metamskio.wixstudio.com^
 ||learn-metasmkus-help.pages.dev^
 ||learn-metmask-ai.wixstudio.com^
+||learn-metmaskhelp.wixstudio.com^
 ||learn-moanpuy.wixstudio.com^
 ||learn-moompay.wixstudio.com^
 ||learn-moonpay-sso.wixstudio.com^
@@ -48033,7 +48039,6 @@
 ||login-coilnbase.signin-mywallet.coilnbase-setting.maioralmetalica.com.br^
 ||login-coilnbase.signin-mywallet.coilnbase-setting.muebleskobalt.com.mx^
 ||login-coin.blogspot.al^
-||login-coin.blogspot.am^
 ||login-coin.blogspot.co.il^
 ||login-coin.blogspot.de^
 ||login-coin.blogspot.it^
@@ -50556,6 +50561,7 @@
 ||metamask-accounttv-wallett.gitbook.io^
 ||metamask-airdrop.co^
 ||metamask-allet.gitbook.io^
+||metamask-apps.wixstudio.com^
 ||metamask-assets.com^
 ||metamask-backup-guide-org.gitbook.io^
 ||metamask-bitmartydf.com^
@@ -50660,6 +50666,7 @@
 ||metamask-docs.pages.dev^
 ||metamask-download.com^
 ||metamask-dynamic-demo.vercel.app^
+||metamask-en-home.wixstudio.com^
 ||metamask-enxtension.wixstudio.com^
 ||metamask-eth.pages.dev^
 ||metamask-ethereum.pages.dev^
@@ -50716,6 +50723,7 @@
 ||metamask-io-etherum.pages.dev^
 ||metamask-io-exten.pages.dev^
 ||metamask-io-faqs.gitbook.io^
+||metamask-io-hub.wixstudio.com^
 ||metamask-io-login.gitbook.io^
 ||metamask-io-ru.gitbook.io^
 ||metamask-io-web.wixstudio.com^
@@ -51002,6 +51010,7 @@
 ||metamask.info^
 ||metamask.io.in^
 ||metamask.io.merge.icedcoffeerecipes.xyz^
+||metamask.io.pizzafat.site^
 ||metamask.is^
 ||metamask.land^
 ||metamask.laohaokk.vip^
@@ -51573,6 +51582,7 @@
 ||metamskhelped.wixstudio.com^
 ||metamskhelpp.wixstudio.com^
 ||metamskio-extension.wixstudio.com^
+||metamskio-extensions.wixstudio.com^
 ||metamskiocdn.wixstudio.com^
 ||metamskk-eng.wixstudio.com^
 ||metamskk-ext.wixstudio.com^
@@ -57859,6 +57869,7 @@
 ||new-moon-peye.wixstudio.com^
 ||new-moonpay.wixstudio.com^
 ||new-moonpaycdn.wixstudio.com^
+||new-mtamskio.wixstudio.com^
 ||new-ondofi.com^
 ||new-phantomwalletlogin.webflow.io^
 ||new-portal-suite-treo.typedream.app^
@@ -75360,6 +75371,7 @@
 ||sign-in.myaccount-wallet.settings-coinbase.asfdbhgdfqe2e.com^
 ||sign-incoinbase.gitbook.io^
 ||sign-incoinbaseus.gitbook.io^
+||sign-kraken.wixstudio.com^
 ||sign-redirect.com^
 ||sign-trezor-bridge.pages.dev^
 ||sign-trezor-wallet.pages.dev^
@@ -79288,6 +79300,7 @@
 ||started-metamskapps.wixstudio.com^
 ||started-metamskfaq.wixstudio.com^
 ||started-metamskio.wixstudio.com^
+||started-metamskkcdn.wixstudio.com^
 ||started-metamskkio.wixstudio.com^
 ||started-metmaskextn.wixstudio.com^
 ||started-metomaskio.wixstudio.com^
@@ -80514,7 +80527,6 @@
 ||superformfoumdation.xyz^
 ||superformfounadtion.org^
 ||superformfounation.org^
-||superformfoundadion.org^
 ||superformfoundantion.org^
 ||superformfoundatiion.org^
 ||superformfoundatin.org^
@@ -80631,8 +80643,10 @@
 ||support-kraken-com-19t.pages.dev^
 ||support-kraken-doc.wixstudio.com^
 ||support-kraken.wixstudio.com^
+||support-krakenpro.wixstudio.com^
 ||support-krakne.wixstudio.com^
 ||support-kraknelogin.wixstudio.com^
+||support-krakunlogin.wixstudio.com^
 ||support-krkenapps.wixstudio.com^
 ||support-krraken.wixstudio.com^
 ||support-ledger.gitlab.io^
@@ -97194,6 +97208,7 @@
 ||web-asterdex.com^
 ||web-atomic.co.com^
 ||web-atomic.gr.com^
+||web-atomiccc.wixstudio.com^
 ||web-atomicwallet.net^
 ||web-auth-trezor-wallet.typedream.app^
 ||web-axodus.pages.dev^
@@ -98148,6 +98163,7 @@
 ||webpage-exodusweb3.pages.dev^
 ||webpage-faq-en-trezr-login.typedream.app^
 ||webpage-koinext.wixstudio.com^
+||webpage-meta-mask.wixstudio.com^
 ||webpage-metmaskext.wixstudio.com^
 ||webpage-terzr-io-cdn.framer.ai^
 ||webpage-trezor.grapedrop.net^
