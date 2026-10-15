@@ -800,6 +800,7 @@
 ||128711coinbase.com^
 ||128738-coinbase.com^
 ||129-allowlist-ascendlaunch.pages.dev^
+||129-reallocate-flare.pages.dev^
 ||129381-crypto.com^
 ||129384-crypto.com^
 ||12949124-coinbase.com^
@@ -2111,6 +2112,7 @@
 ||24-7masawisevaultnord.com.altustradexcash.com^
 ||24-allocation-yieldfields.pages.dev^
 ||24-allowlist-ascendlaunch.pages.dev^
+||24-arcustrade-ecosystem.pages.dev^
 ||24-arguseco.pages.dev^
 ||24-argusworld.pages.dev^
 ||24-axisroboticsai.pages.dev^
@@ -2184,6 +2186,7 @@
 ||25-0xfluid.pages.dev^
 ||25-allocation-yieldfields.pages.dev^
 ||25-allowlist-ascendlaunch.pages.dev^
+||25-arcustrade-ecosystem.pages.dev^
 ||25-arguseco.pages.dev^
 ||25-argusworld.pages.dev^
 ||25-axisroboticsai.pages.dev^
@@ -2237,6 +2240,7 @@
 ||26-0xfluid.pages.dev^
 ||26-allocation-yieldfields.pages.dev^
 ||26-allowlist-ascendlaunch.pages.dev^
+||26-arcustrade-ecosystem.pages.dev^
 ||26-arguseco.pages.dev^
 ||26-argusworld.pages.dev^
 ||26-axisroboticsai.pages.dev^
@@ -2296,6 +2300,7 @@
 ||27-0xfluid.pages.dev^
 ||27-allocation-yieldfields.pages.dev^
 ||27-allowlist-ascendlaunch.pages.dev^
+||27-arcustrade-ecosystem.pages.dev^
 ||27-arguseco.pages.dev^
 ||27-argusworld.pages.dev^
 ||27-axisroboticsai.pages.dev^
@@ -11512,6 +11517,7 @@
 ||appextensionbase.wixstudio.com^
 ||appfirelightmainnet.com^
 ||appflaremainnet.com^
+||appflarexrp.site^
 ||appfrax-finance.pages.dev^
 ||appgallery.jupiterexchanger.live^
 ||appgrvt.xyz^
@@ -12625,11 +12631,13 @@
 ||arcus.run^
 ||arcus.sbs^
 ||arcus.trade-event.xyz^
+||arcus.workspace-flow.xyz^
 ||arcus.xyz-points.forum^
 ||arcusapp.xyz^
 ||arcusbridge.co^
 ||arcusbridge.xyz^
 ||arcuschain.com^
+||arcusdex.app^
 ||arcusdex.com^
 ||arcusdex.net^
 ||arcusdex.trade^
@@ -12673,6 +12681,7 @@
 ||arcusxyz.store^
 ||arcusxyz.tech^
 ||arcusxyz.top^
+||arcusz.xyz^
 ||arcv4.xyz^
 ||arcvaults.xyz^
 ||arcvexa.com^
@@ -13501,7 +13510,6 @@
 ||auth-io-coinsquare-sso.webflow.io^
 ||auth-io.com^
 ||auth-iorabby-apps.wixstudio.com^
-||auth-kraken.wixstudio.com^
 ||auth-krakennlogin.webflow.io^
 ||auth-krakn.wixstudio.com^
 ||auth-kucoin.com^
@@ -14041,6 +14049,7 @@
 ||axness.online^
 ||axodus-com-web.pages.dev^
 ||axodus-io.framer.ai^
+||axodus-web-login.pages.dev^
 ||axone-airdrop.com^
 ||axt-network.airdropalerts.us^
 ||ayaotu.com^
@@ -16436,7 +16445,6 @@
 ||blendercn.cn^
 ||blergamb.com^
 ||bless-network.xyz^
-||blfi.airsdropalerts.click^
 ||blfi.stakingsreward.club^
 ||blfl.airsdropalerts.click^
 ||blfl.stakingsreward.club^
@@ -21290,6 +21298,7 @@
 ||claims-advantagefcu.lat^
 ||claims-advantagefcu.sbs^
 ||claims-advisory.team^
+||claims-airdrop.netlify.app^
 ||claims-apr.pages.dev^
 ||claims-apyx.finance^
 ||claims-arugs.info^
@@ -22609,7 +22618,6 @@
 ||coinbase-user.wixstudio.com^
 ||coinbase-usercare.com^
 ||coinbase-vaulting.com^
-||coinbase-verification.coinbase.com.pietafoundation.uk^
 ||coinbase-verify-5lj.pages.dev^
 ||coinbase-verify-account.jyxoraventh.lat^
 ||coinbase-verify-us.com^
@@ -23119,6 +23127,8 @@
 ||coinbasexprologinvt.gitbook.io^
 ||coinbasexten-guide.wixstudio.com^
 ||coinbasextension.vercel.app^
+||coinbasextensions.com^
+||coinbasextensions.com.expresscouriers.net^
 ||coinbasezcomsignin.gitbook.io^
 ||coinbasezproxlogin.gitbook.io^
 ||coinbasgwxiazai4.com.cn^
@@ -23132,7 +23142,6 @@
 ||coinbasslogi.wixstudio.com^
 ||coinbasso-extension.wixstudio.com^
 ||coinbassx70xworks.pages.dev^
-||coinbasuiuextension.gitbook.io^
 ||coinbasw.com^
 ||coinbasweb.top^
 ||coinbasweprologin.gitbook.io^
@@ -28036,7 +28045,6 @@
 ||dashboard-epitech.me^
 ||dashboard-ethena.finance^
 ||dashboard-ethfi.xyz^
-||dashboard-euler.xyz^
 ||dashboard-exodass-en.pages.dev^
 ||dashboard-firelight.cfd^
 ||dashboard-firelight.com^
@@ -30313,7 +30321,6 @@
 ||domaearn.web.app^
 ||domain-ledger-start.pages.dev^
 ||domain-ledger.pages.dev^
-||domain-phrase.cfd^
 ||domain-uphold-web.created.app^
 ||domainloan8958.sbs^
 ||domains-ens.top^
@@ -33056,7 +33063,6 @@
 ||eng-kraken.com^
 ||eng-krakencdn.framer.media^
 ||eng-krakiin.wixstudio.com^
-||eng-kraknlog.wixstudio.com^
 ||eng-krrekin-us.wixstudio.com^
 ||eng-kucoiin.wixstudio.com^
 ||eng-laace-extension.wixstudio.com^
@@ -35282,6 +35288,7 @@
 ||exdus-en.wixstudio.com^
 ||exdus-extension.wixstudio.com^
 ||exdus-login-wallet.pages.dev^
+||exdus-wallet-com.pages.dev^
 ||exdus-wallet-extenstion.pages.dev^
 ||exdus-wallets-hub.framer.ai^
 ||exdus-web-doc.pages.dev^
@@ -35667,6 +35674,7 @@
 ||exodusguide.com^
 ||exodusguidee.com^
 ||exodusguides.com^
+||exodushelp.app^
 ||exodushelpdesk.com^
 ||exodusho.ink^
 ||exodushome.wixstudio.com^
@@ -36794,6 +36802,7 @@
 ||feogox.com^
 ||feonux.win^
 ||feowin.com^
+||feq-en-web3-exodua.pages.dev^
 ||feq-ledgr-strts.pages.dev^
 ||feq-start-ledgr-cloud.pages.dev^
 ||feq-trezors-uite.pages.dev^
@@ -37012,8 +37021,6 @@
 ||fiarevotesevent.live^
 ||fibarra.cl^
 ||fiddgersterpworthmo.tk^
-||fidelity-investments-login.at^
-||fidelity-investments.at^
 ||fidelityoilunitedreserve.top^
 ||fideum-rewards.pages.dev^
 ||fidiogo.top^
@@ -41204,7 +41211,6 @@
 ||gefgyffhgdf.blogspot.com^
 ||gefodex.com^
 ||gegeegnis.xyz^
-||geimiunisweslogini.webflow.io^
 ||gekoinvests.org^
 ||gem-crossmark-rlusd.info^
 ||gembtc.info^
@@ -41214,7 +41220,6 @@
 ||gemiiuluoigin.webflow.io^
 ||geminexchange.weebly.com^
 ||gemini-api-proxy.unknownue.org^
-||gemini-bus-2api.oai-o.com^
 ||gemini-business2api-8ftw.onrender.com^
 ||gemini-coin.top^
 ||gemini-coins.sbs^
@@ -49629,7 +49634,6 @@
 ||kamino.live^
 ||kaminodex.wixstudio.com^
 ||kaminofenance.org^
-||kaminofinance-liquidity-perps.pages.dev^
 ||kaminofnd.biz^
 ||kaminoone.lol^
 ||kaminoperpsclub.com^
@@ -50939,7 +50943,6 @@
 ||krakkiiinlogin.gitbook.io^
 ||krakkinlooggin.webflow.io^
 ||krakn-log-im.created.app^
-||krakn-login.wixstudio.com^
 ||krakn-logon.wixstudio.com^
 ||krakn-portal.wixstudio.com^
 ||krakn-trade.wixstudio.com^
@@ -51012,7 +51015,6 @@
 ||kritgupta.tech^
 ||krk-key.com^
 ||krk-one.com^
-||krk-online.com^
 ||krk3n.com^
 ||krkaen-trade.wixstudio.com^
 ||krkaen.wixstudio.com^
@@ -51143,7 +51145,6 @@
 ||kucoin-compliance.com^
 ||kucoin-global.com^
 ||kucoin-help.com^
-||kucoin-login.at^
 ||kucoin-login.com^
 ||kucoin-login.net^
 ||kucoin-wallet.cyou^
@@ -55040,7 +55041,6 @@
 ||lucywex.com^
 ||luhcas.com^
 ||lukaszielinskavox.eu^
-||lukbe-bnking.at^
 ||lukerufusraj.github.io^
 ||lukso-r.pages.dev^
 ||lulo-fi.com^
@@ -55172,7 +55172,6 @@
 ||lvvas.xyz^
 ||lvvasv.com^
 ||lvxjqpmbzo.com^
-||lwfxxshop.coinbase-assists.com^
 ||lwuupsystem.bond^
 ||lxmj.com^
 ||lxoj4g2ea44nit3hgxufymqsnbioy3dfwwuzocgbqxb4qz6upb4a.arweave.net^
@@ -58112,7 +58111,6 @@
 ||metamzklganz.gitbook.io^
 ||metamzklgcn.gitbook.io^
 ||metamzklgen.gitbook.io^
-||metamzklggan.gitbook.io^
 ||metamzklgzn.gitbook.io^
 ||metamzkljgan.gitbook.io^
 ||metamzklngan.gitbook.io^
@@ -58124,7 +58122,6 @@
 ||metamzklogun.gitbook.io^
 ||metamzklogzz.gitbook.io^
 ||metamzklqgan.gitbook.io^
-||metamzklvgan.gitbook.io^
 ||metanakklogiins.godaddysites.com^
 ||metanasjkloghinn.webflow.io^
 ||metanask-download.com^
@@ -58358,7 +58355,6 @@
 ||metmskcdn-extension.wixstudio.com^
 ||metmsklaloghn.webflow.io^
 ||metmsklogbn.gitbook.io^
-||metmsklogcn.gitbook.io^
 ||metmskloggn.gitbook.io^
 ||metmsklogn.gitbook.io^
 ||metmsklognn.gitbook.io^
@@ -64278,7 +64274,6 @@
 ||nav-krakkencdn.wixstudio.com^
 ||nav-krakn-apps.wixstudio.com^
 ||nav-kreknn.wixstudio.com^
-||nav-krkenapp.wixstudio.com^
 ||nav-krkenapps.wixstudio.com^
 ||nav-krkencdn.wixstudio.com^
 ||nav-krrakan-io.wixstudio.com^
@@ -66938,7 +66933,6 @@
 ||onlinesecure-support.cc^
 ||onlinestart-trezor.wixstudio.com^
 ||onlinesupportcustomerservice.com^
-||onlinetrowerice.at^
 ||onlinetrustwalletsnys.vercel.app^
 ||onlineupholdio.framer.ai^
 ||onlineview-unlockportal.com^
@@ -69292,7 +69286,6 @@
 ||persistence-claims.one^
 ||persistence-one-migrations.xyz^
 ||personal-ledger-3t1.pages.dev^
-||personal-ntx360.at^
 ||personbcsoeu.bond^
 ||personendatensicher.icu^
 ||personenschutzn.info^
@@ -83150,6 +83143,7 @@
 ||sites.google.com/view/actnowhow-to-sign-up-for-the-t/home^
 ||sites.google.com/view/adds-matamask-en/home^
 ||sites.google.com/view/addspro-app/home^
+||sites.google.com/view/app-chainlink/home^
 ||sites.google.com/view/app-extensionns/home^
 ||sites.google.com/view/app-secure-metamask/home^
 ||sites.google.com/view/app-start-chrom/home^
@@ -86688,6 +86682,7 @@
 ||start-en-us-trezor-io-start-doce.typedream.app^
 ||start-enlog.wixstudio.com^
 ||start-entrezor-help.typedream.app^
+||start-exdus-login.pages.dev^
 ||start-exdus-web.pages.dev^
 ||start-exodus-web.webflow.io^
 ||start-exodus.gr.com^
@@ -87873,7 +87868,6 @@
 ||sui-sui-token.com^
 ||sui-swap.org^
 ||sui-waleet-io.pages.dev^
-||sui-wallet-downlad-eng.pages.dev^
 ||sui-wallet-download-lern.pages.dev^
 ||sui-wallet-login.pages.dev^
 ||sui-wallet.stakingreward.cloud^
@@ -89247,7 +89241,6 @@
 ||td-cabinet.com^
 ||td-card.net^
 ||td-web.help^
-||td-webbroker-login.at^
 ||tdexmarket.com^
 ||tdonlineinsurance.com^
 ||tdopantelik.neocities.org^
@@ -90310,7 +90303,6 @@
 ||theyachtatlas.com^
 ||thibault-exchange.info^
 ||thiennhatphat.com^
-||think-or-swimx.org^
 ||thinklab.gljz.jp^
 ||thinkzoominfo.com^
 ||thirpid.com^
@@ -91371,6 +91363,7 @@
 ||trades-en-krakin.wixstudio.com^
 ||trades-krakn.wixstudio.com^
 ||trades-krkakenscdn.wixstudio.com^
+||trades-phantom.com^
 ||trades-variational.com^
 ||tradesgenius.xyz^
 ||tradesignalfxs.pro^
@@ -93381,7 +93374,6 @@
 ||trouscan.github.io^
 ||troustwallet-com.pages.dev^
 ||trovve.me^
-||trow-price.at^
 ||troxic.top^
 ||troyouc.cyou^
 ||trozart.com.co^
@@ -94581,7 +94573,6 @@
 ||trustwalletgf.cn^
 ||trustwalletgf.com.cn^
 ||trustwalletgf.net^
-||trustwalletglobal.com^
 ||trustwalletgoldcard.com^
 ||trustwalletgw.cn^
 ||trustwalletgw.net^
@@ -96561,7 +96552,6 @@
 ||uphold-ai.meku.app^
 ||uphold-cdn.mystrikingly.com^
 ||uphold-cloud.created.app^
-||uphold-com-cd.typedream.app^
 ||uphold-com-cdn-a-auths.tem3.io^
 ||uphold-com-logiin.blogspot.co.id^
 ||uphold-com-logiin.blogspot.com^
@@ -97095,6 +97085,7 @@
 ||us02web-bitget.com^
 ||us02web-invite.com^
 ||us02web-liquid.network^
+||us02web-zoom.click^
 ||us02web.es^
 ||us02webinvites.com^
 ||us02webzoominvite.us^
@@ -97184,7 +97175,9 @@
 ||us06webzoominvite.us^
 ||us06webzoompwdinvite.sbs^
 ||us06webzooms.com^
+||us06webzoomus2fj2f830440905293.com^
 ||us06zoomwebinvite.co^
+||us07-web-zoom.com^
 ||us07-web-zoom.us^
 ||us07lives.us^
 ||us07net.us^
@@ -97250,6 +97243,7 @@
 ||us70web-zoom.us^
 ||us71webzoom.us^
 ||us722web.us^
+||us78webzoom.us^
 ||us7room.com^
 ||us80web-zoom.us^
 ||us86wkk.com^
@@ -97315,7 +97309,6 @@
 ||uscc-okx.com.cn^
 ||uscoinbasecomlogin.gitbook.io^
 ||usconevbaaseproloen.godaddysites.com^
-||uscrakenapp.wixstudio.com^
 ||uscurves.stakingreward.cloud^
 ||usd-ai.fun^
 ||usd-ai.sbs^
@@ -101560,6 +101553,8 @@
 ||w2-protonvpn.com^
 ||w2-trezor.org^
 ||w2-trust.org^
+||w21zoom.us^
+||w22zoom.us^
 ||w2b.us^
 ||w2s.us^
 ||w3-center.com^
@@ -102397,6 +102392,7 @@
 ||web-etherfi.xyz^
 ||web-exadus.wixstudio.com^
 ||web-exdus-io-usa.pages.dev^
+||web-exdust-log.pages.dev^
 ||web-exodaste.framer.ai^
 ||web-exods.b12sites.com^
 ||web-exoduess.wixstudio.com^
@@ -107226,6 +107222,7 @@
 ||zoom-d.com.cn^
 ||zoom-download.com.cn^
 ||zoom-e.com.cn^
+||zoom-en.com^
 ||zoom-enterprise-updates.com^
 ||zoom-evite.net^
 ||zoom-f.com.cn^
@@ -107360,6 +107357,7 @@
 ||zoomassistpro.com^
 ||zoomcall.cam^
 ||zoomcallacess.us^
+||zoomcallinvite.us^
 ||zoomcalllink.online^
 ||zoomcalltoinvite.com^
 ||zoomcareersworkplace-d2construction.top^
@@ -107403,6 +107401,7 @@
 ||zoomgraphics.live^
 ||zoomguide.net^
 ||zoomhelper.com^
+||zoomhost.top^
 ||zoomhub.buzz^
 ||zoomhub.co^
 ||zoomhub.lat^
@@ -107456,6 +107455,7 @@
 ||zoominvites.eu^
 ||zoominvitesemp.com^
 ||zoomit.top^
+||zoomjoin.live^
 ||zoomjoinlive.com^
 ||zoomjoinmeeting.download^
 ||zoomjoinsession.com^
@@ -107536,6 +107536,7 @@
 ||zoomproblem.store^
 ||zoomprotection.com^
 ||zoomqult.org^
+||zoomroom.studio^
 ||zoomrouter.com^
 ||zooms-us-webcomms.online^
 ||zooms.live^
