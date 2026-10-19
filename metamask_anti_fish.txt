@@ -763,6 +763,7 @@
 ||121deo.senes.at^
 ||121esa.senes.at^
 ||121hie.senes.at^
+||121hiu.senes.at^
 ||121jio.senes.at^
 ||122-allowlist-ascendlaunch.pages.dev^
 ||122-derivexyz.pages.dev^
@@ -2154,7 +2155,6 @@
 ||238107-crypto.com^
 ||238192-crypto.com^
 ||238292-coinspot.com^
-||238297coinbase.com^
 ||23843-coinbase.com^
 ||238700.com^
 ||238916-crypto.com^
@@ -3372,7 +3372,6 @@
 ||392833coinbase.com^
 ||392834coinbase.com^
 ||392847-coinbase.com^
-||393917-coinbase.com^
 ||394195-crypto.com^
 ||394523-coinbase.com^
 ||394523-coinbase.online^
@@ -5869,6 +5868,7 @@
 ||81-proposal-prjx.pages.dev^
 ||81-reallocate-flare.pages.dev^
 ||81-saturncredit.pages.dev^
+||81-stonkbroker-clutchmarkets.pages.dev^
 ||81.voting-etherfi-pro.workers.dev^
 ||810200-kraken.com^
 ||810242.com^
@@ -5939,6 +5939,7 @@
 ||82-proposal-prjx.pages.dev^
 ||82-reallocate-flare.pages.dev^
 ||82-saturncredit.pages.dev^
+||82-stonkbroker-clutchmarkets.pages.dev^
 ||82.voting-etherfi-pro.workers.dev^
 ||820193-crypto.com^
 ||820200-crypto.com^
@@ -6596,7 +6597,6 @@
 ||938372coinbase.com^
 ||938413-binance.com^
 ||938444-coinbase.com^
-||938501coinbase.com^
 ||938513-binance.com^
 ||938572-crypto.com^
 ||93htx.top^
@@ -11644,7 +11644,6 @@
 ||appmatsmask.wixstudio.com^
 ||appmegaeth.com^
 ||appmeta-massk.wixstudio.com^
-||appmetamaskio.wixstudio.com^
 ||appmetamsk-extension.wixstudio.com^
 ||appmetamskio-ext.wixstudio.com^
 ||appmini.xyz^
@@ -11944,7 +11943,6 @@
 ||apps-metamask-cdn.wixstudio.com^
 ||apps-metamask-hub.wixstudio.com^
 ||apps-metamask-hubs.wixstudio.com^
-||apps-metamask-io.wixstudio.com^
 ||apps-metamask-us.wixstudio.com^
 ||apps-metamask.org^
 ||apps-metamaskapp.wixstudio.com^
@@ -13845,6 +13843,7 @@
 ||autodiscover.coinbase-reverifyld.duckdns.org^
 ||autodiscover.coinbase-us.tech^
 ||autodiscover.dogecoinairdrop.com^
+||autodiscover.dogecoinmixer.com^
 ||autodiscover.exoduscom.com^
 ||autodiscover.metamask-identity.com^
 ||autodiscover.stellar-buy.com^
@@ -21166,7 +21165,6 @@
 ||claimdock2.pages.dev^
 ||claimdog.pages.dev^
 ||claimdoge-live.pages.dev^
-||claimdogecoin20.github.io^
 ||claimdogecoin20web3.pages.dev^
 ||claimdrop.cfd^
 ||claimdrop.top^
@@ -25961,6 +25959,7 @@
 ||cpanel.20-40-54-144.cprapid.com^
 ||cpanel.40-81-244-109.cprapid.com^
 ||cpanel.coinbase-walletsecure.com^
+||cpanel.dogecoinmixer.com^
 ||cpcalendars.165-154-236-200.cprapid.com^
 ||cpcalendars.165-227-27-180.cprapid.com^
 ||cpcalendars.20-120-116-237.cprapid.com^
@@ -29775,7 +29774,6 @@
 ||dmcasecurity-x.com^
 ||dmcaspeech-x.com^
 ||dmcateam-x.com^
-||dmcaterm-x.com^
 ||dmcaterms-x.com^
 ||dmcatickets-x.com^
 ||dmcaupdate-x.online^
@@ -30051,7 +30049,6 @@
 ||dogecoin-casino-es.com^
 ||dogecoin-casino-es.net^
 ||dogecoin-casino-ru.pages.dev^
-||dogecoin-casino-uk-34c.pages.dev^
 ||dogecoin-casino-usa.com^
 ||dogecoin-casino.ru^
 ||dogecoin-casino.uk^
@@ -30060,7 +30057,6 @@
 ||dogecoin-cn.com^
 ||dogecoin-code.trackfinanceworld.com^
 ||dogecoin-crypto.ru^
-||dogecoin-doge-com.pages.dev^
 ||dogecoin-doge-mixer.com^
 ||dogecoin-doge.com^
 ||dogecoin-fit.pages.dev^
@@ -30075,14 +30071,12 @@
 ||dogecoin.life^
 ||dogecoin.no^
 ||dogecoin.vision^
-||dogecoin0.com^
 ||dogecoin20-connect.pages.dev^
 ||dogecoin20-ea.pages.dev^
 ||dogecoin20ai.pages.dev^
 ||dogecoin20claim-a1u.pages.dev^
 ||dogecoin20claim-now.pages.dev^
 ||dogecoin20tokenclaim.pages.dev^
-||dogecoin6.com^
 ||dogecoin8.com^
 ||dogecoinaiwallet.webflow.io^
 ||dogecoinbet.org^
@@ -30097,8 +30091,6 @@
 ||dogecoinmillionaire7.godaddysites.com^
 ||dogecoinmillionaire9.godaddysites.com^
 ||dogecoinminer.shop^
-||dogecoinminer.xyz^
-||dogecoinmixer.com^
 ||dogecoinnews.org.caraccidentlawyer-philadelphia.com^
 ||dogecoinnnwallet.webflow.io^
 ||dogecoinnwallet.webflow.io^
@@ -30111,13 +30103,10 @@
 ||dogecoinqianbaoxiazai.cam^
 ||dogecoinrobot.godaddysites.com^
 ||dogecoins-kostenlos.de^
-||dogecoins.vip^
 ||dogecoinsnet.com^
 ||dogecoinsnet.com.affiliasystem.com^
 ||dogecoinsol.lol^
-||dogecoinstockmarket.com^
 ||dogecoinstocks.net^
-||dogecointags.com^
 ||dogecointesla.com^
 ||dogecoinup.com^
 ||dogecoinwallet.webflow.io^
@@ -34569,7 +34558,6 @@
 ||exedousapp.wixstudio.com^
 ||exedu.site^
 ||exedus-en.wixstudio.com^
-||exedus-eng.wixstudio.com^
 ||exedus-us-en.pages.dev^
 ||exeduso-en.wixstudio.com^
 ||exeduso.wixstudio.com^
@@ -35248,7 +35236,6 @@
 ||ext-coinbaze.wixstudio.com^
 ||ext-coinbezio.wixstudio.com^
 ||ext-coinbzse.wixstudio.com^
-||ext-en-metamask.wixstudio.com^
 ||ext-exods-web.b12sites.com^
 ||ext-io-metamskapps.wixstudio.com^
 ||ext-iometamaskapps.wixstudio.com^
@@ -45069,6 +45056,7 @@
 ||hyperdrivedefi.events^
 ||hyperdrivedefi.info^
 ||hyperdrivedefi.shop^
+||hyperecosystem.network^
 ||hyperefund.com^
 ||hyperelnd.finance^
 ||hyperend.finance^
@@ -50152,7 +50140,6 @@
 ||kreikenilogm.gitbook.io^
 ||krekan-logi.gitbook.io^
 ||krekan-login.wixstudio.com^
-||krekanus.wixstudio.com^
 ||krekanwallt.gitbook.io^
 ||krekenlogem.gitbook.io^
 ||krekenluginn.webflow.io^
@@ -50175,7 +50162,6 @@
 ||krkaen.wixstudio.com^
 ||krkaitrade.co^
 ||krkakanelogin.webflow.io^
-||krkann-us.wixstudio.com^
 ||krkanprolog.wixstudio.com^
 ||krkcontrol25.store^
 ||krkdqtzt.bond^
@@ -50956,7 +50942,6 @@
 ||learn-metamask-login.wixstudio.com^
 ||learn-metamask.wixstudio.com^
 ||learn-metamaskcdn.wixstudio.com^
-||learn-metamaskext.wixstudio.com^
 ||learn-metamskcdn.wixstudio.com^
 ||learn-metasmkus-help.pages.dev^
 ||learn-metmask-ai.wixstudio.com^
@@ -55229,7 +55214,6 @@
 ||meatamsk-extension.wixstudio.com^
 ||meatamskapps.wixstudio.com^
 ||meatamskhelp.wixstudio.com^
-||meatamskhelped.wixstudio.com^
 ||meatamskio-logn.wixstudio.com^
 ||meatamskk-chrm.gitbook.io^
 ||meatgym.com^
@@ -56100,7 +56084,6 @@
 ||metamaks-live.framer.website^
 ||metamaks.cards^
 ||metamaksextnsion.webflow.io^
-||metamaksio.wixstudio.com^
 ||metamank.io^
 ||metamaok.com^
 ||metamark.io^
@@ -57228,6 +57211,7 @@
 ||metamusk.app^
 ||metamusk.eu^
 ||metamuskkchromextinson.webflow.io^
+||metamuskkloggi.godaddysites.com^
 ||metamusklog9.godaddysites.com^
 ||metamuxsklogen.gitbook.io^
 ||metamwallet.icu^
@@ -57420,6 +57404,7 @@
 ||metiaamask.github.io^
 ||metimaaasklogiin.godaddysites.com^
 ||metimask-log-signin.godaddysites.com^
+||metimask-loggisin.godaddysites.com^
 ||metimask-logiin2.godaddysites.com^
 ||metimaskloiigne.godaddysites.com^
 ||metis-mail.pages.dev^
@@ -57453,7 +57438,6 @@
 ||metmaskext-apps.wixstudio.com^
 ||metmaskext-webapp.wixstudio.com^
 ||metmaskext-webapps.wixstudio.com^
-||metmaskextension.wixstudio.com^
 ||metmaskextnsion-io.wixstudio.com^
 ||metmaskio.wixstudio.com^
 ||metmaskiocdn.wixstudio.com^
@@ -57534,7 +57518,6 @@
 ||mettamaskcriptlogin.webflow.io^
 ||mettamaskl0gin.webflow.io^
 ||mettamasklofun.gitbook.io^
-||mettamassklogiinc.webflow.io^
 ||mettamaxklogin.gitbook.io^
 ||mettamcckollogin.gitbook.io^
 ||mettamisk_signin.godaddysites.com^
@@ -63329,7 +63312,6 @@
 ||nav-jaxxliberty-apps.wixstudio.com^
 ||nav-jaxxlibertyapp.wixstudio.com^
 ||nav-jaxxlibertyy.wixstudio.com^
-||nav-karken.wixstudio.com^
 ||nav-kkrken-io.wixstudio.com^
 ||nav-kkrkne-io.wixstudio.com^
 ||nav-koinbase-apps.wixstudio.com^
@@ -81040,7 +81022,6 @@
 ||secured-details.online^
 ||secured-details.site^
 ||secured-docsp1.top^
-||secured-help-coinbase.com^
 ||secured-redirect.com^
 ||secured-rnicrosoft.com^
 ||secured-securely.online^
@@ -82608,6 +82589,7 @@
 ||sites.google.com/view/base-extenson-hub-/home^
 ||sites.google.com/view/base-extensons/home^
 ||sites.google.com/view/baseio-exten/home^
+||sites.google.com/view/begin-extension/home^
 ||sites.google.com/view/begin-extnsions/home^
 ||sites.google.com/view/bfnaelmomeielpmgjnjophhpkkoljp/phantom-wallet^
 ||sites.google.com/view/biitbuy-access/home^
@@ -82755,6 +82737,7 @@
 ||sites.google.com/view/eeeyjjuyyuueerrrrjyyyykk/phantom^
 ||sites.google.com/view/eexodusweb-si/home^
 ||sites.google.com/view/en-coinbase-us/home^
+||sites.google.com/view/en-metamask-exten/home^
 ||sites.google.com/view/en-robinhud-login/home^
 ||sites.google.com/view/enable-bitbuy-en/home^
 ||sites.google.com/view/enable-bitbuy/home^
@@ -82764,6 +82747,7 @@
 ||sites.google.com/view/engweb-extensions/home^
 ||sites.google.com/view/enlive-metamask/home^
 ||sites.google.com/view/enng-bitbuy/home^
+||sites.google.com/view/enus-metamask/home^
 ||sites.google.com/view/enusexod/home^
 ||sites.google.com/view/ewrtyuo/home^
 ||sites.google.com/view/exdos-us-/home^
@@ -82794,6 +82778,7 @@
 ||sites.google.com/view/extension-com-en/home^
 ||sites.google.com/view/extension-detail-phantom/bfnaelmomeimhlpmgjnjophhpkkoljpa^
 ||sites.google.com/view/extension-detail/trust-wallet-egjidjbpglichdcondbcbdnbeeppgdph^
+||sites.google.com/view/extension-metamaskcdn/home^
 ||sites.google.com/view/extension-metmask-en/home^
 ||sites.google.com/view/extension-web/home^
 ||sites.google.com/view/extension-webs/home^
@@ -82819,6 +82804,7 @@
 ||sites.google.com/view/globalcoinbasecdn/home^
 ||sites.google.com/view/guide-bitbuy-login/home^
 ||sites.google.com/view/guide-live-assistance-robinhoo/home^
+||sites.google.com/view/guide-metamask-chrmeext/home^
 ||sites.google.com/view/guide-new-metamask/home^
 ||sites.google.com/view/guideexoduswallet/home^
 ||sites.google.com/view/h4jztp8f^
@@ -82847,6 +82833,7 @@
 ||sites.google.com/view/how-do-i-bypass-the-coinbase-w^
 ||sites.google.com/view/how-do-i-login-robinhood-accou/home^
 ||sites.google.com/view/how-do-i-speak-to-exodus/home^
+||sites.google.com/view/how-install-metamask/home^
 ||sites.google.com/view/how-much-does-coinbase-charge^
 ||sites.google.com/view/how-to-contact-robinho/home^
 ||sites.google.com/view/how-to-fix-login-errortrust^
@@ -82871,6 +82858,9 @@
 ||sites.google.com/view/instal-metamask-app/home^
 ||sites.google.com/view/install-metamask-extension/home^
 ||sites.google.com/view/intro-bitbuy/home^
+||sites.google.com/view/intro-meta-extension/home^
+||sites.google.com/view/io-metamask-help/home^
+||sites.google.com/view/io-metamaskes/home^
 ||sites.google.com/view/is-coinbase-always-open/home^
 ||sites.google.com/view/isthereacoinbasetollfreenumber/home^
 ||sites.google.com/view/kalshi-instant-withdraw/home^
@@ -82930,11 +82920,13 @@
 ||sites.google.com/view/login-bbitbuy/home^
 ||sites.google.com/view/login-bitbuy/home^
 ||sites.google.com/view/login-bitbuys-en/home^
+||sites.google.com/view/login-metamsk-site/home^
 ||sites.google.com/view/login-trust-wallet^
 ||sites.google.com/view/loginbitbuy-guide/home^
 ||sites.google.com/view/loginbitbuy-page-/home^
 ||sites.google.com/view/loginbitbuycryptoexchange/home^
 ||sites.google.com/view/loginbitbuys/home^
+||sites.google.com/view/loginmetamask-getting/home^
 ||sites.google.com/view/loginmtamask/home^
 ||sites.google.com/view/logn-bitbuy-/home^
 ||sites.google.com/view/logn-bitbuy-learn/home^
@@ -82948,31 +82940,48 @@
 ||sites.google.com/view/meta-masklogi/home^
 ||sites.google.com/view/metaamesk-page/home^
 ||sites.google.com/view/metaamsk-chrm-web/home^
+||sites.google.com/view/metamask--page/home^
 ||sites.google.com/view/metamask--secure/home^
+||sites.google.com/view/metamask-begine/home^
 ||sites.google.com/view/metamask-cdn/home^
+||sites.google.com/view/metamask-chrm-cdn/home^
 ||sites.google.com/view/metamask-device/home^
 ||sites.google.com/view/metamask-doccs/home^
 ||sites.google.com/view/metamask-en-uss/home^
 ||sites.google.com/view/metamask-enus-home/home^
+||sites.google.com/view/metamask-exten-doc/home^
+||sites.google.com/view/metamask-extenso/home^
+||sites.google.com/view/metamask-extesion-/home^
 ||sites.google.com/view/metamask-gateway/home^
 ||sites.google.com/view/metamask-getting-en/home^
 ||sites.google.com/view/metamask-guide-docs/home^
+||sites.google.com/view/metamask-hard/home^
 ||sites.google.com/view/metamask-helps/home^
 ||sites.google.com/view/metamask-home-extension/home^
+||sites.google.com/view/metamask-intro-ext/home^
 ||sites.google.com/view/metamask-intro-home/home^
 ||sites.google.com/view/metamask-logaccess/home^
 ||sites.google.com/view/metamask-metamask-exten/home^
 ||sites.google.com/view/metamask-microso/home^
 ||sites.google.com/view/metamask-microsoft/home^
+||sites.google.com/view/metamask-open-web/home^
+||sites.google.com/view/metamask-wallet-web/home^
+||sites.google.com/view/metamask-wallete-web/home^
 ||sites.google.com/view/metamaskswapfailed/home^
+||sites.google.com/view/metamesk-enus/home^
 ||sites.google.com/view/metameskcom/home^
+||sites.google.com/view/metamsk-ext-docs/home^
 ||sites.google.com/view/metamsk-extension-secur/home^
 ||sites.google.com/view/metamsk-extensn/home^
 ||sites.google.com/view/metamsk-extnsons/home^
 ||sites.google.com/view/metamsk-iobrowser/home^
 ||sites.google.com/view/metamsk-meta/home^
 ||sites.google.com/view/metamsk-web-en/home^
+||sites.google.com/view/metamssk-begin/home^
 ||sites.google.com/view/metamssk-doc/home^
+||sites.google.com/view/metamssk-page/home^
+||sites.google.com/view/metmask-wallet-en/home^
+||sites.google.com/view/metmsk-extnson/home^
 ||sites.google.com/view/metrustwallets/home^
 ||sites.google.com/view/moonpay-login-pc-mobile-regist/home^
 ||sites.google.com/view/moonpay-payment-failed/home^
@@ -83009,12 +83018,14 @@
 ||sites.google.com/view/official-baseapp/home^
 ||sites.google.com/view/official-bitbuywebs/home^
 ||sites.google.com/view/official-coinpro-us/home^
+||sites.google.com/view/official-metamaskcdn/home^
 ||sites.google.com/view/okvgfkuvnxyvhrs^
 ||sites.google.com/view/online-bitbuy/home^
 ||sites.google.com/view/online-extension-wallet/home^
 ||sites.google.com/view/open--extensioni/home^
 ||sites.google.com/view/page-bitbuy-ca/home^
 ||sites.google.com/view/page-coinbase-ext/home^
+||sites.google.com/view/page-metmask/home^
 ||sites.google.com/view/page-qoinbase/home^
 ||sites.google.com/view/page-web-base/home^
 ||sites.google.com/view/pagehome-bitbuycdn/home^
@@ -83037,6 +83048,7 @@
 ||sites.google.com/view/rapidresponseteamhowtospeakdir/home^
 ||sites.google.com/view/real-agent-at-coinbase/home^
 ||sites.google.com/view/recover-crypto-profiles-post-m^
+||sites.google.com/view/releases-metamask-en/home^
 ||sites.google.com/view/releases-metamask/home^
 ||sites.google.com/view/required-processdoes-trust-wal^
 ||sites.google.com/view/review-connections^
@@ -83084,6 +83096,7 @@
 ||sites.google.com/view/setup-ledger-desktop-app^
 ||sites.google.com/view/setup-trezor-suite^
 ||sites.google.com/view/signin-robinhood/home^
+||sites.google.com/view/site-metamask-wallet/home^
 ||sites.google.com/view/smarthelptipshowtowithdrawfrom/home^
 ||sites.google.com/view/sobitbycd/home^
 ||sites.google.com/view/sso-bitbycd/home^
@@ -83143,6 +83156,7 @@
 ||sites.google.com/view/user-0001/home^
 ||sites.google.com/view/user-bitbuycdn/home^
 ||sites.google.com/view/user-wallet-coinbase/home^
+||sites.google.com/view/usmetamsk-ext/home^
 ||sites.google.com/view/walle-connect-session-terminat^
 ||sites.google.com/view/wallet-coin-base/home^
 ||sites.google.com/view/wallet-coinbas/home^
@@ -83861,6 +83875,7 @@
 ||sol-incinerator-hgurfn70p-solslugs.vercel.app^
 ||sol-incinerator-m7gxrgysz-solslugs.vercel.app^
 ||sol-incinerator-o3hbp6sam-solslugs.vercel.app^
+||sol-incinerator-rd5fxknjw-solslugs.vercel.app^
 ||sol-incinerator-solslugs.vercel.app^
 ||sol-incinerator-tool.top^
 ||sol-incinerator.allocation.ink^
@@ -90800,7 +90815,6 @@
 ||trade-krakeenpro.wixstudio.com^
 ||trade-krakencdn.wixstudio.com^
 ||trade-krakenio.wixstudio.com^
-||trade-krakepro.wixstudio.com^
 ||trade-krakkan.wixstudio.com^
 ||trade-krakkancdn.wixstudio.com^
 ||trade-krakkencdn.wixstudio.com^
@@ -90823,7 +90837,6 @@
 ||trade-krkakencdn.wixstudio.com^
 ||trade-krkakencdns.wixstudio.com^
 ||trade-krkakenscdn.wixstudio.com^
-||trade-krkan.wixstudio.com^
 ||trade-krkanpro.wixstudio.com^
 ||trade-krkanprolog.wixstudio.com^
 ||trade-krkanpros.wixstudio.com^
@@ -90896,7 +90909,6 @@
 ||tradehorizons.live^
 ||tradeifysol.cc^
 ||tradeit-skins.com^
-||tradekrke.wixstudio.com^
 ||tradekrrkakencdn.wixstudio.com^
 ||trademaxglobal-markets.com^
 ||trademaxtmgmcn.com^
@@ -96417,7 +96429,6 @@
 ||us-koinbase-extnsion.wixstudio.com^
 ||us-kraken.cc^
 ||us-kraknn.wixstudio.com^
-||us-krkeenpro.wixstudio.com^
 ||us-krrkin.wixstudio.com^
 ||us-lace-apps.wixstudio.com^
 ||us-learn-ledgr.pages.dev^
@@ -102594,6 +102605,7 @@
 ||webdisk.98-70-0-49.cprapid.com^
 ||webdisk.coinbase-reverifyld.duckdns.org^
 ||webdisk.consensys.vc^
+||webdisk.dogecoinmixer.com^
 ||webdisk.exoduscom.com^
 ||webdisk.trustwallet-desk.info^
 ||weben-exudos.wixstudio.com^
@@ -102645,6 +102657,7 @@
 ||webintropage.wixstudio.com^
 ||webio-base-extension.wixstudio.com^
 ||webio-jcxxlibarty.wixstudio.com^
+||webio-metamakscdn.framer.website^
 ||webio-rabbyapps.wixstudio.com^
 ||webio-rabbycdn.wixstudio.com^
 ||webio-trustextension.wixstudio.com^
