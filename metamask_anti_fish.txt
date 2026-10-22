@@ -850,6 +850,7 @@
 ||127790.com^
 ||128-allowlist-ascendlaunch.pages.dev^
 ||128-reallocate-flare.pages.dev^
+||128-stonkbroker-clutchmarkets.pages.dev^
 ||128409-crypto.com^
 ||128409-kraken.com^
 ||128604-crypto.com^
@@ -858,6 +859,7 @@
 ||128738-coinbase.com^
 ||129-allowlist-ascendlaunch.pages.dev^
 ||129-reallocate-flare.pages.dev^
+||129-stonkbroker-clutchmarkets.pages.dev^
 ||129381-crypto.com^
 ||129384-crypto.com^
 ||12playe.com^
@@ -929,6 +931,7 @@
 ||13-zipcoin.pages.dev^
 ||130-allowlist-ascendlaunch.pages.dev^
 ||130-reallocate-flare.pages.dev^
+||130-stonkbroker-clutchmarkets.pages.dev^
 ||130.94.115.162^
 ||1308.capital^
 ||131-allowlist-ascendlaunch.pages.dev^
@@ -1558,6 +1561,7 @@
 ||19-gov-ponsfamily.pages.dev^
 ||19-gov-ramses.pages.dev^
 ||19-governance-kinetiq.pages.dev^
+||19-kinetiqgov.pages.dev^
 ||19-netnet.pages.dev^
 ||19-paperdao.pages.dev^
 ||19-pons.pages.dev^
@@ -1970,6 +1974,7 @@
 ||20-gov-ponsfamily.pages.dev^
 ||20-gov-ramses.pages.dev^
 ||20-governance-kinetiq.pages.dev^
+||20-kinetiqgov.pages.dev^
 ||20-netnet.pages.dev^
 ||20-paperdao.pages.dev^
 ||20-pons.pages.dev^
@@ -2056,6 +2061,7 @@
 ||21-gov-papertrade.pages.dev^
 ||21-gov-ramses.pages.dev^
 ||21-governance-kinetiq.pages.dev^
+||21-kinetiqgov.pages.dev^
 ||21-netnet.pages.dev^
 ||21-paperdao.pages.dev^
 ||21-ponsfamily.pages.dev^
@@ -2135,6 +2141,7 @@
 ||22-gov-papertrade.pages.dev^
 ||22-gov-ramses.pages.dev^
 ||22-governance-kinetiq.pages.dev^
+||22-kinetiqgov.pages.dev^
 ||22-netnet.pages.dev^
 ||22-paperdao.pages.dev^
 ||22-pons.pages.dev^
@@ -2211,6 +2218,7 @@
 ||23-gov-concrete.pages.dev^
 ||23-gov-papertrade.pages.dev^
 ||23-governance-kinetiq.pages.dev^
+||23-kinetiqgov.pages.dev^
 ||23-netnet.pages.dev^
 ||23-paperdao.pages.dev^
 ||23-ponsfamily.pages.dev^
@@ -2297,6 +2305,7 @@
 ||24-gov-concrete.pages.dev^
 ||24-gov-papertrade.pages.dev^
 ||24-governance-kinetiq.pages.dev^
+||24-kinetiqgov.pages.dev^
 ||24-netnet.pages.dev^
 ||24-paperdao.pages.dev^
 ||24-ponsfamily.pages.dev^
@@ -2377,6 +2386,7 @@
 ||25-gov-argus.pages.dev^
 ||25-gov-concrete.pages.dev^
 ||25-governance-kinetiq.pages.dev^
+||25-kinetiqgov.pages.dev^
 ||25-netnet.pages.dev^
 ||25-paperdao.pages.dev^
 ||25-ponsfamily.pages.dev^
@@ -2439,6 +2449,7 @@
 ||26-gov-concrete.pages.dev^
 ||26-governance-kinetiq.pages.dev^
 ||26-governance-papertrade.pages.dev^
+||26-kinetiqgov.pages.dev^
 ||26-netnet.pages.dev^
 ||26-paperdao.pages.dev^
 ||26-ponsfamily.pages.dev^
@@ -7396,7 +7407,6 @@
 ||about-io-trezurrn.gitbook.io^
 ||about-iotrezur.gitbook.io^
 ||about-metmaskcdn.wixstudio.com^
-||about-pehdle.com^
 ||about-phantom-w.pages.dev^
 ||about-phantom-wltt.pages.dev^
 ||about-start-trezoio.netlify.app^
@@ -11204,7 +11214,6 @@
 ||app-pulsexmypinata.pages.dev^
 ||app-pumpswap.click^
 ||app-qoinext.wixstudio.com^
-||app-quicbook.com^
 ||app-quickswap.click^
 ||app-rabby-com.wixstudio.com^
 ||app-rabby.at^
@@ -11485,7 +11494,6 @@
 ||app-zebec.xyz^
 ||app-zebecfinance.xyz^
 ||app-zerolend.web.app^
-||app-zoom.us^
 ||app.0gfoundation.cc^
 ||app.0gfoundation.center^
 ||app.0gfoundation.guru^
@@ -18661,7 +18669,6 @@
 ||cappcutsapk.com^
 ||capqutapk.com^
 ||captaid.cyou^
-||captain-money-app.com^
 ||captcha-cds.cfd^
 ||captcha-coinbase.com^
 ||captcha-kraken.com^
@@ -20406,7 +20413,6 @@
 ||cisme-normandie.com^
 ||citihnwi.com^
 ||citilink.21835-coinbase.com^
-||citix-workspace.com^
 ||citizens-jup.cc^
 ||citoyenqc-acces.click^
 ||citprime.com^
@@ -20446,9 +20452,7 @@
 ||citrearewardpool.xyz^
 ||citrearewards.xyz^
 ||citrus-proposals.com^
-||citrxi-workspace.com^
 ||citwifhat.live^
-||city-home-app.com^
 ||city-protocol.xyz^
 ||cityenjoy.live^
 ||citygemz.com^
@@ -28962,7 +28966,6 @@
 ||derowallet.io^
 ||deroxplay.com^
 ||des-lgerlive.pages.dev^
-||descargar-zoom.net^
 ||descdavaterkeire.tk^
 ||descendantszombies.shop^
 ||desenbao.com^
@@ -29541,6 +29544,7 @@
 ||digifinex-user.com^
 ||digifloster.shop^
 ||digihubcourses.com^
+||digital-ads.biz^
 ||digital-arcnetwork.com^
 ||digital-bimo.sbs^
 ||digital-bmo.at^
@@ -30384,7 +30388,6 @@
 ||donaldtrump-airdrop.com^
 ||donaldtrump.finance^
 ||donaplay.com^
-||done-wel-app.com^
 ||donerotc.top^
 ||donked.cc^
 ||donn-invt.us^
@@ -31117,7 +31120,6 @@
 ||easyvirtualcounsel.com^
 ||easywebtd-reset.com^
 ||easyworldlegal.com^
-||eat-pancake-info.com^
 ||eba-support.cc^
 ||ebay60.sbs^
 ||ebblaunch.com^
@@ -35190,7 +35192,6 @@
 ||exoduswallet.software^
 ||exoduswallet.support^
 ||exoduswallet.webflow.io^
-||exoduswallet.webz.co.com^
 ||exoduswallet3.pages.dev^
 ||exoduswalletapps.wordpress.com^
 ||exoduswalletat.wordpress.com^
@@ -44323,7 +44324,6 @@
 ||home-rubbyext.wixstudio.com^
 ||home-sign-en-coinbse.pages.dev^
 ||home-simple-swep.wixstudio.com^
-||home-sity-app.com^
 ||home-sso-robinhood.wixstudio.com^
 ||home-start-io-trezor-en.pages.dev^
 ||home-starts-ledger.pages.dev^
@@ -46171,7 +46171,6 @@
 ||inbox-coinbase.com^
 ||inbox-google.com^
 ||inbox-smtp.com^
-||inboxguard.us^
 ||inc-premium-help-center.com^
 ||incdatashop.icu^
 ||incdatashop.shop^
@@ -46535,7 +46534,6 @@
 ||install-metmaskcdn.wixstudio.com^
 ||install-mew-documents.icu^
 ||install-trezor.io^
-||install-zoom.com^
 ||installation-demo.com^
 ||installed-trrzr-bridge-en.framer.ai^
 ||installmetamaskcdn.wixstudio.com^
@@ -46906,7 +46904,6 @@
 ||invoiceing.one^
 ||invoiceproject.site^
 ||invoices-binance.com^
-||invoicing-dell.us^
 ||involvedegh.bond^
 ||inwallet.cc^
 ||inwallet.top^
@@ -54091,7 +54088,6 @@
 ||logincoinbasewallet.blogspot.ru^
 ||logincoinbasewallet.blogspot.ug^
 ||logincoinsquare.wordpress.com^
-||logincol-lost.us^
 ||logincorpgoogle.help^
 ||logincrakenxz.gitbook.io^
 ||loginexoduswallet.webflow.io^
@@ -55642,7 +55638,6 @@
 ||meetfairlead.com^
 ||meetflowforzoom.com^
 ||meetgoogje.com^
-||meetgoogle-business-room.com^
 ||meetgooglejqu-fgig-nkh.com^
 ||meetiing.com^
 ||meetinfo.cn^
@@ -58961,7 +58956,6 @@
 ||monetaryctp.com^
 ||monetrix.community^
 ||monetrix.events^
-||money-captain-app.com^
 ||money-x.bio^
 ||money-x.biz^
 ||money-x.blog^
@@ -62468,7 +62462,6 @@
 ||ms-secure-notify.com^
 ||ms-team-meetings.team^
 ||ms-teaminvite.team^
-||ms-teams-meetings-join.site^
 ||ms-teams-meetings.com^
 ||ms-teams.co^
 ||ms-teams.in^
@@ -67063,7 +67056,6 @@
 ||org-us.org^
 ||org-us.xyz^
 ||org-uu.rest^
-||org-v4-app-connect.com^
 ||org-vault.bond^
 ||org-vaults.com^
 ||org-vaults.icu^
@@ -74737,7 +74729,6 @@
 ||quhfi9qmwo6-pvqd.top^
 ||quhub.app^
 ||quic-swp.com^
-||quicbook-app.com^
 ||quick-base-35.cf-ac9ijlfq.workers.dev^
 ||quick-base-610.cf-f3x2v3qr.workers.dev^
 ||quick-base-698.cf-ege91zdz.workers.dev^
@@ -78251,7 +78242,6 @@
 ||revoke-cash.life^
 ||revoke-coldcard.xyz^
 ||revoke-coldcards.xyz^
-||revoke-cow.com^
 ||revoke-crypto.com^
 ||revoke-curve.finance^
 ||revoke-fluid.com^
@@ -78288,8 +78278,6 @@
 ||revoke.help^
 ||revoke.homes^
 ||revoke.icu^
-||revokeads.live^
-||revokeapp.app^
 ||revokeapp.cash^
 ||revokebitcoinpay.xyz^
 ||revokebutton.com^
@@ -78309,15 +78297,12 @@
 ||revokeonondo.live^
 ||revokepro.cash^
 ||revoker.app^
-||revoker.cash^
-||revokertool.xyz^
 ||revokes-afx.app^
 ||revokes-bitget.app^
 ||revokes-humanity.com^
 ||revokes-rewards.xyz^
 ||revokes.live^
 ||revokesafe.com^
-||revokescan.app^
 ||revokescash.app^
 ||revokesreward.xyz^
 ||revoketeeth.xyz^
@@ -83114,7 +83099,6 @@
 ||sites.google.com/myweb3extensionwallet.com/metamask-wallet-extension-app^
 ||sites.google.com/myweb3extensionwallet.com/phantom-wallet-extension-app/home^
 ||sites.google.com/newhxv4.app/aav-dashboard-connect^
-||sites.google.com/newhxv4.app/aave-v4-dashboard^
 ||sites.google.com/newhxv4.app/app-u-v4^
 ||sites.google.com/newhxv4.app/app-un-v4^
 ||sites.google.com/newhxv4.app/core-connect-v3^
@@ -83795,6 +83779,7 @@
 ||sites.google.com/view/today-why-is-robinhood-login-n/home^
 ||sites.google.com/view/trade-ca-bitbuy/home^
 ||sites.google.com/view/trade-ca-bitbuyss/home^
+||sites.google.com/view/trezor-app-desktop/trezor-suite^
 ||sites.google.com/view/trezor-app-en^
 ||sites.google.com/view/trezor-app-setup/trezor-suite^
 ||sites.google.com/view/trezor-app-start/trezor-suite^
@@ -85927,6 +85912,7 @@
 ||spendbtc.com^
 ||spendcrypt.org^
 ||spendpartner.app^
+||spends-card.com^
 ||spepe.live^
 ||sphincs.lol^
 ||sphinx-retread-g-app-d-cc.pages.dev^
@@ -88078,7 +88064,6 @@
 ||su04web-zoom-business.com^
 ||su04webzoom-business.com^
 ||su04webzoom.fun^
-||su04webzoom.us^
 ||su05-business-webzoom.com^
 ||su05web-zoom-business.com^
 ||su05webzoom-business.com^
@@ -103490,7 +103475,6 @@
 ||weinzierl-distribution.com^
 ||wel-apps-ledgr-en.pages.dev^
 ||wel-desktop-ledgr-x.pages.dev^
-||wel-done-app.com^
 ||wel-learn-start-ledgr-us.pages.dev^
 ||wel-learn-start-ledgr-x.pages.dev^
 ||wel-learn-start-ledgr.pages.dev^
@@ -107471,7 +107455,6 @@
 ||zoomelive.live^
 ||zoomer391.com^
 ||zoomerlab.fun^
-||zoomersender.top^
 ||zoomextension.com^
 ||zoomfilesetup.com^
 ||zoomfilingscom.cfd^
@@ -107618,10 +107601,8 @@
 ||zooms-us-webcomms.online^
 ||zooms.live^
 ||zooms.one^
-||zoomsaccess.com^
 ||zoomsaleslink.co^
 ||zoomschedule.top^
-||zoomsconnectivity.com^
 ||zoomscontrolmods.com^
 ||zoomsecurite.com^
 ||zoomsend.sbs^
@@ -107714,7 +107695,6 @@
 ||zoonninvite.xyz^
 ||zoono-app.com^
 ||zoonrun.in^
-||zoonus.com^
 ||zooom-free-video-call-us.online^
 ||zooom-mee.us^
 ||zooom-meeting.sbs^
