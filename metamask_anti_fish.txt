@@ -675,6 +675,7 @@
 ||10-zamaprotocol.pages.dev^
 ||10-zipcoin.pages.dev^
 ||100-derivexyz.pages.dev^
+||100-governance-curvefinance.pages.dev^
 ||100-governance-papertrade.pages.dev^
 ||100-governance-venice.pages.dev^
 ||100-kinetiqgov.pages.dev^
@@ -688,6 +689,7 @@
 ||100925kraken.com^
 ||100m-reward-ripple.com^
 ||101-derivexyz.pages.dev^
+||101-governance-curvefinance.pages.dev^
 ||101-governance-papertrade.pages.dev^
 ||101-governance-venice.pages.dev^
 ||101-kinetiqgov.pages.dev^
@@ -700,6 +702,7 @@
 ||1017-coinbase.com^
 ||101931-coinbase.com^
 ||102-derivexyz.pages.dev^
+||102-governance-curvefinance.pages.dev^
 ||102-governance-venice.pages.dev^
 ||102-kinetiqgov.pages.dev^
 ||102-net.phantom-virtual-tap.com^
@@ -712,6 +715,7 @@
 ||102603-crypto.com^
 ||103-allowlist-ascendlaunch.pages.dev^
 ||103-derivexyz.pages.dev^
+||103-governance-curvefinance.pages.dev^
 ||103-governance-venice.pages.dev^
 ||103-kinetiqgov.pages.dev^
 ||103-netnet.pages.dev^
@@ -722,6 +726,7 @@
 ||103-vote-papertrade.pages.dev^
 ||104-allowlist-ascendlaunch.pages.dev^
 ||104-derivexyz.pages.dev^
+||104-governance-curvefinance.pages.dev^
 ||104-governance-venice.pages.dev^
 ||104-kinetiqgov.pages.dev^
 ||104-netnet.pages.dev^
@@ -9701,6 +9706,7 @@
 ||88-allocation-yieldfields.pages.dev^
 ||88-allowlist-ascendlaunch.pages.dev^
 ||88-derivexyz.pages.dev^
+||88-governance-curvefinance.pages.dev^
 ||88-governance-venice.pages.dev^
 ||88-kinetiqgov.pages.dev^
 ||88-proposal-globaldollar.pages.dev^
@@ -9774,6 +9780,7 @@
 ||89-allocation-yieldfields.pages.dev^
 ||89-allowlist-ascendlaunch.pages.dev^
 ||89-derivexyz.pages.dev^
+||89-governance-curvefinance.pages.dev^
 ||89-governance-venice.pages.dev^
 ||89-kinetiqgov.pages.dev^
 ||89-netnet.pages.dev^
@@ -9981,6 +9988,7 @@
 ||90-allocation-yieldfields.pages.dev^
 ||90-allowlist-ascendlaunch.pages.dev^
 ||90-derivexyz.pages.dev^
+||90-governance-curvefinance.pages.dev^
 ||90-governance-papertrade.pages.dev^
 ||90-governance-venice.pages.dev^
 ||90-kinetiqgov.pages.dev^
@@ -10022,6 +10030,7 @@
 ||91-allocation-yieldfields.pages.dev^
 ||91-allowlist-ascendlaunch.pages.dev^
 ||91-derivexyz.pages.dev^
+||91-governance-curvefinance.pages.dev^
 ||91-governance-venice.pages.dev^
 ||91-kinetiqgov.pages.dev^
 ||91-netnet.pages.dev^
@@ -10074,6 +10083,7 @@
 ||92-allocation-yieldfields.pages.dev^
 ||92-allowlist-ascendlaunch.pages.dev^
 ||92-derivexyz.pages.dev^
+||92-governance-curvefinance.pages.dev^
 ||92-governance-venice.pages.dev^
 ||92-kinetiqgov.pages.dev^
 ||92-netnet.pages.dev^
@@ -10137,6 +10147,7 @@
 ||93-0xfluid.pages.dev^
 ||93-allowlist-ascendlaunch.pages.dev^
 ||93-derivexyz.pages.dev^
+||93-governance-curvefinance.pages.dev^
 ||93-governance-venice.pages.dev^
 ||93-kinetiqgov.pages.dev^
 ||93-netnet.pages.dev^
@@ -10188,6 +10199,7 @@
 ||94-0xfluid.pages.dev^
 ||94-allowlist-ascendlaunch.pages.dev^
 ||94-derivexyz.pages.dev^
+||94-governance-curvefinance.pages.dev^
 ||94-governance-venice.pages.dev^
 ||94-kinetiqgov.pages.dev^
 ||94-netnet.pages.dev^
@@ -10223,6 +10235,7 @@
 ||94fbrcapcutpro.com^
 ||95-allowlist-ascendlaunch.pages.dev^
 ||95-derivexyz.pages.dev^
+||95-governance-curvefinance.pages.dev^
 ||95-governance-papertrade.pages.dev^
 ||95-governance-venice.pages.dev^
 ||95-kinetiqgov.pages.dev^
@@ -10260,6 +10273,7 @@
 ||95gbkj.beer^
 ||96-allowlist-ascendlaunch.pages.dev^
 ||96-derivexyz.pages.dev^
+||96-governance-curvefinance.pages.dev^
 ||96-governance-venice.pages.dev^
 ||96-kinetiqgov.pages.dev^
 ||96-netnet.pages.dev^
@@ -10284,6 +10298,7 @@
 ||969yahoo.com^
 ||96ninesixm.vip^
 ||97-derivexyz.pages.dev^
+||97-governance-curvefinance.pages.dev^
 ||97-governance-venice.pages.dev^
 ||97-kinetiqgov.pages.dev^
 ||97-netnet.pages.dev^
@@ -10346,6 +10361,7 @@
 ||97ee6.blogspot.sk^
 ||97ee9.catex.at^
 ||98-derivexyz.pages.dev^
+||98-governance-curvefinance.pages.dev^
 ||98-governance-venice.pages.dev^
 ||98-kinetiqgov.pages.dev^
 ||98-netnet.pages.dev^
@@ -10412,6 +10428,7 @@
 ||9898-cf.com^
 ||98yj.com^
 ||99-derivexyz.pages.dev^
+||99-governance-curvefinance.pages.dev^
 ||99-governance-papertrade.pages.dev^
 ||99-governance-venice.pages.dev^
 ||99-kinetiqgov.pages.dev^
@@ -19408,7 +19425,6 @@
 ||bill-app.icu^
 ||bill-docsverify.online^
 ||bill-sol.icu^
-||bill-zoom.com^
 ||billcasino.club^
 ||billing-kraken.org^
 ||billing-tw.org^
@@ -21426,7 +21442,6 @@
 ||brokensilenze.us^
 ||brokerage-ledger.pages.dev^
 ||brokerfarm.live^
-||bronze-trustwallet.com^
 ||brookhedgeassetmanagementcompany.com^
 ||brophy-legacy.info^
 ||brotherfeng.bond^
@@ -22184,7 +22199,6 @@
 ||cajarural-empresas.com^
 ||cake-moneyfi-sdk.pages.dev^
 ||cake-swap.org^
-||cake-v4-2938.sbs^
 ||cake-wallet.co^
 ||cake-wallet.com^
 ||cake-wallet.pages.dev^
@@ -22214,13 +22228,10 @@
 ||cakewallet.at^
 ||cakewallet.br.com^
 ||cakewallet.cam^
-||cakewallet.casa^
 ||cakewallet.cf35c91722efff0c39.workers.dev^
 ||cakewallet.click^
 ||cakewallet.co^
 ||cakewallet.gr.com^
-||cakewallet.icu^
-||cakewallet.life^
 ||cakewallet.us^
 ||cakewallet.website^
 ||cakewalletdesktop.app^
@@ -28334,13 +28345,11 @@
 ||com-cloud.shop^
 ||com-coinsquare.webflow.io^
 ||com-collab.pro^
-||com-collab.site^
 ||com-complete-captcha.info^
 ||com-confirmid2026.com^
 ||com-confirmit2026.net^
 ||com-connect-app.org^
 ||com-connect-app.pro^
-||com-connect-io.pro^
 ||com-connect-net.pro^
 ||com-connect-web.pro^
 ||com-connect-zone.pro^
@@ -32650,7 +32659,6 @@
 ||debridg.com^
 ||debridge-7be.pages.dev^
 ||debridge-secure.pages.dev^
-||debridge-v4.cfd^
 ||debridge.exchange^
 ||debridge.trade^
 ||debridgedesktop.online^
@@ -34979,7 +34987,6 @@
 ||dxwuob-joeyee8t.vercel.app^
 ||dy4er.top^
 ||dydaaxio.wixstudio.com^
-||dydaxio.wixstudio.com^
 ||dydx-app.co.com^
 ||dydx-apps.wixstudio.com^
 ||dydx-arcus.com^
@@ -34992,7 +34999,6 @@
 ||dydx-swap.gr.com^
 ||dydx-swap.ink^
 ||dydx-swap.sbs^
-||dydx-swapdefi.wixstudio.com^
 ||dydx-trade-io.wixstudio.com^
 ||dydx-trade-xyz.github.io^
 ||dydx-trade.co.com^
@@ -39569,7 +39575,6 @@
 ||exovalttrade94.com^
 ||exp-phantmwllet.pages.dev^
 ||experience-ledger-start.pages.dev^
-||expert-dydax.wixstudio.com^
 ||expert-dydx.wixstudio.com^
 ||expert-krkenapps.wixstudio.com^
 ||expertelitemarket.xyz^
@@ -40629,7 +40634,6 @@
 ||fi-l.eu.cc^
 ||fi-lappi.fi^
 ||fi-liquid.cfd^
-||fi-liquidstaking.pro^
 ||fi-ma.icu^
 ||fi-main.at^
 ||fi-main.sbs^
@@ -51959,7 +51963,6 @@
 ||io-hardware-dc-wallet.typedream.app^
 ||io-hardware-tzor.typedream.app^
 ||io-home.app^
-||io-home.run^
 ||io-homepage-rubby.wixstudio.com^
 ||io-honor.pro^
 ||io-https.pro^
@@ -52776,7 +52779,6 @@
 ||iy53112.com^
 ||iyikidogduneylul.com.tr^
 ||izcqyacc.bond^
-||izimeet.app^
 ||izllgbthrow.bond^
 ||izumi-finance.pages.dev^
 ||izycdh5wivs457t273kvxodoh4hpaz7jol5d5hs72i6nld4ebema.arweave.net^
@@ -54512,6 +54514,12 @@
 ||kitchen-ledger-7f9.pages.dev^
 ||kitchenebxo.bond^
 ||kite-counter-dapp.vercel.app^
+||kite.barsushi.cfd^
+||kite.meme-sushi.cc^
+||kite.meme-sushi.lol^
+||kite.sushi-bar.cfd^
+||kite.sushifinance.sbs^
+||kite.sushimeme.top^
 ||kite47.sbs^
 ||kiteai.community^
 ||kiteai.xikiguard.xyz^
@@ -57619,7 +57627,6 @@
 ||letszglseo.com.cn^
 ||letteruqqs.bond^
 ||letzexchange.io^
-||letzmeet.app^
 ||levell9.online^
 ||levelup-digitala.com^
 ||levelup-digitalpro.com^
@@ -60700,7 +60707,6 @@
 ||meetlive.fun^
 ||meetlive.pro^
 ||meetlive.xyz^
-||meetliveapps.org^
 ||meetlivechat.shop^
 ||meetlivegoogle.com^
 ||meetlivemoments.shop^
@@ -62432,6 +62438,7 @@
 ||metamcsk.io^
 ||metamdeaskloigin.gitbook.io^
 ||metameask.com^
+||metameaslogiz.gitbook.io^
 ||metamesak.com^
 ||metamesk-uq-bollet.gitbook.io^
 ||metamesk.com.co^
@@ -62497,6 +62504,7 @@
 ||metamskgnlogn.gitbook.io^
 ||metamskguide.wixstudio.com^
 ||metamskgxn.gitbook.io^
+||metamskinlogin.wordpress.com^
 ||metamskio-eng.wixstudio.com^
 ||metamskio-extension.wixstudio.com^
 ||metamskio-extensions.wixstudio.com^
@@ -69091,6 +69099,7 @@
 ||net-uphold.created.app^
 ||net-veb-netcoin.plasmic.run^
 ||net.0gfoundation.guru^
+||net.phengineering.coinbase.net.ph^
 ||net07websecure.com^
 ||netamask.io^
 ||netbet-casino2026.com^
@@ -72262,7 +72271,6 @@
 ||orginfi.com^
 ||orgmetamaskextension.wixstudio.com^
 ||orgtrezor-suuite.gitbook.io^
-||origami.finance^
 ||origin-okx.com.cn^
 ||origin-protocol.org^
 ||origin.osero.digital^
@@ -72632,7 +72640,6 @@
 ||pacuibus.sbs^
 ||padamu.zhigongfuli.com^
 ||padangsambian.jfchuxing.com^
-||padapi.trustwallett.info^
 ||padilla-exchange.info^
 ||padre-rewards.live^
 ||padre-terminal.xyz^
@@ -80535,7 +80542,6 @@
 ||rabbyuscdn.wixstudio.com^
 ||rabbyvault.kleap.io^
 ||rabbyw.com^
-||rabbywalle.vercel.app^
 ||rabbywallet-desktopwalletinstaller.com^
 ||rabbywallet-evm.firebaseapp.com^
 ||rabbywallet-evm.web.app^
@@ -82776,7 +82782,6 @@
 ||reallocation-openvpp.energy^
 ||reallocation-pharos.com^
 ||reallocation-pharos.org^
-||reallocation-pharos.xyz^
 ||reallocation-raacfi.xyz^
 ||reallocation-riverinc.com^
 ||reallocation-saharaai.com^
@@ -88963,6 +88968,8 @@
 ||sites.google.com/ledgrliveus.com/ledgerlive^
 ||sites.google.com/logwallets.com/trezor-hardware-wallet/home^
 ||sites.google.com/metalogmask.com/metamask-extension^
+||sites.google.com/metamaslogi.com/metamask-chrom^
+||sites.google.com/metamaslogi.com/metamaskextension^
 ||sites.google.com/metamaslogi.com/metamasksignin/home^
 ||sites.google.com/mywalletcryptous.com/rabby-wallet-download^
 ||sites.google.com/mywalletguide.com/matamask-signin^
@@ -89008,8 +89015,10 @@
 ||sites.google.com/view/app-metamaskio/home^
 ||sites.google.com/view/app-qoinext-/home^
 ||sites.google.com/view/app-start-chrom/home^
+||sites.google.com/view/appe-io-metamask/home^
 ||sites.google.com/view/appe-io-metamske/home^
 ||sites.google.com/view/appextension-us/home^
+||sites.google.com/view/apply-online-metamask/home^
 ||sites.google.com/view/apps--metmask/home^
 ||sites.google.com/view/apps-base-extensions/home^
 ||sites.google.com/view/apps-basecdn/home^
@@ -89025,10 +89034,12 @@
 ||sites.google.com/view/appshome--bitbuy/home^
 ||sites.google.com/view/appshome-bitbuy/home^
 ||sites.google.com/view/appsio-metamske/home^
+||sites.google.com/view/appsmetamasks/home^
 ||sites.google.com/view/appspro-us-en/home^
 ||sites.google.com/view/appweb-koinbaseio/home^
 ||sites.google.com/view/asdfghjnmk/home^
 ||sites.google.com/view/asfadsfdsfasdf/home^
+||sites.google.com/view/auth-metamask-ext/home^
 ||sites.google.com/view/availablerobinhoodtollfree/home^
 ||sites.google.com/view/b05regn7z^
 ||sites.google.com/view/bas-extension-/home^
@@ -89115,6 +89126,7 @@
 ||sites.google.com/view/chain-wallet-coinbase/home^
 ||sites.google.com/view/charlesschwabloginsecureaccoun/home^
 ||sites.google.com/view/choose-extensionapp/home^
+||sites.google.com/view/chrme-eng-metmaskk/home^
 ||sites.google.com/view/chrmetamask/home^
 ||sites.google.com/view/chrmextmetamask/home^
 ||sites.google.com/view/chrom-combas-wallet/home^
@@ -89292,6 +89304,8 @@
 ||sites.google.com/view/enlive-chromme/home^
 ||sites.google.com/view/enlive-metamask/home^
 ||sites.google.com/view/enstart-extension/home^
+||sites.google.com/view/enus-exoduss/home^
+||sites.google.com/view/enus-exoodu/home^
 ||sites.google.com/view/enus-metamask/home^
 ||sites.google.com/view/enusexod/home^
 ||sites.google.com/view/enusexoduss/home^
@@ -89307,6 +89321,7 @@
 ||sites.google.com/view/exeduso-/home^
 ||sites.google.com/view/exedusoo-/home^
 ||sites.google.com/view/exo-dus-info/home^
+||sites.google.com/view/exo-duss/home^
 ||sites.google.com/view/exods-web/home^
 ||sites.google.com/view/exods-wlt-/home^
 ||sites.google.com/view/exodu-web-nov/home^
@@ -89314,6 +89329,7 @@
 ||sites.google.com/view/exodus--web3/home^
 ||sites.google.com/view/exodus-blockchai/home^
 ||sites.google.com/view/exodus-blockchain-/home^
+||sites.google.com/view/exodus-brows/home^
 ||sites.google.com/view/exodus-browse/home^
 ||sites.google.com/view/exodus-doc/home^
 ||sites.google.com/view/exodus-enus/home^
@@ -89330,9 +89346,11 @@
 ||sites.google.com/view/exodus-wallet-user/home^
 ||sites.google.com/view/exodus-wallete/home^
 ||sites.google.com/view/exodus-web3-helps/home^
+||sites.google.com/view/exodus-web3-learn/home^
 ||sites.google.com/view/exodus-web3-page/home^
 ||sites.google.com/view/exodus-web3-view/home^
 ||sites.google.com/view/exodus-web3-wal/home^
+||sites.google.com/view/exodus-web3a/home^
 ||sites.google.com/view/exodus-web3wallet--/home^
 ||sites.google.com/view/exodus-web3wallet-nov/home^
 ||sites.google.com/view/exodus-webb/home^
@@ -89358,6 +89376,7 @@
 ||sites.google.com/view/exoduswebs-wallet/home^
 ||sites.google.com/view/ext-base-koinapp/home^
 ||sites.google.com/view/ext-base-koinbas/home^
+||sites.google.com/view/extension--metamask/home^
 ||sites.google.com/view/extension-coinbase-eng/home^
 ||sites.google.com/view/extension-com-en/home^
 ||sites.google.com/view/extension-detail-phantom/bfnaelmomeimhlpmgjnjophhpkkoljpa^
@@ -89375,20 +89394,24 @@
 ||sites.google.com/view/extensons-metamsk/home^
 ||sites.google.com/view/extn-coinbase-eng/home^
 ||sites.google.com/view/extn-coinbase-help/home^
+||sites.google.com/view/extnsion-metamask/home^
 ||sites.google.com/view/exudus/home^
 ||sites.google.com/view/exxadus-app/home^
 ||sites.google.com/view/exxadus-apps/home^
 ||sites.google.com/view/failed-payout-on-robinhood-cal/home^
 ||sites.google.com/view/faq-trezrostartio/home^
+||sites.google.com/view/faqs-metamsk/home^
 ||sites.google.com/view/faqshelphowdoiresolverobinhood/home^
 ||sites.google.com/view/fawertassistzone-does-coinbase/home^
 ||sites.google.com/view/feature-exodusweb/home^
 ||sites.google.com/view/fgfgfgrdf/home^
 ||sites.google.com/view/fix-new-metamaskapp/home^
 ||sites.google.com/view/fix-why-is-my-transaction-fail/home^
+||sites.google.com/view/fixlivetometamask/home^
 ||sites.google.com/view/flarexrpnetwork/flare^
 ||sites.google.com/view/g16hkrw1s0wcn/home^
 ||sites.google.com/view/get-exodusweb3-cdn/home^
+||sites.google.com/view/get-metamask-wallet/home^
 ||sites.google.com/view/get-metamasksso/home^
 ||sites.google.com/view/get-metamsk-io/home^
 ||sites.google.com/view/get-new-metamask/home^
@@ -89401,9 +89424,11 @@
 ||sites.google.com/view/global-app-metmask/home^
 ||sites.google.com/view/global-exoduscdn/home^
 ||sites.google.com/view/global-metaa/home^
+||sites.google.com/view/global-metamask-app/home^
 ||sites.google.com/view/global-metamask-hub/home^
 ||sites.google.com/view/global-metamask/home^
 ||sites.google.com/view/global-metamske/home^
+||sites.google.com/view/global-metimask/home^
 ||sites.google.com/view/global-metmask-apps/home^
 ||sites.google.com/view/global-nav-extension/home^
 ||sites.google.com/view/globalcoinbasecdn/home^
@@ -89422,7 +89447,6 @@
 ||sites.google.com/view/help-metmask-extne/home^
 ||sites.google.com/view/help-metumask-extn/home^
 ||sites.google.com/view/help-nav-metamask/home^
-||sites.google.com/view/help-qoinbase/home^
 ||sites.google.com/view/help-robinhood/home^
 ||sites.google.com/view/helpdeskse/blogs/can-i-talk-to-people-at-robinhood-speak-with-support-now^
 ||sites.google.com/view/helpdeskse/blogs/how-do-i-recover-my-robinhood-account-helpcenter^
@@ -89471,12 +89495,14 @@
 ||sites.google.com/view/howtologintokrakenappweb2fa/home^
 ||sites.google.com/view/howtologintotrustwalletappweb2/home^
 ||sites.google.com/view/howtologintoyourtrustwallet^
+||sites.google.com/view/howtorecoverrabbywallet/home^
 ||sites.google.com/view/howtoresetkraken2facompletetro^
 ||sites.google.com/view/howtotradeontrustwallet/home^
 ||sites.google.com/view/howtotransfermoneyrobinhood/home^
 ||sites.google.com/view/howtowithdrawfromrobinhoodcard^
 ||sites.google.com/view/howtowithdrawfromrobinhoodcard/home^
 ||sites.google.com/view/howwithdrawcryptofromcoinbase/home^
+||sites.google.com/view/hub-apps-metamask/home^
 ||sites.google.com/view/hub-chrme-app/home^
 ||sites.google.com/view/hub-coinbasextension/home^
 ||sites.google.com/view/hub-coinbpro/home^
@@ -89494,7 +89520,9 @@
 ||sites.google.com/view/intro-meta-extension/home^
 ||sites.google.com/view/intro-metamask-browse/home^
 ||sites.google.com/view/intro-metamask-open/home^
+||sites.google.com/view/intro-metask/home^
 ||sites.google.com/view/introduce-metamask-en/home^
+||sites.google.com/view/io-metamaaske/home^
 ||sites.google.com/view/io-metamask-help/home^
 ||sites.google.com/view/io-metamaskes/home^
 ||sites.google.com/view/io-metmask-/home^
@@ -89541,6 +89569,7 @@
 ||sites.google.com/view/launch-desktop-ledger-wallet^
 ||sites.google.com/view/launch-trezor-desktop-app^
 ||sites.google.com/view/launch-trezor-desktop-apps/^
+||sites.google.com/view/ldger-live-to-metamask/home^
 ||sites.google.com/view/ldgerlivemetamask/home^
 ||sites.google.com/view/learn--metamsk/home^
 ||sites.google.com/view/learn-en-extension/home^
@@ -89554,6 +89583,7 @@
 ||sites.google.com/view/learn-how-to-file-a-compl/home^
 ||sites.google.com/view/learn-how-to-file-a-complaint-/home^
 ||sites.google.com/view/learn-koinbase-extion/home^
+||sites.google.com/view/learn-metamask-ext/home^
 ||sites.google.com/view/learn-metamssk/home^
 ||sites.google.com/view/learn-metmask-eng/home^
 ||sites.google.com/view/learn-metmask/home^
@@ -89674,6 +89704,7 @@
 ||sites.google.com/view/meta-gateway-extion/home^
 ||sites.google.com/view/meta-homepage-/home^
 ||sites.google.com/view/meta-homepage/home^
+||sites.google.com/view/meta-mask-/home^
 ||sites.google.com/view/meta-mask-we/home^
 ||sites.google.com/view/meta-mask-web/home^
 ||sites.google.com/view/meta-masklogi/home^
@@ -89691,6 +89722,7 @@
 ||sites.google.com/view/metamas-kmetamask/home^
 ||sites.google.com/view/metamas-log/home^
 ||sites.google.com/view/metamask--chro/home^
+||sites.google.com/view/metamask--extensio-/home^
 ||sites.google.com/view/metamask--extensio/home^
 ||sites.google.com/view/metamask--extension-/home^
 ||sites.google.com/view/metamask--extension-login/home^
@@ -89702,16 +89734,24 @@
 ||sites.google.com/view/metamask--secure-/home^
 ||sites.google.com/view/metamask--secure-sso/home^
 ||sites.google.com/view/metamask--secure/home^
+||sites.google.com/view/metamask-a/home^
+||sites.google.com/view/metamask-add/home^
+||sites.google.com/view/metamask-app-download/home^
+||sites.google.com/view/metamask-apps-com/home^
 ||sites.google.com/view/metamask-begin/home^
 ||sites.google.com/view/metamask-begine/home^
 ||sites.google.com/view/metamask-browser-ex/home^
 ||sites.google.com/view/metamask-cdn/home^
+||sites.google.com/view/metamask-chome-/home^
+||sites.google.com/view/metamask-chome-exte/home^
 ||sites.google.com/view/metamask-chomextension/home^
 ||sites.google.com/view/metamask-chrm-cdn/home^
+||sites.google.com/view/metamask-chrme/home^
 ||sites.google.com/view/metamask-chrmext/home^
 ||sites.google.com/view/metamask-chroextension/home^
 ||sites.google.com/view/metamask-chrom-/home^
 ||sites.google.com/view/metamask-chrom-io/home^
+||sites.google.com/view/metamask-chroome-/home^
 ||sites.google.com/view/metamask-device/home^
 ||sites.google.com/view/metamask-doccs/home^
 ||sites.google.com/view/metamask-drive/home^
@@ -89727,12 +89767,18 @@
 ||sites.google.com/view/metamask-exten-web/home^
 ||sites.google.com/view/metamask-extens/home^
 ||sites.google.com/view/metamask-extensi/home^
+||sites.google.com/view/metamask-extensio-/home^
 ||sites.google.com/view/metamask-extensio/home^
 ||sites.google.com/view/metamask-extension-/home^
+||sites.google.com/view/metamask-extension-save-wallet/home^
 ||sites.google.com/view/metamask-extenso/home^
 ||sites.google.com/view/metamask-extenson-secure/home^
 ||sites.google.com/view/metamask-extesion-/home^
 ||sites.google.com/view/metamask-extinstallation/home^
+||sites.google.com/view/metamask-extnsiion/home^
+||sites.google.com/view/metamask-extnsion-en/home^
+||sites.google.com/view/metamask-extson-the-gateway/home^
+||sites.google.com/view/metamask-extson/home^
 ||sites.google.com/view/metamask-f/home^
 ||sites.google.com/view/metamask-gateway/home^
 ||sites.google.com/view/metamask-get-login/home^
@@ -89763,14 +89809,20 @@
 ||sites.google.com/view/metamask-logob/home^
 ||sites.google.com/view/metamask-logoni/home^
 ||sites.google.com/view/metamask-me/home^
+||sites.google.com/view/metamask-meta/home^
 ||sites.google.com/view/metamask-metamask-exte/home^
+||sites.google.com/view/metamask-metamask/home^
 ||sites.google.com/view/metamask-mic/home^
 ||sites.google.com/view/metamask-microso/home^
+||sites.google.com/view/metamask-microsof/home^
 ||sites.google.com/view/metamask-microsoft/home^
 ||sites.google.com/view/metamask-nov/home^
 ||sites.google.com/view/metamask-open-app/home^
 ||sites.google.com/view/metamask-open-hub/home^
 ||sites.google.com/view/metamask-open-web/home^
+||sites.google.com/view/metamask-practical/home^
+||sites.google.com/view/metamask-pro-ext/home^
+||sites.google.com/view/metamask-prtfolio/home^
 ||sites.google.com/view/metamask-public/home^
 ||sites.google.com/view/metamask-secure---/home^
 ||sites.google.com/view/metamask-secure-/home^
@@ -89778,8 +89830,12 @@
 ||sites.google.com/view/metamask-start-guide/home^
 ||sites.google.com/view/metamask-uscom/home^
 ||sites.google.com/view/metamask-user/home^
+||sites.google.com/view/metamask-wa/home^
+||sites.google.com/view/metamask-wall/home^
+||sites.google.com/view/metamask-walle/home^
 ||sites.google.com/view/metamask-wallet-eng/home^
 ||sites.google.com/view/metamask-wallet-enus/home^
+||sites.google.com/view/metamask-wallet-io-start/home^
 ||sites.google.com/view/metamask-wallet-us/home^
 ||sites.google.com/view/metamask-wallet-web/home^
 ||sites.google.com/view/metamask-wallete-web/home^
@@ -89789,6 +89845,7 @@
 ||sites.google.com/view/metamask-webs/home^
 ||sites.google.com/view/metamask-wixst-/home^
 ||sites.google.com/view/metamaskchrme/home^
+||sites.google.com/view/metamaske-/home^
 ||sites.google.com/view/metamaske-crypto/home^
 ||sites.google.com/view/metamaskextension-/home^
 ||sites.google.com/view/metamaskextnsion/home^
@@ -89855,6 +89912,7 @@
 ||sites.google.com/view/metamssk-extenson/home^
 ||sites.google.com/view/metamssk-page/home^
 ||sites.google.com/view/metamssk-web^
+||sites.google.com/view/metask-walletext/home^
 ||sites.google.com/view/metasmkapp-log/home^
 ||sites.google.com/view/metmask-ext/home^
 ||sites.google.com/view/metmask-login-us/home^
@@ -89887,6 +89945,7 @@
 ||sites.google.com/view/mtamsk-logon/home^
 ||sites.google.com/view/multichain-web3ext/home^
 ||sites.google.com/view/mvalsnges^
+||sites.google.com/view/my-apps-metamask/home^
 ||sites.google.com/view/my-robinhood-wallet/home^
 ||sites.google.com/view/myrobinhoodapps/home^
 ||sites.google.com/view/myrobinhoodio/home^
@@ -89924,6 +89983,7 @@
 ||sites.google.com/view/ons-metamaske/home^
 ||sites.google.com/view/open--extensioni/home^
 ||sites.google.com/view/open-base-extensionn/home^
+||sites.google.com/view/open-metamack-app/home^
 ||sites.google.com/view/open-metamask-ext/home^
 ||sites.google.com/view/open-the-robinhood/how-to-get-money-out-of-robinhood-wallet-call-1-888-232-0717-for-immediat^
 ||sites.google.com/view/page-bitbuylog/home^
@@ -89931,12 +89991,16 @@
 ||sites.google.com/view/page-coinbase-ext/home^
 ||sites.google.com/view/page-extension-/home^
 ||sites.google.com/view/page-extension-pro/home^
+||sites.google.com/view/page-metamask-/home^
+||sites.google.com/view/page-metamskapp/home^
 ||sites.google.com/view/page-metmask/home^
 ||sites.google.com/view/page-qoinbase/home^
 ||sites.google.com/view/page-web-base/home^
 ||sites.google.com/view/pages-bitbuy/home^
 ||sites.google.com/view/pages-metamask/home^
 ||sites.google.com/view/pages-metmask-cdn/home^
+||sites.google.com/view/pages-metmaskcd-/home^
+||sites.google.com/view/pages-metmaskcd/home^
 ||sites.google.com/view/phantom-wallet-guide/home^
 ||sites.google.com/view/phantom-wallet-recovery/home^
 ||sites.google.com/view/phantom-webstore-extension/detail-phantom-bfnaelmomeimhlpmgjnjophhpkkoljpal^
@@ -89944,6 +90008,7 @@
 ||sites.google.com/view/platform-coinbase/home^
 ||sites.google.com/view/pmtokme/downloads^
 ||sites.google.com/view/polymarketreferralcode/home^
+||sites.google.com/view/prefix-metamask-ext/home^
 ||sites.google.com/view/privatekeyrecovery/home^
 ||sites.google.com/view/pro-logn-coin/home^
 ||sites.google.com/view/prodigital-coinbse/home^
@@ -89956,7 +90021,6 @@
 ||sites.google.com/view/public-start-chrmeapp/home^
 ||sites.google.com/view/publish-new-metamask/home^
 ||sites.google.com/view/qoinbase--chrme--extension/home^
-||sites.google.com/view/qoinbase-extension-cdn/home^
 ||sites.google.com/view/qoinbase-extension-docs/home^
 ||sites.google.com/view/qoinbase-extension-sso/home^
 ||sites.google.com/view/qoinbaseextension/home^
@@ -90035,6 +90099,7 @@
 ||sites.google.com/view/robinnhoood/blogs/how-to-login-to-robinhood-with-a-new-phone^
 ||sites.google.com/view/robinnhoood/blogs/how-to-update-number-on-robinhood^
 ||sites.google.com/view/rubinhood-wallet/home^
+||sites.google.com/view/run-ext-metamask/home^
 ||sites.google.com/view/secure-bitbuyapp/home^
 ||sites.google.com/view/secure-bitbylogon/home^
 ||sites.google.com/view/secure-robinhoodapps/home^
@@ -90047,6 +90112,7 @@
 ||sites.google.com/view/site-metamask-wallet/home^
 ||sites.google.com/view/site-omtgenb4^
 ||sites.google.com/view/small-sellhow-to-sell-and-with/home^
+||sites.google.com/view/smart-metamask/home^
 ||sites.google.com/view/sso-bitbycd/home^
 ||sites.google.com/view/ssobitby-cdn/home^
 ||sites.google.com/view/ssomy-bitbueycd/home^
@@ -90162,6 +90228,7 @@
 ||sites.google.com/view/use-coinbase-app/home^
 ||sites.google.com/view/use-coinbase-hub/home^
 ||sites.google.com/view/use-metamask-app/home^
+||sites.google.com/view/use-metamask/home^
 ||sites.google.com/view/use-new-chrmextension/home^
 ||sites.google.com/view/used-bitbuycdn/home^
 ||sites.google.com/view/usen-extension/home^
@@ -90173,6 +90240,7 @@
 ||sites.google.com/view/user-wallet-coinbase/home^
 ||sites.google.com/view/usmetamsk-ext/home^
 ||sites.google.com/view/view-io-metamask/home^
+||sites.google.com/view/view-metmask-extension/home^
 ||sites.google.com/view/view-webexods/home^
 ||sites.google.com/view/vmwelaherj^
 ||sites.google.com/view/walle-connect-session-terminat^
@@ -90192,6 +90260,7 @@
 ||sites.google.com/view/web-extensione/home^
 ||sites.google.com/view/web-ledger-desktop/ledger^
 ||sites.google.com/view/web-metamaske/home^
+||sites.google.com/view/web-metmaskhelp/home^
 ||sites.google.com/view/web-trezor^
 ||sites.google.com/view/web-trezor-connect^
 ||sites.google.com/view/web-trezor-download/trezor-suite^
@@ -90201,8 +90270,10 @@
 ||sites.google.com/view/web-us-en/home^
 ||sites.google.com/view/web-user-bitbuy/home^
 ||sites.google.com/view/web3w-alletexodusbrow/home^
+||sites.google.com/view/webapps-metamask/home^
 ||sites.google.com/view/webexodus-domain/home^
 ||sites.google.com/view/webexodus-official/home^
+||sites.google.com/view/weblive-metamask/home^
 ||sites.google.com/view/webs-pro/home^
 ||sites.google.com/view/webspro-bridge/home^
 ||sites.google.com/view/webstart-exeduso-/home^
@@ -96415,7 +96486,6 @@
 ||teamssk.in^
 ||teamstrivo.com^
 ||teamsusercontent.com^
-||teamsuslik.com^
 ||teamsvip.online^
 ||teamsync.link^
 ||teamtailors.com^
@@ -100796,7 +100866,6 @@
 ||trust-wallet-refund.com^
 ||trust-wallet-security.blogspot.com^
 ||trust-wallet-send.com^
-||trust-wallet-service.com^
 ||trust-wallet-setup.com^
 ||trust-wallet-step-by-step.pages.dev^
 ||trust-wallet-support-number.pages.dev^
@@ -100913,7 +100982,6 @@
 ||trust68.net^
 ||trustagestablecoin-login.com^
 ||trustagestablecoinwallet.com^
-||trustairdrop.net^
 ||trustairdrops.com^
 ||trustalabs-ai.info^
 ||trustalpha.cards^
@@ -100980,7 +101048,6 @@
 ||trustchain.cards^
 ||trustchain.click^
 ||trustcheckout.online^
-||trustcontactwallet.live^
 ||trustcore.live^
 ||trustcorexd.com^
 ||trustcreditcards.is^
@@ -101016,7 +101083,6 @@
 ||trusted-sun.com^
 ||trusted-sun.org^
 ||trusted-sun.pro^
-||trustedairdrops.com^
 ||trustedcoin.eu^
 ||trustedd-coinbse-login.framer.ai^
 ||trustedexchange166.com^
@@ -101789,7 +101855,6 @@
 ||trustypanel.live^
 ||trusutw9alletr.gitbook.io^
 ||truswallet.cfd^
-||truswallet.click^
 ||truswallet.foundation^
 ||truswallets.com^
 ||trusweb-extnsions.wixstudio.com^
@@ -105038,7 +105103,6 @@
 ||uswebzoom.com^
 ||uswebzoom.online^
 ||usx.finance^
-||usx06-zoom.com^
 ||usx07-zoom.com^
 ||usz00m.click^
 ||uszcoinbaseloginus.gitbook.io^
@@ -105367,7 +105431,6 @@
 ||v3-curve.click^
 ||v3-dappradar.sbs^
 ||v3-exodus.org^
-||v3-f.sbs^
 ||v3-fwa.fun^
 ||v3-guild.xyz^
 ||v3-homes.ink^
@@ -113038,6 +113101,7 @@
 ||xrpflareclaim.xyz^
 ||xrpflareclaims.com^
 ||xrpflareclaims.xyz^
+||xrpflarecoin.com^
 ||xrpflareconnect.com^
 ||xrpgift.day^
 ||xrphealthcare-proposal.xyz^
@@ -114607,7 +114671,6 @@
 ||zoomit.top^
 ||zoomjoin.live^
 ||zoomjoinlive.com^
-||zoomjoinmeeting.download^
 ||zoomjoinsession.com^
 ||zoomkd.online^
 ||zoomlink.sbs^
@@ -114662,12 +114725,10 @@
 ||zoommeetplus.com^
 ||zoommeettransfer.com^
 ||zoommeetus.us^
-||zoommessage.xyz^
 ||zoommultichain.xyz^
 ||zoomn-pc.com^
 ||zoomn.xyz^
 ||zoomnet.top^
-||zoomnotify.icu^
 ||zoomnow.baby^
 ||zoomode.click^
 ||zoomonlinemeeting.live^
@@ -114703,7 +114764,6 @@
 ||zoomsm.us^
 ||zoomsmeetings.online^
 ||zoomsmotor.store^
-||zoomsmtp.com^
 ||zoomsoft.world^
 ||zoomsolution.us^
 ||zoomspace.uk^
