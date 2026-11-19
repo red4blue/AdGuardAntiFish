@@ -167,7 +167,6 @@
 ||057841-crypto.com^
 ||058291-crypto.com^
 ||059182-crypto.com^
-||05ie.live^
 ||05in.one^
 ||05live.biz^
 ||05live.co^
@@ -875,6 +874,7 @@
 ||10-proposal-argus.pages.dev^
 ||10-proposal-computersrh.pages.dev^
 ||10-proposal-derive.pages.dev^
+||10-proposal-elysium.pages.dev^
 ||10-proposal-ethos.pages.dev^
 ||10-proposal-extendedexchange.pages.dev^
 ||10-proposal-fablesfi.pages.dev^
@@ -1318,6 +1318,7 @@
 ||11-proposal-argus-epf.pages.dev^
 ||11-proposal-argus.pages.dev^
 ||11-proposal-computersrh.pages.dev^
+||11-proposal-elysium.pages.dev^
 ||11-proposal-ethos.pages.dev^
 ||11-proposal-fablesfi.pages.dev^
 ||11-proposal-globaldollar.pages.dev^
@@ -1726,6 +1727,7 @@
 ||12-proposal-argus.pages.dev^
 ||12-proposal-computersrh.pages.dev^
 ||12-proposal-derive.pages.dev^
+||12-proposal-elysium.pages.dev^
 ||12-proposal-ethos.pages.dev^
 ||12-proposal-fablesfi.pages.dev^
 ||12-proposal-globaldollar.pages.dev^
@@ -2864,6 +2866,7 @@
 ||15-reallocation-concrete.pages.dev^
 ||15-register-elysium.pages.dev^
 ||15-registration-elysium.pages.dev^
+||15-rewards-firelightfi.pages.dev^
 ||15-saturncredit.pages.dev^
 ||15-slippyclub.pages.dev^
 ||15-stonkbroker-clutchmarkets.pages.dev^
@@ -3165,6 +3168,7 @@
 ||16-reallocate-flare.pages.dev^
 ||16-reallocation-concrete.pages.dev^
 ||16-register-elysium.pages.dev^
+||16-rewards-firelightfi.pages.dev^
 ||16-saturncredit.pages.dev^
 ||16-slippyclub.pages.dev^
 ||16-stonkbroker-clutchmarkets.pages.dev^
@@ -3446,6 +3450,7 @@
 ||17-reallocate-flare.pages.dev^
 ||17-reallocation-concrete.pages.dev^
 ||17-register-elysium.pages.dev^
+||17-rewards-firelightfi.pages.dev^
 ||17-saturncredit.pages.dev^
 ||17-slippyclub.pages.dev^
 ||17-stonkbroker-clutchmarkets.pages.dev^
@@ -3738,6 +3743,7 @@
 ||18-reallocate-flare.pages.dev^
 ||18-reallocation-concrete.pages.dev^
 ||18-register-elysium.pages.dev^
+||18-rewards-firelightfi.pages.dev^
 ||18-saturncredit.pages.dev^
 ||18-slippyclub.pages.dev^
 ||18-stonkbroker-clutchmarkets.pages.dev^
@@ -4025,6 +4031,7 @@
 ||19-reallocate-flare.pages.dev^
 ||19-reallocation-concrete.pages.dev^
 ||19-register-elysium.pages.dev^
+||19-rewards-firelightfi.pages.dev^
 ||19-saturncredit.pages.dev^
 ||19-slippyclub.pages.dev^
 ||19-stonkbroker-clutchmarkets.pages.dev^
@@ -4896,6 +4903,7 @@
 ||20-reallocate-flare.pages.dev^
 ||20-reallocation-concrete.pages.dev^
 ||20-register-elysium.pages.dev^
+||20-rewards-firelightfi.pages.dev^
 ||20-saturncredit.pages.dev^
 ||20-slippyclub.pages.dev^
 ||20-stonkbroker-clutchmarkets.pages.dev^
@@ -6971,6 +6979,7 @@
 ||3-extendedexchange.pages.dev^
 ||3-fables-votes.pages.dev^
 ||3-flare-eligibility.pages.dev^
+||3-flarenetwork-distribution.pages.dev^
 ||3-fluidio.pages.dev^
 ||3-fobofun.pages.dev^
 ||3-fraxfinance.pages.dev^
@@ -10332,7 +10341,6 @@
 ||4cso5gz5huj3acnp5dt74fbrcxe542ens3fdxg4j7pzmpl3ppfhq.arweave.net^
 ||4d-collab.land^
 ||4fe0.com^
-||4ff2.com^
 ||4fn22.com^
 ||4frontcu-claim.cfd^
 ||4frontcu-claims.cfd^
@@ -11892,6 +11900,7 @@
 ||6-proposal-ascendlaunch.pages.dev^
 ||6-proposal-computersrh.pages.dev^
 ||6-proposal-derive.pages.dev^
+||6-proposal-elysium.pages.dev^
 ||6-proposal-embervalegame.pages.dev^
 ||6-proposal-ethos.pages.dev^
 ||6-proposal-extendedexchange.pages.dev^
@@ -12534,7 +12543,6 @@
 ||67671812412760469870982128905037-ripple.com^
 ||676934coinbase.com^
 ||676935crypto.com^
-||676938metamask.com^
 ||677833704-vault-rewards-morpho.pages.dev^
 ||678113-coinbase.com^
 ||678293kraken.com^
@@ -12641,6 +12649,7 @@
 ||69-gov-hyperlend.pages.dev^
 ||69-governance-curvefinance.pages.dev^
 ||69-governance-jumperapp.pages.dev^
+||69-governance-kinetiq.pages.dev^
 ||69-governance-orbio.pages.dev^
 ||69-governance-venice.pages.dev^
 ||69-hub-treadeco.pages.dev^
@@ -12932,6 +12941,7 @@
 ||7-proposal-ascendlaunch.pages.dev^
 ||7-proposal-computersrh.pages.dev^
 ||7-proposal-derive.pages.dev^
+||7-proposal-elysium.pages.dev^
 ||7-proposal-ethos.pages.dev^
 ||7-proposal-extendedexchange.pages.dev^
 ||7-proposal-fablesfi.pages.dev^
@@ -13016,6 +13026,7 @@
 ||70-gov-hyperlend.pages.dev^
 ||70-governance-curvefinance.pages.dev^
 ||70-governance-jumperapp.pages.dev^
+||70-governance-kinetiq.pages.dev^
 ||70-governance-orbio.pages.dev^
 ||70-governance-venice.pages.dev^
 ||70-jumperhub.pages.dev^
@@ -13072,6 +13083,7 @@
 ||71-gov-hyperlend.pages.dev^
 ||71-governance-curvefinance.pages.dev^
 ||71-governance-jumperapp.pages.dev^
+||71-governance-kinetiq.pages.dev^
 ||71-governance-orbio.pages.dev^
 ||71-governance-venice.pages.dev^
 ||71-hub-treadeco.pages.dev^
@@ -13864,6 +13876,7 @@
 ||8-proposal-argus.pages.dev^
 ||8-proposal-computersrh.pages.dev^
 ||8-proposal-derive.pages.dev^
+||8-proposal-elysium.pages.dev^
 ||8-proposal-ethos.pages.dev^
 ||8-proposal-extendedexchange.pages.dev^
 ||8-proposal-fablesfi.pages.dev^
@@ -14849,6 +14862,7 @@
 ||9-proposal-argus.pages.dev^
 ||9-proposal-computersrh.pages.dev^
 ||9-proposal-derive.pages.dev^
+||9-proposal-elysium.pages.dev^
 ||9-proposal-ethos.pages.dev^
 ||9-proposal-extendedexchange.pages.dev^
 ||9-proposal-fablesfi.pages.dev^
@@ -15724,7 +15738,6 @@
 ||aavee-defi.club^
 ||aavee.app^
 ||aavee.click^
-||aavee.digital^
 ||aavef93y177hz-7af2.com^
 ||aavefi.cfd^
 ||aavefi.click^
@@ -16238,8 +16251,6 @@
 ||accountsv3-gmail.com^
 ||accountsverify1as.online^
 ||accountsz-verfy.com^
-||accountupdate-x.info^
-||accountupdate-x.online^
 ||accountupdate.click^
 ||accountupdatechange.165-154-255-199.cpanel.site^
 ||accountverify-immediateaction.com^
@@ -16800,6 +16811,7 @@
 ||aevachain.site^
 ||aevachain.top^
 ||aeve-core.live^
+||aevntrax.cn^
 ||aevo-event.xyz^
 ||aevo.team^
 ||aevoeco.xyz^
@@ -19711,7 +19723,6 @@
 ||app-slotspioneer.live^
 ||app-slotsplus.live^
 ||app-slotsvalid.live^
-||app-sms-packets.com^
 ||app-snortertoken.pages.dev^
 ||app-soil.com^
 ||app-soil.icu^
@@ -21177,6 +21188,7 @@
 ||arbitrum-token-bridge-37spzw1ht-offchain-labs.vercel.app^
 ||arbitrum-vote.pages.dev^
 ||arbitrum-vote.xyz^
+||arbitrum-voting.pages.dev^
 ||arbitrum.2healthandwealth.com^
 ||arbitrum.58bbq.com^
 ||arbitrum.6339.cn^
@@ -25448,7 +25460,6 @@
 ||bkktpro.net^
 ||bkn-update.live^
 ||bknt.team^
-||bkscndclou.beer^
 ||bl0ckexplorer.gg^
 ||black-phantom.ru^
 ||blackbit-exchange-login.com^
@@ -26012,7 +26023,6 @@
 ||boost-aero.live^
 ||boost-coinbase-verify.web.app^
 ||boost-doppler.finance^
-||boost-equium.app^
 ||boost-eth.org^
 ||boost-governance.com^
 ||boost-governance.xyz^
@@ -26265,6 +26275,7 @@
 ||bridge-gigaschadgpt-io.pages.dev^
 ||bridge-hhok.vercel.app^
 ||bridge-home--trezor.gitbook.io^
+||bridge-hrlp-trezos.pages.dev^
 ||bridge-hsng.vercel.app^
 ||bridge-hub-trezo.wixstudio.com^
 ||bridge-io-start-trezr.pages.dev^
@@ -28065,6 +28076,7 @@
 ||cbasemining.info^
 ||cbbaseextensreione.gitbook.io^
 ||cbc-accounting-334f2.web.app^
+||cbe-collab.land^
 ||cbgame.ink^
 ||cbinsurance-ledger.com^
 ||cbkindustries.com^
@@ -28721,7 +28733,6 @@
 ||charles-binance.com^
 ||charleschwab-shwb.us^
 ||charlieonsol.me^
-||chart-flare.network^
 ||chartchampions.co^
 ||chartchampionsleak.com^
 ||chartchampz.com^
@@ -31328,7 +31339,6 @@
 ||coin-en-app-sso.pages.dev^
 ||coin-en-io-sqare.square.site^
 ||coin-extensin.zapier.app^
-||coin-grok.com^
 ||coin-htx.com.cn^
 ||coin-invoice.pro^
 ||coin-iscans.fun^
@@ -31401,7 +31411,6 @@
 ||coinbaase.wtf^
 ||coinbace-transfer.com^
 ||coinbade.com^
-||coinbaes-en-hellp.pages.dev^
 ||coinbaes.net^
 ||coinbaespro-en-help.pages.dev^
 ||coinbaise.live^
@@ -31476,7 +31485,6 @@
 ||coinbase-bitcoin-com-45274.sorokina-matrena.workers.dev^
 ||coinbase-bitcoin-com-68145.roatioduzni197054.workers.dev^
 ||coinbase-bitcoin-com-70175.makariigromov873455.workers.dev^
-||coinbase-bitcoin.com^
 ||coinbase-bitmartaa.net^
 ||coinbase-bitmartacr.com^
 ||coinbase-bitmartayar.com^
@@ -31949,6 +31957,7 @@
 ||coinbase_x_login.godaddysites.com^
 ||coinbase_y_login.godaddysites.com^
 ||coinbaseabnamro.ph^
+||coinbaseaccounsele.blogspot.co.il^
 ||coinbaseaccount.konkor.com.ar^
 ||coinbaseadmin.ph^
 ||coinbaseadmin.vip^
@@ -32070,7 +32079,6 @@
 ||coinbaseinfo.de^
 ||coinbaseinfo.us^
 ||coinbaseinformationsecurities.com^
-||coinbaseinsured.com^
 ||coinbaseinvestors.ai^
 ||coinbaseio.com^
 ||coinbaseio.wixstudio.com^
@@ -32386,6 +32394,7 @@
 ||coinbseax.com^
 ||coinbsepro-lgn.pages.dev^
 ||coinbsepro-prologin.gitbook.io^
+||coinbsepro-support.pages.dev^
 ||coinbseprologen.mystrikingly.com^
 ||coinbsespr-login.pages.dev^
 ||coinbsewall.com^
@@ -33250,6 +33259,8 @@
 ||coliseo-digital.com^
 ||colizeum.live^
 ||collab-fix.online^
+||collab-land-link.com^
+||collab-land-query.com^
 ||collab-land-solid.com^
 ||collab-land-unlock.com^
 ||collab-moonshot.com^
@@ -34568,6 +34579,7 @@
 ||concretefoundations.top^
 ||concretegovernance.click^
 ||concretegovernance.icu^
+||concretegovernance.pages.dev^
 ||concretegovernance.xyz^
 ||concretelab.xyz^
 ||concreteofficial.xyz^
@@ -34709,7 +34721,6 @@
 ||connect-flarenetworks.cfd^
 ||connect-flarenetworks.co^
 ||connect-flarenetworks.one^
-||connect-flarenetworks.xyz^
 ||connect-helpen.framer.media^
 ||connect-home-trezor-wallet.pages.dev^
 ||connect-hometrezor.pages.dev^
@@ -36812,7 +36823,6 @@
 ||curvefinance-gid.com^
 ||curvefinance.at^
 ||curvefinance.claims^
-||curvefinance.click^
 ||curvefinance.com.ai^
 ||curvefinance.com.co^
 ||curvefinance.community^
@@ -36852,7 +36862,6 @@
 ||customer1stcontact.com^
 ||customerassist.team^
 ||customercase-coinbase.com^
-||customerclientwalletcoibasecom.biggamingwin.xyz^
 ||customerorder.icu^
 ||customers-trezor.io^
 ||customersbank.group^
@@ -37359,7 +37368,6 @@
 ||darkstardiagnostics.com^
 ||darling-longma-2638bf.netlify.app^
 ||darmabet.com^
-||darndcs-js.beer^
 ||darowex.com^
 ||dasad.cc.cd^
 ||dasad.ceo^
@@ -39589,7 +39597,6 @@
 ||dogeos.firebaseapp.com^
 ||dogeos.web.app^
 ||dogerig.com^
-||dogeshitmeme.com^
 ||dogeuskekius.lol^
 ||dogeverseclaimm.pages.dev^
 ||dogeversestaking.pages.dev^
@@ -40515,6 +40522,7 @@
 ||eco-zama.org^
 ||eco11ai.vip^
 ||ecofliptrades.com^
+||ecogeosystems.com^
 ||ecoinbasecomloginc.gitbook.io^
 ||ecointerviews.com^
 ||ecom.cbdefi.site^
@@ -40843,7 +40851,6 @@
 ||elenadeairtm.com^
 ||elevapis.com^
 ||elevateeducationapp.com^
-||elevatewithzoran.com^
 ||elf673yu3nkhjmsdk2hdq2f2zyyh4eywq6onjqb3omnrsqqaumxa.arweave.net^
 ||eligbl-ellysyum.pics^
 ||eligble-unlswap.cc^
@@ -42166,7 +42173,6 @@
 ||enhancebeyondtoren.com^
 ||enhancedconfiguration.app^
 ||enhancedstaking.com^
-||enhancewithdraxen.com^
 ||enhelp-trezo-learn.typedream.app^
 ||enidrabamrafur.tk^
 ||enigma-server.com^
@@ -46020,7 +46026,6 @@
 ||finai500.com^
 ||final-jupuary.vercel.app^
 ||finalering2012.com^
-||finalerisa.com^
 ||finalfunnel.net^
 ||finalnotice-distributions.com^
 ||finalstretch.org^
@@ -48024,7 +48029,6 @@
 ||flare-eligibility.xyz^
 ||flare-enroll.com^
 ||flare-event.network^
-||flare-fassets.foundation^
 ||flare-fassets.vote^
 ||flare-five-wine.vercel.app^
 ||flare-foundation-hub.cloud^
@@ -48847,7 +48851,6 @@
 ||flowstraders.com^
 ||flowswap.vercel.app^
 ||flowtoken.fun^
-||flowuphollow.com^
 ||flowupvyrion.digital^
 ||flowxprotocol.com^
 ||flowxprotocol.io^
@@ -50368,7 +50371,6 @@
 ||geckotermina.com^
 ||geeggle.com.cn^
 ||geek-change.com^
-||geekcareassist.com^
 ||gefegef.cc^
 ||gefgyffhgdf.blogspot.com^
 ||gefodex.com^
@@ -50733,6 +50735,7 @@
 ||get-start-ledgr-en.pages.dev^
 ||get-start-ledgr-io.pages.dev^
 ||get-start-ledgr-us.pages.dev^
+||get-started-metmaskio.pages.dev^
 ||get-started-trezor-bridge.pages.dev^
 ||get-started-trezor-io-start.pages.dev^
 ||get-starts-ledger.pages.dev^
@@ -50801,6 +50804,7 @@
 ||getaxalpool.uno^
 ||getbaseapp.fi^
 ||getbinance.com.cn^
+||getbnb.info^
 ||getbnb.org^
 ||getbze.info^
 ||getbze.live^
@@ -51355,6 +51359,7 @@
 ||gnvmt.com^
 ||go-bcgame.com^
 ||go-bcgames.com^
+||go-check.live^
 ||go-coinbase-pro-login-auth.webflow.io^
 ||go-entrezor-io-start.pages.dev^
 ||go-firelight.xyz^
@@ -51370,6 +51375,7 @@
 ||go-ledger-com.typedream.app^
 ||go-ledger.pages.dev^
 ||go-live-ledggr.framer.media^
+||go-main.com^
 ||go-metmaskcdn.wixstudio.com^
 ||go-page-5269-b2396a2en-vercel-project-key.vercel.app^
 ||go-papertrade.xyz^
@@ -51563,7 +51569,6 @@
 ||google-app.live^
 ||google-authenticatar.icu^
 ||google-bonus.xyz^
-||google-chain.com^
 ||google-conference.com^
 ||google-email-system.com^
 ||google-files-ext.com^
@@ -52114,6 +52119,7 @@
 ||governance-injective.pages.dev^
 ||governance-inkonchain.icu^
 ||governance-inkonchain.pages.dev^
+||governance-inkonchain.xyz^
 ||governance-ipo.cash^
 ||governance-jitonetwork.xyz^
 ||governance-jtx.xyz^
@@ -52137,6 +52143,7 @@
 ||governance-kinetiq.icu^
 ||governance-kinetiq.live^
 ||governance-kinetiq.pages.dev^
+||governance-kinetiq.top^
 ||governance-kinetiqfdn.xyz^
 ||governance-kinetiqfnd.com^
 ||governance-kinetiqfnd.xyz^
@@ -52780,7 +52787,6 @@
 ||grocery-ledger-anw.pages.dev^
 ||groctch.net^
 ||grogshop.com^
-||grok-exchange.com^
 ||grok-trade.net^
 ||grok-x.com^
 ||grokaitrade.com^
@@ -53140,6 +53146,7 @@
 ||guild-xyz.github.io^
 ||guildauth2.xyz^
 ||guildbase.org^
+||guildco.xyz^
 ||guildcred.com^
 ||guildcred.net^
 ||guildhub.pages.dev^
@@ -53417,7 +53424,6 @@
 ||hash-mzits9v1m-glow-s-projects1.vercel.app^
 ||hash256.biz^
 ||hash256.run^
-||hash256dotorg.com^
 ||hashcats.lat^
 ||hashflow-dex.pro^
 ||hashflow-dex.xyz^
@@ -53790,6 +53796,7 @@
 ||help-lgers-live.pages.dev^
 ||help-log-in-uphold.tem3.io^
 ||help-login-coinbse.pages.dev^
+||help-manage-extn-coinbse.pages.dev^
 ||help-meta-mask-faq.pages.dev^
 ||help-metaasmsk--app.gitbook.io^
 ||help-metamask-2fa.com^
@@ -54983,6 +54990,7 @@
 ||houlihans.cam^
 ||houndlocal.com^
 ||house-xrp-asset-manager.pages.dev^
+||housebets.buzz^
 ||housebets.pw^
 ||household-ledger-1jr.pages.dev^
 ||household-ledger-917.pages.dev^
@@ -56100,7 +56108,6 @@
 ||hyperlquid-airdrop.xyz^
 ||hypermentality.live^
 ||hypermission200.click^
-||hyperphpqeowon11122.com^
 ||hyperpredict.digital^
 ||hyperpredict.trade^
 ||hyperreco.com^
@@ -56755,6 +56762,7 @@
 ||info-coin-base-login.pages.dev^
 ||info-coin-baselogin.pages.dev^
 ||info-coinbase.us.com^
+||info-coinbse-login.pages.dev^
 ||info-coinpro.wixstudio.com^
 ||info-debribge.site^
 ||info-debribge.tech^
@@ -57141,8 +57149,6 @@
 ||interface-afge.vercel.app^
 ||interface-argus.tech^
 ||interface-bridge-trezr.typedream.app^
-||interface-cgpt.stakingreward.cloud^
-||interface-chaingpt.stakingreward.cloud^
 ||interface-connect.vercel.app^
 ||interface-dapp.vercel.app^
 ||interface-e67h.vercel.app^
@@ -57548,6 +57554,7 @@
 ||io-in-b01-omni.com^
 ||io-in-d01-omni.com^
 ||io-in-g01-omni.com^
+||io-in-h01-omni.com^
 ||io-inc.online^
 ||io-instant-coin.icu^
 ||io-instant-swap.icu^
@@ -59993,6 +60000,7 @@
 ||kinetiqfoundations.xyz^
 ||kinetiqgenesis.pages.dev^
 ||kinetiqgenesis.site^
+||kinetiqgenesis2.pages.dev^
 ||kinetiqgenesis2.top^
 ||kinetiqgov.icu^
 ||kinetiqgov.pages.dev^
@@ -60559,7 +60567,6 @@
 ||kraken-coins.online^
 ||kraken-coins.store^
 ||kraken-cold-ones-hc.pages.dev^
-||kraken-com-logn.wixstudio.com^
 ||kraken-compass.giltunnel.org^
 ||kraken-contacts.com^
 ||kraken-cup26.com^
@@ -60595,7 +60602,6 @@
 ||kraken-llogin-usa.wixstudio.com^
 ||kraken-log-in.webflow.io^
 ||kraken-log-login.wixstudio.com^
-||kraken-log-media.webflow.io^
 ||kraken-logeded-in.pages.dev^
 ||kraken-loggin.wixstudio.com^
 ||kraken-logiin.wixstudio.com^
@@ -61883,7 +61889,6 @@
 ||learned-koinbase-ext.framer.website^
 ||learned-start-ledgr.pages.dev^
 ||learnexoduscdn.wixstudio.com^
-||learninbayview.com^
 ||learning-coinbase.ph^
 ||learninvrion.digital^
 ||learnioweb-metamasks-home.framer.ai^
@@ -61895,7 +61900,6 @@
 ||learns--trezre--wallts.webflow.io^
 ||learns-en-ledgr.pages.dev^
 ||learns-start-ledgr.pages.dev^
-||learnwithvelora.com^
 ||learrn-start-ledgr-10w.pages.dev^
 ||leatherbtc-desktop.io^
 ||lebellearti.com^
@@ -64192,8 +64196,6 @@
 ||lnterface.ink^
 ||lnterface.trade^
 ||lo-ena-ledgrlive.pages.dev^
-||lo0p-io.live^
-||lo0pio.com^
 ||load-coinbase.com^
 ||load-okx.com.cn^
 ||loadedlions.luxe^
@@ -64614,7 +64616,6 @@
 ||logon-apps-ndaxxcdn.wixstudio.com^
 ||logon-appsnaddx.wixstudio.com^
 ||logon-krakn.wixstudio.com^
-||logon-krekan.wixstudio.com^
 ||logon-ledgrapps.wixstudio.com^
 ||logon-moonpaycdn.wixstudio.com^
 ||logon-ndaxapps.b12sites.com^
@@ -64730,7 +64731,6 @@
 ||loopscale.finance^
 ||loopscale.foundation^
 ||loopscale.lat^
-||loopscalelab.com^
 ||loopscalesdesign.info^
 ||looptrade.org^
 ||loopwex.com^
@@ -64895,7 +64895,6 @@
 ||lucronai.com^
 ||lucywex.com^
 ||luhcas.com^
-||lukaszielinskavox.eu^
 ||lukerufusraj.github.io^
 ||lulo-fi.com^
 ||lulu-ledger.pages.dev^
@@ -65382,8 +65381,6 @@
 ||mainnet-elysiumeco.xyz^
 ||mainnet-elysiumfnd.com^
 ||mainnet-ethereum-blockchain.pages.dev^
-||mainnet-flaer.com^
-||mainnet-flare.info^
 ||mainnet-flarefnd.live^
 ||mainnet-rayls.live^
 ||mainnet-resolver.pages.dev^
@@ -66709,6 +66706,7 @@
 ||metaamaskio.wixstudio.com^
 ||metaamaskklogink.gitbook.io^
 ||metaamaskkloginw.gitbook.io^
+||metaamaskkslogoginn.gitbook.io^
 ||metaamaskllogiin.gitbook.io^
 ||metaamasklogeen.webflow.io^
 ||metaamasklogen.gitbook.io^
@@ -67285,6 +67283,7 @@
 ||metamask-walletclaim-sa.ph^
 ||metamask-wallete.gitbook.io^
 ||metamask-walletius-1.gitbook.io^
+||metamask-wallett.blogspot.cl^
 ||metamask-wallett.blogspot.com.uy^
 ||metamask-walletty.gitbook.io^
 ||metamask-wallity.gitbook.io^
@@ -67566,6 +67565,9 @@
 ||metamaskcdn-us.framer.website^
 ||metamaskcheck.io^
 ||metamaskchecker.com^
+||metamaskchrme.blogspot.com^
+||metamaskchrme.blogspot.de^
+||metamaskchrme.blogspot.it^
 ||metamaskchromeexten.wixstudio.com^
 ||metamaskchromeextension.canwalet.com^
 ||metamaskchromeextensionn.blogspot.ae^
@@ -67966,6 +67968,7 @@
 ||metamsk-intro.wixstudio.com^
 ||metamsk-lgin.blogspot.ch^
 ||metamsk-lgin.blogspot.co.id^
+||metamsk-lgin.blogspot.dk^
 ||metamsk-lgin.blogspot.rs^
 ||metamsk-lgin.blogspot.ru^
 ||metamsk-lgin.wixstudio.com^
@@ -68103,7 +68106,6 @@
 ||metaview-mask.wixstudio.com^
 ||metavwmasklovgin.gitbook.io^
 ||metawallet.wixstudio.com^
-||metawalletcoin.com^
 ||metawalletintelligence.com^
 ||metawarning.org^
 ||metaweb.dev^
@@ -68245,6 +68247,7 @@
 ||metmask-io-en.wixstudio.com^
 ||metmask-ioapps.wixstudio.com^
 ||metmask-log.wixstudio.com^
+||metmask-login.blogspot.com^
 ||metmask.me^
 ||metmask_loggi.godaddysites.com^
 ||metmask_logn.godaddysites.com^
@@ -69436,7 +69439,6 @@
 ||mon-epoch.com^
 ||mon-espace-soflnco.com^
 ||mon-hub-33.pages.dev^
-||mon-participation.xyz^
 ||mon-qr-code-generator.com^
 ||mon-rewards.com^
 ||mon-rewards.xyz^
@@ -69505,7 +69507,6 @@
 ||monadmax.vercel.app^
 ||monadmemorytrial.vercel.app^
 ||monadpay.biz.id^
-||monadvisian.com^
 ||monadwallet.io^
 ||monadwallet.net^
 ||monadz.netlify.app^
@@ -69644,7 +69645,6 @@
 ||moonbirds.cfd^
 ||moonbirds.netlify.app^
 ||moonbirdses.xyz^
-||moonblast.app^
 ||mooncairn.cc^
 ||mooncatcoffee.com^
 ||moonclub.cards^
@@ -72933,7 +72933,6 @@
 ||movesmart247.com^
 ||movethiquelora.info^
 ||movetobrqen.digital^
-||moveupvox.com^
 ||movevote-app.top^
 ||movieblastap.com.in^
 ||moviejmcdxp.bond^
@@ -74220,7 +74219,6 @@
 ||nav-krakkencdn.wixstudio.com^
 ||nav-kreknn.wixstudio.com^
 ||nav-krkencdn.wixstudio.com^
-||nav-krrakan-page.wixstudio.com^
 ||nav-krrakancdn.wixstudio.com^
 ||nav-krrekan.wixstudio.com^
 ||nav-krrkan-io.wixstudio.com^
@@ -76494,7 +76492,6 @@
 ||omni.variational.xin^
 ||omni.variationalaa.com^
 ||omni.variatlional.com^
-||omni.variatlional.one^
 ||omni.variatoinal.app^
 ||omni.variatonal.org^
 ||omni.varlational.com^
@@ -76852,6 +76849,7 @@
 ||one-rewards.com^
 ||one-rewards.vip^
 ||one-rewards.work^
+||one-vv4108.com^
 ||one1-gmail.com^
 ||one2pay-home.com^
 ||oneaccess.online^
@@ -78163,7 +78161,6 @@
 ||padilla-exchange.info^
 ||padre-terminal.xyz^
 ||padreapp.com^
-||padrerewards.com^
 ||padretrade.app^
 ||padstow-bc-dashboard.circlescan2.com^
 ||padwardka.top^
@@ -79171,7 +79168,6 @@
 ||payward.events^
 ||payward.top^
 ||paywardltd.com^
-||payxrex-io.site^
 ||pazowin.com^
 ||pb-coach.crabdance.com^
 ||pb-payment-ledger.pages.dev^
@@ -80068,6 +80064,7 @@
 ||phnixreward.live^
 ||phntm.co.com^
 ||phntom-apps.com^
+||phntomwllet.godaddysites.com^
 ||phnttom-wallet-extension.webflow.io^
 ||phnttom-walletextension.webflow.io^
 ||phnxprotocol.live^
@@ -80727,7 +80724,6 @@
 ||pocketbitcoindesktop.com^
 ||pocketex.icu^
 ||pocketex.vip^
-||pocketmarket.net^
 ||pocketoption-verify.com^
 ||podawin.com^
 ||podcast-pump.fun^
@@ -81547,6 +81543,7 @@
 ||polyrnarket.vip^
 ||polyrnarrket.com^
 ||polyrrarket.com^
+||polysmarkets.com^
 ||polysnipe.app^
 ||polysniper.org^
 ||polysniper.tools^
@@ -83141,7 +83138,6 @@
 ||portals-flarenetwork.life^
 ||portals-flarenetwork.lol^
 ||portals-flarenetwork.xyz^
-||portals-flarenetworks.xyz^
 ||portals-hyperfoundation.xyz^
 ||portals-infinifi.xyz^
 ||portals-kinetiq.xyz^
@@ -83724,7 +83720,6 @@
 ||profiles-gcase.com^
 ||profiles-gcases.com^
 ||profilexcase-x.com^
-||profit-x.site^
 ||profitability-lwr.space^
 ||profitability-ooue.online^
 ||profitability-xdf.living^
@@ -84880,7 +84875,6 @@
 ||pulsecoinlist.net^
 ||pulsedrop-stellarproject.vercel.app^
 ||pulseinprairix.com^
-||pulseonzen.com^
 ||pulsera-distribution.fr^
 ||pulseredeem.live^
 ||pulseswap-cc.pages.dev^
@@ -84891,7 +84885,6 @@
 ||pulsz-play.com^
 ||pulsz-usa.com^
 ||pulte.top^
-||pumb.space^
 ||pumd.fun^
 ||pumfpun.run^
 ||pumfpun.trade^
@@ -85980,7 +85973,6 @@
 ||quickswap-v2.sbs^
 ||quickswap-web3.com^
 ||quickswap.at^
-||quickswap.click^
 ||quickswap.in^
 ||quickswap.trade^
 ||quickswapz.github.io^
@@ -86080,7 +86072,6 @@
 ||rabbby.co^
 ||rabbby.com^
 ||rabbby.io^
-||rabbewallet56.blogspot.com^
 ||rabbi-io-extension.relumesite.ai^
 ||rabbi-io.relumesite.ai^
 ||rabbie.mythex.ai^
@@ -86099,7 +86090,6 @@
 ||rabby-allocation.com^
 ||rabby-app.gr.com^
 ||rabby-app.org^
-||rabby-app.pages.dev^
 ||rabby-apps-extension.wixstudio.com^
 ||rabby-apps.summon-contrast.workers.dev^
 ||rabby-check.com^
@@ -88477,7 +88467,6 @@
 ||rby-mnsdk.lanita3.workers.dev^
 ||rby-msdko.imogen10.workers.dev^
 ||rby-nmbxzis.deylaa12.workers.dev^
-||rby-nsbj.sadiyaha01.workers.dev^
 ||rby-oiwkd.nafis330.workers.dev^
 ||rby-ojdj.allyse10.workers.dev^
 ||rby-okld.brando111.workers.dev^
@@ -90652,6 +90641,7 @@
 ||riversidevip1.vip^
 ||rivertaxreporting.com^
 ||rivertranscript.com^
+||riverwithholdingpolicy.com^
 ||rivolyracoin.top^
 ||riwarwbsr.xyz^
 ||riyadafinatur.com^
@@ -91592,7 +91582,6 @@
 ||rubic-v2.sbs^
 ||rubic-v3.click^
 ||rubic.at^
-||rubic.click^
 ||rubic.to^
 ||rubin-houdlogii.github.io^
 ||rubix.sbs^
@@ -91828,7 +91817,6 @@
 ||s-connect.gr.com^
 ||s-gk-circle.pages.dev^
 ||s-hadid.ir^
-||s-impleswap.com^
 ||s-impleswap.org^
 ||s-kraken.com^
 ||s-ledgerlive.us^
@@ -91913,7 +91901,6 @@
 ||s4hpuli65vuhehbio5btotnd454ynafqdr7e57sh4pwrhypjjdza.arweave.net^
 ||s5-etherfi.icu^
 ||s5-etherfi.top^
-||s5-kamino.com^
 ||s6-river.com^
 ||s6apis.com^
 ||s7-ethena.app^
@@ -92016,7 +92003,6 @@
 ||safepal-ledger-wallet.pages.dev^
 ||safepal-max.top^
 ||safepal-pro.top^
-||safepal-update.com^
 ||safepal-v.io^
 ||safepal-vip.com^
 ||safepal-wallat.us^
@@ -92126,7 +92112,6 @@
 ||sale-paper.com^
 ||sale-papertrade.app^
 ||sale-papertrade.xyz^
-||sale-x.live^
 ||sale-zone.live^
 ||saleforcescrm.us^
 ||saleium.admin.chaingpt.dev^
@@ -92175,7 +92160,6 @@
 ||sandboxed-agent-plugin.xyz^
 ||sandsushi.top^
 ||sandy-cliff-637.fgritforged.workers.dev^
-||sane-cdn-js.beer^
 ||sankvlebnepdhavl.cfd^
 ||santander-coinbasellc.com.ph^
 ||santander-coinbasellc.ph^
@@ -93406,6 +93390,7 @@
 ||send-usdc.co^
 ||send-usdc.net^
 ||send-usdc.network^
+||send-usdt-12.vercel.app^
 ||send-usdt-45.vercel.app^
 ||send-usdt-bnb20.network^
 ||send-usdt-on-erc20.network^
@@ -93995,6 +93980,7 @@
 ||signinwith-microsoft.sbs^
 ||signlodge.com^
 ||signmeta_mask_in.godaddysites.com^
+||signn--coin-base.pages.dev^
 ||signon.help^
 ||signup-allocation.xyz^
 ||signup-chainlink.top^
@@ -94049,7 +94035,6 @@
 ||silofinance.pro^
 ||silofinance.shop^
 ||silofinance.top^
-||silstice.finance^
 ||silver-trail-300.richard-gomez79.workers.dev^
 ||silver-vale-905.richard-gomez79.workers.dev^
 ||silverbitgloballlc.com^
@@ -94893,7 +94878,6 @@
 ||sites.google.com/view/apps-metamask-extion/home^
 ||sites.google.com/view/apps-metmassk-io/home^
 ||sites.google.com/view/apps-qoinextion/home^
-||sites.google.com/view/appsbitbuyy/home^
 ||sites.google.com/view/appshome-bitbuy/home^
 ||sites.google.com/view/appsio-metamske/home^
 ||sites.google.com/view/appsmetamasks/home^
@@ -94961,7 +94945,6 @@
 ||sites.google.com/view/bitbuy-home/home^
 ||sites.google.com/view/bitbuy-in-login/home^
 ||sites.google.com/view/bitbuy-page-hub/home^
-||sites.google.com/view/bitbuy-user/home^
 ||sites.google.com/view/bitbuyappcdsee/home^
 ||sites.google.com/view/bitbuyappsss/home^
 ||sites.google.com/view/bitbuye-app-hub/home^
@@ -95457,7 +95440,6 @@
 ||sites.google.com/view/en-us-coinbase-/home^
 ||sites.google.com/view/en-us-coinbases/home^
 ||sites.google.com/view/en-us-matamask-pro/home^
-||sites.google.com/view/enable-bitbuy/home^
 ||sites.google.com/view/eng-coinbase-ext/home^
 ||sites.google.com/view/eng-exods--wlt/home^
 ||sites.google.com/view/eng-exodu/home^
@@ -96007,7 +95989,6 @@
 ||sites.google.com/view/logi--metamask/home^
 ||sites.google.com/view/logiin-robinhood/home^
 ||sites.google.com/view/login--metamask/home^
-||sites.google.com/view/login-bbitbuy/home^
 ||sites.google.com/view/login-bitbuy-sign/home^
 ||sites.google.com/view/login-bitbuy/home^
 ||sites.google.com/view/login-metamask-/home^
@@ -99113,7 +99094,6 @@
 ||squidswap.ink^
 ||squire-rewards.top^
 ||sr-c.cc^
-||sr-hostes-js.beer^
 ||srattedio-briedge.framer.ai^
 ||sray-tkn.club^
 ||sray-tkn.fun^
@@ -101698,7 +101678,6 @@
 ||superbonusteam.com^
 ||superbridge-app.com^
 ||superbridges-app.pro^
-||superdata88.com^
 ||superearn.org^
 ||superfastupdate.com^
 ||superfi.ink^
@@ -102746,7 +102725,6 @@
 ||tea-enroll.com^
 ||tea-enrollment.com^
 ||tea-enrolls.com^
-||tea-epoch-portal.com^
 ||tea-foundations.com^
 ||tea-portal.com^
 ||tea-protocol.com^
@@ -102771,6 +102749,7 @@
 ||team-meets.com^
 ||team-trump.net^
 ||team-trustwallet.live^
+||team-workspace.site^
 ||team.lives.cn.com^
 ||team0meet.com^
 ||teamaccessmeetjoin.site^
@@ -104633,11 +104612,9 @@
 ||tornado.dev^
 ||tornadocash-eth.com^
 ||tornadocash-eth.limo^
-||tornadocash-exchange.org^
 ||tornadocash-mix.com^
 ||tornadocash-rpc.com^
 ||tornadocash-v1.com^
-||tornadocash-v2.com^
 ||tornadocash-v2.github.io^
 ||tornadocash.exchange^
 ||tornadocash.fun^
@@ -104762,7 +104739,6 @@
 ||traceonlitho.com^
 ||tracer-renderer-144.pages.dev^
 ||tracetonara.com^
-||tracewithinvorian.com^
 ||track-aave.xyz^
 ||track-coinbase.com^
 ||track-ledgerlive.pages.dev^
@@ -105030,7 +105006,6 @@
 ||trainforex.it.com^
 ||training-ledger-entry.pages.dev^
 ||trainscas.com^
-||trainwithnexor.com^
 ||traisur-suites.pages.dev^
 ||traithlonstrand.com^
 ||traizor-suite-apps-cdn.pages.dev^
@@ -107181,7 +107156,6 @@
 ||trumpnfl.net^
 ||trumproll.net^
 ||trumpus.org^
-||trumpwlfgt.com^
 ||trunnsns.beer^
 ||trus-contraccl.com^
 ||trus-markets-us.com^
@@ -107378,7 +107352,6 @@
 ||trust-wallet-en-cmr.pages.dev^
 ||trust-wallet-en-dam.pages.dev^
 ||trust-wallet-en.pages.dev^
-||trust-wallet-eng-cdn.pages.dev^
 ||trust-wallet-eng.pages.dev^
 ||trust-wallet-ex.framer.ai^
 ||trust-wallet-extension-en.pages.dev^
@@ -107824,7 +107797,6 @@
 ||trustwallet-card.online^
 ||trustwallet-card.shop^
 ||trustwallet-card.uk^
-||trustwallet-card.xyz^
 ||trustwallet-cards.app^
 ||trustwallet-center.org^
 ||trustwallet-cn.com^
@@ -108049,7 +108021,6 @@
 ||trustwallet.ing^
 ||trustwallet.la^
 ||trustwallet.life^
-||trustwallet.management^
 ||trustwallet.med^
 ||trustwallet.media^
 ||trustwallet.mfa-session.com^
@@ -108297,7 +108268,6 @@
 ||trustwalletpay.org^
 ||trustwalletpay.store^
 ||trustwalletpay.us^
-||trustwalletpaycard.com^
 ||trustwalletpaycard.net^
 ||trustwalletpaycard.org^
 ||trustwalletpayments.online^
@@ -108875,7 +108845,6 @@
 ||tw-prime.com^
 ||tw-primee.pro^
 ||tw-product.org^
-||tw-protocol.com^
 ||tw-protocol.org^
 ||tw-provider.com^
 ||tw-provider.site^
@@ -109011,6 +108980,7 @@
 ||twspendcard.com^
 ||twspendcard.fi^
 ||twsprocar.digital^
+||twsupps.pages.dev^
 ||twt-cardinfo.com^
 ||twt-cards.net^
 ||twt-cards.online^
@@ -109341,6 +109311,7 @@
 ||ulkgjee4y65vli5dt6z46wdkmf3nbb47vsxdu54pbnfaan4b7icq.arweave.net^
 ||ullmaxsgahping.com^
 ||ult-trezor-io-start.pages.dev^
+||ult6.com^
 ||ulti.pages.dev^
 ||ultimate-appsync-earn.pages.dev^
 ||ultimateinsgrp.com^
@@ -109751,7 +109722,6 @@
 ||uniswap-swa.com^
 ||uniswap-swap-app.app^
 ||uniswap-swap.app^
-||uniswap-swarm-web.vercel.app^
 ||uniswap-test-m0dal.com^
 ||uniswap-ui-fork-98orlk3jo-fntokens-gmailcom.vercel.app^
 ||uniswap-us.at^
@@ -110005,42 +109975,6 @@
 ||up-sol.top^
 ||up-spin.com^
 ||up-x-ggfi16.top^
-||up-x.art^
-||up-x.autos^
-||up-x.bar^
-||up-x.blog^
-||up-x.boats^
-||up-x.builders^
-||up-x.cafe^
-||up-x.center^
-||up-x.city^
-||up-x.cloud^
-||up-x.club^
-||up-x.coupons^
-||up-x.cyou^
-||up-x.deals^
-||up-x.digital^
-||up-x.directory^
-||up-x.dog^
-||up-x.enterprises^
-||up-x.fun^
-||up-x.guru^
-||up-x.homes^
-||up-x.host^
-||up-x.icu^
-||up-x.info^
-||up-x.live^
-||up-x.media^
-||up-x.mobi^
-||up-x.quest^
-||up-x.reviews^
-||up-x.run^
-||up-x.sale^
-||up-x.sbs^
-||up-x.trade^
-||up-x.vip^
-||up-x.watch^
-||up-x.win^
 ||up33-allocations.icu^
 ||up33-allocations.pages.dev^
 ||up33-governance.click^
@@ -110514,7 +110448,6 @@
 ||us-create-robinhood.pages.dev^
 ||us-curvefinance.stakingreward.cloud^
 ||us-curvefinances.stakingreward.cloud^
-||us-curves.stakingreward.cloud^
 ||us-degen-app.stakingreward.cloud^
 ||us-degen.stakingreward.cloud^
 ||us-degens.stakingreward.cloud^
@@ -111993,7 +111926,6 @@
 ||v2-spookyswap.netlify.app^
 ||v2-stable.com^
 ||v2-sushi.at^
-||v2-sushi.click^
 ||v2-sushi.co.com^
 ||v2-sushi.sbs^
 ||v2-sushiswap.click^
@@ -112503,6 +112435,7 @@
 ||variatkonal.io^
 ||variatlional.co^
 ||variatlional.io^
+||variatlional.one^
 ||variatlonal.xyz^
 ||variatlonals.xyz^
 ||variatoanl.io^
@@ -113150,6 +113083,7 @@
 ||verusinsurance.xyz^
 ||veruweq.com^
 ||veryangente25e.vercel.app^
+||verychat.net^
 ||vesgamb.com^
 ||vesicak.cyou^
 ||vesitradeinc.com^
@@ -113635,7 +113569,6 @@
 ||volaria-tb.org^
 ||volcanosys.com^
 ||vole22.cn^
-||volet-com.site^
 ||volltrex.com^
 ||volny-burzovik.com^
 ||volovon.com^
@@ -113990,6 +113923,7 @@
 ||vote-keetanetwork.xyz^
 ||vote-kennedy.com^
 ||vote-kinetiq-foundation.xyz^
+||vote-kinetiq.pages.dev^
 ||vote-kinetiqfdn.xyz^
 ||vote-kinetiqfnd.xyz^
 ||vote-kirwan.org^
@@ -114471,7 +114405,6 @@
 ||vote.sitemw9t3dorvpm6.xyz^
 ||vote.sitemwar4yxluk51.xyz^
 ||vote.xstocks-allocations.icu^
-||vote1-unipeg.com^
 ||voteapp-aave.com^
 ||voteapp-babylonlabs.top^
 ||voteapp-soneium.today^
@@ -115494,7 +115427,6 @@
 ||wallet-fablesfi.xyz^
 ||wallet-fix.xyz^
 ||wallet-fixerror45.com^
-||wallet-grok.com^
 ||wallet-guide.cc^
 ||wallet-hardware-trezor-eng-us.pages.dev^
 ||wallet-help-center.netlify.app^
@@ -117766,6 +117698,7 @@
 ||wlfinance.info^
 ||wlfinetwork.com^
 ||wlfinfo.com^
+||wlfinuchain.live^
 ||wlfiokb.top^
 ||wlfipartners.com^
 ||wlfirevenueshare.home-dapps.com^
@@ -118662,7 +118595,6 @@
 ||x-meiterminal.xyz^
 ||x-mek.com^
 ||x-messs.com^
-||x-metadao.com^
 ||x-neobank.xyz^
 ||x-norepy.com^
 ||x-noticecenter.com^
@@ -118685,10 +118617,7 @@
 ||x-pay.xin^
 ||x-pitchwc.xyz^
 ||x-platform.company^
-||x-platform.info^
 ||x-policieslegal.com^
-||x-presale.cc^
-||x-presale.info^
 ||x-prier.com^
 ||x-redirect-ledger.com^
 ||x-redirect-link.com^
@@ -118759,7 +118688,6 @@
 ||xabelgundexxcdn.lol^
 ||xai-claim.xyz^
 ||xaipolicy.app^
-||xaipresale.space^
 ||xajpzni4dvqixa2e7nf5wcpap4dwmuel2dyahnekgnokmlyklbca.arweave.net^
 ||xalep.casa^
 ||xaliens-allocation.com^
@@ -118948,20 +118876,13 @@
 ||xcn-onyx.org^
 ||xcnsushi.top^
 ||xco.kr^
-||xcoin-crypto.io^
-||xcoin-finance.com^
-||xcoin-wallet.io^
-||xcoincore.io^
-||xcoinschange.com^
 ||xcoinsltd.info^
 ||xcoinsol.lol^
-||xcointrade.io^
 ||xcommunityreward.pages.dev^
 ||xcommunityrewards.pages.dev^
 ||xcre7vlo6y.coin-base-en-logn.pages.dev^
 ||xcsq.me^
 ||xcvbnmklpo963.top^
-||xcypto-wallet.com^
 ||xdao-protocol.com^
 ||xdaoapp.xyz^
 ||xdapp.info^
@@ -119362,6 +119283,7 @@
 ||xn--ledgerdashboard-q8b.com^
 ||xn--ledgr-ksa.com^
 ||xn--ledgr-m0a.app^
+||xn--leger-7c1b.com^
 ||xn--lflare-vjb2041d.com.ph^
 ||xn--lid-ugb.com^
 ||xn--lio-wqa.com^
@@ -119574,7 +119496,6 @@
 ||xpl-plasma.pics^
 ||xpl-vote.live^
 ||xpl-voting.live^
-||xplatform-wallet.org^
 ||xplchain.org^
 ||xplrewards.live^
 ||xpls-dapp.com^
@@ -119972,7 +119893,6 @@
 ||xtoken-hub.com^
 ||xtoken.us^
 ||xtokens.pro^
-||xtokentrust.io^
 ||xtola.top^
 ||xtradeigltd.com^
 ||xtrememoon.live^
@@ -120012,9 +119932,6 @@
 ||xvideos-google.com^
 ||xvm-allocation.com^
 ||xwagyu.xyz^
-||xwallet-presale.info^
-||xwallet-presale.org^
-||xwalletplatform.io^
 ||xwild.cc^
 ||xwins.cc^
 ||xwins.pro^
